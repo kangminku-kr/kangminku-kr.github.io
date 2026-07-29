@@ -201,7 +201,7 @@ toc-depth: 3
 <details>
 <summary>Рецензирование</summary>
 
-- Рецензент, International Journal of Equity in Health
+- Рецензент, International Journal for Equity in Health
 - Рецензент, BMC Public Health
 - Рецензент, Safety and Health at Work
 

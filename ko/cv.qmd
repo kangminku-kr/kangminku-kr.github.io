@@ -184,7 +184,7 @@ toc-depth: 2
 <details>
 <summary>동료심사 활동</summary>
 
-- *International Journal of Equity in Health* 리뷰어
+- *International Journal for Equity in Health* 리뷰어
 - *BMC Public Health* 리뷰어
 - *Safety and Health at Work* 리뷰어
 

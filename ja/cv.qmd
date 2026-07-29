@@ -201,7 +201,7 @@ Korea University College of Medicine のティーチングアシスタントと�
 <details>
 <summary>査読活動</summary>
 
-- 査読者、International Journal of Equity in Health
+- 査読者、International Journal for Equity in Health
 - 査読者、BMC Public Health
 - 査読者、Safety and Health at Work
 

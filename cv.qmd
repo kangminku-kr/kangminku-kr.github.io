@@ -199,7 +199,7 @@ For the full list of research projects and publications, see the [Research](rese
 <details>
 <summary>Peer Review Activities</summary>
 
-- Reviewer, International Journal of Equity in Health
+- Reviewer, International Journal for Equity in Health
 - Reviewer, BMC Public Health
 - Reviewer, Safety and Health at Work
 

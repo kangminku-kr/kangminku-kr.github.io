@@ -201,7 +201,7 @@ Pour la liste complète des projets de recherche et des publications, voir les p
 <details>
 <summary>Activités de relecture (peer review)</summary>
 
-- Relecteur, International Journal of Equity in Health
+- Relecteur, International Journal for Equity in Health
 - Relecteur, BMC Public Health
 - Relecteur, Safety and Health at Work
 

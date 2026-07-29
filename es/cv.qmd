@@ -201,7 +201,7 @@ Para la lista completa de proyectos de investigación y publicaciones, consulte 
 <details>
 <summary>Actividades de revisión por pares</summary>
 
-- Revisor, International Journal of Equity in Health
+- Revisor, International Journal for Equity in Health
 - Revisor, BMC Public Health
 - Revisor, Safety and Health at Work
 

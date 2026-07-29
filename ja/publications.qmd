@@ -40,6 +40,6 @@ toc-depth: 2
 
 ## 査読活動
 
-- Reviewer, *International Journal of Equity in Health*
+- Reviewer, *International Journal for Equity in Health*
 - Reviewer, *BMC Public Health*
 - Reviewer, *Safety and Health at Work*

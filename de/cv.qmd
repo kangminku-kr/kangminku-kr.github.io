@@ -201,7 +201,7 @@ Die vollständige Liste der Forschungsprojekte und Publikationen finden Sie auf 
 <details>
 <summary>Gutachtertätigkeit (Peer Review)</summary>
 
-- Gutachter, International Journal of Equity in Health
+- Gutachter, International Journal for Equity in Health
 - Gutachter, BMC Public Health
 - Gutachter, Safety and Health at Work
 
