@@ -21,8 +21,7 @@ toc-depth: 3
 - **Ph.D.（博士）**、公衆衛生学、Korea University Graduate School、韓国
 - **MPP（公共政策修士）**、公共政策、KDI School of Public Policy and Management、韓国
 - **MD（医学士）**、医学、Korea University、韓国
-- **BA（学士）**、社会学、Korea University、韓国
-- **BA（学士）**、経済学（副専攻）、Korea University、韓国
+- **BA（学士）**、社会学、経済学（副専攻）、Korea University、韓国
 
 ## 職歴
 
