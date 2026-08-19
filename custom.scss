@@ -17,16 +17,16 @@
 //   → 신 $faint #736e66 = 4.72:1 ✅
 // =============================================================================
 
-$paper:    #f8f7f4;   // 따뜻한 종이 — 북유럽 빛 / 파리 석회암
+$paper:    #fcfcfc;   // 따뜻한 종이 — 북유럽 빛 / 파리 석회암
 $raised:   #ffffff;   // 들린 면
-$wash:     #f1efea;   // hover 바탕
-$ink:      #232120;   // 따뜻한 차콜            14.96:1 AAA
-$muted:    #5e5a54;   // 부제·nav·캡션           6.39:1 AA
-$faint:    #736e66;   // 라벨·연도·푸터          4.72:1 AA
-$hair:     #e2ded6;   // 헤어라인 (장식)
-$rule:     #cfc9be;   // 짙은 괘선
-$accent:   #3d5a6b;   // 절제된 슬레이트 블루     6.82:1 AA
-$accent-h: #2c4453;   // 액센트 hover            9.52:1
+$wash:     #f2f2f1;   // hover 바탕
+$ink:      #1a1a1a;   // 따뜻한 차콜            14.96:1 AAA
+$muted:    #5b5b5b;   // 부제·nav·캡션           6.39:1 AA
+$faint:    #6f6f6f;   // 라벨·연도·푸터          4.72:1 AA
+$hair:     #e7e7e5;   // 헤어라인 (장식)
+$rule:     #d4d4d1;   // 짙은 괘선
+$accent:   #3b4750;   // 절제된 슬레이트 블루     6.82:1 AA
+$accent-h: #29333a;   // 액센트 hover            9.52:1
 
 $white:    $raised;   // (구 테마 호환)
 
@@ -69,7 +69,7 @@ body{
   letter-spacing:-0.002em;
   font-feature-settings:"kern" 1, "liga" 1;
 }
-::selection{ background:rgba(61,90,107,.16); color:$ink; }
+::selection{ background:rgba(26,26,26,.09); color:$ink; }
 
 /* ---------- 다국어 줄바꿈 ----------
    한국어: 기본값은 글자 단위로 끊어 "영향/을", "만/들고자" 처럼 어절이 쪼개진다.
@@ -292,3 +292,7 @@ body.mk-home #quarto-content > *{ padding-top:0; }
   body{ background:#fff; }
   main.content a{ border-bottom:none; }
 }
+
+// 더 미니멀·중립(nanumjeon 참고): 섹션 여백 확대
+main h2{ margin-top:2.3rem; }
+main h3{ margin-top:1.7rem; }
