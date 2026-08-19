@@ -205,16 +205,13 @@ body.mk-home #quarto-content > *{ padding-top:0; }
   max-width:40ch; margin:28px 0 0; color:$muted;
 }
 
-/* CV 페이지의 인물 사진 — 부담스럽지 않게 작게(140px), 본문 오른쪽에 흘려 배치. */
-.mk-cv-photo{
-  float:right; width:140px; height:auto; display:block;
-  margin:0 0 20px 28px;
+/* 대문의 인물 사진 — 부담스럽지 않게 작게(140px), 이름·키워드 아래에. */
+.mk-home-photo{
+  width:140px; height:auto; display:block; margin:30px 0 0;
   filter:grayscale(100%) #{"sepia(0.10)"} #{"contrast(0.99)"} #{"brightness(1.02)"};
   background:$wash; border:1px solid $hair; border-radius:2px;
 }
-@media(max-width:620px){
-  .mk-cv-photo{ float:none; width:110px; margin:0 0 18px; }
-}
+@media(max-width:620px){ .mk-home-photo{ width:120px; margin-top:26px; } }
 
 .mk-about{ max-width:62ch; padding:clamp(32px,4vw,48px) 0 0; border-top:1px solid $hair; }
 .mk-about p{ font-size:16.8px; line-height:1.76; margin:0; }

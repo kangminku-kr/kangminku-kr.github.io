@@ -5,7 +5,6 @@ lang: fr
 toc: true
 toc-depth: 3
 ---
-<img src="../images/profile.jpg" alt="Minku Kang" class="mk-cv-photo">
 
 
 Médecin spécialiste certifié en médecine préventive, intéressé par la santé mentale au travail, la santé communautaire et la politique de santé.

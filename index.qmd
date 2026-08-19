@@ -15,6 +15,7 @@ toc: false
 <div>
 <h1 class="mk-name">Minku Kang<span class="mk-kr">강민구</span></h1>
 <p class="mk-lead">Clinical preventive medicine<br>Workplace mental health<br>Policy research</p>
+<img src="images/profile.jpg" alt="Minku Kang" class="mk-home-photo">
 </div>
 </div>
 </section>

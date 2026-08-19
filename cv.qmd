@@ -3,7 +3,6 @@ title: "Curriculum Vitae"
 toc: true
 toc-depth: 3
 ---
-<img src="images/profile.jpg" alt="Minku Kang" class="mk-cv-photo">
 
 
 A board-certified preventive medicine physician interested in workplace mental health, community health, and health policy.

@@ -16,6 +16,7 @@ lang: fr
 <div>
 <h1 class="mk-name">Minku Kang<span class="mk-kr">강민구</span></h1>
 <p class="mk-lead">Médecine préventive clinique<br>Santé mentale au travail<br>Recherche sur les politiques</p>
+<img src="../images/profile.jpg" alt="Minku Kang" class="mk-home-photo">
 </div>
 </div>
 </section>
