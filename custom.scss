@@ -187,8 +187,8 @@ body.mk-home main.content{ margin-top:0; padding:0; }
 body.mk-home #quarto-content > *{ padding-top:0; }
 
 .mk-hero{ padding:clamp(54px,8vw,104px) 0 clamp(30px,4vw,48px); }
-.mk-hgrid{ display:grid; grid-template-columns:1fr 300px; gap:clamp(28px,5vw,68px); align-items:start; }
-@media(max-width:860px){ .mk-hgrid{ grid-template-columns:1fr; gap:36px; } }
+/* 대문에는 사진을 두지 않는다 — 이름·키워드만. 사진은 CV 페이지에 작게. */
+.mk-hgrid{ display:grid; grid-template-columns:1fr; gap:clamp(28px,5vw,68px); align-items:start; }
 
 .mk-name{
   font-family:$font-display;
@@ -205,14 +205,16 @@ body.mk-home #quarto-content > *{ padding-top:0; }
   max-width:40ch; margin:28px 0 0; color:$muted;
 }
 
-.mk-portrait{ margin:0; max-width:300px; }
-.mk-portrait img{
-  width:100%; height:auto; display:block;
-  /* 순수 흑백 → 아주 옅은 온기를 머금은 흑백 (북유럽 톤) */
+/* CV 페이지의 인물 사진 — 부담스럽지 않게 작게(140px), 본문 오른쪽에 흘려 배치. */
+.mk-cv-photo{
+  float:right; width:140px; height:auto; display:block;
+  margin:0 0 20px 28px;
   filter:grayscale(100%) #{"sepia(0.10)"} #{"contrast(0.99)"} #{"brightness(1.02)"};
   background:$wash; border:1px solid $hair; border-radius:2px;
 }
-.mk-portrait figcaption{ font-size:12.5px; line-height:1.55; color:$faint; margin-top:12px; }
+@media(max-width:620px){
+  .mk-cv-photo{ float:none; width:110px; margin:0 0 18px; }
+}
 
 .mk-about{ max-width:62ch; padding:clamp(32px,4vw,48px) 0 0; border-top:1px solid $hair; }
 .mk-about p{ font-size:16.8px; line-height:1.76; margin:0; }

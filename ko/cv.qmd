@@ -5,6 +5,8 @@ lang: ko
 toc: true
 toc-depth: 2
 ---
+<img src="../images/profile.jpg" alt="강민구" class="mk-cv-photo">
+
 
 **강민구** · 예방의학과 전문의 | MD, MPP, Ph.D. c
 

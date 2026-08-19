@@ -17,10 +17,6 @@ lang: ja
 <h1 class="mk-name">Minku Kang<span class="mk-kr">강민구</span></h1>
 <p class="mk-lead">臨床予防医学<br>職場のメンタルヘルス<br>政策研究</p>
 </div>
-<figure class="mk-portrait">
-<img src="../images/profile.jpg" alt="Minku Kang">
-<figcaption>予防医学専門医<br>国軍医務司令部、ソウル</figcaption>
-</figure>
 </div>
 </section>
 

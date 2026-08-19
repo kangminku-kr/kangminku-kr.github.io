@@ -5,6 +5,8 @@ lang: ja
 toc: true
 toc-depth: 3
 ---
+<img src="../images/profile.jpg" alt="Minku Kang" class="mk-cv-photo">
+
 
 職域メンタルヘルス、地域保健、保健医療政策に関心をもつ予防医学専門医。
 

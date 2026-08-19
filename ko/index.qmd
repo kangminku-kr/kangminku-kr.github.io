@@ -17,10 +17,6 @@ lang: ko
 <h1 class="mk-name">강민구<span class="mk-kr">Minku Kang</span></h1>
 <p class="mk-lead">임상예방의학<br>사업장 정신건강<br>정책 연구</p>
 </div>
-<figure class="mk-portrait">
-<img src="../images/profile.jpg" alt="강민구">
-<figcaption>예방의학과 전문의<br>국군의무사령부, 서울</figcaption>
-</figure>
 </div>
 </section>
 

@@ -5,6 +5,8 @@ lang: de
 toc: true
 toc-depth: 3
 ---
+<img src="../images/profile.jpg" alt="Minku Kang" class="mk-cv-photo">
+
 
 Facharzt für Präventivmedizin mit Interesse an psychischer Gesundheit am Arbeitsplatz, kommunaler Gesundheit und Gesundheitspolitik.
 

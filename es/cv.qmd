@@ -5,6 +5,8 @@ lang: es
 toc: true
 toc-depth: 3
 ---
+<img src="../images/profile.jpg" alt="Minku Kang" class="mk-cv-photo">
+
 
 Médico especialista certificado en medicina preventiva, interesado en la salud mental en el trabajo, la salud comunitaria y la política sanitaria.
 
