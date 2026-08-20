@@ -92,7 +92,7 @@ details > summary:focus-visible{ outline-offset:4px; }
 /* ---------- navbar ---------- */
 .navbar{
   border-bottom:1px solid $hair;
-  background:rgba(248,247,244,.88)!important;
+  background:rgba(252,252,252,.88)!important;
   -webkit-backdrop-filter:saturate(150%) blur(12px);
   backdrop-filter:saturate(150%) blur(12px);
   padding-top:.45rem; padding-bottom:.45rem; min-height:64px;
@@ -295,3 +295,23 @@ body.mk-home #quarto-content > *{ padding-top:0; }
 // 더 미니멀·중립(nanumjeon 참고): 섹션 여백 확대
 main h2{ margin-top:2.3rem; }
 main h3{ margin-top:1.7rem; }
+
+/* 대문의 이름 아래 학위 표기 */
+.mk-name .mk-degrees{
+  display:block; font-family:$font-family-sans-serif;
+  font-weight:400; font-size:.22em; letter-spacing:.08em; text-transform:uppercase;
+  color:$faint; margin-top:.85em;
+}
+
+/* 대문의 언어 선택 바 — 드롭다운에 숨지 않게 대문에서 바로 고른다. */
+.mk-langbar{
+  display:flex; flex-wrap:wrap; gap:.5rem .9rem;
+  margin:30px 0 0; padding-top:18px; border-top:1px solid $hair;
+  max-width:40ch;
+}
+.mk-langbar a{
+  font-size:12.5px; letter-spacing:.02em; color:$faint; text-decoration:none;
+  border-bottom:1px solid transparent; padding-bottom:1px;
+}
+.mk-langbar a:hover{ color:$ink; border-bottom-color:$rule; }
+.mk-langbar a.is-current{ color:$ink; border-bottom-color:$ink; }

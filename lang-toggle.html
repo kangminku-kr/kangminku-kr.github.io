@@ -66,6 +66,19 @@
       var menu=tog.parentElement.querySelector('.dropdown-menu');
       if(menu && menu.textContent.indexOf('Français')!==-1){ tog.textContent='🌐 '+LANGNAME[lang]; }
     });
+
+    // 대문의 언어 선택 바 — 내비게이션 드롭다운에 숨지 않고 한눈에 고를 수 있게.
+    var bar=document.querySelector('.mk-langbar');
+    if(bar){
+      Object.keys(PREFIX).forEach(function(lg){
+        var a=document.createElement('a');
+        a.setAttribute('href', ((KO_ONLY[file] && lg!=='ko') || onShared) ? link(lg,'index.html') : link(lg,file));
+        a.setAttribute('hreflang', lg);
+        a.textContent=LANGNAME[lg];
+        if(lg===lang){ a.className='is-current'; a.setAttribute('aria-current','true'); }
+        bar.appendChild(a);
+      });
+    }
   }
   if(document.readyState!=='loading') run(); else document.addEventListener('DOMContentLoaded',run);
 })();
