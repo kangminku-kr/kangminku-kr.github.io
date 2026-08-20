@@ -326,6 +326,6 @@ main h3{ margin-top:1.7rem; }
     background:$raised; line-height:1.2;
   }
   .mk-langbar a.is-current{
-    background:$ink; color:$raised; border-color:$ink;
+    background:$ink; color:$raised !important; border-color:$ink;
   }
 }
