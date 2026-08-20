@@ -24,7 +24,7 @@ lang: fr
 
 <section class="mk-about">
 <p>Minku Kang est médecin spécialiste en médecine préventive et épidémiologiste social. Ses recherches interrogent la manière dont le travail précaire, les longues heures de travail et les inégalités dégradent la santé mentale — et la façon dont ces données probantes peuvent nourrir la réforme institutionnelle.</p>
-<p>En tant que président de la Korean Intern Resident Association, il a mené la réforme nationale de la réglementation du temps de garde des internes et résidents, ce qui lui a valu une distinction du ministre de la Santé et du Bien-être. Il achève un doctorat en santé publique à Korea University et un master en politiques publiques à la KDI School, et exerce comme épidémiologiste et officier chargé des politiques de santé au Commandement médical des forces armées.</p>
+<p>En tant que président de la Korean Intern Resident Association, il a mené la réforme nationale de la réglementation du temps de garde des internes et résidents, ce qui lui a valu une distinction du ministre de la Santé et du Bien-être. Il a étudié la médecine, la sociologie et l'économie à Korea University, obtenu un master en politiques publiques à la KDI School et achevé la scolarité du doctorat en santé publique à Korea University. Il exerce comme médecin du travail et épidémiologiste au Commandement médical des forces armées.</p>
 <p>Il œuvre également à transformer la médecine préventive en soins que les gens peuvent réellement recevoir — comme vice-président et membre fondateur de la Korean Association of Preventive Medicine Physicians, et comme membre du conseil d'administration de la Korean Society for Preventive Medicine, où il préside le Future Generations Committee et siège au Clinical Preventive Medicine Committee.</p>
 <details class="mk-bio">
 <summary>Biographie complète</summary>
@@ -39,8 +39,9 @@ lang: fr
 <section class="mk-sec">
 <div class="mk-lbl">Sélection de travaux</div>
 <div class="mk-list">
-<a href="research.qmd"><span class="y">2022–25</span><span class="t">Réforme du système de gardes de 36 heures consécutives des internes et résidents</span><span class="m">Chercheur principal</span></a>
-<a href="research.qmd"><span class="y">2026–</span><span class="t">Déterminants de la santé mentale chez les militaires</span><span class="m">Chercheur principal</span></a>
+<a href="research.qmd"><span class="y">2026</span><span class="t">Temps de travail, gardes consécutives prolongées et emploi précaire : déterminants sociaux de la santé mentale au travail</span><span class="m">Thèse de doctorat</span></a>
+<a href="research.qmd"><span class="y">2026</span><span class="t">Déterminants de la santé mentale chez les militaires</span><span class="m">Chercheur principal</span></a>
+<a href="research.qmd"><span class="y">2023</span><span class="t">Réforme du système de gardes de 36 heures consécutives des internes et résidents</span><span class="m">Chercheur principal</span></a>
 <a href="publications.qmd"><span class="y">2023</span><span class="t">Inégalités de genre en santé mentale à l'ère de la pandémie</span><span class="m">J. Prev. Med. Public Health</span></a>
 </div>
 </section>

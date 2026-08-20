@@ -24,7 +24,7 @@ lang: ja
 
 <section class="mk-about">
 <p>Minku Kang は予防医学専門医であり、社会疫学者です。その研究は、不安定な労働・長時間労働・格差がどのようにメンタルヘルスの悪化を招くのか、そして、そこで得られた根拠が制度改革をいかに後押ししうるのかを問うものです。</p>
-<p>大韓インターン・レジデント協議会の会長として、研修医の勤務時間規制改革に向けた全国的な取り組みを主導し、その功績により保健福祉部長官表彰を受けました。現在は高麗大学校で保健学の博士課程を、KDI 大学院で公共政策学の修士課程を修了しつつあり、国軍医務司令部では疫学者および保健医療政策担当官を務めています。</p>
+<p>大韓インターン・レジデント協議会の会長として、研修医の勤務時間規制改革に向けた全国的な取り組みを主導し、その功績により保健福祉部長官表彰を受けました。高麗大学校で医学・社会学・経済学を学び、KDI 大学院で公共政策学の修士号を取得し、高麗大学校で保健学の博士課程を修了しました。国軍医務司令部では産業医および疫学調査官を務めています。</p>
 <p>予防医学を人々が実際に受けられる診療にする取り組みにも力を注いでいます。Korean Association of Preventive Medicine Physicians の副会長・創立会員として、また Korean Society for Preventive Medicine の理事として、Future Generations Committee の委員長および Clinical Preventive Medicine Committee の委員を務めています。</p>
 <details class="mk-bio">
 <summary>略歴全文</summary>
@@ -39,8 +39,9 @@ lang: ja
 <section class="mk-sec">
 <div class="mk-lbl">主な業績</div>
 <div class="mk-list">
-<a href="research.qmd"><span class="y">2022–25</span><span class="t">研修医の36時間連続勤務制度の改革</span><span class="m">研究代表者</span></a>
-<a href="research.qmd"><span class="y">2026–</span><span class="t">軍人のメンタルヘルスの決定要因</span><span class="m">研究代表者</span></a>
+<a href="research.qmd"><span class="y">2026</span><span class="t">労働時間・延長された連続勤務・不安定雇用：職場のメンタルヘルスの社会的決定要因</span><span class="m">博士学位論文</span></a>
+<a href="research.qmd"><span class="y">2026</span><span class="t">軍人のメンタルヘルスの決定要因</span><span class="m">研究代表者</span></a>
+<a href="research.qmd"><span class="y">2023</span><span class="t">研修医の36時間連続勤務制度の改革</span><span class="m">研究代表者</span></a>
 <a href="publications.qmd"><span class="y">2023</span><span class="t">パンデミック下のメンタルヘルスにおけるジェンダー格差</span><span class="m">J. Prev. Med. Public Health</span></a>
 </div>
 </section>

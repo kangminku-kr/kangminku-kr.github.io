@@ -24,7 +24,7 @@ lang: ko
 
 <section class="mk-about">
 <p>예방의학과 전문의이자 사회역학 연구자입니다. 불안정한 일자리, 긴 노동시간, 지역 간 격차와 같은 사회적 조건이 사람들의 정신건강에 어떤 영향을 미치는지 연구하며, 특히 노동과 정신건강, 그리고 이를 둘러싼 보건의료정책에 관심을 두고 있습니다.</p>
-<p>대한전공의협의회장으로서 전공의 노동시간 제도 개선을 이끌었고, 그 공로로 보건복지부장관 표창을 받았습니다. 고려대학교에서 보건학 박사과정을 수료하고 KDI 국제정책대학원에서 정책학 석사과정을 마쳤으며, 현재 국군의무사령부에서 산업보건의·역학조사관으로 복무하고 있습니다.</p>
+<p>대한전공의협의회장으로서 전공의 노동시간 제도 개선을 이끌었고, 그 공로로 보건복지부장관 표창을 받았습니다. 고려대학교에서 의학·사회학·경제학을 공부하고 KDI 국제정책대학원에서 정책학 석사를 졸업했으며, 고려대학교에서 보건학 박사과정을 수료했습니다. 현재 국군의무사령부에서 산업보건의·역학조사관으로 복무하고 있습니다.</p>
 <p>예방의학을 사람들이 실제로 받을 수 있는 진료로 만드는 일에도 힘을 쏟고 있습니다. 대한예방의학과의사회 부회장·창립위원으로, 그리고 대한예방의학회 이사로서 미래세대위원회 위원장과 임상예방의료위원회 위원을 맡고 있습니다.</p>
 <details class="mk-bio">
 <summary>약력 전문</summary>
@@ -39,8 +39,9 @@ lang: ko
 <section class="mk-sec">
 <div class="mk-lbl">주요 활동</div>
 <div class="mk-list">
-<a href="research.qmd"><span class="y">2022–25</span><span class="t">전공의 36시간 연속근무 제도 개선 연구</span><span class="m">연구책임자</span></a>
-<a href="research.qmd"><span class="y">2026–</span><span class="t">군 장병 정신건강의 결정요인 연구</span><span class="m">연구책임자</span></a>
+<a href="research.qmd"><span class="y">2026</span><span class="t">노동시간, 연장된 교대근무, 고용취약성: 직장 정신건강의 사회적 결정요인</span><span class="m">박사학위논문</span></a>
+<a href="research.qmd"><span class="y">2026</span><span class="t">군 장병 정신건강의 결정요인 연구</span><span class="m">연구책임자</span></a>
+<a href="research.qmd"><span class="y">2023</span><span class="t">전공의 36시간 연속근무 제도 개선 연구</span><span class="m">연구책임자</span></a>
 <a href="publications.qmd"><span class="y">2023</span><span class="t">코로나19 시기 정신건강의 젠더 불평등</span><span class="m">J Prev Med Public Health</span></a>
 </div>
 </section>

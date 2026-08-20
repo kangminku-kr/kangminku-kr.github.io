@@ -24,7 +24,7 @@ lang: ru
 
 <section class="mk-about">
 <p>Minku Kang — врач профилактической медицины и социальный эпидемиолог. Его исследования посвящены тому, как нестабильная занятость, продолжительный рабочий день и неравенство приводят к ухудшению психического здоровья и как полученные результаты могут способствовать институциональным реформам.</p>
-<p>Будучи президентом Korean Intern Resident Association, он возглавил общенациональную работу по реформированию нормативов рабочего времени врачей-ординаторов, за что был удостоен благодарности от Minister of Health and Welfare. Он завершает докторантуру по общественному здравоохранению в Korea University и магистратуру по государственной политике в KDI School, а также служит эпидемиологом и офицером по политике здравоохранения в Armed Forces Medical Command.</p>
+<p>Будучи президентом Korean Intern Resident Association, он возглавил общенациональную работу по реформированию нормативов рабочего времени врачей-ординаторов, за что был удостоен благодарности от Minister of Health and Welfare. Он изучал медицину, социологию и экономику в Korea University, получил степень магистра государственной политики в KDI School и завершил обучение в докторантуре по общественному здравоохранению в Korea University. Служит врачом по гигиене труда и эпидемиологом в Armed Forces Medical Command.</p>
 <p>Он также работает над тем, чтобы превратить профилактическую медицину в помощь, которую люди действительно могут получить, — как вице-президент и член-учредитель Korean Association of Preventive Medicine Physicians и член правления Korean Society for Preventive Medicine, где он возглавляет Future Generations Committee и входит в состав Clinical Preventive Medicine Committee.</p>
 <details class="mk-bio">
 <summary>Полная биография</summary>
@@ -39,8 +39,9 @@ lang: ru
 <section class="mk-sec">
 <div class="mk-lbl">Избранные работы</div>
 <div class="mk-list">
-<a href="research.qmd"><span class="y">2022–25</span><span class="t">Реформа системы 36-часовых непрерывных дежурств ординаторов</span><span class="m">Руководитель проекта</span></a>
-<a href="research.qmd"><span class="y">2026–</span><span class="t">Детерминанты психического здоровья военнослужащих</span><span class="m">Руководитель проекта</span></a>
+<a href="research.qmd"><span class="y">2026</span><span class="t">Рабочее время, продлённые последовательные дежурства и неустойчивая занятость: социальные детерминанты психического здоровья на работе</span><span class="m">Докторская диссертация</span></a>
+<a href="research.qmd"><span class="y">2026</span><span class="t">Детерминанты психического здоровья военнослужащих</span><span class="m">Руководитель проекта</span></a>
+<a href="research.qmd"><span class="y">2023</span><span class="t">Реформа системы 36-часовых непрерывных дежурств ординаторов</span><span class="m">Руководитель проекта</span></a>
 <a href="publications.qmd"><span class="y">2023</span><span class="t">Гендерное неравенство в психическом здоровье в период пандемии</span><span class="m">J. Prev. Med. Public Health</span></a>
 </div>
 </section>

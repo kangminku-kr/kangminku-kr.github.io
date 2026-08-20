@@ -23,7 +23,7 @@ toc: false
 
 <section class="mk-about">
 <p>Minku Kang is a preventive medicine physician and social epidemiologist. His research asks how precarious work, long working hours, and inequality translate into poor mental health — and how that evidence can drive institutional reform.</p>
-<p>As president of the Korean Intern Resident Association, he led the national effort to reform resident duty-hour regulations, for which he received a commendation from the Minister of Health and Welfare. He is completing a PhD in Public Health at Korea University and a Master of Public Policy at the KDI School, and serves as an epidemiologist and health-policy officer at the Armed Forces Medical Command.</p>
+<p>As president of the Korean Intern Resident Association, he led the national effort to reform resident duty-hour regulations, for which he received a commendation from the Minister of Health and Welfare. He studied medicine, sociology, and economics at Korea University, completed a Master of Public Policy at the KDI School, and finished the coursework for a PhD in Public Health at Korea University. He serves as an occupational health physician and epidemiologist at the Armed Forces Medical Command.</p>
 <p>He also works to turn preventive medicine into care that people can actually receive — as vice president and a founding member of the Korean Association of Preventive Medicine Physicians, and as a board member of the Korean Society for Preventive Medicine, where he chairs the Future Generations Committee and serves on the Clinical Preventive Medicine Committee.</p>
 <details class="mk-bio">
 <summary>Full biography</summary>
@@ -38,8 +38,9 @@ toc: false
 <section class="mk-sec">
 <div class="mk-lbl">Selected work</div>
 <div class="mk-list">
-<a href="research.qmd"><span class="y">2022–25</span><span class="t">Reform of the resident 36-hour consecutive-duty system</span><span class="m">Principal investigator</span></a>
-<a href="research.qmd"><span class="y">2026–</span><span class="t">Determinants of mental health among military personnel</span><span class="m">Principal investigator</span></a>
+<a href="research.qmd"><span class="y">2026</span><span class="t">Working Hours, Extended Consecutive Shifts, and Precarious Employment: Social Determinants of Workplace Mental Health</span><span class="m">Doctoral dissertation</span></a>
+<a href="research.qmd"><span class="y">2026</span><span class="t">Determinants of mental health among military personnel</span><span class="m">Principal investigator</span></a>
+<a href="research.qmd"><span class="y">2023</span><span class="t">Reform of the resident 36-hour consecutive-duty system</span><span class="m">Principal investigator</span></a>
 <a href="publications.qmd"><span class="y">2023</span><span class="t">Gender inequalities in pandemic-era mental health</span><span class="m">J. Prev. Med. Public Health</span></a>
 </div>
 </section>
