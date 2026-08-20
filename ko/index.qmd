@@ -14,10 +14,10 @@ lang: ko
 <section class="mk-hero">
 <div class="mk-hgrid">
 <div>
-<h1 class="mk-name">강민구<span class="mk-degrees">MD, MPP, PhD(c)</span><span class="mk-kr">Minku Kang</span></h1>
+<h1 class="mk-name">강민구<span class="mk-degrees">, MD, MPP, PhD(c)</span><span class="mk-kr">Minku Kang</span></h1>
 <p class="mk-lead">임상예방의학<br>사업장 정신건강<br>정책 연구</p>
-<img src="../images/profile.jpg" alt="강민구" class="mk-home-photo">
 <nav class="mk-langbar" aria-label="Language"></nav>
+<img src="../images/profile.jpg" alt="강민구" class="mk-home-photo">
 </div>
 </div>
 </section>

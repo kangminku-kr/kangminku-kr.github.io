@@ -192,7 +192,7 @@ body.mk-home #quarto-content > *{ padding-top:0; }
 
 .mk-name{
   font-family:$font-display;
-  font-weight:600; font-size:clamp(2rem,3.6vw,2.9rem); line-height:1.04;
+  font-weight:600; font-size:clamp(1.6rem,2.7vw,2.15rem); line-height:1.1;
   letter-spacing:-.021em; margin:0;
 }
 .mk-name .mk-kr{
@@ -296,18 +296,17 @@ body.mk-home #quarto-content > *{ padding-top:0; }
 main h2{ margin-top:2.3rem; }
 main h3{ margin-top:1.7rem; }
 
-/* 대문의 이름 아래 학위 표기 */
+/* 대문의 이름 옆 학위 표기 — Minku Kang, MD, MPP, PhD(c) */
 .mk-name .mk-degrees{
-  display:block; font-family:$font-family-sans-serif;
-  font-weight:400; font-size:.22em; letter-spacing:.08em; text-transform:uppercase;
-  color:$faint; margin-top:.85em;
+  font-family:$font-display; font-weight:400; font-size:.52em;
+  letter-spacing:0; color:$muted; white-space:nowrap;
 }
 
-/* 대문의 언어 선택 바 — 드롭다운에 숨지 않게 대문에서 바로 고른다. */
+/* 대문의 언어 선택 바 — 데스크톱은 담백한 줄, 모바일은 눈에 띄는 칩. */
 .mk-langbar{
   display:flex; flex-wrap:wrap; gap:.5rem .9rem;
-  margin:30px 0 0; padding-top:18px; border-top:1px solid $hair;
-  max-width:40ch;
+  margin:26px 0 0; padding-top:16px; border-top:1px solid $hair;
+  max-width:44ch;
 }
 .mk-langbar a{
   font-size:12.5px; letter-spacing:.02em; color:$faint; text-decoration:none;
@@ -315,3 +314,18 @@ main h3{ margin-top:1.7rem; }
 }
 .mk-langbar a:hover{ color:$ink; border-bottom-color:$rule; }
 .mk-langbar a.is-current{ color:$ink; border-bottom-color:$ink; }
+
+/* 모바일: 내비 드롭다운이 햄버거에 숨으므로, 대문 언어 선택을 또렷한 버튼으로. */
+@media(max-width:768px){
+  .mk-langbar{
+    gap:.45rem; margin-top:22px; padding-top:14px; max-width:none;
+  }
+  .mk-langbar a{
+    font-size:13px; color:$ink;
+    border:1px solid $rule; border-radius:999px; padding:.32rem .7rem;
+    background:$raised; line-height:1.2;
+  }
+  .mk-langbar a.is-current{
+    background:$ink; color:$raised; border-color:$ink;
+  }
+}
