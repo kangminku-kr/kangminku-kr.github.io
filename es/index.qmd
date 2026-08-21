@@ -23,7 +23,7 @@ lang: es
 </section>
 
 <section class="mk-about">
-<p>Minku Kang es médico de medicina preventiva y epidemiólogo social. Su investigación examina cómo el trabajo precario, las largas jornadas laborales y la desigualdad se traducen en un deterioro de la salud mental — y cómo esa evidencia puede impulsar la reforma institucional.</p>
+<p>Minku Kang es médico de medicina preventiva y epidemiólogo social. Su investigación examina cómo las largas jornadas laborales, el trabajo precario, el trabajo por turnos y la desigualdad se traducen en un deterioro de la salud mental — y cómo esa evidencia puede impulsar la reforma institucional.</p>
 <p>Como presidente de la Korean Intern Resident Association, encabezó la iniciativa nacional para reformar la normativa sobre las horas de guardia de los médicos residentes, por lo que recibió un reconocimiento del ministro de Salud y Bienestar. Estudió medicina, sociología y economía en Korea University, obtuvo un máster en Políticas Públicas en la KDI School y completó la docencia del doctorado en Salud Pública en Korea University. Ejerce como médico del trabajo y epidemiólogo en el Comando Médico de las Fuerzas Armadas.</p>
 <p>También trabaja para convertir la medicina preventiva en una atención que las personas puedan recibir realmente — como vicepresidente y miembro fundador de la Korean Association of Preventive Medicine Physicians, y como miembro de la junta directiva de la Korean Society for Preventive Medicine, donde preside el Future Generations Committee y forma parte del Clinical Preventive Medicine Committee.</p>
 <details class="mk-bio">

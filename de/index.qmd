@@ -23,7 +23,7 @@ lang: de
 </section>
 
 <section class="mk-about">
-<p>Minku Kang ist Facharzt für Präventivmedizin und Sozialepidemiologe. Seine Forschung geht der Frage nach, wie sich prekäre Beschäftigung, lange Arbeitszeiten und Ungleichheit in schlechter psychischer Gesundheit niederschlagen — und wie diese Evidenz institutionelle Reformen anstoßen kann.</p>
+<p>Minku Kang ist Facharzt für Präventivmedizin und Sozialepidemiologe. Seine Forschung geht der Frage nach, wie sich lange Arbeitszeiten, prekäre Beschäftigung, Schichtarbeit und Ungleichheit in schlechter psychischer Gesundheit niederschlagen — und wie diese Evidenz institutionelle Reformen anstoßen kann.</p>
 <p>Als Präsident der Korean Intern Resident Association leitete er die landesweite Initiative zur Reform der Dienstzeitregelungen für Assistenzärzte, für die er mit einer Auszeichnung des Ministers für Gesundheit und Wohlfahrt geehrt wurde. Er studierte Medizin, Soziologie und Volkswirtschaftslehre an der Korea University, erwarb einen Master of Public Policy an der KDI School und absolvierte das Studium für den PhD in Public Health an der Korea University. Er ist als Betriebsarzt und Epidemiologe am Sanitätskommando der Streitkräfte tätig.</p>
 <p>Darüber hinaus setzt er sich dafür ein, Präventivmedizin in eine Versorgung zu überführen, die die Menschen tatsächlich erhalten können — als Vizepräsident und Gründungsmitglied der Korean Association of Preventive Medicine Physicians sowie als Vorstandsmitglied der Korean Society for Preventive Medicine, wo er den Vorsitz des Future Generations Committee führt und dem Clinical Preventive Medicine Committee angehört.</p>
 <details class="mk-bio">
