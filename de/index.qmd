@@ -15,7 +15,7 @@ lang: de
 <div class="mk-hgrid">
 <div>
 <h1 class="mk-name">Minku Kang<span class="mk-degrees">, MD, MPP, PhD(c)</span></h1>
-<p class="mk-lead">Klinische Präventivmedizin<br>Psychische Gesundheit am Arbeitsplatz<br>Politikforschung</p>
+<p class="mk-lead">Psychische Gesundheit am Arbeitsplatz<br>Klinische Präventivmedizin<br>Politikforschung</p>
 <nav class="mk-langbar" aria-label="Language"></nav>
 <img src="../images/profile.jpg" alt="Minku Kang" class="mk-home-photo">
 </div>
@@ -24,7 +24,7 @@ lang: de
 
 <section class="mk-about">
 <p>Minku Kang ist Facharzt für Präventivmedizin und Sozialepidemiologe. Seine Forschung geht der Frage nach, wie sich lange Arbeitszeiten, prekäre Beschäftigung, Schichtarbeit und Ungleichheit in schlechter psychischer Gesundheit niederschlagen — und wie diese Evidenz institutionelle Reformen anstoßen kann.</p>
-<p>Als Präsident der Korean Intern Resident Association leitete er die landesweite Initiative zur Reform der Dienstzeitregelungen für Assistenzärzte, für die er mit einer Auszeichnung des Ministers für Gesundheit und Wohlfahrt geehrt wurde. Er studierte Medizin, Soziologie und Volkswirtschaftslehre an der Korea University, erwarb einen Master of Public Policy an der KDI School und absolvierte das Studium für den PhD in Public Health an der Korea University. Er ist als Betriebsarzt und Epidemiologe am Sanitätskommando der Streitkräfte tätig.</p>
+<p>Als Präsident der Korean Intern Resident Association leitete er die landesweite Initiative zur Reform der Dienstzeitregelungen für Assistenzärzte, für die er mit einer Auszeichnung des Ministers für Gesundheit und Wohlfahrt geehrt wurde. Er studierte im Grundstudium Medizin, Soziologie und Volkswirtschaftslehre an der Korea University, erwarb einen Master of Public Policy an der KDI School und absolvierte das Studium für den PhD in Public Health an der Korea University. Er ist als Betriebsarzt und Epidemiologe am Sanitätskommando der Streitkräfte tätig.</p>
 <p>Darüber hinaus setzt er sich dafür ein, Präventivmedizin in eine Versorgung zu überführen, die die Menschen tatsächlich erhalten können — als Vizepräsident und Gründungsmitglied der Korean Association of Preventive Medicine Physicians sowie als Vorstandsmitglied der Korean Society for Preventive Medicine, wo er den Vorsitz des Future Generations Committee führt und dem Clinical Preventive Medicine Committee angehört.</p>
 <details class="mk-bio">
 <summary>Vollständiger Lebenslauf</summary>

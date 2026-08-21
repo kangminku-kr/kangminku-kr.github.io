@@ -15,7 +15,7 @@ lang: es
 <div class="mk-hgrid">
 <div>
 <h1 class="mk-name">Minku Kang<span class="mk-degrees">, MD, MPP, PhD(c)</span></h1>
-<p class="mk-lead">Medicina preventiva clínica<br>Salud mental laboral<br>Investigación de políticas</p>
+<p class="mk-lead">Salud mental laboral<br>Medicina preventiva clínica<br>Investigación de políticas</p>
 <nav class="mk-langbar" aria-label="Language"></nav>
 <img src="../images/profile.jpg" alt="Minku Kang" class="mk-home-photo">
 </div>
@@ -24,7 +24,7 @@ lang: es
 
 <section class="mk-about">
 <p>Minku Kang es médico de medicina preventiva y epidemiólogo social. Su investigación examina cómo las largas jornadas laborales, el trabajo precario, el trabajo por turnos y la desigualdad se traducen en un deterioro de la salud mental — y cómo esa evidencia puede impulsar la reforma institucional.</p>
-<p>Como presidente de la Korean Intern Resident Association, encabezó la iniciativa nacional para reformar la normativa sobre las horas de guardia de los médicos residentes, por lo que recibió un reconocimiento del ministro de Salud y Bienestar. Estudió medicina, sociología y economía en Korea University, obtuvo un máster en Políticas Públicas en la KDI School y completó la docencia del doctorado en Salud Pública en Korea University. Ejerce como médico del trabajo y epidemiólogo en el Comando Médico de las Fuerzas Armadas.</p>
+<p>Como presidente de la Korean Intern Resident Association, encabezó la iniciativa nacional para reformar la normativa sobre las horas de guardia de los médicos residentes, por lo que recibió un reconocimiento del ministro de Salud y Bienestar. Cursó los estudios de grado en medicina, sociología y economía en Korea University, obtuvo un máster en Políticas Públicas en la KDI School y completó la docencia del doctorado en Salud Pública en Korea University. Ejerce como médico del trabajo y epidemiólogo en el Comando Médico de las Fuerzas Armadas.</p>
 <p>También trabaja para convertir la medicina preventiva en una atención que las personas puedan recibir realmente — como vicepresidente y miembro fundador de la Korean Association of Preventive Medicine Physicians, y como miembro de la junta directiva de la Korean Society for Preventive Medicine, donde preside el Future Generations Committee y forma parte del Clinical Preventive Medicine Committee.</p>
 <details class="mk-bio">
 <summary>Biografía completa</summary>
