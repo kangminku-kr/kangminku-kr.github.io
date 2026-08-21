@@ -335,3 +335,9 @@ main h3{ margin-top:1.7rem; }
     background:$ink; color:$raised !important; border-color:$ink;
   }
 }
+
+/* 연도가 앞에 오는 목록(학력·경력·발표…)의 세로줄 정렬.
+   Inter는 숫자를 비례폭으로 그려서 "2011"이 "2020"보다 7px 짧고,
+   그만큼 뒤따르는 "|"가 왼쪽으로 당겨진다. 고정폭 숫자로 묶어 첫 칸을 맞춘다. */
+main.content li > strong:first-child,
+.mk-list .y{ font-variant-numeric:tabular-nums; font-feature-settings:"tnum" 1; }
