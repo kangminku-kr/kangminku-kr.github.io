@@ -265,9 +265,10 @@ body.mk-home #quarto-content > *{ padding-top:0; }
 .mk-themes{ margin-top:2px; }
 .mk-theme{ display:grid; grid-template-columns:240px 1fr; gap:24px; padding:24px 2px; border-bottom:1px solid $hair; }
 .mk-theme h3{
-  font-family:$font-display; font-weight:600; font-size:1.08rem; letter-spacing:-.008em; margin:0;
-  /* 오른쪽 설명문과 첫 줄을 나란히 — 두 열의 line-height를 같은 값으로 묶는다. */
-  line-height:1.66;
+  font-family:$font-display; font-weight:600; font-size:1.08rem; letter-spacing:-.008em;
+  /* 오른쪽 설명문과 첫 줄을 나란히 — line-height를 맞추고, 전역 `main h3` 여백을 무효화한다.
+     (그 여백이 제목만 32px 아래로 밀어 두 열이 어긋나 있었다.) */
+  line-height:1.66; margin:0 !important;
 }
 .mk-theme p{ font-size:14.6px; color:$muted; line-height:1.66; margin:0; }
 @media(max-width:720px){ .mk-theme{ grid-template-columns:1fr; gap:6px; } }
