@@ -14,7 +14,7 @@ lang: ru
 <section class="mk-hero">
 <div class="mk-hgrid">
 <div>
-<h1 class="mk-name">Minku Kang<span class="mk-degrees">, MD, MPP, PhD(c)</span><span class="mk-kr">강민구</span></h1>
+<h1 class="mk-name">Minku Kang<span class="mk-degrees">, MD, MPP, PhD(c)</span></h1>
 <p class="mk-lead">Клиническая профилактическая медицина<br>Психическое здоровье на рабочем месте<br>Исследование политики</p>
 <nav class="mk-langbar" aria-label="Language"></nav>
 <img src="../images/profile.jpg" alt="Minku Kang" class="mk-home-photo">

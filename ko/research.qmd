@@ -14,6 +14,9 @@ toc-depth: 3
 
 ## 연구책임자 (Principal Investigator)
 
+- **노동시간, 연장된 교대근무, 고용취약성: 직장 정신건강의 사회적 결정요인**
+  - 박사학위논문, 고려대학교 대학원 (연구비 없음)
+  - **2022.09–2027.02**
 - **군 장병 정신건강의 결정요인 연구**
   - 국방부 국군의무사령부 지정과제 / Commissioned Research Grant, Armed Forces Medical Command
   - **2026.03–2027.03** (6,380,000 원 / 6,380,000 KRW)
