@@ -94,7 +94,7 @@ toc-depth: 3
 <details>
 <summary>Членство в комитетах</summary>
 
-- Член, Social Mental Health Committee
+- Член и секретарь, Social Mental Health Committee
 - Член, Clinical Preventive Medicine Committee
 - Бывший член, Policy Planning Taskforce
 - Бывший член, Residency Training Development Taskforce
@@ -116,7 +116,9 @@ toc-depth: 3
 <details>
 <summary>Исследовательские группы и комитеты</summary>
 
-- Член, Labour and Mental Health Research Group
+- Секретарь, Labour and Mental Health Research Group
+- Член, Health Equity Policy Research Group
+- Член, Regional Health Inequalities Research Group
 - Бывший член (в статусе студента), Academic Committee
 
 </details>

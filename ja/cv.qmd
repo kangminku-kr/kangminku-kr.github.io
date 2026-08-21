@@ -94,7 +94,7 @@ Korea University College of Medicine のティーチングアシスタントと�
 <details>
 <summary>委員会活動</summary>
 
-- Social Mental Health Committee 委員
+- Social Mental Health Committee 委員（幹事）
 - Clinical Preventive Medicine Committee 委員
 - 元 Policy Planning Taskforce 委員
 - 元 Residency Training Development Taskforce 委員
@@ -116,7 +116,9 @@ Korea University College of Medicine のティーチングアシスタントと�
 <details>
 <summary>研究会・委員会</summary>
 
-- Labour and Mental Health Research Group 会員
+- Labour and Mental Health Research Group 幹事
+- Health Equity Policy Research Group 会員
+- Regional Health Inequalities Research Group 会員
 - 元 Academic Committee 学生委員
 
 </details>

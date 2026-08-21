@@ -94,7 +94,7 @@ En tant qu'assistant d'enseignement à la Korea University College of Medicine, 
 <details>
 <summary>Appartenances aux comités</summary>
 
-- Membre, Social Mental Health Committee
+- Membre et secrétaire, Social Mental Health Committee
 - Membre, Clinical Preventive Medicine Committee
 - Ancien membre, Policy Planning Taskforce
 - Ancien membre, Residency Training Development Taskforce
@@ -116,7 +116,9 @@ En tant qu'assistant d'enseignement à la Korea University College of Medicine, 
 <details>
 <summary>Groupes de recherche et comités</summary>
 
-- Membre, Labour and Mental Health Research Group
+- Secrétaire, Labour and Mental Health Research Group
+- Membre, Health Equity Policy Research Group
+- Membre, Regional Health Inequalities Research Group
 - Ancien membre étudiant, Academic Committee
 
 </details>

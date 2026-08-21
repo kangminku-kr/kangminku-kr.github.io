@@ -94,7 +94,7 @@ Als wissenschaftlicher Assistent (Teaching Assistant) am Korea University Colleg
 <details>
 <summary>Ausschussmitgliedschaften</summary>
 
-- Mitglied, Social Mental Health Committee
+- Mitglied und Schriftführer, Social Mental Health Committee
 - Mitglied, Clinical Preventive Medicine Committee
 - Ehemaliges Mitglied, Policy Planning Taskforce
 - Ehemaliges Mitglied, Residency Training Development Taskforce
@@ -116,7 +116,9 @@ Als wissenschaftlicher Assistent (Teaching Assistant) am Korea University Colleg
 <details>
 <summary>Forschungsgruppen und Ausschüsse</summary>
 
-- Mitglied, Labour and Mental Health Research Group
+- Schriftführer, Labour and Mental Health Research Group
+- Mitglied, Health Equity Policy Research Group
+- Mitglied, Regional Health Inequalities Research Group
 - Ehemaliges studentisches Mitglied, Academic Committee
 
 </details>

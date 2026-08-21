@@ -92,7 +92,7 @@ As a teaching assistant at Korea University College of Medicine, support courses
 <details>
 <summary>Committee memberships</summary>
 
-- Member, Social Mental Health Committee
+- Member and Secretary, Social Mental Health Committee
 - Member, Clinical Preventive Medicine Committee
 - Former Member, Policy Planning Taskforce
 - Former Member, Residency Training Development Taskforce
@@ -114,7 +114,9 @@ As a teaching assistant at Korea University College of Medicine, support courses
 <details>
 <summary>Research groups & committees</summary>
 
-- Member, Labour and Mental Health Research Group
+- Secretary, Labour and Mental Health Research Group
+- Member, Health Equity Policy Research Group
+- Member, Regional Health Inequalities Research Group
 - Former Student Member, Academic Committee
 
 </details>

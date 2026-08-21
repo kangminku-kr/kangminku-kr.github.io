@@ -94,7 +94,7 @@ Como profesor ayudante en la Korea University College of Medicine, apoyo la doce
 <details>
 <summary>Membresías en comités</summary>
 
-- Miembro, Social Mental Health Committee
+- Miembro y secretario, Social Mental Health Committee
 - Miembro, Clinical Preventive Medicine Committee
 - Exmiembro, Policy Planning Taskforce
 - Exmiembro, Residency Training Development Taskforce
@@ -116,7 +116,9 @@ Como profesor ayudante en la Korea University College of Medicine, apoyo la doce
 <details>
 <summary>Grupos de investigación y comités</summary>
 
-- Miembro, Labour and Mental Health Research Group
+- Secretario, Labour and Mental Health Research Group
+- Miembro, Health Equity Policy Research Group
+- Miembro, Regional Health Inequalities Research Group
 - Exmiembro estudiantil, Academic Committee
 
 </details>
