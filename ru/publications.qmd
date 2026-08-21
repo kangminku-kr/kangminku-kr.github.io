@@ -9,7 +9,7 @@ toc-depth: 2
 
 ## Рецензируемые статьи
 
-- **Kang M**, et al. Military and infectious disease system in the Republic of Korea. *Public Health Weekly Report*. 2026. (co-first author)
+- Lee H, **Kang M**, Lee S, Kim D, Moon J, Yoon C, et al. Introduction to research on strengthening military infectious-disease response and management capacity. *Public Health Weekly Report*. 2026;19(28):1168–1183. (co-first author) [doi:10.56786/PHWR.2026.19.28.3](https://doi.org/10.56786/PHWR.2026.19.28.3)
 - Cha J, **Kang M**. Impact of South Korea's national gastrointestinal cancer screening programme. *BMJ Open*. 2026.
 - Moon D, Kim C, **Kang M**. COVID-19 outcomes in Busan: impact of area-deprivation on infection risk. *Journal of the Korean Data Analysis Society*. 2025.
 - **Kang M**, Choe YJ, Min HS, Kim S, Choe SA. Timely access to secondary pediatric services in Korea. *Epidemiology and Health*. 2024.
