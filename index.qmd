@@ -34,8 +34,9 @@ toc: false
 <h3>Positions</h3>
 <ul>
 <li>Board Member and Chairperson of the Future Generations Committee, Korean Society for Preventive Medicine; Vice President, Korean Association of Preventive Medicine Physicians</li>
-<li>Former President, Korean Intern Resident Association; former Korean Delegate, World Medical Association – Junior Doctors Network (WMA-JDN)</li>
+<li>Former President and Policy Advisor, Korean Intern Resident Association</li>
 <li>Former Director of Policy, Korean Medical Association</li>
+<li>Former Korean Delegate, World Medical Association – Junior Doctors Network (WMA-JDN)</li>
 <li>Occupational Health Physician, Armed Forces Capital Hospital; Epidemiologist and Healthcare Management Officer, Armed Forces Medical Command</li>
 <li>Former Member, Medical Residency Training Environment Evaluation Committee and Subcommittee on Physician Workforce, Ministry of Health and Welfare</li>
 <li>Intern and Resident, Korea University Medical Center</li>

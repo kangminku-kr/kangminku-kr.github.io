@@ -35,8 +35,9 @@ lang: de
 <h3>Positionen</h3>
 <ul>
 <li>Vorstandsmitglied und Vorsitzender des Ausschusses für künftige Generationen, Korean Society for Preventive Medicine; Vizepräsident, Korean Association of Preventive Medicine Physicians</li>
-<li>Ehem. Präsident, Korean Intern Resident Association; ehem. koreanischer Delegierter, World Medical Association – Junior Doctors Network (WMA-JDN)</li>
+<li>Ehem. Präsident und Politikberater, Korean Intern Resident Association</li>
 <li>Ehem. Direktor für Politik, Korean Medical Association</li>
+<li>Ehem. koreanischer Delegierter, World Medical Association – Junior Doctors Network (WMA-JDN)</li>
 <li>Betriebsarzt, Armed Forces Capital Hospital; Epidemiologe und Offizier für Gesundheitsversorgungsmanagement, Armed Forces Medical Command</li>
 <li>Ehem. Mitglied, Bewertungsausschuss für die Weiterbildung von Assistenzärzten und Unterausschuss für ärztliches Personal, Ministerium für Gesundheit und Wohlfahrt</li>
 <li>Arzt im Praktikum und Assistenzarzt, Korea University Medical Center</li>

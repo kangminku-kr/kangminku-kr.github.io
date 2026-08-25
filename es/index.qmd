@@ -35,8 +35,9 @@ lang: es
 <h3>Trayectoria</h3>
 <ul>
 <li>Miembro de la junta y presidente del Comité de Generaciones Futuras, Korean Society for Preventive Medicine; vicepresidente, Korean Association of Preventive Medicine Physicians</li>
-<li>Expresidente, Korean Intern Resident Association; exdelegado coreano, World Medical Association – Junior Doctors Network (WMA-JDN)</li>
+<li>Expresidente y asesor de políticas, Korean Intern Resident Association</li>
 <li>Exdirector de Políticas, Korean Medical Association</li>
+<li>Exdelegado coreano, World Medical Association – Junior Doctors Network (WMA-JDN)</li>
 <li>Médico del trabajo, Armed Forces Capital Hospital; epidemiólogo y oficial de gestión sanitaria, Armed Forces Medical Command</li>
 <li>Exmiembro, Comité de Evaluación del Entorno de Formación de Residentes y Subcomité de Personal Médico, Ministerio de Salud y Bienestar</li>
 <li>Interno y residente, Korea University Medical Center</li>

@@ -35,8 +35,9 @@ lang: ja
 <h3>経歴</h3>
 <ul>
 <li>Korean Society for Preventive Medicine 理事・未来世代委員長、Korean Association of Preventive Medicine Physicians 副会長</li>
-<li>元 Korean Intern Resident Association 会長、元 World Medical Association – Junior Doctors Network (WMA-JDN) 韓国代表団</li>
+<li>元 Korean Intern Resident Association 会長・政策諮問委員</li>
 <li>元 Korean Medical Association 政策理事</li>
+<li>元 World Medical Association – Junior Doctors Network (WMA-JDN) 韓国代表団</li>
 <li>Armed Forces Capital Hospital 産業医、Armed Forces Medical Command 疫学調査官・保健医療政策担当官</li>
 <li>元 保健福祉部 専攻医修練環境評価委員会・医師人材専門委員会 委員</li>
 <li>Korea University Medical Center インターン・専攻医</li>

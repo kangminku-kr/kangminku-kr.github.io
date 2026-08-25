@@ -35,8 +35,9 @@ lang: fr
 <h3>Fonctions</h3>
 <ul>
 <li>Membre du conseil et président du comité des générations futures, Korean Society for Preventive Medicine ; vice-président, Korean Association of Preventive Medicine Physicians</li>
-<li>Ancien président, Korean Intern Resident Association ; ancien délégué coréen, World Medical Association – Junior Doctors Network (WMA-JDN)</li>
+<li>Ancien président et conseiller politique, Korean Intern Resident Association</li>
 <li>Ancien directeur des politiques, Korean Medical Association</li>
+<li>Ancien délégué coréen, World Medical Association – Junior Doctors Network (WMA-JDN)</li>
 <li>Médecin du travail, Armed Forces Capital Hospital ; épidémiologiste et officier de gestion des soins, Armed Forces Medical Command</li>
 <li>Ancien membre, comité d'évaluation de la formation des résidents et sous-comité sur les effectifs médicaux, ministère de la Santé et du Bien-être</li>
 <li>Interne et résident, Korea University Medical Center</li>
