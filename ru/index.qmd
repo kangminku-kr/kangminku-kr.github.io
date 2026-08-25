@@ -29,7 +29,7 @@ lang: ru
 <ul>
 <li>Соискатель степени PhD по общественному здравоохранению, Korea University Graduate School</li>
 <li>Магистр государственной политики, KDI School of Public Policy and Management</li>
-<li>MD (медицина) и бакалавр социологии (дополнительная специальность — экономика), Korea University</li>
+<li>Диплом врача и бакалавр социологии (дополнительная специальность — экономика), Korea University</li>
 <li>Научная средняя школа Хансон</li>
 </ul>
 <h3>Карьера</h3>

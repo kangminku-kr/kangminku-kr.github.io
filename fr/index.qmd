@@ -29,7 +29,7 @@ lang: fr
 <ul>
 <li>Doctorant en santé publique (thèse en cours), Korea University Graduate School</li>
 <li>Master en politiques publiques, KDI School of Public Policy and Management</li>
-<li>Doctorat en médecine (MD) et licence en sociologie (BA, mineure en économie), Korea University</li>
+<li>Doctorat en médecine et licence en sociologie (mineure en économie), Korea University</li>
 <li>Lycée scientifique Hansung</li>
 </ul>
 <h3>Fonctions</h3>

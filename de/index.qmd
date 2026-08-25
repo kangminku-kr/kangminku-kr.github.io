@@ -29,7 +29,7 @@ lang: de
 <ul>
 <li>Doktorand (Public Health), Korea University Graduate School</li>
 <li>Master of Public Policy, KDI School of Public Policy and Management</li>
-<li>MD (Medizin) und BA (Soziologie, Nebenfach Volkswirtschaftslehre), Korea University</li>
+<li>Medizinstudium und Bachelor in Soziologie (Nebenfach Volkswirtschaftslehre), Korea University</li>
 <li>Hansung Science High School</li>
 </ul>
 <h3>Positionen</h3>
