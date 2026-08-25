@@ -23,22 +23,7 @@ lang: es
 </section>
 
 <section class="mk-about">
-<p class="mk-intro">Médico de medicina preventiva y epidemiólogo social.</p>
 <div class="mk-profile">
-<h3>Trayectoria</h3>
-<ul>
-<li>Miembro de la junta y presidente del Comité de Generaciones Futuras, Korean Society for Preventive Medicine</li>
-<li>Vicepresidente, Korean Association of Preventive Medicine Physicians</li>
-<li>Expresidente, Korean Intern Resident Association</li>
-<li>Exdirector de Políticas, Korean Medical Association</li>
-<li>Médico del trabajo, Armed Forces Capital Hospital</li>
-<li>Epidemiólogo y oficial de gestión sanitaria, Armed Forces Medical Command</li>
-<li>Exmiembro, Comité de Evaluación del Entorno de Formación de Residentes, Ministerio de Salud y Bienestar</li>
-<li>Exmiembro, Subcomité de Personal Médico, Comité de Deliberación de Políticas de Salud, Ministerio de Salud y Bienestar</li>
-<li>Exdelegado coreano, World Medical Association – Junior Doctors Network (WMA-JDN)</li>
-<li>Residente, Korea University Medical Center</li>
-<li>Interno, Korea University Medical Center</li>
-</ul>
 <h3>Formación</h3>
 <ul>
 <li>Docencia de doctorado en Salud Pública completada, Korea University Graduate School</li>
@@ -46,11 +31,19 @@ lang: es
 <li>Grado en Medicina y Sociología (mención en Economía), Korea University</li>
 <li>Escuela Secundaria de Ciencias Hansung</li>
 </ul>
+<h3>Trayectoria</h3>
+<ul>
+<li>Miembro de la junta y presidente del Comité de Generaciones Futuras, Korean Society for Preventive Medicine; vicepresidente, Korean Association of Preventive Medicine Physicians</li>
+<li>Expresidente, Korean Intern Resident Association; exdelegado coreano, World Medical Association – Junior Doctors Network (WMA-JDN)</li>
+<li>Exdirector de Políticas, Korean Medical Association</li>
+<li>Médico del trabajo, Armed Forces Capital Hospital; epidemiólogo y oficial de gestión sanitaria, Armed Forces Medical Command</li>
+<li>Exmiembro, Comité de Evaluación del Entorno de Formación de Residentes y Subcomité de Personal Médico, Ministerio de Salud y Bienestar</li>
+<li>Interno y residente, Korea University Medical Center</li>
+</ul>
 <h3>Reconocimientos</h3>
 <ul>
 <li>Reconocimiento del ministro de Salud y Bienestar (2023)</li>
 <li>Reconocimiento del comandante del Armed Forces Medical Command (2026)</li>
-<li>Premio Kang Sang-ho, Korean Society for Health Equity (2026)</li>
 </ul>
 </div>
 <details class="mk-bio">

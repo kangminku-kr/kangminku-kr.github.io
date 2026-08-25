@@ -23,22 +23,7 @@ lang: de
 </section>
 
 <section class="mk-about">
-<p class="mk-intro">Facharzt für Präventivmedizin und Sozialepidemiologe.</p>
 <div class="mk-profile">
-<h3>Positionen</h3>
-<ul>
-<li>Vorstandsmitglied und Vorsitzender des Ausschusses für künftige Generationen, Korean Society for Preventive Medicine</li>
-<li>Vizepräsident, Korean Association of Preventive Medicine Physicians</li>
-<li>Ehem. Präsident, Korean Intern Resident Association</li>
-<li>Ehem. Direktor für Politik, Korean Medical Association</li>
-<li>Betriebsarzt, Armed Forces Capital Hospital</li>
-<li>Epidemiologe und Offizier für Gesundheitsversorgungsmanagement, Armed Forces Medical Command</li>
-<li>Ehem. Mitglied, Bewertungsausschuss für die Weiterbildung von Assistenzärzten, Ministerium für Gesundheit und Wohlfahrt</li>
-<li>Ehem. Mitglied, Unterausschuss für ärztliches Personal, Ausschuss für Gesundheitspolitik, Ministerium für Gesundheit und Wohlfahrt</li>
-<li>Ehem. koreanischer Delegierter, World Medical Association – Junior Doctors Network (WMA-JDN)</li>
-<li>Assistenzarzt, Korea University Medical Center</li>
-<li>Arzt im Praktikum, Korea University Medical Center</li>
-</ul>
 <h3>Ausbildung</h3>
 <ul>
 <li>Promotionsstudium Public Health (abgeschlossen), Korea University Graduate School</li>
@@ -46,11 +31,19 @@ lang: de
 <li>Bachelor in Medizin und Soziologie (Nebenfach Volkswirtschaftslehre), Korea University</li>
 <li>Hansung Science High School</li>
 </ul>
+<h3>Positionen</h3>
+<ul>
+<li>Vorstandsmitglied und Vorsitzender des Ausschusses für künftige Generationen, Korean Society for Preventive Medicine; Vizepräsident, Korean Association of Preventive Medicine Physicians</li>
+<li>Ehem. Präsident, Korean Intern Resident Association; ehem. koreanischer Delegierter, World Medical Association – Junior Doctors Network (WMA-JDN)</li>
+<li>Ehem. Direktor für Politik, Korean Medical Association</li>
+<li>Betriebsarzt, Armed Forces Capital Hospital; Epidemiologe und Offizier für Gesundheitsversorgungsmanagement, Armed Forces Medical Command</li>
+<li>Ehem. Mitglied, Bewertungsausschuss für die Weiterbildung von Assistenzärzten und Unterausschuss für ärztliches Personal, Ministerium für Gesundheit und Wohlfahrt</li>
+<li>Arzt im Praktikum und Assistenzarzt, Korea University Medical Center</li>
+</ul>
 <h3>Auszeichnungen</h3>
 <ul>
 <li>Auszeichnung des Ministers für Gesundheit und Wohlfahrt (2023)</li>
 <li>Auszeichnung des Kommandeurs des Armed Forces Medical Command (2026)</li>
-<li>Kang-Sang-ho-Preis, Korean Society for Health Equity (2026)</li>
 </ul>
 </div>
 <details class="mk-bio">

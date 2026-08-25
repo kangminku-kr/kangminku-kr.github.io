@@ -23,22 +23,7 @@ lang: ru
 </section>
 
 <section class="mk-about">
-<p class="mk-intro">Врач профилактической медицины и социальный эпидемиолог.</p>
 <div class="mk-profile">
-<h3>Карьера</h3>
-<ul>
-<li>Член правления и председатель Комитета будущих поколений, Korean Society for Preventive Medicine</li>
-<li>Вице-президент, Korean Association of Preventive Medicine Physicians</li>
-<li>Бывший президент, Korean Intern Resident Association</li>
-<li>Бывший директор по политике, Korean Medical Association</li>
-<li>Врач по гигиене труда, Armed Forces Capital Hospital</li>
-<li>Эпидемиолог и офицер по управлению здравоохранением, Armed Forces Medical Command</li>
-<li>Бывший член, Комитет по оценке условий подготовки ординаторов, Министерство здравоохранения и социального обеспечения</li>
-<li>Бывший член, Подкомитет по врачебным кадрам, Комитет по вопросам политики здравоохранения, Министерство здравоохранения и социального обеспечения</li>
-<li>Бывший делегат от Кореи, World Medical Association – Junior Doctors Network (WMA-JDN)</li>
-<li>Ординатор, Korea University Medical Center</li>
-<li>Интерн, Korea University Medical Center</li>
-</ul>
 <h3>Образование</h3>
 <ul>
 <li>Обучение в докторантуре по общественному здравоохранению завершено, Korea University Graduate School</li>
@@ -46,11 +31,19 @@ lang: ru
 <li>Бакалавр медицины и социологии (дополнительная специальность — экономика), Korea University</li>
 <li>Научная средняя школа Хансон</li>
 </ul>
+<h3>Карьера</h3>
+<ul>
+<li>Член правления и председатель Комитета будущих поколений, Korean Society for Preventive Medicine; вице-президент, Korean Association of Preventive Medicine Physicians</li>
+<li>Бывший президент, Korean Intern Resident Association; бывший делегат от Кореи, World Medical Association – Junior Doctors Network (WMA-JDN)</li>
+<li>Бывший директор по политике, Korean Medical Association</li>
+<li>Врач по гигиене труда, Armed Forces Capital Hospital; эпидемиолог и офицер по управлению здравоохранением, Armed Forces Medical Command</li>
+<li>Бывший член, Комитет по оценке условий подготовки ординаторов и Подкомитет по врачебным кадрам, Министерство здравоохранения и социального обеспечения</li>
+<li>Интерн и ординатор, Korea University Medical Center</li>
+</ul>
 <h3>Награды</h3>
 <ul>
 <li>Благодарность министра здравоохранения и социального обеспечения (2023)</li>
 <li>Благодарность командующего Armed Forces Medical Command (2026)</li>
-<li>Премия Кан Сан Хо, Korean Society for Health Equity (2026)</li>
 </ul>
 </div>
 <details class="mk-bio">

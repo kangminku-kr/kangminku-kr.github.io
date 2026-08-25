@@ -22,22 +22,7 @@ toc: false
 </section>
 
 <section class="mk-about">
-<p class="mk-intro">Preventive medicine physician and social epidemiologist.</p>
 <div class="mk-profile">
-<h3>Positions</h3>
-<ul>
-<li>Board Member and Chairperson, Future Generations Committee, Korean Society for Preventive Medicine</li>
-<li>Vice President, Korean Association of Preventive Medicine Physicians</li>
-<li>Former President, Korean Intern Resident Association</li>
-<li>Former Director of Policy, Korean Medical Association</li>
-<li>Occupational Health Physician, Armed Forces Capital Hospital</li>
-<li>Epidemiologist and Healthcare Management Officer, Armed Forces Medical Command</li>
-<li>Former Member, Medical Residency Training Environment Evaluation Committee, Ministry of Health and Welfare</li>
-<li>Former Member, Subcommittee on Physician Workforce, Healthcare Policy Deliberation Committee, Ministry of Health and Welfare</li>
-<li>Former Korean Delegate, World Medical Association – Junior Doctors Network (WMA-JDN)</li>
-<li>Resident, Korea University Medical Center</li>
-<li>Intern, Korea University Medical Center</li>
-</ul>
 <h3>Education</h3>
 <ul>
 <li>PhD coursework in Public Health, Korea University Graduate School</li>
@@ -45,11 +30,19 @@ toc: false
 <li>BA, Medicine and Sociology (Minor in Economics), Korea University</li>
 <li>Hansung Science High School</li>
 </ul>
+<h3>Positions</h3>
+<ul>
+<li>Board Member and Chairperson of the Future Generations Committee, Korean Society for Preventive Medicine; Vice President, Korean Association of Preventive Medicine Physicians</li>
+<li>Former President, Korean Intern Resident Association; former Korean Delegate, World Medical Association – Junior Doctors Network (WMA-JDN)</li>
+<li>Former Director of Policy, Korean Medical Association</li>
+<li>Occupational Health Physician, Armed Forces Capital Hospital; Epidemiologist and Healthcare Management Officer, Armed Forces Medical Command</li>
+<li>Former Member, Medical Residency Training Environment Evaluation Committee and Subcommittee on Physician Workforce, Ministry of Health and Welfare</li>
+<li>Intern and Resident, Korea University Medical Center</li>
+</ul>
 <h3>Honours</h3>
 <ul>
 <li>Commendation, Minister of Health and Welfare (2023)</li>
 <li>Commendation, Surgeon General, Armed Forces Medical Command (2026)</li>
-<li>Kang Sang-ho Award, Korean Society for Health Equity (2026)</li>
 </ul>
 </div>
 <details class="mk-bio">
