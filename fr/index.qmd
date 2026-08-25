@@ -27,7 +27,7 @@ lang: fr
 <div class="mk-profile">
 <h3>Formation</h3>
 <ul>
-<li>Scolarité du doctorat en santé publique, Korea University Graduate School</li>
+<li>Doctorant en santé publique (thèse en cours), Korea University Graduate School</li>
 <li>Master en politiques publiques, KDI School of Public Policy and Management</li>
 <li>Licence en médecine et sociologie (mineure en économie), Korea University</li>
 <li>Lycée scientifique Hansung</li>

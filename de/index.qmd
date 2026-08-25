@@ -27,7 +27,7 @@ lang: de
 <div class="mk-profile">
 <h3>Ausbildung</h3>
 <ul>
-<li>Promotionsstudium Public Health (abgeschlossen), Korea University Graduate School</li>
+<li>Doktorand (Public Health), Korea University Graduate School</li>
 <li>Master of Public Policy, KDI School of Public Policy and Management</li>
 <li>Bachelor in Medizin und Soziologie (Nebenfach Volkswirtschaftslehre), Korea University</li>
 <li>Hansung Science High School</li>

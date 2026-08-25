@@ -26,7 +26,7 @@ toc: false
 <div class="mk-profile">
 <h3>Education</h3>
 <ul>
-<li>PhD coursework in Public Health, Korea University Graduate School</li>
+<li>PhD candidate in Public Health, Korea University Graduate School</li>
 <li>MPP, KDI School of Public Policy and Management</li>
 <li>BA, Medicine and Sociology (Minor in Economics), Korea University</li>
 <li>Hansung Science High School</li>

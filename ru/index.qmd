@@ -27,7 +27,7 @@ lang: ru
 <div class="mk-profile">
 <h3>Образование</h3>
 <ul>
-<li>Обучение в докторантуре по общественному здравоохранению завершено, Korea University Graduate School</li>
+<li>Соискатель степени PhD по общественному здравоохранению, Korea University Graduate School</li>
 <li>Магистр государственной политики, KDI School of Public Policy and Management</li>
 <li>Бакалавр медицины и социологии (дополнительная специальность — экономика), Korea University</li>
 <li>Научная средняя школа Хансон</li>

@@ -18,7 +18,7 @@ toc-depth: 3
 
 ## Образование
 
-- **PhD (доктор философии)**, общественное здравоохранение, Korea University Graduate School, Корея
+- **Соискатель степени PhD**, общественное здравоохранение, Korea University Graduate School, Корея
 - **MPP (магистр государственной политики)**, государственная политика, KDI School of Public Policy and Management, Корея
 - **MD (доктор медицины)**, медицина, Korea University, Корея
 - **BA (бакалавр)**, социология, экономика (дополнительная специальность), Korea University, Корея
