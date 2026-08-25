@@ -23,9 +23,36 @@ lang: es
 </section>
 
 <section class="mk-about">
-<p>Minku Kang es médico de medicina preventiva y epidemiólogo social. Su investigación examina cómo las largas jornadas laborales, el trabajo precario, el trabajo por turnos y la desigualdad se traducen en un deterioro de la salud mental — y cómo esa evidencia puede impulsar la reforma institucional.</p>
-<p>Como presidente de la Korean Intern Resident Association, encabezó la iniciativa nacional para reformar la normativa sobre las horas de guardia de los médicos residentes, por lo que recibió un reconocimiento del ministro de Salud y Bienestar. Cursó los estudios de grado en medicina, sociología y economía en Korea University, obtuvo un máster en Políticas Públicas en la KDI School y completó la docencia del doctorado en Salud Pública en Korea University. Ejerce como médico del trabajo y epidemiólogo en el Comando Médico de las Fuerzas Armadas.</p>
-<p>También trabaja para convertir la medicina preventiva en una atención que las personas puedan recibir realmente — como vicepresidente y miembro fundador de la Korean Association of Preventive Medicine Physicians, y como miembro de la junta directiva de la Korean Society for Preventive Medicine, donde preside el Future Generations Committee y forma parte del Clinical Preventive Medicine Committee.</p>
+<p class="mk-intro">Médico de medicina preventiva y epidemiólogo social.</p>
+<div class="mk-profile">
+<h3>Trayectoria</h3>
+<ul>
+<li>Miembro de la junta y presidente del Comité de Generaciones Futuras, Korean Society for Preventive Medicine</li>
+<li>Vicepresidente, Korean Association of Preventive Medicine Physicians</li>
+<li>Expresidente, Korean Intern Resident Association</li>
+<li>Exdirector de Políticas, Korean Medical Association</li>
+<li>Médico del trabajo, Armed Forces Capital Hospital</li>
+<li>Epidemiólogo y oficial de gestión sanitaria, Armed Forces Medical Command</li>
+<li>Exmiembro, Comité de Evaluación del Entorno de Formación de Residentes, Ministerio de Salud y Bienestar</li>
+<li>Exmiembro, Subcomité de Personal Médico, Comité de Deliberación de Políticas de Salud, Ministerio de Salud y Bienestar</li>
+<li>Exdelegado coreano, World Medical Association – Junior Doctors Network (WMA-JDN)</li>
+<li>Residente, Korea University Medical Center</li>
+<li>Interno, Korea University Medical Center</li>
+</ul>
+<h3>Formación</h3>
+<ul>
+<li>Docencia de doctorado en Salud Pública completada, Korea University Graduate School</li>
+<li>Máster en Políticas Públicas, KDI School of Public Policy and Management</li>
+<li>Grado en Medicina y Sociología (mención en Economía), Korea University</li>
+<li>Escuela Secundaria de Ciencias Hansung</li>
+</ul>
+<h3>Reconocimientos</h3>
+<ul>
+<li>Reconocimiento del ministro de Salud y Bienestar (2023)</li>
+<li>Reconocimiento del comandante del Armed Forces Medical Command (2026)</li>
+<li>Premio Kang Sang-ho, Korean Society for Health Equity (2026)</li>
+</ul>
+</div>
 <details class="mk-bio">
 <summary>Biografía completa</summary>
 <p>Me gradué en Korea University con los títulos de Medicina (MD) y de Sociología (BA), con una mención secundaria en Economía, y obtuve un máster en Políticas Públicas (MPP) en la KDI School. Durante mis años de grado, fui vicepresidente del Korea University Student Union, donde participé activamente en la gobernanza universitaria y comunitaria, centrándome en cuestiones de vivienda juvenil y de política educativa. Tras graduarme, completé el internado médico y la residencia en Medicina Preventiva en el Korea University Medical Center. Al mismo tiempo, inicié un programa de doctorado en Salud Pública en Korea University con el fin de construir una sólida base analítica para la investigación en salud pública.</p>

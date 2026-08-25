@@ -23,9 +23,36 @@ lang: ja
 </section>
 
 <section class="mk-about">
-<p>Minku Kang は予防医学専門医であり、社会疫学者です。その研究は、長時間労働・不安定な労働・交代勤務・格差がどのようにメンタルヘルスの悪化を招くのか、そして、そこで得られた根拠が制度改革をいかに後押ししうるのかを問うものです。</p>
-<p>大韓インターン・レジデント協議会の会長として、研修医の勤務時間規制改革に向けた全国的な取り組みを主導し、その功績により保健福祉部長官表彰を受けました。高麗大学校の学部で医学・社会学・経済学を学び、KDI 大学院で公共政策学の修士号を取得し、高麗大学校で保健学の博士課程を修了しました。国軍医務司令部では産業医および疫学調査官を務めています。</p>
-<p>予防医学を人々が実際に受けられる診療にする取り組みにも力を注いでいます。Korean Association of Preventive Medicine Physicians の副会長・創立会員として、また Korean Society for Preventive Medicine の理事として、Future Generations Committee の委員長および Clinical Preventive Medicine Committee の委員を務めています。</p>
+<p class="mk-intro">予防医学専門医であり、社会疫学者です。</p>
+<div class="mk-profile">
+<h3>経歴</h3>
+<ul>
+<li>Korean Society for Preventive Medicine 理事・未来世代委員長</li>
+<li>Korean Association of Preventive Medicine Physicians 副会長</li>
+<li>元 Korean Intern Resident Association 会長</li>
+<li>元 Korean Medical Association 政策理事</li>
+<li>Armed Forces Capital Hospital 産業医</li>
+<li>Armed Forces Medical Command 疫学調査官・保健医療政策担当官</li>
+<li>元 保健福祉部 専攻医修練環境評価委員会 委員</li>
+<li>元 保健福祉部 保健医療政策審議委員会 医師人材専門委員会 委員</li>
+<li>元 World Medical Association – Junior Doctors Network (WMA-JDN) 韓国代表団</li>
+<li>Korea University Medical Center 専攻医</li>
+<li>Korea University Medical Center インターン</li>
+</ul>
+<h3>学歴</h3>
+<ul>
+<li>高麗大学校大学院 保健学博士課程 修了</li>
+<li>KDI 国際政策大学院 政策学修士</li>
+<li>高麗大学校 医学科・社会学科（経済学副専攻）学士</li>
+<li>漢城科学高等学校 卒業</li>
+</ul>
+<h3>受賞</h3>
+<ul>
+<li>保健福祉部長官表彰（2023年）</li>
+<li>国軍医務司令官表彰（2026年）</li>
+<li>Kang Sang-ho Award、Korean Society for Health Equity（2026年）</li>
+</ul>
+</div>
 <details class="mk-bio">
 <summary>略歴全文</summary>
 <p>高麗大学校で医学と社会学を専攻し、経済学を副専攻したのち、KDI 大学院で公共政策学の修士号を取得しました。学部時代には高麗大学校総学生会の副会長を務め、若者の住宅や教育政策の課題を中心に、大学と地域社会のガバナンスに積極的に取り組みました。卒業後は高麗大学校医療院でインターンと予防医学の専攻医課程を修了しました。あわせて、保健学研究の確かな分析的基盤を築くため、高麗大学校大学院の保健学博士課程に進学しました。</p>

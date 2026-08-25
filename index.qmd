@@ -22,9 +22,36 @@ toc: false
 </section>
 
 <section class="mk-about">
-<p>Minku Kang is a preventive medicine physician and social epidemiologist. His research asks how long working hours, precarious work, shift work, and inequality translate into poor mental health — and how that evidence can drive institutional reform.</p>
-<p>As president of the Korean Intern Resident Association, he led the national effort to reform resident duty-hour regulations, for which he received a commendation from the Minister of Health and Welfare. He read medicine, sociology, and economics as an undergraduate at Korea University, completed a Master of Public Policy at the KDI School, and finished the coursework for a PhD in Public Health at Korea University. He serves as an occupational health physician and epidemiologist at the Armed Forces Medical Command.</p>
-<p>He also works to turn preventive medicine into care that people can actually receive — as vice president and a founding member of the Korean Association of Preventive Medicine Physicians, and as a board member of the Korean Society for Preventive Medicine, where he chairs the Future Generations Committee and serves on the Clinical Preventive Medicine Committee.</p>
+<p class="mk-intro">Preventive medicine physician and social epidemiologist.</p>
+<div class="mk-profile">
+<h3>Positions</h3>
+<ul>
+<li>Board Member and Chairperson, Future Generations Committee, Korean Society for Preventive Medicine</li>
+<li>Vice President, Korean Association of Preventive Medicine Physicians</li>
+<li>Former President, Korean Intern Resident Association</li>
+<li>Former Director of Policy, Korean Medical Association</li>
+<li>Occupational Health Physician, Armed Forces Capital Hospital</li>
+<li>Epidemiologist and Healthcare Management Officer, Armed Forces Medical Command</li>
+<li>Former Member, Medical Residency Training Environment Evaluation Committee, Ministry of Health and Welfare</li>
+<li>Former Member, Subcommittee on Physician Workforce, Healthcare Policy Deliberation Committee, Ministry of Health and Welfare</li>
+<li>Former Korean Delegate, World Medical Association – Junior Doctors Network (WMA-JDN)</li>
+<li>Resident, Korea University Medical Center</li>
+<li>Intern, Korea University Medical Center</li>
+</ul>
+<h3>Education</h3>
+<ul>
+<li>PhD coursework in Public Health, Korea University Graduate School</li>
+<li>MPP, KDI School of Public Policy and Management</li>
+<li>BA, Medicine and Sociology (Minor in Economics), Korea University</li>
+<li>Hansung Science High School</li>
+</ul>
+<h3>Honours</h3>
+<ul>
+<li>Commendation, Minister of Health and Welfare (2023)</li>
+<li>Commendation, Surgeon General, Armed Forces Medical Command (2026)</li>
+<li>Kang Sang-ho Award, Korean Society for Health Equity (2026)</li>
+</ul>
+</div>
 <details class="mk-bio">
 <summary>Full biography</summary>
 <p>I graduated from Korea University with an M.D. and a B.A. in Sociology with a minor in Economics, and received an M.P.P. from the KDI School. During my undergraduate years, I served as the Vice President of the Korea University Student Union, where I actively engaged in university and community governance, focusing on youth housing and education policy issues. Following my graduation, I completed my medical internship and residency in Preventive Medicine at the Korea University Medical Center. Concurrently, I embarked on a Ph.D. program in Public Health at Korea University to build a strong analytical foundation for public health research.</p>

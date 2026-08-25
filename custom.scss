@@ -342,3 +342,24 @@ main h3{ margin-top:1.7rem; }
    그만큼 뒤따르는 "|"가 왼쪽으로 당겨진다. 고정폭 숫자로 묶어 첫 칸을 맞춘다. */
 main.content li > strong:first-child,
 .mk-list .y{ font-variant-numeric:tabular-nums; font-feature-settings:"tnum" 1; }
+
+/* 대문 프로필 — 국회의원 소개 형태(한 줄 소개 + 경력·학력·수상 목록). */
+.mk-intro{
+  font-family:$font-display; font-size:1.06rem; line-height:1.6;
+  color:$ink; margin:0 0 1.8rem;
+}
+.mk-profile h3{
+  font-family:$font-family-sans-serif; font-size:12.5px; font-weight:600;
+  letter-spacing:.06em; text-transform:uppercase; color:$faint;
+  margin:1.6rem 0 .55rem !important; padding-bottom:.35rem; border-bottom:1px solid $hair;
+}
+.mk-profile h3:first-child{ margin-top:0 !important; }
+.mk-profile ul{ list-style:none; padding:0; margin:0; }
+.mk-profile li{
+  font-size:14.8px; line-height:1.62; color:$ink;
+  padding:.3rem 0 .3rem 0.9rem; margin:0; position:relative;
+}
+.mk-profile li::before{
+  content:""; position:absolute; left:0; top:.95em;
+  width:3px; height:3px; border-radius:50%; background:$rule;
+}
