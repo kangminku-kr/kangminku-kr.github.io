@@ -38,8 +38,8 @@ lang: ru
 <li>Бывший президент и советник по политике, Korean Intern Resident Association</li>
 <li>Бывший директор по политике, Korean Medical Association</li>
 <li>Бывший делегат от Кореи, World Medical Association – Junior Doctors Network (WMA-JDN)</li>
-<li>Врач по гигиене труда, Armed Forces Capital Hospital; эпидемиолог и офицер по управлению здравоохранением, Armed Forces Medical Command</li>
 <li>Бывший член, Комитет по оценке условий подготовки ординаторов и Подкомитет по врачебным кадрам, Министерство здравоохранения и социального обеспечения</li>
+<li>Врач по гигиене труда, Armed Forces Capital Hospital; эпидемиолог и офицер по управлению здравоохранением, Armed Forces Medical Command</li>
 <li>Интерн и ординатор, Korea University Medical Center</li>
 </ul>
 <h3>Награды</h3>

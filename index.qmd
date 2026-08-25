@@ -37,8 +37,8 @@ toc: false
 <li>Former President and Policy Advisor, Korean Intern Resident Association</li>
 <li>Former Director of Policy, Korean Medical Association</li>
 <li>Former Korean Delegate, World Medical Association – Junior Doctors Network (WMA-JDN)</li>
-<li>Occupational Health Physician, Armed Forces Capital Hospital; Epidemiologist and Healthcare Management Officer, Armed Forces Medical Command</li>
 <li>Former Member, Medical Residency Training Environment Evaluation Committee and Subcommittee on Physician Workforce, Ministry of Health and Welfare</li>
+<li>Occupational Health Physician, Armed Forces Capital Hospital; Epidemiologist and Healthcare Management Officer, Armed Forces Medical Command</li>
 <li>Intern and Resident, Korea University Medical Center</li>
 </ul>
 <h3>Honours</h3>

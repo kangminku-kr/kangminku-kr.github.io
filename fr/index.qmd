@@ -38,8 +38,8 @@ lang: fr
 <li>Ancien président et conseiller politique, Korean Intern Resident Association</li>
 <li>Ancien directeur des politiques, Korean Medical Association</li>
 <li>Ancien délégué coréen, World Medical Association – Junior Doctors Network (WMA-JDN)</li>
-<li>Médecin du travail, Armed Forces Capital Hospital ; épidémiologiste et officier de gestion des soins, Armed Forces Medical Command</li>
 <li>Ancien membre, comité d'évaluation de la formation des résidents et sous-comité sur les effectifs médicaux, ministère de la Santé et du Bien-être</li>
+<li>Médecin du travail, Armed Forces Capital Hospital ; épidémiologiste et officier de gestion des soins, Armed Forces Medical Command</li>
 <li>Interne et résident, Korea University Medical Center</li>
 </ul>
 <h3>Distinctions</h3>
