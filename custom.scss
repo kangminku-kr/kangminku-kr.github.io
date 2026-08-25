@@ -359,3 +359,9 @@ main.content li > strong:first-child,
   content:""; position:absolute; left:0; top:.78em;
   width:3px; height:3px; border-radius:50%; background:$rule;
 }
+
+/* 이름 아래 직함 한 줄 */
+.mk-title{
+  font-family:$font-family-sans-serif; font-size:14px; font-weight:400;
+  letter-spacing:.01em; color:$muted; margin:.55rem 0 0;
+}

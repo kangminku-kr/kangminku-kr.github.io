@@ -14,6 +14,7 @@ toc: false
 <div class="mk-hgrid">
 <div>
 <h1 class="mk-name">Minku Kang<span class="mk-degrees">, MD, MPP, PhD(c)</span></h1>
+<p class="mk-title">Preventive medicine physician</p>
 <p class="mk-lead">Workplace mental health<br>Clinical preventive medicine<br>Policy research</p>
 <nav class="mk-langbar" aria-label="Language"></nav>
 <img src="images/profile.jpg" alt="Minku Kang" class="mk-home-photo">
