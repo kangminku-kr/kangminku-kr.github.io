@@ -19,7 +19,7 @@ toc-depth: 2
   - Commissioned Research Grant, Armed Forces Medical Command (MND)
   - **2026.03–2027.03** (KRW 6,380,000)
 - **A Study on Improving the 36-hour Consecutive Shift System for Medical Interns and Residents**
-  - Commissioned Research Grant, Korean Medical Association Institute for Healthcare Policy
+  - Commissioned Research Grant, Healthcare Policy Research Institute, Korean Medical Association
   - **2023.05–2024.01** (KRW 10,000,000)
 - **Korean Intern and Resident Survey**
   - Korean Intern and Resident Association

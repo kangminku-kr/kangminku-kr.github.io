@@ -29,7 +29,7 @@ lang: es
 <ul>
 <li>Doctorando en Salud Pública, Korea University Graduate School</li>
 <li>Máster en Políticas Públicas, KDI School of Public Policy and Management</li>
-<li>Grado en Medicina y Sociología (mención en Economía), Korea University</li>
+<li>MD (Medicina) y grado en Sociología (BA, mención en Economía), Korea University</li>
 <li>Escuela Secundaria de Ciencias Hansung</li>
 </ul>
 <h3>Trayectoria</h3>

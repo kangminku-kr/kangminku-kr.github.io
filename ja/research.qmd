@@ -21,7 +21,7 @@ toc-depth: 2
   - 委託研究費、Armed Forces Medical Command (MND)
   - **2026.03–2027.03** (KRW 6,380,000)
 - **研修医・専攻医の36時間連続勤務制度の改善に関する研究**
-  - 委託研究費、Korean Medical Association Institute for Healthcare Policy
+  - 委託研究費、Healthcare Policy Research Institute, Korean Medical Association
   - **2023.05–2024.01** (KRW 10,000,000)
 - **韓国研修医・専攻医調査**
   - Korean Intern and Resident Association

@@ -28,7 +28,7 @@ toc: false
 <ul>
 <li>PhD candidate in Public Health, Korea University Graduate School</li>
 <li>MPP, KDI School of Public Policy and Management</li>
-<li>BA, Medicine and Sociology (Minor in Economics), Korea University</li>
+<li>MD, Medicine, and BA, Sociology (Minor in Economics), Korea University</li>
 <li>Hansung Science High School</li>
 </ul>
 <h3>Positions</h3>
