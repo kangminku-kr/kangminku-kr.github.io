@@ -20,7 +20,7 @@ toc-depth: 2
   - Subvención de investigación por encargo, Armed Forces Medical Command (MND)
   - **2026.03–2027.03** (KRW 6,380,000)
 - **Estudio sobre la mejora del sistema de guardias consecutivas de 36 horas para internos y residentes médicos**
-  - Subvención de investigación por encargo, Healthcare Policy Research Institute, Korean Medical Association
+  - Subvención de investigación por encargo, Research Institute for Healthcare Policy (RIHP), Korean Medical Association
   - **2023.05–2024.01** (KRW 10,000,000)
 - **Encuesta coreana de internos y residentes**
   - Korean Intern and Resident Association

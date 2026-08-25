@@ -20,7 +20,7 @@ toc-depth: 2
   - Subvention de recherche commanditée, Armed Forces Medical Command (MND)
   - **2026.03–2027.03** (KRW 6,380,000)
 - **Étude sur l'amélioration du système de gardes de 36 heures consécutives pour les internes et résidents**
-  - Subvention de recherche commanditée, Healthcare Policy Research Institute, Korean Medical Association
+  - Subvention de recherche commanditée, Research Institute for Healthcare Policy (RIHP), Korean Medical Association
   - **2023.05–2024.01** (KRW 10,000,000)
 - **Enquête coréenne auprès des internes et résidents**
   - Korean Intern and Resident Association

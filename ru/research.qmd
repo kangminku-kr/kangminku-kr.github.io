@@ -20,7 +20,7 @@ toc-depth: 2
   - Грант на заказное исследование, Armed Forces Medical Command (MND)
   - **2026.03–2027.03** (KRW 6,380,000)
 - **Исследование по совершенствованию системы 36-часовых непрерывных дежурств для врачей-интернов и ординаторов**
-  - Грант на заказное исследование, Healthcare Policy Research Institute, Korean Medical Association
+  - Грант на заказное исследование, Research Institute for Healthcare Policy (RIHP), Korean Medical Association
   - **2023.05–2024.01** (KRW 10,000,000)
 - **Опрос интернов и ординаторов Кореи**
   - Korean Intern and Resident Association
