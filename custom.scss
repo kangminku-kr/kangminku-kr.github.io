@@ -271,16 +271,17 @@ body.mk-home #quarto-content > *{ padding-top:0; }
 @media(max-width:720px){ .mk-theme{ grid-template-columns:1fr; gap:6px; } }
 
 .mk-contact{ padding:clamp(52px,7vw,90px) 0 clamp(32px,4vw,44px); }
+/* 이메일·외부 링크·더 보기 — 연락처는 한 덩어리로 읽히게 같은 급(13px Inter)으로
+   묶고 사이 여백도 좁혔다. 이메일만 $ink 로 두어 본선임을 표시한다. */
 .mk-contact .mk-mail{
-  /* 역시 `.mk-theme h3` 급 — 연락처만 더 크게 박아둘 이유가 없다. */
-  display:inline-block; font-family:$font-display; font-weight:600; font-size:1.08rem;
-  letter-spacing:0; border-bottom:1px solid $rule; padding-bottom:3px; margin-top:8px; color:$ink;
+  display:inline-block; font-family:$font-family-sans-serif; font-weight:400; font-size:13px;
+  letter-spacing:.01em; border-bottom:1px solid $rule; padding-bottom:2px; margin-top:12px; color:$ink;
 }
 .mk-contact .mk-mail:hover{ color:$accent; border-color:$accent; }
-.mk-links{ display:flex; flex-wrap:wrap; gap:22px; margin-top:30px; }
+.mk-links{ display:flex; flex-wrap:wrap; gap:6px 22px; margin-top:13px; }
 .mk-links a{ font-size:13px; color:$muted; border-bottom:1px solid transparent; padding-bottom:2px; transition:color .18s, border-color .18s; }
 .mk-links a:hover{ color:$accent; border-color:$accent; }
-.mk-more{ margin-top:28px; font-size:13px; color:$faint; }
+.mk-more{ margin-top:15px; font-size:13px; color:$faint; }
 .mk-more a{ color:$muted; border-bottom:1px solid $rule; }
 .mk-more a:hover{ color:$accent; border-color:$accent; }
 
