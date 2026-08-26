@@ -249,8 +249,10 @@ body.mk-home #quarto-content > *{ padding-top:0; }
 .mk-list a, .mk-list a:hover{ border-bottom:1px solid $hair; }
 .mk-list .y{ font-size:13px; color:$faint; font-variant-numeric:tabular-nums; letter-spacing:.01em; }
 .mk-list .t{
+  /* 크기는 관심분야의 `.mk-theme h3`(1.08rem)와 맞춘다 — 두 섹션의 행 제목이
+     같은 급이라 어느 한쪽만 커지면 대문 전체가 들쭉날쭉해진다. 함께 바꿀 것. */
   font-family:$font-display;
-  font-weight:600; font-size:clamp(1.06rem,1.6vw,1.2rem); letter-spacing:-.008em;
+  font-weight:600; font-size:1.08rem; letter-spacing:-.008em;
   line-height:1.32; color:$ink;
 }
 .mk-list a:hover .t{ color:$accent; }
@@ -270,7 +272,8 @@ body.mk-home #quarto-content > *{ padding-top:0; }
 
 .mk-contact{ padding:clamp(52px,7vw,90px) 0 clamp(32px,4vw,44px); }
 .mk-contact .mk-mail{
-  display:inline-block; font-family:$font-display; font-weight:600; font-size:1.1rem;
+  /* 역시 `.mk-theme h3` 급 — 연락처만 더 크게 박아둘 이유가 없다. */
+  display:inline-block; font-family:$font-display; font-weight:600; font-size:1.08rem;
   letter-spacing:0; border-bottom:1px solid $rule; padding-bottom:3px; margin-top:8px; color:$ink;
 }
 .mk-contact .mk-mail:hover{ color:$accent; border-color:$accent; }
