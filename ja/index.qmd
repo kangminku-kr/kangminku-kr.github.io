@@ -16,7 +16,6 @@ lang: ja
 <div>
 <h1 class="mk-name">Minku Kang<span class="mk-degrees">, MD, MPP, PhD(c)</span></h1>
 <p class="mk-title">予防医学専門医</p>
-<p class="mk-lead">職場のメンタルヘルス<br>臨床予防医学<br>政策研究</p>
 <nav class="mk-langbar" aria-label="Language"></nav>
 <img src="../images/profile.jpg" alt="Minku Kang" class="mk-home-photo">
 </div>

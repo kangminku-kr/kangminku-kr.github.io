@@ -16,7 +16,6 @@ lang: ko
 <div>
 <h1 class="mk-name">강민구<span class="mk-degrees">, MD, MPP, PhD(c)</span></h1>
 <p class="mk-title">예방의학과 전문의</p>
-<p class="mk-lead">사업장 정신건강<br>임상예방의학<br>정책 연구</p>
 <nav class="mk-langbar" aria-label="Language"></nav>
 <img src="../images/profile.jpg" alt="강민구" class="mk-home-photo">
 </div>

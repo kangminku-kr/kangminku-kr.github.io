@@ -16,7 +16,6 @@ lang: fr
 <div>
 <h1 class="mk-name">Minku Kang<span class="mk-degrees">, MD, MPP, PhD(c)</span></h1>
 <p class="mk-title">Médecin spécialiste en médecine préventive</p>
-<p class="mk-lead">Santé mentale au travail<br>Médecine préventive clinique<br>Recherche sur les politiques</p>
 <nav class="mk-langbar" aria-label="Language"></nav>
 <img src="../images/profile.jpg" alt="Minku Kang" class="mk-home-photo">
 </div>
