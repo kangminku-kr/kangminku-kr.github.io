@@ -83,6 +83,7 @@ lang: ja
 <a href="https://scholar.google.com/citations?user=BUn--4YAAAAJ" target="_blank">Google Scholar</a>
 <a href="https://orcid.org/0000-0002-7226-8159" target="_blank">ORCID</a>
 <a href="https://www.researchgate.net/profile/Minku-Kang-2" target="_blank">ResearchGate</a>
+<br>
 <a href="../assets/CV_Minku_Kang_2026.pdf" target="_blank">CV（PDF）</a>
 <a href="https://www.linkedin.com/in/kangminku/" target="_blank">LinkedIn</a>
 </div>
