@@ -40,6 +40,7 @@ lang: de
 <li>Ehem. Mitglied, Bewertungsausschuss für die Weiterbildung von Assistenzärzten und Unterausschuss für ärztliches Personal, Ministerium für Gesundheit und Wohlfahrt</li>
 <li>Betriebsarzt, Armed Forces Capital Hospital; Epidemiologe und Offizier für Gesundheitsversorgungsmanagement, Armed Forces Medical Command</li>
 <li>Arzt im Praktikum und Assistenzarzt, Korea University Medical Center</li>
+<li>Vizepräsident, Korea University Undergraduate Student Union; Mitglied, Tuition Review Committee, Korea University</li>
 </ul>
 <h3>Auszeichnungen</h3>
 <ul>

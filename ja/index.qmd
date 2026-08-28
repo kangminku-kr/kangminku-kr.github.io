@@ -40,6 +40,7 @@ lang: ja
 <li>元 保健福祉部 専攻医修練環境評価委員会・医師人材専門委員会 委員</li>
 <li>Armed Forces Capital Hospital 産業医、Armed Forces Medical Command 疫学調査官・保健医療政策担当官</li>
 <li>Korea University Medical Center インターン・専攻医</li>
+<li>Korea University Undergraduate Student Union 副会長、Korea University Tuition Review Committee 委員</li>
 </ul>
 <h3>受賞</h3>
 <ul>

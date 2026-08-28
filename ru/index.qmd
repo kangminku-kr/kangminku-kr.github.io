@@ -40,6 +40,7 @@ lang: ru
 <li>Бывший член, Комитет по оценке условий подготовки ординаторов и Подкомитет по врачебным кадрам, Министерство здравоохранения и социального обеспечения</li>
 <li>Врач по гигиене труда, Armed Forces Capital Hospital; эпидемиолог и офицер по управлению здравоохранением, Armed Forces Medical Command</li>
 <li>Интерн и ординатор, Korea University Medical Center</li>
+<li>Вице-президент, Korea University Undergraduate Student Union; член, Tuition Review Committee, Korea University</li>
 </ul>
 <h3>Награды</h3>
 <ul>

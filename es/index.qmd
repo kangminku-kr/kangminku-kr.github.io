@@ -40,6 +40,7 @@ lang: es
 <li>Exmiembro, Comité de Evaluación del Entorno de Formación de Residentes y Subcomité de Personal Médico, Ministerio de Salud y Bienestar</li>
 <li>Médico del trabajo, Armed Forces Capital Hospital; epidemiólogo y oficial de gestión sanitaria, Armed Forces Medical Command</li>
 <li>Interno y residente, Korea University Medical Center</li>
+<li>Vicepresidente, Korea University Undergraduate Student Union; miembro, Tuition Review Committee, Korea University</li>
 </ul>
 <h3>Reconocimientos</h3>
 <ul>
