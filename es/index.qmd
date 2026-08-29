@@ -34,6 +34,7 @@ lang: es
 <h3>Trayectoria</h3>
 <ul>
 <li>Miembro de la junta y presidente del Comité de Generaciones Futuras, Korean Society for Preventive Medicine; vicepresidente, Korean Association of Preventive Medicine Physicians</li>
+<li>Miembro experto en políticas, Korean Intern Resident Union (KIRU)</li>
 <li>Expresidente y asesor de políticas, Korean Intern Resident Association</li>
 <li>Exdirector de Políticas, Korean Medical Association</li>
 <li>Exdelegado coreano, World Medical Association – Junior Doctors Network (WMA-JDN)</li>

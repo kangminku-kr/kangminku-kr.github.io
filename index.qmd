@@ -33,6 +33,7 @@ toc: false
 <h3>Positions</h3>
 <ul>
 <li>Board Member and Chairperson of the Future Generations Committee, Korean Society for Preventive Medicine; Vice President, Korean Association of Preventive Medicine Physicians</li>
+<li>Policy Expert Member, Korean Intern Resident Union (KIRU)</li>
 <li>Former President and Policy Advisor, Korean Intern Resident Association</li>
 <li>Former Director of Policy, Korean Medical Association</li>
 <li>Former Korean Delegate, World Medical Association – Junior Doctors Network (WMA-JDN)</li>

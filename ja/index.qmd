@@ -34,6 +34,7 @@ lang: ja
 <h3>経歴</h3>
 <ul>
 <li>Korean Society for Preventive Medicine 理事・未来世代委員長、Korean Association of Preventive Medicine Physicians 副会長</li>
+<li>Korean Intern Resident Union (KIRU) 政策専門委員</li>
 <li>元 Korean Intern Resident Association 会長・政策諮問委員</li>
 <li>元 Korean Medical Association 政策理事</li>
 <li>元 World Medical Association – Junior Doctors Network (WMA-JDN) 韓国代表団</li>

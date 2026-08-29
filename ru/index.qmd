@@ -34,6 +34,7 @@ lang: ru
 <h3>Карьера</h3>
 <ul>
 <li>Член правления и председатель Комитета будущих поколений, Korean Society for Preventive Medicine; вице-президент, Korean Association of Preventive Medicine Physicians</li>
+<li>Член-эксперт по политике, Korean Intern Resident Union (KIRU)</li>
 <li>Бывший президент и советник по политике, Korean Intern Resident Association</li>
 <li>Бывший директор по политике, Korean Medical Association</li>
 <li>Бывший делегат от Кореи, World Medical Association – Junior Doctors Network (WMA-JDN)</li>
