@@ -321,45 +321,24 @@ toc-depth: 3
 
 </details>
 
-## Проекты общественного участия
+## Общественная, гражданская и студенческая деятельность
 
 - **Предложение по реформе регулирования танцев в живых музыкальных клубах** — Сопредседатель, Dae-Dance, объединение зрителей лайв-клубов в поддержку инди-музыки (ранее Rockjangnol) — **2026–настоящее время**
+- Член политического комитета, Korea Family Association for the Mentally Disabled (2022–2023)
+- Волонтёр / участник, Mad Pride Seoul — мероприятие в защиту прав в сфере психического здоровья (2019)
 - **Проект по совместному использованию пространства для молодёжи** — Woosadan Studio — **2018–2020**
 - **Серия уличных концертов: гуманитарные науки и искусство** — Ministry of Culture, Sports and Tourism — **2018**
 - **Праздник в честь открытия Usadan Studio** — Woosadan Studio — **2018**
-- **Студенческая жилищная акция: проект общежития** — Korea University — **2015**
-- **Фестиваль Korea University** — Korea University — **2015**
-
-## Общественная и студенческая деятельность
-
 - **Основатель и директор**, Woosadan Studio Feb 2018–Feb 2020
   - Организация уличных концертов в Usadan Village, Itaewon
   - Управление арендой культурного пространства и культурными программами на базе местного сообщества
-- **Вице-президент**, Korea University Undergraduate Student Union (Dec 2014–Nov 2015)
+- **Студенческая жилищная акция: проект общежития** — Korea University — **2015**
+- **Фестиваль Korea University** — Korea University — **2015**
 - Член, Youth Policy Council, Seongbuk-gu, Seoul (Oct 2015–Apr 2016)
+- **Вице-президент**, Korea University Undergraduate Student Union (Dec 2014–Nov 2015)
 - Член, Tuition Review Committee, Korea University (Jan 2013–Feb 2013)
 - Президент, Pre-med Student Union, Korea University College of Medicine (Dec 2012–Nov 2013)
-
-## Прочая деятельность
-
-- Член политического комитета, Korea Family Association for the Mentally Disabled (2022–2023)
-- Волонтёр / участник, Mad Pride Seoul — мероприятие в защиту прав в сфере психического здоровья (2019)
 - Действующий член, Amnesty International Korea (Oct 2012 – по настоящее время)
-
-## Волонтёрская деятельность
-
-- Медицинская волонтёрская помощь на гражданских митингах у National Assembly и в Yeouido (2024)
-- Помощь и участие в работе мемориала памяти жертв давки в Itaewon 29 октября (2022)
-- Врач-ассистент, Seoul Foreign Resident Center (2019)
-
-## Награды и почётные звания
-
-- Удостоен благодарности Minister of Health and Welfare, Republic of Korea (Apr 2023)
-- Удостоен благодарности командующего Armed Forces Medical Command (Jun 2026)
-- Премия имени Kang Sang-ho, Korean Society for Health Equity (May 2026)
-- Премия за лучший устный доклад, Korean Society for Preventive Medicine (Oct 2025)
-- Премия имени Kim Il-ho, Korean Intern Resident Association (Dec 2023)
-- Премия за выдающуюся статью, COVID-19 Student Paper Contest, SNU Institute of Health and Environment (Dec 2022)
 
 ## Международная деятельность
 
@@ -381,6 +360,21 @@ toc-depth: 3
 
 - Делегат от Кореи, IFMSA Asia-Pacific Regional Meeting (APRM), Дакка, Бангладеш (Sep 2014)
 - Член (Mar 2012–Feb 2013)
+
+## Волонтёрская деятельность
+
+- Медицинская волонтёрская помощь на гражданских митингах у National Assembly и в Yeouido (2024)
+- Помощь и участие в работе мемориала памяти жертв давки в Itaewon 29 октября (2022)
+- Врач-ассистент, Seoul Foreign Resident Center (2019)
+
+## Награды и почётные звания
+
+- Удостоен благодарности Minister of Health and Welfare, Republic of Korea (Apr 2023)
+- Удостоен благодарности командующего Armed Forces Medical Command (Jun 2026)
+- Премия имени Kang Sang-ho, Korean Society for Health Equity (May 2026)
+- Премия за лучший устный доклад, Korean Society for Preventive Medicine (Oct 2025)
+- Премия имени Kim Il-ho, Korean Intern Resident Association (Dec 2023)
+- Премия за выдающуюся статью, COVID-19 Student Paper Contest, SNU Institute of Health and Environment (Dec 2022)
 
 ## Стипендии и гранты
 
