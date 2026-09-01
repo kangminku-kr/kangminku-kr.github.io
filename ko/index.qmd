@@ -16,6 +16,7 @@ lang: ko
 <div>
 <h1 class="mk-name">강민구<span class="mk-degrees">, MD, MPP, PhD(c)</span></h1>
 <p class="mk-title">예방의학과 전문의</p>
+<p class="mk-fields">사회정책, 보건의료정책</p>
 <nav class="mk-langbar" aria-label="Language"></nav>
 <img src="../images/profile.jpg" alt="강민구" class="mk-home-photo">
 </div>
@@ -26,8 +27,8 @@ lang: ko
 <div class="mk-profile">
 <h3>학력</h3>
 <ul>
-<li>고려대학교 대학원 보건학 박사과정 수료</li>
-<li>한국개발연구원(KDI) 국제정책대학원 정책학 석사</li>
+<li>고려대학교 대학원 보건학 박사과정 수료 (보건정책 전공)</li>
+<li>한국개발연구원(KDI) 국제정책대학원 정책학 석사 (사회정책 전공)</li>
 <li>고려대학교 의학, 사회학, 경제학(부전공) 졸업</li>
 <li>한성과학고등학교 졸업</li>
 </ul>

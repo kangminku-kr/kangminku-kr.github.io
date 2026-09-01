@@ -16,6 +16,7 @@ lang: ru
 <div>
 <h1 class="mk-name">Minku Kang<span class="mk-degrees">, MD, MPP, PhD(c)</span></h1>
 <p class="mk-title">Врач профилактической медицины</p>
+<p class="mk-fields">Социальная политика, политика здравоохранения</p>
 <nav class="mk-langbar" aria-label="Language"></nav>
 <img src="../images/profile.jpg" alt="Minku Kang" class="mk-home-photo">
 </div>
@@ -26,8 +27,8 @@ lang: ru
 <div class="mk-profile">
 <h3>Образование</h3>
 <ul>
-<li>Соискатель степени PhD по общественному здравоохранению, Korea University Graduate School</li>
-<li>Магистр государственной политики, KDI School of Public Policy and Management</li>
+<li>Соискатель степени PhD по общественному здравоохранению (политика здравоохранения), Korea University Graduate School</li>
+<li>Магистр государственной политики (социальная политика), KDI School of Public Policy and Management</li>
 <li>Диплом врача и бакалавр социологии (дополнительная специальность — экономика), Korea University</li>
 <li>Научная средняя школа Хансон</li>
 </ul>

@@ -400,3 +400,9 @@ main.content li > strong:first-child,
   font-family:$font-name; font-size:16px; font-weight:400;
   letter-spacing:.005em; color:$ink; margin:.5rem 0 0;
 }
+
+/* 직함 아래 정책분야 한 줄 — 직함보다 한 단계 작고 옅게. */
+.mk-fields{
+  font-family:$font-name; font-size:13.5px; font-weight:400;
+  letter-spacing:.02em; color:$muted; margin:.28rem 0 0;
+}

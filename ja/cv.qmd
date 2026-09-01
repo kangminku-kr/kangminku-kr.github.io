@@ -18,8 +18,8 @@ toc-depth: 3
 
 ## 学歴
 
-- **博士候補（Ph.D. candidate）**、公衆衛生学、Korea University Graduate School、韓国
-- **MPP（公共政策修士）**、公共政策、KDI School of Public Policy and Management、韓国
+- **博士候補（Ph.D. candidate）**、公衆衛生学（保健医療政策）、Korea University Graduate School、韓国
+- **MPP（公共政策修士）**、公共政策（社会政策）、KDI School of Public Policy and Management、韓国
 - **MD（医学士）**、医学、Korea University、韓国
 - **BA（学士）**、社会学、経済学（副専攻）、Korea University、韓国
 

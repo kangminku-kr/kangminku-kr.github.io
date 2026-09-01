@@ -16,6 +16,7 @@ lang: ja
 <div>
 <h1 class="mk-name">Minku Kang<span class="mk-degrees">, MD, MPP, PhD(c)</span></h1>
 <p class="mk-title">予防医学専門医</p>
+<p class="mk-fields">社会政策・保健医療政策</p>
 <nav class="mk-langbar" aria-label="Language"></nav>
 <img src="../images/profile.jpg" alt="Minku Kang" class="mk-home-photo">
 </div>
@@ -26,8 +27,8 @@ lang: ja
 <div class="mk-profile">
 <h3>学歴</h3>
 <ul>
-<li>高麗大学校大学院 保健学博士課程 満期退学（博士候補）</li>
-<li>KDI 国際政策大学院 政策学修士</li>
+<li>高麗大学校大学院 保健学博士課程 満期退学（博士候補・保健医療政策）</li>
+<li>KDI 国際政策大学院 政策学修士（社会政策）</li>
 <li>高麗大学校 医学科・社会学科（経済学副専攻）卒業</li>
 <li>漢城科学高等学校 卒業</li>
 </ul>

@@ -15,6 +15,7 @@ toc: false
 <div>
 <h1 class="mk-name">Minku Kang<span class="mk-degrees">, MD, MPP, PhD(c)</span></h1>
 <p class="mk-title">Preventive Medicine Physician</p>
+<p class="mk-fields">Social Policy, Health Policy</p>
 <nav class="mk-langbar" aria-label="Language"></nav>
 <img src="images/profile.jpg" alt="Minku Kang" class="mk-home-photo">
 </div>
@@ -25,8 +26,8 @@ toc: false
 <div class="mk-profile">
 <h3>Education</h3>
 <ul>
-<li>PhD candidate in Public Health, Korea University Graduate School</li>
-<li>MPP, Public Policy, KDI School of Public Policy and Management</li>
+<li>PhD candidate in Public Health (Health Policy), Korea University Graduate School</li>
+<li>MPP, Public Policy (Social Policy), KDI School of Public Policy and Management</li>
 <li>MD and BA, Medicine and Sociology (Minor in Economics), Korea University</li>
 <li>Hansung Science High School</li>
 </ul>

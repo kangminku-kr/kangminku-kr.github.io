@@ -16,6 +16,7 @@ lang: fr
 <div>
 <h1 class="mk-name">Minku Kang<span class="mk-degrees">, MD, MPP, PhD(c)</span></h1>
 <p class="mk-title">Médecin spécialiste en médecine préventive</p>
+<p class="mk-fields">Politiques sociales, politiques de santé</p>
 <nav class="mk-langbar" aria-label="Language"></nav>
 <img src="../images/profile.jpg" alt="Minku Kang" class="mk-home-photo">
 </div>
@@ -26,8 +27,8 @@ lang: fr
 <div class="mk-profile">
 <h3>Formation</h3>
 <ul>
-<li>Doctorant en santé publique (thèse en cours), Korea University Graduate School</li>
-<li>Master en politiques publiques, KDI School of Public Policy and Management</li>
+<li>Doctorant en santé publique (politiques de santé, thèse en cours), Korea University Graduate School</li>
+<li>Master en politiques publiques (politiques sociales), KDI School of Public Policy and Management</li>
 <li>Doctorat en médecine et licence en sociologie (mineure en économie), Korea University</li>
 <li>Lycée scientifique Hansung</li>
 </ul>
