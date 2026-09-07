@@ -81,7 +81,7 @@ toc-depth: 3
 
 - Медицинская лицензия, Korea Ministry of Health and Welfare
 - Сертификат специалиста по профилактической медицине, Korea Ministry of Health and Welfare
-- Сертифицированный специалист по гериатрии, The Korea Geriatrics Society (планируется)
+- Сертифицированный специалист по гериатрии, The Korea Geriatrics Society
 - Сертифицированный специалист по медицине ожирения, Korean Society for the Study of Obesity
 - Сертифицированный врач по общему медицинскому скринингу, The Korean Association of Health Screening
 
@@ -140,7 +140,7 @@ toc-depth: 3
 - Член, Korean Society of Health Administration
 - Член, Korean Association of Health Economics and Policy
 - Член; сертифицированный специалист по медицине ожирения, Korean Society for the Study of Obesity
-- Член; готовится к сертификации по гериатрии (ожидается в 2026), Korean Geriatrics Society
+- Член; сертифицированный специалист по гериатрии, Korean Geriatrics Society
 - Бывший член, American Public Health Association
 - Бывший ассоциированный член, World Medical Association
 
