@@ -43,9 +43,9 @@ toc-depth: 3
 - 2024年の医療危機以降の軍病院における医療利用の変化、Armed Forces Medical Command, MND（2026）
 - 軍病院および民間病院における軍人の医療利用の分析、Armed Forces Medical Command, MND（2025–2026）
 - 軍における感染症の対応・管理能力の強化、Korea Disease Control and Prevention Agency（2025）
-  - 海外派遣された韓国軍におけるマラリア・スクリーニング支援と気候に基づく予測モデリング、Armed Forces Medical Research Institute, MND（2025）
-  - 南スーダンに派遣された韓国軍における発熱性感染症への曝露、Armed Forces Medical Command, MND（2025）
-  - 軍の予防接種政策決定のための包括的レビュー、Armed Forces Medical Command, MND（2024）
+- 海外派遣された韓国軍におけるマラリア・スクリーニング支援と気候に基づく予測モデリング、Armed Forces Medical Research Institute, MND（2025）
+- 南スーダンに派遣された韓国軍における発熱性感染症への曝露、Armed Forces Medical Command, MND（2025）
+- 軍の予防接種政策決定のための包括的レビュー、Armed Forces Medical Command, MND（2024）
 
 **医療管理将校**
 
