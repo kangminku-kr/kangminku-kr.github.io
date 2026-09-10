@@ -29,7 +29,7 @@ toc-depth: 3
 ### Mar 2024–Apr 2027
 
 - 産業医、Armed Forces Capital Hospital, MND (Oct 2026–Apr 2027)
-- 中央疫学調査官、国防部（May 2024–Apr 2027）
+- 中央疫学調査官、国防部 (MND)（May 2024–Apr 2027）
 - 保健医療政策担当官、Armed Forces Medical Command, MND（May 2025–Apr 2027）
 - 予防医学将校、Armed Forces Medical Research Institute, MND（May 2024–Apr 2025）
 
@@ -40,7 +40,12 @@ toc-depth: 3
 
 - 委員、Institutional Review Board (IRB)、Armed Forces Medical Command, MND（2026–2027）
 - 軍人のメンタルヘルスの決定要因に関する研究、Armed Forces Medical Command, MND（2026–2027）
-- 軍人の軍病院・民間病院における医療利用パターンに関する研究、Armed Forces Medical Command, MND（2025–2026）
+- 2024年の医療危機以降の軍病院における医療利用の変化、Armed Forces Medical Command, MND（2026）
+- 軍病院および民間病院における軍人の医療利用の分析、Armed Forces Medical Command, MND（2025–2026）
+- 軍における感染症の対応・管理能力の強化、Korea Disease Control and Prevention Agency（2025）
+  - 海外派遣された韓国軍におけるマラリア・スクリーニング支援と気候に基づく予測モデリング、Armed Forces Medical Research Institute, MND（2025）
+  - 南スーダンに派遣された韓国軍における発熱性感染症への曝露、Armed Forces Medical Command, MND（2025）
+  - 軍の予防接種政策決定のための包括的レビュー、Armed Forces Medical Command, MND（2024）
 
 **医療管理将校**
 
