@@ -29,9 +29,9 @@ toc-depth: 3
 ### Mar 2024–Apr 2027
 
 - 産業医、Armed Forces Capital Hospital, MND (Oct 2026–Apr 2027)
-- 中央疫学調査官、国防部
-- 保健医療政策担当官、Armed Forces Medical Command, MND
-- 疫学調査官・軍医官（予防医学）、Armed Forces Medical Research Institute, MND
+- 中央疫学調査官、国防部（May 2024–Apr 2027）
+- 保健医療政策担当官、Armed Forces Medical Command, MND（May 2025–Apr 2027）
+- 予防医学将校、Armed Forces Medical Research Institute, MND（May 2024–Apr 2025）
 
 <details>
 <summary>研究・管理業務の詳細</summary>
@@ -46,6 +46,9 @@ toc-depth: 3
 
 - Military Health Statistics Annual Report（軍保健統計年報）の刊行、Armed Forces Medical Command, MND
 - 軍病院の利用状況および質指標の四半期分析と政策提言の策定
+
+**予防医学将校**
+
 - 軍における感染症サーベイランスおよびバイオセーフティ点検
 - Monthly Infectious Disease Report（月間感染症報告）の刊行、Armed Forces Medical Research Institute, MND
 - Institutional Biosafety Committee 委員およびバイオセーフティ点検官、Armed Forces Medical Research Institute, MND
@@ -324,6 +327,12 @@ Korea University College of Medicine のティーチングアシスタントと�
 </details>
 
 ## 地域社会・市民社会・学生活動
+### 人権・メンタルヘルス
+
+- 政策委員、Korea Family Association for the Mentally Disabled（2022–2023）
+- ボランティア／参加者、Mad Pride Seoul メンタルヘルス権利イベント（2019）
+- 運営会員、Amnesty International Korea（Oct 2012–現在）
+
 ### 文化・芸術と地域空間
 
 - **ライブクラブにおけるダンス規制の法改正政策提言** · 락장놀 Rockjangnol、インディー音楽を愛するライブクラブ観客連帯 共同代表（2026–現在）
@@ -343,12 +352,6 @@ Korea University College of Medicine のティーチングアシスタントと�
 - 梨泰院ウサダン村（Usadan Village）での路地コンサートを企画。文化空間のレンタルおよび地域基盤の文化プログラムを運営
 
 </details>
-
-### 人権・メンタルヘルス
-
-- 政策委員、Korea Family Association for the Mentally Disabled（2022–2023）
-- ボランティア／参加者、Mad Pride Seoul メンタルヘルス権利イベント（2019）
-- 運営会員、Amnesty International Korea（Oct 2012–現在）
 
 ### 若者・学生自治
 
