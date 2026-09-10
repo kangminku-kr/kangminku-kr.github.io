@@ -15,7 +15,7 @@ toc: false
 <div>
 <h1 class="mk-name">Minku Kang<span class="mk-degrees">, MD, MPP, PhD(c)</span></h1>
 <p class="mk-title">Preventive Medicine Physician</p>
-<p class="mk-fields">Social Policy, Health Policy</p>
+<p class="mk-fields">Workplace Health, Health Policy</p>
 <nav class="mk-langbar" aria-label="Language"></nav>
 <img src="images/profile.jpg" alt="Minku Kang" class="mk-home-photo">
 </div>
