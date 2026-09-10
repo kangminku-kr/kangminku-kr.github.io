@@ -28,7 +28,8 @@ toc-depth: 3
 ### Mar 2024–Apr 2027
 
 - Врач по гигиене труда, Armed Forces Capital Hospital, MND (Oct 2026–Apr 2027)
-- Врач-эпидемиолог и офицер (политика и управление в здравоохранении), Armed Forces Medical Command, MND
+- Центральный эпидемиолог, Министерство национальной обороны
+- Офицер по управлению здравоохранением, Armed Forces Medical Command, MND
 - Врач-эпидемиолог и офицер (профилактическая медицина), Armed Forces Medical Research Institute, MND
 
 <details>

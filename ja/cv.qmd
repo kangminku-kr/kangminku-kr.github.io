@@ -28,7 +28,8 @@ toc-depth: 3
 ### Mar 2024–Apr 2027
 
 - 産業医、Armed Forces Capital Hospital, MND (Oct 2026–Apr 2027)
-- 疫学調査官・軍医官（保健医療政策・管理）、Armed Forces Medical Command, MND
+- 中央疫学調査官、国防部
+- 保健医療政策担当官、Armed Forces Medical Command, MND
 - 疫学調査官・軍医官（予防医学）、Armed Forces Medical Research Institute, MND
 
 <details>
