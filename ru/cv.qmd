@@ -28,8 +28,8 @@ toc-depth: 3
 
 ### Mar 2024–Apr 2027
 
-- Врач по гигиене труда, Armed Forces Capital Hospital, MND (Oct 2026–Apr 2027)
-- Центральный эпидемиолог, Министерство национальной обороны (MND) (May 2024–Apr 2027)
+- Врач по гигиене труда (по совместительству), Armed Forces Capital Hospital, MND (Oct 2026–Apr 2027)
+- Центральный эпидемиолог (по совместительству), Министерство национальной обороны (MND) (May 2024–Apr 2027)
 - Офицер по управлению здравоохранением, Armed Forces Medical Command, MND (May 2025–Apr 2027)
 - Офицер по профилактической медицине, Armed Forces Medical Research Institute, MND (May 2024–Apr 2025)
 
@@ -121,6 +121,8 @@ toc-depth: 3
 
 </details>
 
+
+### Korean Society of Occupational Stress
 ### Korean Society for Equity in Health
 
 <details>
