@@ -38,7 +38,6 @@ toc-depth: 3
 
 **公衆衛生医学における研究**
 
-- 委員、Institutional Review Board (IRB)、Armed Forces Medical Command, MND（2026–2027）
 - 軍人のメンタルヘルスの決定要因に関する研究、Armed Forces Medical Command, MND（2026–2027）
 - 2024年の医療危機以降の軍病院における医療利用の変化、Armed Forces Medical Command, MND（2026）
 - 軍病院および民間病院における軍人の医療利用の分析、Armed Forces Medical Command, MND（2025–2026）
@@ -49,6 +48,7 @@ toc-depth: 3
 
 **医療管理将校**
 
+- 委員、Institutional Review Board (IRB)、Armed Forces Medical Command, MND（2026–2027）
 - Military Health Statistics Annual Report（軍保健統計年報）の刊行、Armed Forces Medical Command, MND
 - 軍病院の利用状況および質指標の四半期分析と政策提言の策定
 

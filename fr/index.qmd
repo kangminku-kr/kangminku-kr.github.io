@@ -36,11 +36,10 @@ lang: fr
 <ul>
 <li>Membre du conseil et président du comité des générations futures, Korean Society for Preventive Medicine ; vice-président, Korean Association of Preventive Medicine Physicians</li>
 <li>Conseiller politique, Korean Intern Resident Union (KIRU)</li>
-<li>Ancien membre, comité d'évaluation de la formation des résidents, ministère de la Santé et du Bien-être</li>
+<li>Ancien membre, comité d'évaluation de la formation des résidents et sous-comité sur les effectifs médicaux, ministère de la Santé et du Bien-être</li>
 <li>Ancien président et conseiller politique, Korean Intern Resident Association</li>
 <li>Ancien directeur des politiques, Korean Medical Association</li>
 <li>Ancien délégué coréen, World Medical Association – Junior Doctors Network (WMA-JDN)</li>
-<li>Ancien membre, sous-comité sur les effectifs médicaux, comité de délibération des politiques de santé, ministère de la Santé et du Bien-être</li>
 <li>Médecin du travail, Armed Forces Capital Hospital ; épidémiologiste central, ministère de la Défense nationale (MND) ; officier de gestion des soins, Armed Forces Medical Command</li>
 <li>Interne et résident (médecine préventive), Korea University Medical Center</li>
 <li>Vice-président, Korea University Undergraduate Student Union ; membre, Tuition Review Committee, Korea University</li>
