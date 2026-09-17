@@ -36,10 +36,11 @@ lang: ko
 <ul>
 <li>대한예방의학회 이사·미래세대위원장, 대한예방의학과의사회 부회장</li>
 <li>전국전공의노동조합(KIRU) 정책자문위원</li>
+<li>전 보건복지부 수련환경평가위원회 위원</li>
 <li>전 대한전공의협의회 회장, 정책자문위원</li>
 <li>전 대한의사협회 정책이사</li>
 <li>전 세계의사회 젊은의사네트워크(WMA-JDN) 한국대표단</li>
-<li>전 보건복지부 수련환경평가위원회·보건의료정책심의위원회 의사인력전문위원회 위원</li>
+<li>전 보건복지부 보건의료정책심의위원회 의사인력전문위원회 위원</li>
 <li>국군수도병원 산업보건의, 국방부 중앙역학조사관, 국군의무사령부 적정진료관리장교</li>
 <li>고려대학교의료원 인턴·레지던트(예방의학)</li>
 <li>고려대학교 총학생회 부총학생회장, 등록금심의위원회 위원</li>
@@ -63,7 +64,7 @@ lang: ko
 <section class="mk-sec">
 <div class="mk-lbl">주요 활동</div>
 <div class="mk-list">
-<a href="research.qmd"><span class="y">2026</span><span class="t">노동시간, 연장된 교대근무, 고용취약성: 직장 정신건강의 사회적 결정요인</span><span class="m">박사학위논문</span></a>
+<a href="research.qmd"><span class="y">2027</span><span class="t">노동시간, 연장된 교대근무, 고용취약성: 직장 정신건강의 사회적 결정요인</span><span class="m">박사학위논문</span></a>
 <a href="research.qmd"><span class="y">2026</span><span class="t">군 장병 정신건강의 결정요인 연구</span><span class="m">연구책임자</span></a>
 <a href="research.qmd"><span class="y">2023</span><span class="t">전공의 36시간 연속근무 제도 개선 연구</span><span class="m">연구책임자</span></a>
 <a href="publications.qmd"><span class="y">2023</span><span class="t">코로나19 시기 정신건강의 젠더 불평등</span><span class="m">J Prev Med Public Health</span></a>

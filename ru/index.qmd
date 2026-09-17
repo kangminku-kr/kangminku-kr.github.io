@@ -36,10 +36,11 @@ lang: ru
 <ul>
 <li>Член правления и председатель Комитета будущих поколений, Korean Society for Preventive Medicine; вице-президент, Korean Association of Preventive Medicine Physicians</li>
 <li>Советник по политике, Korean Intern Resident Union (KIRU)</li>
+<li>Бывший член, Комитет по оценке условий подготовки ординаторов, Министерство здравоохранения и социального обеспечения</li>
 <li>Бывший президент и советник по политике, Korean Intern Resident Association</li>
 <li>Бывший директор по политике, Korean Medical Association</li>
 <li>Бывший делегат от Кореи, World Medical Association – Junior Doctors Network (WMA-JDN)</li>
-<li>Бывший член, Комитет по оценке условий подготовки ординаторов и Подкомитет по врачебным кадрам, Министерство здравоохранения и социального обеспечения</li>
+<li>Бывший член, Подкомитет по врачебным кадрам, Комитет по рассмотрению политики здравоохранения, Министерство здравоохранения и социального обеспечения</li>
 <li>Врач по гигиене труда, Armed Forces Capital Hospital; центральный эпидемиолог, Министерство национальной обороны (MND); офицер по управлению здравоохранением, Armed Forces Medical Command</li>
 <li>Интерн и ординатор (профилактическая медицина), Korea University Medical Center</li>
 <li>Вице-президент, Korea University Undergraduate Student Union; член, Tuition Review Committee, Korea University</li>
@@ -63,7 +64,7 @@ lang: ru
 <section class="mk-sec">
 <div class="mk-lbl">Избранные работы</div>
 <div class="mk-list">
-<a href="research.qmd"><span class="y">2026</span><span class="t">Рабочее время, продлённые последовательные дежурства и неустойчивая занятость: социальные детерминанты психического здоровья на работе</span><span class="m">Докторская диссертация</span></a>
+<a href="research.qmd"><span class="y">2027</span><span class="t">Рабочее время, продлённые последовательные дежурства и неустойчивая занятость: социальные детерминанты психического здоровья на работе</span><span class="m">Докторская диссертация</span></a>
 <a href="research.qmd"><span class="y">2026</span><span class="t">Детерминанты психического здоровья военнослужащих</span><span class="m">Руководитель проекта</span></a>
 <a href="research.qmd"><span class="y">2023</span><span class="t">Реформа системы 36-часовых непрерывных дежурств ординаторов</span><span class="m">Руководитель проекта</span></a>
 <a href="publications.qmd"><span class="y">2023</span><span class="t">Гендерное неравенство в психическом здоровье в период пандемии</span><span class="m">J. Prev. Med. Public Health</span></a>

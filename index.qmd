@@ -35,10 +35,11 @@ toc: false
 <ul>
 <li>Board Member and Chairperson of the Future Generations Committee, Korean Society for Preventive Medicine; Vice President, Korean Association of Preventive Medicine Physicians</li>
 <li>Policy Advisor, Korean Intern Resident Union (KIRU)</li>
+<li>Former Member, Medical Residency Training Environment Evaluation Committee, Ministry of Health and Welfare</li>
 <li>Former President and Policy Advisor, Korean Intern Resident Association</li>
 <li>Former Director of Policy, Korean Medical Association</li>
 <li>Former Korean Delegate, World Medical Association – Junior Doctors Network (WMA-JDN)</li>
-<li>Former Member, Medical Residency Training Environment Evaluation Committee and Subcommittee on Physician Workforce, Ministry of Health and Welfare</li>
+<li>Former Member, Subcommittee on Physician Workforce, Healthcare Policy Deliberation Committee, Ministry of Health and Welfare</li>
 <li>Occupational Health Physician, Armed Forces Capital Hospital; Central Epidemiologist, Ministry of National Defense (MND); Healthcare Management Officer, Armed Forces Medical Command</li>
 <li>Intern and Resident (Preventive Medicine), Korea University Medical Center</li>
 <li>Vice President, Korea University Undergraduate Student Union; Member, Tuition Review Committee, Korea University</li>
@@ -62,7 +63,7 @@ toc: false
 <section class="mk-sec">
 <div class="mk-lbl">Selected work</div>
 <div class="mk-list">
-<a href="research.qmd"><span class="y">2026</span><span class="t">Working Hours, Extended Consecutive Shifts, and Precarious Employment: Social Determinants of Workplace Mental Health</span><span class="m">Doctoral dissertation</span></a>
+<a href="research.qmd"><span class="y">2027</span><span class="t">Working Hours, Extended Consecutive Shifts, and Precarious Employment: Social Determinants of Workplace Mental Health</span><span class="m">Doctoral dissertation</span></a>
 <a href="research.qmd"><span class="y">2026</span><span class="t">Determinants of mental health among military personnel</span><span class="m">Principal investigator</span></a>
 <a href="research.qmd"><span class="y">2023</span><span class="t">Reform of the resident 36-hour consecutive-duty system</span><span class="m">Principal investigator</span></a>
 <a href="publications.qmd"><span class="y">2023</span><span class="t">Gender inequalities in pandemic-era mental health</span><span class="m">J. Prev. Med. Public Health</span></a>

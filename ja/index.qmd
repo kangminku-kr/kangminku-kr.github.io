@@ -36,10 +36,11 @@ lang: ja
 <ul>
 <li>Korean Society for Preventive Medicine 理事・未来世代委員長、Korean Association of Preventive Medicine Physicians 副会長</li>
 <li>Korean Intern Resident Union (KIRU) 政策諮問委員</li>
+<li>元 保健福祉部 専攻医修練環境評価委員会 委員</li>
 <li>元 Korean Intern Resident Association 会長・政策諮問委員</li>
 <li>元 Korean Medical Association 政策理事</li>
 <li>元 World Medical Association – Junior Doctors Network (WMA-JDN) 韓国代表団</li>
-<li>元 保健福祉部 専攻医修練環境評価委員会・医師人材専門委員会 委員</li>
+<li>元 保健福祉部 保健医療政策審議委員会 医師人材専門委員会 委員</li>
 <li>Armed Forces Capital Hospital 産業医、国防部 (MND) 中央疫学調査官、Armed Forces Medical Command 保健医療政策担当官</li>
 <li>Korea University Medical Center インターン・専攻医（予防医学）</li>
 <li>Korea University Undergraduate Student Union 副会長、Korea University Tuition Review Committee 委員</li>
@@ -63,7 +64,7 @@ lang: ja
 <section class="mk-sec">
 <div class="mk-lbl">主な業績</div>
 <div class="mk-list">
-<a href="research.qmd"><span class="y">2026</span><span class="t">労働時間・延長された連続勤務・不安定雇用：職場のメンタルヘルスの社会的決定要因</span><span class="m">博士学位論文</span></a>
+<a href="research.qmd"><span class="y">2027</span><span class="t">労働時間・延長された連続勤務・不安定雇用：職場のメンタルヘルスの社会的決定要因</span><span class="m">博士学位論文</span></a>
 <a href="research.qmd"><span class="y">2026</span><span class="t">軍人のメンタルヘルスの決定要因</span><span class="m">研究代表者</span></a>
 <a href="research.qmd"><span class="y">2023</span><span class="t">研修医の36時間連続勤務制度の改革</span><span class="m">研究代表者</span></a>
 <a href="publications.qmd"><span class="y">2023</span><span class="t">パンデミック下のメンタルヘルスにおけるジェンダー格差</span><span class="m">J. Prev. Med. Public Health</span></a>
