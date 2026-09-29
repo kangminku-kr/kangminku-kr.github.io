@@ -64,6 +64,7 @@ format:
     include-after-body:
       - lang-toggle.html
     include-in-header:
+      - lang-redirect.html
       - text: |
           <link rel="preconnect" href="https://fonts.googleapis.com">
           <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

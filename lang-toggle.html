@@ -112,24 +112,17 @@
       document.addEventListener('keydown', function(e){ if(e.key==='Escape' && d.open){ d.open=false; sm.focus(); } });
     }
   }
-  // 첫 방문자의 브라우저 언어가 한국어면 한국어판으로 한 번만 보낸다.
-  // (직접 언어를 고른 사람은 sessionStorage 표시로 다시 튕기지 않는다.)
-  function autoLang(){
-    try{
-      if(location.pathname!=='/' && location.pathname!=='/index.html') return;
-      if(sessionStorage.getItem('mk-lang-choice')) return;
-      var pref=(navigator.languages && navigator.languages[0]) || navigator.language || '';
-      if(!/^ko/i.test(pref)) return;
-      sessionStorage.setItem('mk-lang-choice','auto');
-      location.replace('/ko/');
-    }catch(e){}
-  }
-  // 언어를 직접 고르면 자동이동을 끈다.
+  // 대문 자동이동은 lang-redirect.html(<head>)이 맡는다 — 여기서 돌면 영어 대문이 한 번 그려진 뒤에 넘어간다.
+  // 언어를 직접 고르면 그 선택을 기억해 다음 방문부터 자동 판정보다 우선하게 한다.
+  var NAME2LANG={}; Object.keys(LANGNAME).forEach(function(lg){ NAME2LANG[LANGNAME[lg]]=lg; });
   document.addEventListener('click', function(e){
     var a=e.target && e.target.closest && e.target.closest('.mk-langlist a, .navbar .dropdown-item');
-    if(a){ try{ sessionStorage.setItem('mk-lang-choice','manual'); }catch(err){} }
+    if(!a) return;
+    var lg=a.getAttribute('hreflang') || NAME2LANG[(a.textContent||'').trim()];
+    if(!lg || !PREFIX[lg]) return;
+    try{ sessionStorage.setItem('mk-lang-choice','manual'); }catch(err){}
+    try{ localStorage.setItem('mk-lang', lg); }catch(err){}
   }, true);
-  autoLang();
 
   if(document.readyState!=='loading') run(); else document.addEventListener('DOMContentLoaded',run);
 })();
