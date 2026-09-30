@@ -34,8 +34,8 @@ lang: fr
 </ul>
 <h3>Fonctions</h3>
 <ul>
-<li>Membre du conseil et président du comité des générations futures, Korean Society for Preventive Medicine ; vice-président, Korean Association of Preventive Medicine Physicians</li>
 <li>Conseiller politique, Korean Intern Resident Union (KIRU)</li>
+<li>Membre du conseil et président du comité des générations futures, Korean Society for Preventive Medicine ; vice-président, Korean Association of Preventive Medicine Physicians</li>
 <li>Ancien membre, comité d'évaluation de la formation des résidents et sous-comité sur les effectifs médicaux, ministère de la Santé et du Bien-être</li>
 <li>Ancien président et conseiller politique, Korean Intern Resident Association</li>
 <li>Ancien directeur des politiques, Korean Medical Association</li>
