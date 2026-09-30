@@ -29,15 +29,15 @@ toc-depth: 3
 ### Mar 2024–Apr 2027
 
 ::: {.mk-entry .mk-static}
-Врач по гигиене труда (по совместительству), Gyeonggido Office of Education (Oct 2026–)
+Врач по гигиене труда, Gyeonggido Office of Education (Oct 2026–)
 :::
 
 ::: {.mk-entry .mk-static}
-Врач по гигиене труда (по совместительству), Armed Forces Capital Hospital, MND (Oct 2026–Apr 2027)
+Врач по гигиене труда, Armed Forces Capital Hospital, MND (Oct 2026–Apr 2027)
 :::
 
 ::: {.mk-entry .mk-static}
-Центральный эпидемиолог (по совместительству), Министерство национальной обороны (MND) (May 2024–Apr 2027)
+Центральный эпидемиолог, Министерство национальной обороны (MND) (May 2024–Apr 2027)
 :::
 
 <details class="mk-entry">
@@ -225,7 +225,7 @@ toc-depth: 3
 <summary>\(1\) Научные конференции и семинары</summary>
 
 - **Nov 2026** (планируется). Рабочее время, сменная работа в разных профессиях и психическое здоровье: эпидемиологическое исследование. Fall Academic Conference, Korean Society of Occupational and Environmental Medicine
-- **Oct 2026** (планируется). Рабочее время, последовательные смены и депривация сна во время дежурств по вызову в связи с депрессивными симптомами и суицидальными мыслями среди корейских ординаторов (2022 Korean Intern and Resident Survey). 78th Fall Academic Conference, Korean Society for Preventive Medicine
+- **Oct 2026** (планируется). Рабочее время, последовательные смены и депривация сна во время дежурств по вызову в связи с депрессивными симптомами и суицидальными мыслями среди корейских ординаторов (2022 Korean Intern Resident Survey). 78th Fall Academic Conference, Korean Society for Preventive Medicine
 - **Oct 2026** (планируется). Рабочее время и суицидальные мысли: неустойчивая занятость как модификатор эффекта (Korean Work, Sleep, and Health Study). 78th Fall Academic Conference, Korean Society for Preventive Medicine
 - **Oct 2026** (планируется). Рабочее время и психическое здоровье среди военнослужащих (Military Health Survey). 78th Fall Academic Conference, Korean Society for Preventive Medicine
 - **Sep 2026**. Введение в исследования по усилению потенциала реагирования на инфекционные заболевания и управления ими в вооружённых силах (устный доклад). 57th Conference of Military Medicine & 2026 International Conference on Military Trauma Surgery
@@ -421,7 +421,7 @@ toc-depth: 3
 
 - Удостоен благодарности Minister of Health and Welfare, Republic of Korea (Apr 2023)
 - Удостоен благодарности командующего Armed Forces Medical Command, Republic of Korea (Jun 2026)
-- Научная премия, Korean Military Medical Association, 57-я конференция по военной медицине и Международная конференция по военной травматологии 2026 (Sep 2026)
+- Научная премия, Korean Military Medical Association, 57-я конференция по военной медицине (Sep 2026)
 - Премия имени Kang Sang-ho (премия за лучший постер), Korean Society for Health Equity (May 2026)
 - Премия за лучший устный доклад, Korean Society for Preventive Medicine (Oct 2025)
 - Премия имени Kim Il-ho, Korean Intern Resident Association (Dec 2023)

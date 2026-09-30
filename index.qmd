@@ -34,9 +34,9 @@ toc: false
 <h3>Positions</h3>
 <ul>
 <li>Occupational Health Physician, Gyeonggido Office of Education</li>
-<li>Occupational Health Physician, Armed Forces Capital Hospital; Central Epidemiologist, Ministry of National Defense (MND); Healthcare Management Officer, Armed Forces Medical Command</li>
+<li>Occupational Health Physician, Armed Forces Capital Hospital; Healthcare Management Officer, Armed Forces Medical Command</li>
+<li>Central Epidemiologist, Ministry of National Defense (MND)</li>
 <li>Intern and Resident (Preventive Medicine), Korea University Medical Center</li>
-<li>Vice President, Korea University Undergraduate Student Union; Member, Tuition Review Committee, Korea University</li>
 </ul>
 <h3>Professional Service</h3>
 <ul>
@@ -46,12 +46,13 @@ toc: false
 <li>Former President and Policy Advisor, Korean Intern Resident Association</li>
 <li>Former Director of Policy, Korean Medical Association</li>
 <li>Former Korean Delegate, World Medical Association – Junior Doctors Network (WMA-JDN)</li>
+<li>Vice President, Korea University Undergraduate Student Union; Member, Tuition Review Committee, Korea University</li>
 </ul>
 <h3>Honours</h3>
 <ul>
 <li>Honoured by the Minister of Health and Welfare, Republic of Korea (Apr 2023)</li>
 <li>Commendation from the Surgeon General, Armed Forces Medical Command, Republic of Korea (Jun 2026)</li>
-<li>Academic Award, Korean Military Medical Association, 57th Conference on Military Medicine and 2026 International Military Trauma Conference (Sep 2026)</li>
+<li>Academic Award, Korean Military Medical Association, 57th Conference on Military Medicine (Sep 2026)</li>
 <li>Kang Sang-ho Award (Best Poster Award), Korean Society for Health Equity (May 2026)</li>
 <li>Excellent Oral Presentation Award, Korean Society for Preventive Medicine (Oct 2025)</li>
 <li>Kim Il-ho Award, Korean Intern Resident Association (Dec 2023)</li>
@@ -81,7 +82,7 @@ toc: false
 <section class="mk-sec">
 <div class="mk-lbl">Focus</div>
 <div class="mk-themes">
-<div class="mk-theme"><h3>Preventive and occupational medicine</h3><p>Clinical preventive medicine, health-risk assessment, screening and management, population and occupational medicine, lifestyle medicine.</p></div>
+<div class="mk-theme"><h3>Preventive medicine and occupational health</h3><p>Clinical preventive medicine, health-risk assessment, screening and management, population and occupational medicine, lifestyle medicine.</p></div>
 <div class="mk-theme"><h3>Social determinants of health</h3><p>Workplace mental health, suicide prevention, social epidemiology, labour markets, health inequalities, and the neighbourhood environment.</p></div>
 <div class="mk-theme"><h3>Health policy &amp; management</h3><p>Healthcare workers, health systems, and healthcare reform.</p></div>
 </div>

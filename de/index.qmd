@@ -35,9 +35,9 @@ lang: de
 <h3>Positionen</h3>
 <ul>
 <li>Betriebsarzt, Gyeonggido Office of Education</li>
-<li>Betriebsarzt, Armed Forces Capital Hospital; zentraler Epidemiologe, Verteidigungsministerium (MND); Offizier für Gesundheitsversorgungsmanagement, Armed Forces Medical Command</li>
+<li>Betriebsarzt, Armed Forces Capital Hospital; Offizier für Gesundheitsversorgungsmanagement, Armed Forces Medical Command</li>
+<li>Zentraler Epidemiologe, Verteidigungsministerium (MND)</li>
 <li>Arzt im Praktikum und Assistenzarzt (Präventivmedizin), Korea University Medical Center</li>
-<li>Vizepräsident, Korea University Undergraduate Student Union; Mitglied, Tuition Review Committee, Korea University</li>
 </ul>
 <h3>Berufspolitisches Engagement</h3>
 <ul>
@@ -47,12 +47,13 @@ lang: de
 <li>Ehem. Präsident und Politikberater, Korean Intern Resident Association</li>
 <li>Ehem. Direktor für Politik, Korean Medical Association</li>
 <li>Ehem. koreanischer Delegierter, World Medical Association – Junior Doctors Network (WMA-JDN)</li>
+<li>Vizepräsident, Korea University Undergraduate Student Union; Mitglied, Tuition Review Committee, Korea University</li>
 </ul>
 <h3>Auszeichnungen</h3>
 <ul>
 <li>Auszeichnung durch den Minister für Gesundheit und Wohlfahrt der Republik Korea (Apr 2023)</li>
 <li>Auszeichnung durch den Kommandeur des Sanitätskommandos der Streitkräfte (Armed Forces Medical Command) der Republik Korea (Jun 2026)</li>
-<li>Wissenschaftspreis, Korean Military Medical Association, 57. Konferenz für Militärmedizin und Internationale Konferenz für Militärtraumatologie 2026 (Sep 2026)</li>
+<li>Wissenschaftspreis, Korean Military Medical Association, 57. Konferenz für Militärmedizin (Sep 2026)</li>
 <li>Kang Sang-ho-Preis (Preis für das beste Poster), Korean Society for Health Equity (May 2026)</li>
 <li>Preis für den besten Vortrag, Korean Society for Preventive Medicine (Oct 2025)</li>
 <li>Kim Il-ho-Preis, Korean Intern Resident Association (Dec 2023)</li>
@@ -82,7 +83,7 @@ lang: de
 <section class="mk-sec">
 <div class="mk-lbl">Schwerpunkte</div>
 <div class="mk-themes">
-<div class="mk-theme"><h3>Präventiv- und Arbeitsmedizin</h3><p>Klinische Präventivmedizin, Gesundheitsrisikobewertung, Screening und Management, Bevölkerungs- und Arbeitsmedizin, Lebensstilmedizin.</p></div>
+<div class="mk-theme"><h3>Präventivmedizin und betrieblicher Gesundheitsschutz</h3><p>Klinische Präventivmedizin, Gesundheitsrisikobewertung, Screening und Management, Bevölkerungs- und Arbeitsmedizin, Lebensstilmedizin.</p></div>
 <div class="mk-theme"><h3>Soziale Determinanten der Gesundheit</h3><p>Psychische Gesundheit am Arbeitsplatz, Suizidprävention, Sozialepidemiologie, Arbeitsmärkte, gesundheitliche Ungleichheiten und das Wohnumfeld.</p></div>
 <div class="mk-theme"><h3>Gesundheitspolitik und -management</h3><p>Beschäftigte im Gesundheitswesen, Gesundheitssysteme und Gesundheitsreform.</p></div>
 </div>

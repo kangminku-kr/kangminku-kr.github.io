@@ -35,9 +35,9 @@ lang: es
 <h3>Trayectoria</h3>
 <ul>
 <li>Médico del trabajo, Gyeonggido Office of Education</li>
-<li>Médico del trabajo, Armed Forces Capital Hospital; epidemiólogo central, Ministerio de Defensa Nacional (MND); oficial de gestión sanitaria, Armed Forces Medical Command</li>
+<li>Médico del trabajo, Armed Forces Capital Hospital; oficial de gestión sanitaria, Armed Forces Medical Command</li>
+<li>Epidemiólogo central, Ministerio de Defensa Nacional (MND)</li>
 <li>Interno y residente (medicina preventiva), Korea University Medical Center</li>
-<li>Vicepresidente, Korea University Undergraduate Student Union; miembro, Tuition Review Committee, Korea University</li>
 </ul>
 <h3>Actividades institucionales</h3>
 <ul>
@@ -47,12 +47,13 @@ lang: es
 <li>Expresidente y asesor de políticas, Korean Intern Resident Association</li>
 <li>Exdirector de Políticas, Korean Medical Association</li>
 <li>Exdelegado coreano, World Medical Association – Junior Doctors Network (WMA-JDN)</li>
+<li>Vicepresidente, Korea University Undergraduate Student Union; miembro, Tuition Review Committee, Korea University</li>
 </ul>
 <h3>Reconocimientos</h3>
 <ul>
 <li>Reconocimiento otorgado por el Minister of Health and Welfare, Republic of Korea (Apr 2023)</li>
 <li>Reconocimiento otorgado por el comandante del Armed Forces Medical Command, Republic of Korea (Jun 2026)</li>
-<li>Premio académico, Korean Military Medical Association, 57.ª Conferencia de Medicina Militar y Conferencia Internacional de Traumatología Militar 2026 (Sep 2026)</li>
+<li>Premio académico, Korean Military Medical Association, 57.ª Conferencia de Medicina Militar (Sep 2026)</li>
 <li>Premio Kang Sang-ho (premio al mejor póster), Korean Society for Health Equity (May 2026)</li>
 <li>Premio a la mejor presentación oral, Korean Society for Preventive Medicine (Oct 2025)</li>
 <li>Premio Kim Il-ho, Korean Intern Resident Association (Dec 2023)</li>
@@ -82,7 +83,7 @@ lang: es
 <section class="mk-sec">
 <div class="mk-lbl">Líneas de investigación</div>
 <div class="mk-themes">
-<div class="mk-theme"><h3>Medicina preventiva y del trabajo</h3><p>Medicina preventiva clínica, evaluación de riesgos para la salud, cribado y manejo, medicina poblacional y ocupacional, medicina del estilo de vida.</p></div>
+<div class="mk-theme"><h3>Medicina preventiva y salud laboral</h3><p>Medicina preventiva clínica, evaluación de riesgos para la salud, cribado y manejo, medicina poblacional y ocupacional, medicina del estilo de vida.</p></div>
 <div class="mk-theme"><h3>Determinantes sociales de la salud</h3><p>Salud mental en el trabajo, prevención del suicidio, epidemiología social, mercados laborales, desigualdades en salud y el entorno del barrio.</p></div>
 <div class="mk-theme"><h3>Política y gestión de la salud</h3><p>Personal sanitario, sistemas de salud y reforma sanitaria.</p></div>
 </div>

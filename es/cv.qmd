@@ -29,15 +29,15 @@ Investigo las vías por las que las condiciones de trabajo (largas jornadas labo
 ### Mar 2024–Apr 2027
 
 ::: {.mk-entry .mk-static}
-Médico del trabajo (cargo simultáneo), Gyeonggido Office of Education (Oct 2026–)
+Médico del trabajo, Gyeonggido Office of Education (Oct 2026–)
 :::
 
 ::: {.mk-entry .mk-static}
-Médico del trabajo (cargo simultáneo), Armed Forces Capital Hospital, MND (Oct 2026–Apr 2027)
+Médico del trabajo, Armed Forces Capital Hospital, MND (Oct 2026–Apr 2027)
 :::
 
 ::: {.mk-entry .mk-static}
-Epidemiólogo central (cargo simultáneo), Ministerio de Defensa Nacional (MND) (May 2024–Apr 2027)
+Epidemiólogo central, Ministerio de Defensa Nacional (MND) (May 2024–Apr 2027)
 :::
 
 <details class="mk-entry">
@@ -225,7 +225,7 @@ Para la lista completa de proyectos de investigación y publicaciones, consulte 
 <summary>\(1\) Congresos académicos y seminarios</summary>
 
 - **Nov 2026** (previsto). Las horas de trabajo, el trabajo por turnos según la ocupación y la salud mental: un estudio epidemiológico. Fall Academic Conference, Korean Society of Occupational and Environmental Medicine
-- **Oct 2026** (previsto). Las horas de trabajo, los turnos consecutivos y la privación de sueño durante las guardias localizadas en relación con los síntomas depresivos y la ideación suicida en los médicos residentes coreanos (2022 Korean Intern and Resident Survey). 78th Fall Academic Conference, Korean Society for Preventive Medicine
+- **Oct 2026** (previsto). Las horas de trabajo, los turnos consecutivos y la privación de sueño durante las guardias localizadas en relación con los síntomas depresivos y la ideación suicida en los médicos residentes coreanos (2022 Korean Intern Resident Survey). 78th Fall Academic Conference, Korean Society for Preventive Medicine
 - **Oct 2026** (previsto). Las horas de trabajo y la ideación suicida, con el empleo precario como modificador del efecto (Korean Work, Sleep, and Health Study). 78th Fall Academic Conference, Korean Society for Preventive Medicine
 - **Oct 2026** (previsto). Las horas de trabajo y la salud mental en el personal militar (Military Health Survey). 78th Fall Academic Conference, Korean Society for Preventive Medicine
 - **Sep 2026**. Introducción a la investigación sobre el fortalecimiento de la capacidad de respuesta y gestión frente a enfermedades infecciosas en el ámbito militar (Oral). 57th Conference of Military Medicine & 2026 International Conference on Military Trauma Surgery
@@ -421,7 +421,7 @@ Presidente, Pre-med Student Union, Korea University College of Medicine (Dec 201
 
 - Reconocimiento otorgado por el Minister of Health and Welfare, Republic of Korea (Apr 2023)
 - Reconocimiento otorgado por el comandante del Armed Forces Medical Command, Republic of Korea (Jun 2026)
-- Premio académico, Korean Military Medical Association, 57.ª Conferencia de Medicina Militar y Conferencia Internacional de Traumatología Militar 2026 (Sep 2026)
+- Premio académico, Korean Military Medical Association, 57.ª Conferencia de Medicina Militar (Sep 2026)
 - Premio Kang Sang-ho (premio al mejor póster), Korean Society for Health Equity (May 2026)
 - Premio a la mejor presentación oral, Korean Society for Preventive Medicine (Oct 2025)
 - Premio Kim Il-ho, Korean Intern Resident Association (Dec 2023)

@@ -27,15 +27,15 @@ I study the pathways through which working conditions (long working hours, shift
 ### Mar 2024–Apr 2027
 
 ::: {.mk-entry .mk-static}
-Occupational Health Physician (concurrent), Gyeonggido Office of Education (Oct 2026–)
+Occupational Health Physician, Gyeonggido Office of Education (Oct 2026–)
 :::
 
 ::: {.mk-entry .mk-static}
-Occupational Health Physician (concurrent), Armed Forces Capital Hospital, MND (Oct 2026–Apr 2027)
+Occupational Health Physician, Armed Forces Capital Hospital, MND (Oct 2026–Apr 2027)
 :::
 
 ::: {.mk-entry .mk-static}
-Central Epidemiologist (concurrent), Ministry of National Defense (MND) (May 2024–Apr 2027)
+Central Epidemiologist, Ministry of National Defense (MND) (May 2024–Apr 2027)
 :::
 
 <details class="mk-entry">
@@ -223,7 +223,7 @@ For the full list of research projects and publications, see the [Research](rese
 <summary>\(1\) Academic Conferences and Seminars</summary>
 
 - **Nov 2026** (planned). Working Hours, Shift Work across Occupations, and Mental Health: An Epidemiological Study. Fall Academic Conference, Korean Society of Occupational and Environmental Medicine
-- **Oct 2026** (planned). Working Hours, Consecutive Duty, and On-call Sleep Deprivation in Relation to Depressive Symptoms and Suicidal Ideation among Korean Medical Residents (2022 Korean Intern and Resident Survey). 78th Fall Academic Conference, Korean Society for Preventive Medicine
+- **Oct 2026** (planned). Working Hours, Consecutive Duty, and On-call Sleep Deprivation in Relation to Depressive Symptoms and Suicidal Ideation among Korean Medical Residents (2022 Korean Intern Resident Survey). 78th Fall Academic Conference, Korean Society for Preventive Medicine
 - **Oct 2026** (planned). Working Hours and Suicidal Ideation, with Precarious Employment as an Effect Modifier (Korean Work, Sleep, and Health Study). 78th Fall Academic Conference, Korean Society for Preventive Medicine
 - **Oct 2026** (planned). Working Hours and Mental Health among Military Personnel (Military Health Survey). 78th Fall Academic Conference, Korean Society for Preventive Medicine
 - **Sep 2026**. Introduction to Research on Strengthening Military Infectious-Disease Response and Management Capacity (Oral). 57th Conference of Military Medicine & 2026 International Conference on Military Trauma Surgery
@@ -419,7 +419,7 @@ President, Pre-med Student Union, Korea University College of Medicine (Dec 2012
 
 - Honoured by the Minister of Health and Welfare, Republic of Korea (Apr 2023)
 - Commendation from the Surgeon General, Armed Forces Medical Command, Republic of Korea (Jun 2026)
-- Academic Award, Korean Military Medical Association, 57th Conference on Military Medicine and 2026 International Military Trauma Conference (Sep 2026)
+- Academic Award, Korean Military Medical Association, 57th Conference on Military Medicine (Sep 2026)
 - Kang Sang-ho Award (Best Poster Award), Korean Society for Health Equity (May 2026)
 - Excellent Oral Presentation Award, Korean Society for Preventive Medicine (Oct 2025)
 - Kim Il-ho Award, Korean Intern Resident Association (Dec 2023)

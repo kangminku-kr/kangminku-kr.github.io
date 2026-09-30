@@ -5,7 +5,7 @@ toc: true
 toc-depth: 2
 ---
 
-Siehe auch mein [Google-Scholar-Profil](https://scholar.google.com/citations?user=BUn--4YAAAAJ). Mein Name ist **fett** hervorgehoben.
+[Google Scholar](https://scholar.google.com/citations?user=BUn--4YAAAAJ)
 
 ## Begutachtete Fachartikel
 

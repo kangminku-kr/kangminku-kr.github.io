@@ -35,9 +35,9 @@ lang: fr
 <h3>Fonctions</h3>
 <ul>
 <li>Médecin du travail, Gyeonggido Office of Education</li>
-<li>Médecin du travail, Armed Forces Capital Hospital ; épidémiologiste central, ministère de la Défense nationale (MND) ; officier de gestion des soins, Armed Forces Medical Command</li>
+<li>Médecin du travail, Armed Forces Capital Hospital ; officier de gestion des soins, Armed Forces Medical Command</li>
+<li>Épidémiologiste central, ministère de la Défense nationale (MND)</li>
 <li>Interne et résident (médecine préventive), Korea University Medical Center</li>
-<li>Vice-président, Korea University Undergraduate Student Union ; membre, Tuition Review Committee, Korea University</li>
 </ul>
 <h3>Engagements professionnels</h3>
 <ul>
@@ -47,12 +47,13 @@ lang: fr
 <li>Ancien président et conseiller politique, Korean Intern Resident Association</li>
 <li>Ancien directeur des politiques, Korean Medical Association</li>
 <li>Ancien délégué coréen, World Medical Association – Junior Doctors Network (WMA-JDN)</li>
+<li>Vice-président, Korea University Undergraduate Student Union ; membre, Tuition Review Committee, Korea University</li>
 </ul>
 <h3>Distinctions</h3>
 <ul>
 <li>Distinction décernée par le ministre de la Santé et du Bien-être, République de Corée (Apr 2023)</li>
 <li>Distinction décernée par le commandant du Service de santé des armées (Armed Forces Medical Command), République de Corée (Jun 2026)</li>
-<li>Prix scientifique, Korean Military Medical Association, 57e Conférence de médecine militaire et Conférence internationale de traumatologie militaire 2026 (Sep 2026)</li>
+<li>Prix scientifique, Korean Military Medical Association, 57e Conférence de médecine militaire (Sep 2026)</li>
 <li>Prix Kang Sang-ho (prix du meilleur poster), Korean Society for Health Equity (May 2026)</li>
 <li>Prix de la meilleure communication orale, Korean Society for Preventive Medicine (Oct 2025)</li>
 <li>Prix Kim Il-ho, Korean Intern Resident Association (Dec 2023)</li>
@@ -82,7 +83,7 @@ lang: fr
 <section class="mk-sec">
 <div class="mk-lbl">Axes de recherche</div>
 <div class="mk-themes">
-<div class="mk-theme"><h3>Médecine préventive et médecine du travail</h3><p>Médecine préventive clinique, évaluation des risques pour la santé, dépistage et prise en charge, médecine des populations et médecine du travail, médecine du mode de vie.</p></div>
+<div class="mk-theme"><h3>Médecine préventive et santé au travail</h3><p>Médecine préventive clinique, évaluation des risques pour la santé, dépistage et prise en charge, médecine des populations et médecine du travail, médecine du mode de vie.</p></div>
 <div class="mk-theme"><h3>Déterminants sociaux de la santé</h3><p>Santé mentale au travail, prévention du suicide, épidémiologie sociale, marchés du travail, inégalités de santé et environnement du quartier.</p></div>
 <div class="mk-theme"><h3>Politique et gestion de la santé</h3><p>Personnel de santé, systèmes de santé et réforme des soins de santé.</p></div>
 </div>

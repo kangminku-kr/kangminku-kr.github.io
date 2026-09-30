@@ -5,7 +5,7 @@ toc: true
 toc-depth: 2
 ---
 
-См. также мой [профиль в Google Scholar](https://scholar.google.com/citations?user=BUn--4YAAAAJ). Имя автора выделено **полужирным**.
+[Google Scholar](https://scholar.google.com/citations?user=BUn--4YAAAAJ)
 
 ## Рецензируемые статьи
 

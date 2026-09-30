@@ -35,9 +35,9 @@ lang: ja
 <h3>経歴</h3>
 <ul>
 <li>Gyeonggido Office of Education 産業医</li>
-<li>Armed Forces Capital Hospital 産業医、国防部 (MND) 中央疫学調査官、Armed Forces Medical Command 保健医療政策担当官</li>
+<li>Armed Forces Capital Hospital 産業医、Armed Forces Medical Command 保健医療政策担当官</li>
+<li>国防部 (MND) 中央疫学調査官</li>
 <li>Korea University Medical Center インターン・専攻医（予防医学）</li>
-<li>Korea University Undergraduate Student Union 副会長、Korea University Tuition Review Committee 委員</li>
 </ul>
 <h3>対外活動</h3>
 <ul>
@@ -47,12 +47,13 @@ lang: ja
 <li>元 Korean Intern Resident Association 会長・政策諮問委員</li>
 <li>元 Korean Medical Association 政策理事</li>
 <li>元 World Medical Association – Junior Doctors Network (WMA-JDN) 韓国代表団</li>
+<li>Korea University Undergraduate Student Union 副会長、Korea University Tuition Review Committee 委員</li>
 </ul>
 <h3>受賞</h3>
 <ul>
 <li>大韓民国 保健福祉部長官表彰（Apr 2023）</li>
 <li>大韓民国 国軍医務司令官表彰（Jun 2026）</li>
-<li>学術賞、Korean Military Medical Association、第57回 軍陣医学および2026年 国際軍陣外傷 学術大会（Sep 2026）</li>
+<li>学術賞、Korean Military Medical Association、第57回 軍陣医学学術大会（Sep 2026）</li>
 <li>Kang Sang-ho Award（優秀ポスター賞）、Korean Society for Health Equity（May 2026）</li>
 <li>優秀口演賞、Korean Society for Preventive Medicine（Oct 2025）</li>
 <li>Kim Il-ho Award、Korean Intern Resident Association（Dec 2023）</li>
@@ -82,7 +83,7 @@ lang: ja
 <section class="mk-sec">
 <div class="mk-lbl">重点分野</div>
 <div class="mk-themes">
-<div class="mk-theme"><h3>予防医学・産業医学</h3><p>臨床予防医学、健康リスク評価、検診・健康管理、集団医学・産業医学、生活習慣医学。</p></div>
+<div class="mk-theme"><h3>予防医学・産業保健</h3><p>臨床予防医学、健康リスク評価、検診・健康管理、集団医学・産業医学、生活習慣医学。</p></div>
 <div class="mk-theme"><h3>健康の社会的決定要因</h3><p>職場のメンタルヘルス、自殺予防、社会疫学、労働市場、健康格差、近隣環境。</p></div>
 <div class="mk-theme"><h3>保健医療政策・管理</h3><p>医療従事者、保健医療制度、医療改革。</p></div>
 </div>

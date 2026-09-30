@@ -5,7 +5,7 @@ toc: true
 toc-depth: 2
 ---
 
-Voir également mon [profil Google Scholar](https://scholar.google.com/citations?user=BUn--4YAAAAJ). Le nom de l'auteur figure en **gras**.
+[Google Scholar](https://scholar.google.com/citations?user=BUn--4YAAAAJ)
 
 ## Articles évalués par les pairs
 

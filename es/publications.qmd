@@ -5,7 +5,7 @@ toc: true
 toc-depth: 2
 ---
 
-Consulte también mi [perfil de Google Scholar](https://scholar.google.com/citations?user=BUn--4YAAAAJ). El nombre del autor figura en **negrita**.
+[Google Scholar](https://scholar.google.com/citations?user=BUn--4YAAAAJ)
 
 ## Artículos revisados por pares
 

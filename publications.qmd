@@ -4,7 +4,7 @@ toc: true
 toc-depth: 2
 ---
 
-See also my [Google Scholar profile](https://scholar.google.com/citations?user=BUn--4YAAAAJ). Author's own name in **bold**.
+[Google Scholar](https://scholar.google.com/citations?user=BUn--4YAAAAJ)
 
 ## Peer-reviewed articles
 

@@ -29,15 +29,15 @@ toc-depth: 3
 ### Mar 2024–Apr 2027
 
 ::: {.mk-entry .mk-static}
-産業医（兼任）、Gyeonggido Office of Education（Oct 2026–）
+産業医、Gyeonggido Office of Education（Oct 2026–）
 :::
 
 ::: {.mk-entry .mk-static}
-産業医（兼任）、Armed Forces Capital Hospital, MND（Oct 2026–Apr 2027）
+産業医、Armed Forces Capital Hospital, MND（Oct 2026–Apr 2027）
 :::
 
 ::: {.mk-entry .mk-static}
-中央疫学調査官（兼任）、国防部 (MND)（May 2024–Apr 2027）
+中央疫学調査官、国防部 (MND)（May 2024–Apr 2027）
 :::
 
 <details class="mk-entry">
@@ -225,7 +225,7 @@ Korea University College of Medicine のティーチングアシスタントと�
 <summary>\(1\) 学術大会・セミナー</summary>
 
 - **Nov 2026**. 労働者の職種別労働時間・交代勤務とメンタルヘルスの疫学研究。Fall Academic Conference, Korean Society of Occupational and Environmental Medicine（予定）
-- **Oct 2026**. 韓国の専攻医における労働時間・連続勤務・当直中の睡眠剥奪と抑うつ症状・自殺念慮の関連（2022 Korean Intern and Resident Survey）。78th Fall Academic Conference, Korean Society for Preventive Medicine（予定）
+- **Oct 2026**. 韓国の専攻医における労働時間・連続勤務・当直中の睡眠剥奪と抑うつ症状・自殺念慮の関連（2022 Korean Intern Resident Survey）。78th Fall Academic Conference, Korean Society for Preventive Medicine（予定）
 - **Oct 2026**. 労働時間と自殺念慮：効果修飾因子としての不安定雇用（Korean Work, Sleep, and Health Study）。78th Fall Academic Conference, Korean Society for Preventive Medicine（予定）
 - **Oct 2026**. 軍人における労働時間とメンタルヘルス（Military Health Survey）。78th Fall Academic Conference, Korean Society for Preventive Medicine（予定）
 - **Sep 2026**. 軍感染症の対応・管理能力強化に関する研究の紹介（口演）。57th Conference of Military Medicine & 2026 International Conference on Military Trauma Surgery
@@ -421,7 +421,7 @@ Korea University College of Medicine のティーチングアシスタントと�
 
 - 大韓民国 保健福祉部長官表彰（Apr 2023）
 - 大韓民国 国軍医務司令官表彰（Jun 2026）
-- 学術賞、Korean Military Medical Association、第57回 軍陣医学および2026年 国際軍陣外傷 学術大会（Sep 2026）
+- 学術賞、Korean Military Medical Association、第57回 軍陣医学学術大会（Sep 2026）
 - Kang Sang-ho Award（優秀ポスター賞）、Korean Society for Health Equity（May 2026）
 - 優秀口演賞、Korean Society for Preventive Medicine（Oct 2025）
 - Kim Il-ho Award、Korean Intern Resident Association（Dec 2023）
