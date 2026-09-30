@@ -44,6 +44,13 @@ Central Epidemiologist (concurrent), Ministry of National Defense (MND) (May 202
 - Publication of the Military Health Statistics Annual Report, Armed Forces Medical Command, MND
 - Quarterly analysis of military hospital utilization and quality indicators, and development of policy proposals
 
+**Research in Public Health Medicine**
+
+- Research on Determinants of Mental Health among Military Personnel, Armed Forces Medical Command, MND (2026–2027)
+- Changes in Medical Utilization at Military Hospitals Following the 2024 Healthcare Crisis, Armed Forces Medical Command, MND (2026)
+- Analysis of Healthcare Utilization of Military Personnel in Military and Civilian Hospitals, Armed Forces Medical Command, MND (2025–2026)
+- Strengthening Response and Management Capacity for Infectious Diseases in the Military, Korea Disease Control and Prevention Agency (2025)
+
 </details>
 
 <details class="mk-entry">
@@ -54,15 +61,8 @@ Central Epidemiologist (concurrent), Ministry of National Defense (MND) (May 202
 - Member, Institutional Biosafety Committee and Biosafety Inspector, Armed Forces Medical Research Institute, MND
 - Member, Biosafety Inspection Committee, Arms Control and Verification Team, MND
 
-</details>
+**Research in Public Health Medicine**
 
-<details class="mk-entry">
-<summary>Research in Public Health Medicine (2024–2027)</summary>
-
-- Research on Determinants of Mental Health among Military Personnel, Armed Forces Medical Command, MND (2026–2027)
-- Changes in Medical Utilization at Military Hospitals Following the 2024 Healthcare Crisis, Armed Forces Medical Command, MND (2026)
-- Analysis of Healthcare Utilization of Military Personnel in Military and Civilian Hospitals, Armed Forces Medical Command, MND (2025–2026)
-- Strengthening Response and Management Capacity for Infectious Diseases in the Military, Korea Disease Control and Prevention Agency (2025)
 - Malaria Screening Support and Climate-Based Predictive Modeling among Deployed ROK Forces, Armed Forces Medical Research Institute, MND (2025)
 - Exposure to Febrile Infectious Diseases among ROK Forces Deployed in South Sudan, Armed Forces Medical Command, MND (2025)
 - A Comprehensive Review for Military Vaccination Policy Decision, Armed Forces Medical Command, MND (2024)
@@ -322,7 +322,8 @@ For the full list of research projects and publications, see the [Research](rese
 
 ## Community, Civil Society, and Student Activities
 
-### Human Rights and Mental Health
+<details>
+<summary>Human Rights and Mental Health</summary>
 
 ::: {.mk-entry .mk-static}
 Policy Committee Member, Korea Family Association for the Mentally Disabled (2022–2023)
@@ -336,7 +337,10 @@ Volunteer / participant, Mad Pride Seoul mental health rights event (2019)
 Operating Member, Amnesty International Korea (Oct 2012–Present)
 :::
 
-### Culture, Arts, and Local Space
+</details>
+
+<details>
+<summary>Culture, Arts, and Local Space</summary>
 
 <details class="mk-entry">
 <summary><strong>Policy proposal to reform dance regulation for live music clubs</strong> · Co-representative, Rockjangnol, Live Club Audience Solidarity (2026–Present)</summary>
@@ -354,7 +358,10 @@ Operating Member, Amnesty International Korea (Oct 2012–Present)
 
 </details>
 
-### Youth and Student Governance
+</details>
+
+<details>
+<summary>Youth and Student Governance</summary>
 
 ::: {.mk-entry .mk-static}
 Member, Youth Policy Council, Seongbuk-gu, Seoul (Oct 2015–Apr 2016)
@@ -375,6 +382,8 @@ Member, Tuition Review Committee, Korea University (Jan 2013–Feb 2013)
 ::: {.mk-entry .mk-static}
 President, Pre-med Student Union, Korea University College of Medicine (Dec 2012–Nov 2013)
 :::
+
+</details>
 
 ## Global Activities
 

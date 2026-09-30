@@ -46,6 +46,13 @@ toc-depth: 3
 - Military Health Statistics Annual Report（軍保健統計年報）の刊行、Armed Forces Medical Command, MND
 - 軍病院の利用状況および質指標の四半期分析と政策提言の策定
 
+**公衆衛生医学における研究**
+
+- 軍人のメンタルヘルスの決定要因に関する研究、Armed Forces Medical Command, MND（2026–2027）
+- 2024年の医療危機以降の軍病院における医療利用の変化、Armed Forces Medical Command, MND（2026）
+- 軍病院および民間病院における軍人の医療利用の分析、Armed Forces Medical Command, MND（2025–2026）
+- 軍における感染症の対応・管理能力の強化、Korea Disease Control and Prevention Agency（2025）
+
 </details>
 
 <details class="mk-entry">
@@ -56,15 +63,8 @@ toc-depth: 3
 - Institutional Biosafety Committee 委員およびバイオセーフティ点検官、Armed Forces Medical Research Institute, MND
 - Biosafety Inspection Committee 委員、Arms Control and Verification Team, MND
 
-</details>
+**公衆衛生医学における研究**
 
-<details class="mk-entry">
-<summary>公衆衛生医学における研究 (2024–2027)</summary>
-
-- 軍人のメンタルヘルスの決定要因に関する研究、Armed Forces Medical Command, MND（2026–2027）
-- 2024年の医療危機以降の軍病院における医療利用の変化、Armed Forces Medical Command, MND（2026）
-- 軍病院および民間病院における軍人の医療利用の分析、Armed Forces Medical Command, MND（2025–2026）
-- 軍における感染症の対応・管理能力の強化、Korea Disease Control and Prevention Agency（2025）
 - 海外派遣された韓国軍におけるマラリア・スクリーニング支援と気候に基づく予測モデリング、Armed Forces Medical Research Institute, MND（2025）
 - 南スーダンに派遣された韓国軍における発熱性感染症への曝露、Armed Forces Medical Command, MND（2025）
 - 軍の予防接種政策決定のための包括的レビュー、Armed Forces Medical Command, MND（2024）
@@ -324,7 +324,8 @@ Korea University College of Medicine のティーチングアシスタントと�
 
 ## 地域社会・市民社会・学生活動
 
-### 人権・メンタルヘルス
+<details>
+<summary>人権・メンタルヘルス</summary>
 
 ::: {.mk-entry .mk-static}
 政策委員、Korea Family Association for the Mentally Disabled（2022–2023）
@@ -338,7 +339,10 @@ Korea University College of Medicine のティーチングアシスタントと�
 運営会員、Amnesty International Korea（Oct 2012–現在）
 :::
 
-### 文化・芸術と地域空間
+</details>
+
+<details>
+<summary>文化・芸術と地域空間</summary>
 
 <details class="mk-entry">
 <summary><strong>ライブクラブにおけるダンス規制の法改正政策提言</strong> · 락장놀 Rockjangnol、ライブクラブ観客連帯 共同代表（2026–現在）</summary>
@@ -356,7 +360,10 @@ Korea University College of Medicine のティーチングアシスタントと�
 
 </details>
 
-### 若者・学生自治
+</details>
+
+<details>
+<summary>若者・学生自治</summary>
 
 ::: {.mk-entry .mk-static}
 委員、Youth Policy Council, Seongbuk-gu, Seoul（Oct 2015–Apr 2016）
@@ -377,6 +384,8 @@ Korea University College of Medicine のティーチングアシスタントと�
 ::: {.mk-entry .mk-static}
 会長、Pre-med Student Union, Korea University College of Medicine（Dec 2012–Nov 2013）
 :::
+
+</details>
 
 ## 国際活動
 

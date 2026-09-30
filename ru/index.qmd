@@ -34,16 +34,19 @@ lang: ru
 </ul>
 <h3>Карьера</h3>
 <ul>
+<li>Врач по гигиене труда, Gyeonggido Office of Education</li>
+<li>Врач по гигиене труда, Armed Forces Capital Hospital; центральный эпидемиолог, Министерство национальной обороны (MND); офицер по управлению здравоохранением, Armed Forces Medical Command</li>
+<li>Интерн и ординатор (профилактическая медицина), Korea University Medical Center</li>
+<li>Вице-президент, Korea University Undergraduate Student Union; член, Tuition Review Committee, Korea University</li>
+</ul>
+<h3>Общественная деятельность</h3>
+<ul>
 <li>Советник по политике, Korean Intern Resident Union (KIRU)</li>
 <li>Член правления и председатель Комитета будущих поколений, Korean Society for Preventive Medicine; вице-президент, Korean Association of Preventive Medicine Physicians</li>
 <li>Бывший член, Комитет по оценке условий подготовки ординаторов и Подкомитет по врачебным кадрам, Министерство здравоохранения и социального обеспечения</li>
 <li>Бывший президент и советник по политике, Korean Intern Resident Association</li>
 <li>Бывший директор по политике, Korean Medical Association</li>
 <li>Бывший делегат от Кореи, World Medical Association – Junior Doctors Network (WMA-JDN)</li>
-<li>Врач по гигиене труда, Gyeonggido Office of Education</li>
-<li>Врач по гигиене труда, Armed Forces Capital Hospital; центральный эпидемиолог, Министерство национальной обороны (MND); офицер по управлению здравоохранением, Armed Forces Medical Command</li>
-<li>Интерн и ординатор (профилактическая медицина), Korea University Medical Center</li>
-<li>Вице-президент, Korea University Undergraduate Student Union; член, Tuition Review Committee, Korea University</li>
 </ul>
 <h3>Награды</h3>
 <ul>
@@ -79,7 +82,7 @@ lang: ru
 <section class="mk-sec">
 <div class="mk-lbl">Направления исследований</div>
 <div class="mk-themes">
-<div class="mk-theme"><h3>Профилактическая медицина</h3><p>Клиническая профилактическая медицина, оценка рисков для здоровья, скрининг и ведение пациентов, популяционная медицина и медицина труда, медицина образа жизни.</p></div>
+<div class="mk-theme"><h3>Профилактическая медицина и медицина труда</h3><p>Клиническая профилактическая медицина, оценка рисков для здоровья, скрининг и ведение пациентов, популяционная медицина и медицина труда, медицина образа жизни.</p></div>
 <div class="mk-theme"><h3>Социальные детерминанты здоровья</h3><p>Психическое здоровье на рабочем месте, профилактика суицидов, социальная эпидемиология, рынки труда, неравенство в здоровье и среда проживания.</p></div>
 <div class="mk-theme"><h3>Политика и управление в здравоохранении</h3><p>Медицинские кадры, системы здравоохранения и их реформирование.</p></div>
 </div>

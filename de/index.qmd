@@ -34,16 +34,19 @@ lang: de
 </ul>
 <h3>Positionen</h3>
 <ul>
+<li>Betriebsarzt, Gyeonggido Office of Education</li>
+<li>Betriebsarzt, Armed Forces Capital Hospital; zentraler Epidemiologe, Verteidigungsministerium (MND); Offizier für Gesundheitsversorgungsmanagement, Armed Forces Medical Command</li>
+<li>Arzt im Praktikum und Assistenzarzt (Präventivmedizin), Korea University Medical Center</li>
+<li>Vizepräsident, Korea University Undergraduate Student Union; Mitglied, Tuition Review Committee, Korea University</li>
+</ul>
+<h3>Berufspolitisches Engagement</h3>
+<ul>
 <li>Politikberater, Korean Intern Resident Union (KIRU)</li>
 <li>Vorstandsmitglied und Vorsitzender des Ausschusses für künftige Generationen, Korean Society for Preventive Medicine; Vizepräsident, Korean Association of Preventive Medicine Physicians</li>
 <li>Ehem. Mitglied, Bewertungsausschuss für die Weiterbildung von Assistenzärzten und Unterausschuss für ärztliches Personal, Ministerium für Gesundheit und Wohlfahrt</li>
 <li>Ehem. Präsident und Politikberater, Korean Intern Resident Association</li>
 <li>Ehem. Direktor für Politik, Korean Medical Association</li>
 <li>Ehem. koreanischer Delegierter, World Medical Association – Junior Doctors Network (WMA-JDN)</li>
-<li>Betriebsarzt, Gyeonggido Office of Education</li>
-<li>Betriebsarzt, Armed Forces Capital Hospital; zentraler Epidemiologe, Verteidigungsministerium (MND); Offizier für Gesundheitsversorgungsmanagement, Armed Forces Medical Command</li>
-<li>Arzt im Praktikum und Assistenzarzt (Präventivmedizin), Korea University Medical Center</li>
-<li>Vizepräsident, Korea University Undergraduate Student Union; Mitglied, Tuition Review Committee, Korea University</li>
 </ul>
 <h3>Auszeichnungen</h3>
 <ul>
@@ -79,7 +82,7 @@ lang: de
 <section class="mk-sec">
 <div class="mk-lbl">Schwerpunkte</div>
 <div class="mk-themes">
-<div class="mk-theme"><h3>Präventivmedizin</h3><p>Klinische Präventivmedizin, Gesundheitsrisikobewertung, Screening und Management, Bevölkerungs- und Arbeitsmedizin, Lebensstilmedizin.</p></div>
+<div class="mk-theme"><h3>Präventiv- und Arbeitsmedizin</h3><p>Klinische Präventivmedizin, Gesundheitsrisikobewertung, Screening und Management, Bevölkerungs- und Arbeitsmedizin, Lebensstilmedizin.</p></div>
 <div class="mk-theme"><h3>Soziale Determinanten der Gesundheit</h3><p>Psychische Gesundheit am Arbeitsplatz, Suizidprävention, Sozialepidemiologie, Arbeitsmärkte, gesundheitliche Ungleichheiten und das Wohnumfeld.</p></div>
 <div class="mk-theme"><h3>Gesundheitspolitik und -management</h3><p>Beschäftigte im Gesundheitswesen, Gesundheitssysteme und Gesundheitsreform.</p></div>
 </div>

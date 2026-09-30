@@ -46,6 +46,13 @@ Epidemiólogo central (cargo simultáneo), Ministerio de Defensa Nacional (MND) 
 - Publicación del Informe Anual de Estadísticas de Salud Militar, Armed Forces Medical Command, MND
 - Análisis trimestral de la utilización de los hospitales militares y de los indicadores de calidad, y elaboración de propuestas de política
 
+**Investigación en medicina de salud pública**
+
+- Investigación sobre los determinantes de la salud mental en el personal militar, Armed Forces Medical Command, MND (2026–2027)
+- Cambios en la utilización de servicios médicos en los hospitales militares tras la crisis sanitaria de 2024, Armed Forces Medical Command, MND (2026)
+- Análisis de la utilización de servicios sanitarios del personal militar en hospitales militares y civiles, Armed Forces Medical Command, MND (2025–2026)
+- Fortalecimiento de la capacidad de respuesta y gestión de las enfermedades infecciosas en el ámbito militar, Korea Disease Control and Prevention Agency (2025)
+
 </details>
 
 <details class="mk-entry">
@@ -56,15 +63,8 @@ Epidemiólogo central (cargo simultáneo), Ministerio de Defensa Nacional (MND) 
 - Miembro del Institutional Biosafety Committee e inspector de bioseguridad, Armed Forces Medical Research Institute, MND
 - Miembro, Biosafety Inspection Committee, Arms Control and Verification Team, MND
 
-</details>
+**Investigación en medicina de salud pública**
 
-<details class="mk-entry">
-<summary>Investigación en medicina de salud pública (2024–2027)</summary>
-
-- Investigación sobre los determinantes de la salud mental en el personal militar, Armed Forces Medical Command, MND (2026–2027)
-- Cambios en la utilización de servicios médicos en los hospitales militares tras la crisis sanitaria de 2024, Armed Forces Medical Command, MND (2026)
-- Análisis de la utilización de servicios sanitarios del personal militar en hospitales militares y civiles, Armed Forces Medical Command, MND (2025–2026)
-- Fortalecimiento de la capacidad de respuesta y gestión de las enfermedades infecciosas en el ámbito militar, Korea Disease Control and Prevention Agency (2025)
 - Apoyo al cribado de la malaria y modelización predictiva basada en el clima entre las fuerzas surcoreanas (ROK) desplegadas, Armed Forces Medical Research Institute, MND (2025)
 - Exposición a enfermedades infecciosas febriles entre las fuerzas surcoreanas (ROK) desplegadas en Sudán del Sur, Armed Forces Medical Command, MND (2025)
 - Revisión integral para la toma de decisiones sobre la política de vacunación militar, Armed Forces Medical Command, MND (2024)
@@ -324,7 +324,8 @@ Para la lista completa de proyectos de investigación y publicaciones, consulte 
 
 ## Actividades comunitarias, cívicas y estudiantiles
 
-### Derechos humanos y salud mental
+<details>
+<summary>Derechos humanos y salud mental</summary>
 
 ::: {.mk-entry .mk-static}
 Miembro del comité de políticas, Korea Family Association for the Mentally Disabled (2022–2023)
@@ -338,7 +339,10 @@ Voluntario/participante, evento por los derechos en salud mental Mad Pride Seoul
 Miembro activo, Amnesty International Korea (Oct 2012–Actualidad)
 :::
 
-### Cultura, artes y espacio local
+</details>
+
+<details>
+<summary>Cultura, artes y espacio local</summary>
 
 <details class="mk-entry">
 <summary><strong>Propuesta de reforma legal de la regulación del baile en los clubes de música en vivo</strong> · Copresidente, Rockjangnol, Solidaridad del público de los clubes de música en vivo (2026–Actualidad)</summary>
@@ -356,7 +360,10 @@ Miembro activo, Amnesty International Korea (Oct 2012–Actualidad)
 
 </details>
 
-### Juventud y gobernanza estudiantil
+</details>
+
+<details>
+<summary>Juventud y gobernanza estudiantil</summary>
 
 ::: {.mk-entry .mk-static}
 Miembro, Youth Policy Council, Seongbuk-gu, Seúl (Oct 2015–Apr 2016)
@@ -377,6 +384,8 @@ Miembro, Tuition Review Committee, Korea University (Jan 2013–Feb 2013)
 ::: {.mk-entry .mk-static}
 Presidente, Pre-med Student Union, Korea University College of Medicine (Dec 2012–Nov 2013)
 :::
+
+</details>
 
 ## Actividades internacionales
 

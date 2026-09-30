@@ -34,16 +34,19 @@ lang: es
 </ul>
 <h3>Trayectoria</h3>
 <ul>
+<li>Médico del trabajo, Gyeonggido Office of Education</li>
+<li>Médico del trabajo, Armed Forces Capital Hospital; epidemiólogo central, Ministerio de Defensa Nacional (MND); oficial de gestión sanitaria, Armed Forces Medical Command</li>
+<li>Interno y residente (medicina preventiva), Korea University Medical Center</li>
+<li>Vicepresidente, Korea University Undergraduate Student Union; miembro, Tuition Review Committee, Korea University</li>
+</ul>
+<h3>Actividades institucionales</h3>
+<ul>
 <li>Asesor de políticas, Korean Intern Resident Union (KIRU)</li>
 <li>Miembro de la junta y presidente del Comité de Generaciones Futuras, Korean Society for Preventive Medicine; vicepresidente, Korean Association of Preventive Medicine Physicians</li>
 <li>Exmiembro, Comité de Evaluación del Entorno de Formación de Residentes y Subcomité de Personal Médico, Ministerio de Salud y Bienestar</li>
 <li>Expresidente y asesor de políticas, Korean Intern Resident Association</li>
 <li>Exdirector de Políticas, Korean Medical Association</li>
 <li>Exdelegado coreano, World Medical Association – Junior Doctors Network (WMA-JDN)</li>
-<li>Médico del trabajo, Gyeonggido Office of Education</li>
-<li>Médico del trabajo, Armed Forces Capital Hospital; epidemiólogo central, Ministerio de Defensa Nacional (MND); oficial de gestión sanitaria, Armed Forces Medical Command</li>
-<li>Interno y residente (medicina preventiva), Korea University Medical Center</li>
-<li>Vicepresidente, Korea University Undergraduate Student Union; miembro, Tuition Review Committee, Korea University</li>
 </ul>
 <h3>Reconocimientos</h3>
 <ul>
@@ -79,7 +82,7 @@ lang: es
 <section class="mk-sec">
 <div class="mk-lbl">Líneas de investigación</div>
 <div class="mk-themes">
-<div class="mk-theme"><h3>Medicina preventiva</h3><p>Medicina preventiva clínica, evaluación de riesgos para la salud, cribado y manejo, medicina poblacional y ocupacional, medicina del estilo de vida.</p></div>
+<div class="mk-theme"><h3>Medicina preventiva y del trabajo</h3><p>Medicina preventiva clínica, evaluación de riesgos para la salud, cribado y manejo, medicina poblacional y ocupacional, medicina del estilo de vida.</p></div>
 <div class="mk-theme"><h3>Determinantes sociales de la salud</h3><p>Salud mental en el trabajo, prevención del suicidio, epidemiología social, mercados laborales, desigualdades en salud y el entorno del barrio.</p></div>
 <div class="mk-theme"><h3>Política y gestión de la salud</h3><p>Personal sanitario, sistemas de salud y reforma sanitaria.</p></div>
 </div>

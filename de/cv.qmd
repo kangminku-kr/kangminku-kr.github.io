@@ -46,6 +46,13 @@ Zentraler Epidemiologe (in Nebentätigkeit), Verteidigungsministerium (MND) (May
 - Herausgabe des Military Health Statistics Annual Report (Jahresbericht zur Gesundheitsstatistik der Streitkräfte), Armed Forces Medical Command, MND
 - Vierteljährliche Analyse der Inanspruchnahme von Militärkrankenhäusern und von Qualitätsindikatoren sowie Entwicklung von Politikvorschlägen
 
+**Forschung im Bereich Public Health**
+
+- Forschung zu Determinanten der psychischen Gesundheit von Militärangehörigen, Armed Forces Medical Command, MND (2026–2027)
+- Veränderungen der Inanspruchnahme medizinischer Leistungen in Militärkrankenhäusern nach der Gesundheitskrise von 2024, Armed Forces Medical Command, MND (2026)
+- Analyse der Inanspruchnahme von Gesundheitsleistungen durch Militärangehörige in Militär- und Zivilkrankenhäusern, Armed Forces Medical Command, MND (2025–2026)
+- Stärkung der Reaktions- und Managementkapazitäten für Infektionskrankheiten beim Militär, Korea Disease Control and Prevention Agency (2025)
+
 </details>
 
 <details class="mk-entry">
@@ -56,15 +63,8 @@ Zentraler Epidemiologe (in Nebentätigkeit), Verteidigungsministerium (MND) (May
 - Mitglied, Institutional Biosafety Committee, und Biosicherheitsinspektor, Armed Forces Medical Research Institute, MND
 - Mitglied, Biosafety Inspection Committee, Arms Control and Verification Team, MND
 
-</details>
+**Forschung im Bereich Public Health**
 
-<details class="mk-entry">
-<summary>Forschung im Bereich Public Health (2024–2027)</summary>
-
-- Forschung zu Determinanten der psychischen Gesundheit von Militärangehörigen, Armed Forces Medical Command, MND (2026–2027)
-- Veränderungen der Inanspruchnahme medizinischer Leistungen in Militärkrankenhäusern nach der Gesundheitskrise von 2024, Armed Forces Medical Command, MND (2026)
-- Analyse der Inanspruchnahme von Gesundheitsleistungen durch Militärangehörige in Militär- und Zivilkrankenhäusern, Armed Forces Medical Command, MND (2025–2026)
-- Stärkung der Reaktions- und Managementkapazitäten für Infektionskrankheiten beim Militär, Korea Disease Control and Prevention Agency (2025)
 - Unterstützung beim Malaria-Screening und klimabasierte prädiktive Modellierung bei entsandten südkoreanischen (ROK-)Streitkräften, Armed Forces Medical Research Institute, MND (2025)
 - Exposition gegenüber fieberhaften Infektionskrankheiten bei im Südsudan entsandten südkoreanischen (ROK-)Streitkräften, Armed Forces Medical Command, MND (2025)
 - Umfassende Überprüfung zur Entscheidungsfindung in der militärischen Impfpolitik, Armed Forces Medical Command, MND (2024)
@@ -324,7 +324,8 @@ Die vollständige Liste der Forschungsprojekte und Publikationen finden Sie auf 
 
 ## Gemeinschafts-, zivilgesellschaftliche und Studierendenaktivitäten
 
-### Menschenrechte und psychische Gesundheit
+<details>
+<summary>Menschenrechte und psychische Gesundheit</summary>
 
 ::: {.mk-entry .mk-static}
 Mitglied des Politikausschusses, Korea Family Association for the Mentally Disabled (2022–2023)
@@ -338,7 +339,10 @@ Freiwilliger / Teilnehmer, Mad Pride Seoul, Veranstaltung für die Rechte psychi
 Aktives Mitglied, Amnesty International Korea (Oct 2012–heute)
 :::
 
-### Kultur, Kunst und lokale Räume
+</details>
+
+<details>
+<summary>Kultur, Kunst und lokale Räume</summary>
 
 <details class="mk-entry">
 <summary><strong>Politikvorschlag zur Reform der Tanzregulierung für Live-Musikclubs</strong> · Ko-Vorsitzender, Rockjangnol, Publikumsbündnis der Live-Musikclubs (2026–heute)</summary>
@@ -356,7 +360,10 @@ Aktives Mitglied, Amnesty International Korea (Oct 2012–heute)
 
 </details>
 
-### Jugend und studentische Selbstverwaltung
+</details>
+
+<details>
+<summary>Jugend und studentische Selbstverwaltung</summary>
 
 ::: {.mk-entry .mk-static}
 Mitglied, Youth Policy Council, Seongbuk-gu, Seoul (Oct 2015–Apr 2016)
@@ -377,6 +384,8 @@ Mitglied, Tuition Review Committee, Korea University (Jan 2013–Feb 2013)
 ::: {.mk-entry .mk-static}
 Präsident, Pre-med Student Union, Korea University College of Medicine (Dec 2012–Nov 2013)
 :::
+
+</details>
 
 ## Internationale Aktivitäten
 
