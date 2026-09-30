@@ -46,7 +46,7 @@ toc-depth: 3
 - Military Health Statistics Annual Report（軍保健統計年報）の刊行、Armed Forces Medical Command, MND
 - 軍病院の利用状況および質指標の四半期分析と政策提言の策定
 
-**公衆衛生医学における研究**
+**予防医学・公衆衛生研究**
 
 - 軍人のメンタルヘルスの決定要因に関する研究、Armed Forces Medical Command, MND（2026–2027）
 - 2024年の医療危機以降の軍病院における医療利用の変化、Armed Forces Medical Command, MND（2026）
@@ -63,7 +63,7 @@ toc-depth: 3
 - Institutional Biosafety Committee 委員およびバイオセーフティ点検官、Armed Forces Medical Research Institute, MND
 - Biosafety Inspection Committee 委員、Arms Control and Verification Team, MND
 
-**公衆衛生医学における研究**
+**予防医学・公衆衛生研究**
 
 - 海外派遣された韓国軍におけるマラリア・スクリーニング支援と気候に基づく予測モデリング、Armed Forces Medical Research Institute, MND（2025）
 - 南スーダンに派遣された韓国軍における発熱性感染症への曝露、Armed Forces Medical Command, MND（2025）
@@ -76,13 +76,13 @@ toc-depth: 3
 <details class="mk-entry">
 <summary>専攻医（予防医学）、Korea University Medicine</summary>
 
-**1. 公衆衛生・予防医学実務**
+**1. 予防医学・公衆衛生実務**
 
 職域健康プログラムと疫学サーベイランスを中心に、国の健康増進・疾病予防事業に貢献した。Livestock Health Control Association の健康診断（2022）を支援し、専攻医の36時間連続勤務制度の改革を提言した（2023）。National Center for Mental Health への派遣（2023）を通じて、国の精神保健政策およびサービス事業に関する実務経験を積んだ。
 
 派遣：Mental Health Services Division, National Center for Mental Health、Jan 2023–Feb 2023。
 
-**2. 公衆衛生医学における研究**
+**2. 予防医学・公衆衛生研究**
 
 健康の社会的決定要因、公衆精神保健、職域ウェルビーイングを研究している。専攻医の勤務時間、COVID-19と健康の公平性、疾病の時空間分析に関する研究を主導し、または共同研究者として参画した。Korean Society for Preventive Medicine、KAHPM、KAMS の学術大会で研究成果を発表した。
 
