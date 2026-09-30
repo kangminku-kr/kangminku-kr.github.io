@@ -46,7 +46,7 @@ toc: false
 <h3>Honours</h3>
 <ul>
 <li>Commendation, Minister of Health and Welfare (2023)</li>
-<li>Commendation, Surgeon General, Armed Forces Medical Command (2026)</li>
+<li>Commendation, Surgeon General, Armed Forces Medical Command, Republic of Korea (2026)</li>
 </ul>
 </div>
 <details class="mk-bio">
