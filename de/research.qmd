@@ -15,7 +15,7 @@ toc-depth: 2
 
 - **Arbeitszeiten, verlängerte Dauerdienste und prekäre Beschäftigung: soziale Determinanten psychischer Gesundheit am Arbeitsplatz**
   - Dissertation, Korea University Graduate School (ohne Drittmittel)
-  - **2022.09–2027.02**
+  - **2022.09–2027.08**
 - **Determinanten der psychischen Gesundheit von Militärangehörigen**
   - Auftragsforschung (Drittmittel), Armed Forces Medical Command (MND)
   - **2026.03–2027.03** (KRW 6,380,000)
@@ -28,6 +28,8 @@ toc-depth: 2
 
 ## Mitforscher(in)
 
+- **Reform der Bewertung des Weiterbildungsumfelds zur Verbesserung der Qualität der ärztlichen Weiterbildung**
+  - Korean Hospital Association (KHA) — **2026**
 - **Veränderungen der Inanspruchnahme medizinischer Leistungen in Militärkrankenhäusern nach der Gesundheitskrise von 2024**
   - Armed Forces Medical Command (MND) — **2026**
 - **Analyse der Inanspruchnahme von Gesundheitsleistungen durch Militärangehörige in Militär- und Zivilkrankenhäusern**

@@ -15,7 +15,7 @@ toc-depth: 2
 
 - **Horas de trabajo, guardias consecutivas prolongadas y empleo precario: determinantes sociales de la salud mental en el trabajo**
   - Tesis doctoral, Korea University Graduate School (sin financiación)
-  - **2022.09–2027.02**
+  - **2022.09–2027.08**
 - **Determinantes de la salud mental en el personal militar**
   - Subvención de investigación por encargo, Armed Forces Medical Command (MND)
   - **2026.03–2027.03** (KRW 6,380,000)
@@ -28,6 +28,8 @@ toc-depth: 2
 
 ## Coinvestigador
 
+- **Reforma de la evaluación del entorno de formación de residentes para mejorar la calidad de la formación**
+  - Korean Hospital Association (KHA) — **2026**
 - **Cambios en la utilización de servicios médicos en los hospitales militares tras la crisis sanitaria de 2024**
   - Armed Forces Medical Command (MND) — **2026**
 - **Análisis de la utilización de servicios sanitarios del personal militar en hospitales militares y civiles**
