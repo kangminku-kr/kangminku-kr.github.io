@@ -47,7 +47,7 @@ lang: ru
 <li>Бывший президент и советник по политике, Korean Intern Resident Association</li>
 <li>Бывший директор по политике, Korean Medical Association</li>
 <li>Бывший делегат от Кореи, World Medical Association – Junior Doctors Network (WMA-JDN)</li>
-<li>Вице-президент, Korea University Undergraduate Student Union; член, Tuition Review Committee, Korea University</li>
+<li>Бывший вице-президент, Korea University Undergraduate Student Union; член, Tuition Review Committee, Korea University</li>
 </ul>
 <h3>Награды</h3>
 <ul>
