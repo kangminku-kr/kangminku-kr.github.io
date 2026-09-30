@@ -46,8 +46,13 @@ lang: de
 </ul>
 <h3>Auszeichnungen</h3>
 <ul>
-<li>Auszeichnung des Ministers für Gesundheit und Wohlfahrt der Republik Korea (2023)</li>
-<li>Auszeichnung des Kommandeurs des Armed Forces Medical Command der Republik Korea (2026)</li>
+<li>Auszeichnung durch den Minister für Gesundheit und Wohlfahrt der Republik Korea (Apr 2023)</li>
+<li>Auszeichnung durch den Kommandeur des Sanitätskommandos der Streitkräfte (Armed Forces Medical Command) der Republik Korea (Jun 2026)</li>
+<li>Wissenschaftspreis, Korean Military Medical Association, 57. Konferenz für Militärmedizin und Internationale Konferenz für Militärtraumatologie 2026 (Sep 2026)</li>
+<li>Kang Sang-ho-Preis (Preis für das beste Poster), Korean Society for Health Equity (May 2026)</li>
+<li>Preis für den besten Vortrag, Korean Society for Preventive Medicine (Oct 2025)</li>
+<li>Kim Il-ho-Preis, Korean Intern Resident Association (Dec 2023)</li>
+<li>Auszeichnung für herausragende Arbeit, COVID-19 Student Paper Contest, SNU Institute of Health and Environment (Dec 2022)</li>
 </ul>
 </div>
 <details class="mk-bio">
