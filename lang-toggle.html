@@ -55,29 +55,47 @@
     x.setAttribute('href', ORIGIN + link('en',file));
     head.appendChild(x);
   }
+  // 공유 게시판(블로그)은 언어판이 없어 주소만으로는 언어를 알 수 없다.
+  // 예전에는 여기서 메뉴를 영어로 그려, 한국어로 보던 사람이 블로그를 거쳐 다른 메뉴를
+  // 누르면 영어판으로 넘어갔다(2026-09-30 본부장 보고: "섹션을 누르다 보면 언어가 바뀐다").
+  // 그래서 공유 페이지의 메뉴는 마지막으로 본 언어판을 따른다.
+  // 순서: 마지막으로 본 언어판 > 직접 고른 언어 > 브라우저 언어(lang-redirect.html과 같은 판정) > 영어
+  function sharedNavLang(){
+    var t=null;
+    try{ t=localStorage.getItem('mk-lang-last'); }catch(e){}
+    if(!t || !PREFIX[t]){ try{ t=localStorage.getItem('mk-lang'); }catch(e){} }
+    if(t && PREFIX[t]) return t;
+    var L=(navigator.languages && navigator.languages.length) ? navigator.languages : [navigator.language||''];
+    L=[].map.call(L, function(x){ return String(x||'').toLowerCase().split('-')[0]; });
+    if(L[0]==='ko' || (L[0]==='en' && L.indexOf('ko')>0)) return 'ko';
+    for(var i=0;i<L.length;i++){ if(PREFIX[L[i]]) return L[i]; }
+    return 'en';
+  }
   function run(){
     var p=pageOf(), lang=p.lang, file=p.file;
     var onShared = !!SHARED[file] || location.pathname.indexOf('/posts/')!==-1;  // shared board or a post page
+    var nav = onShared ? sharedNavLang() : lang;   // 메뉴·로고 링크가 따를 언어
+    if(!onShared){ try{ localStorage.setItem('mk-lang-last', lang); }catch(e){} }
     document.documentElement.lang=lang;
     hreflang(lang, file, onShared);
     document.querySelectorAll('.navbar-nav .nav-link').forEach(function(a){
       if(a.classList.contains('dropdown-toggle')) return;
       var t=(a.getAttribute('href')||'').split('/').pop()||'index.html';
-      if(NAV[t]){ a.setAttribute('href', SHARED[t] ? '/'+t : link(lang,t)); a.textContent=NAV[t][lang]||NAV[t].en; }
+      if(NAV[t]){ a.setAttribute('href', SHARED[t] ? '/'+t : link(nav,t)); a.textContent=NAV[t][nav]||NAV[t].en; }
     });
     var brand=document.querySelector('.navbar-brand');
-    if(brand) brand.setAttribute('href', link(lang,'index.html'));
+    if(brand) brand.setAttribute('href', link(nav,'index.html'));
     var byName={}; Object.keys(LANGNAME).forEach(function(lg){ byName[LANGNAME[lg]]=lg; });
     document.querySelectorAll('.navbar .dropdown-item').forEach(function(a){
       var lg=byName[(a.textContent||'').trim()];
       if(!lg) return;
       var target=((KO_ONLY[file] && lg!=='ko') || onShared) ? link(lg,'index.html') : link(lg,file);
       a.setAttribute('href', target);
-      if(lg===lang){ a.classList.add('active'); a.setAttribute('aria-current','true'); }
+      if(lg===nav){ a.classList.add('active'); a.setAttribute('aria-current','true'); }
     });
     document.querySelectorAll('.navbar .nav-link.dropdown-toggle').forEach(function(tog){
       var menu=tog.parentElement.querySelector('.dropdown-menu');
-      if(menu && menu.textContent.indexOf('Français')!==-1){ tog.textContent='🌐 '+LANGNAME[lang]; }
+      if(menu && menu.textContent.indexOf('Français')!==-1){ tog.textContent='🌐 '+LANGNAME[nav]; }
     });
 
     // 대문의 언어 선택 — 접힌 'Language' 탭을 누르면 7개 언어가 아래로 펼쳐진다.
