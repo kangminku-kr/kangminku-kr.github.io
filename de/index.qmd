@@ -40,6 +40,7 @@ lang: de
 <li>Ehem. Präsident und Politikberater, Korean Intern Resident Association</li>
 <li>Ehem. Direktor für Politik, Korean Medical Association</li>
 <li>Ehem. koreanischer Delegierter, World Medical Association – Junior Doctors Network (WMA-JDN)</li>
+<li>Betriebsarzt, Gyeonggido Office of Education</li>
 <li>Betriebsarzt, Armed Forces Capital Hospital; zentraler Epidemiologe, Verteidigungsministerium (MND); Offizier für Gesundheitsversorgungsmanagement, Armed Forces Medical Command</li>
 <li>Arzt im Praktikum und Assistenzarzt (Präventivmedizin), Korea University Medical Center</li>
 <li>Vizepräsident, Korea University Undergraduate Student Union; Mitglied, Tuition Review Committee, Korea University</li>

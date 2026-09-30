@@ -177,6 +177,31 @@ details > summary{
 details > summary:hover{ color:$accent; }
 details[open] > summary{ margin-bottom:.7rem; color:$ink; }
 
+/* CV 항목 접기 (2026-09-30) — 항목 이름을 누르면 그 항목의 세부 내용이 열린다.
+   위의 전역 details 규칙은 '묶음 접기'(학술 발표·정책 자문 등)용이라 여기서 되돌린다.
+   왼쪽 + / – 가 '열리는 항목' 표시다. 세부가 없는 항목(.mk-static)은 같은 폭을 비워 줄을 맞춘다. */
+.mk-entry{ margin:0 0 .5rem; }
+details.mk-entry{ border-top:0; padding:0; }
+details.mk-entry > summary,
+.mk-static > p{
+  position:relative; display:block; margin:0; padding:0 0 0 1.35em;
+  color:$ink; font-weight:400; line-height:1.6;
+}
+details.mk-entry > summary::-webkit-details-marker{ display:none; }
+details.mk-entry > summary::before{
+  content:"+"; position:absolute; left:0; top:0; width:1em; text-align:center;
+  color:$faint; font-weight:400;
+}
+details.mk-entry[open] > summary::before{ content:"–"; color:$accent; }
+details.mk-entry > summary:hover,
+details.mk-entry > summary:hover::before{ color:$accent; }
+details.mk-entry[open] > summary{ margin-bottom:.5rem; color:$ink; }
+details.mk-entry[open]{ padding-bottom:.4rem; }
+details.mk-entry > :not(summary){ margin-left:1.35em; }
+.mk-e-name{ font-weight:600; }
+.mk-e-role{ color:$muted; margin-left:.3em; }
+.mk-e-when{ color:$faint; margin-left:.3em; white-space:nowrap; }
+
 #quarto-margin-sidebar .nav-link{ color:$muted; border:none; }
 #quarto-margin-sidebar .nav-link:hover, #quarto-margin-sidebar .nav-link.active{ color:$accent; }
 

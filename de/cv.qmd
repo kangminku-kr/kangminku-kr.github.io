@@ -28,15 +28,38 @@ Ich erforsche die Wirkungspfade, über die Arbeitsbedingungen (lange Arbeitszeit
 
 ### Mar 2024–Apr 2027
 
-- Betriebsarzt (in Nebentätigkeit), Armed Forces Capital Hospital, MND (Oct 2026–Apr 2027)
-- Zentraler Epidemiologe (in Nebentätigkeit), Verteidigungsministerium (MND) (May 2024–Apr 2027)
-- Offizier für Gesundheitsversorgungsmanagement, Armed Forces Medical Command, MND (May 2025–Apr 2027)
-- Offizier für Präventivmedizin, Armed Forces Medical Research Institute, MND (May 2024–Apr 2025)
+::: {.mk-entry .mk-static}
+Betriebsarzt (in Nebentätigkeit), Gyeonggido Office of Education (Oct 2026–)
+:::
 
-<details>
-<summary>Forschungs- und Verwaltungstätigkeiten</summary>
+::: {.mk-entry .mk-static}
+Betriebsarzt (in Nebentätigkeit), Armed Forces Capital Hospital, MND (Oct 2026–Apr 2027)
+:::
 
-**Forschung im Bereich Public Health**
+::: {.mk-entry .mk-static}
+Zentraler Epidemiologe (in Nebentätigkeit), Verteidigungsministerium (MND) (May 2024–Apr 2027)
+:::
+
+<details class="mk-entry">
+<summary>Offizier für Gesundheitsversorgungsmanagement, Armed Forces Medical Command, MND (May 2025–Apr 2027)</summary>
+
+- Herausgabe des Military Health Statistics Annual Report (Jahresbericht zur Gesundheitsstatistik der Streitkräfte), Armed Forces Medical Command, MND
+- Vierteljährliche Analyse der Inanspruchnahme von Militärkrankenhäusern und von Qualitätsindikatoren sowie Entwicklung von Politikvorschlägen
+
+</details>
+
+<details class="mk-entry">
+<summary>Offizier für Präventivmedizin, Armed Forces Medical Research Institute, MND (May 2024–Apr 2025)</summary>
+
+- Überwachung von Infektionskrankheiten und Biosicherheitsinspektionen im militärischen Umfeld
+- Herausgabe des Monthly Infectious Disease Report (monatlicher Bericht zu Infektionskrankheiten), Armed Forces Medical Research Institute, MND
+- Mitglied, Institutional Biosafety Committee, und Biosicherheitsinspektor, Armed Forces Medical Research Institute, MND
+- Mitglied, Biosafety Inspection Committee, Arms Control and Verification Team, MND
+
+</details>
+
+<details class="mk-entry">
+<summary>Forschung im Bereich Public Health (2024–2027)</summary>
 
 - Forschung zu Determinanten der psychischen Gesundheit von Militärangehörigen, Armed Forces Medical Command, MND (2026–2027)
 - Veränderungen der Inanspruchnahme medizinischer Leistungen in Militärkrankenhäusern nach der Gesundheitskrise von 2024, Armed Forces Medical Command, MND (2026)
@@ -46,27 +69,12 @@ Ich erforsche die Wirkungspfade, über die Arbeitsbedingungen (lange Arbeitszeit
 - Exposition gegenüber fieberhaften Infektionskrankheiten bei im Südsudan entsandten südkoreanischen (ROK-)Streitkräften, Armed Forces Medical Command, MND (2025)
 - Umfassende Überprüfung zur Entscheidungsfindung in der militärischen Impfpolitik, Armed Forces Medical Command, MND (2024)
 
-**Offizier für Gesundheitsversorgungsmanagement**
-
-- Herausgabe des Military Health Statistics Annual Report (Jahresbericht zur Gesundheitsstatistik der Streitkräfte), Armed Forces Medical Command, MND
-- Vierteljährliche Analyse der Inanspruchnahme von Militärkrankenhäusern und von Qualitätsindikatoren sowie Entwicklung von Politikvorschlägen
-
-**Offizier für Präventivmedizin**
-
-- Überwachung von Infektionskrankheiten und Biosicherheitsinspektionen im militärischen Umfeld
-- Herausgabe des Monthly Infectious Disease Report (monatlicher Bericht zu Infektionskrankheiten), Armed Forces Medical Research Institute, MND
-- Mitglied, Institutional Biosafety Committee, und Biosicherheitsinspektor, Armed Forces Medical Research Institute, MND
-- Mitglied, Biosafety Inspection Committee, Arms Control and Verification Team, MND
-
 </details>
 
 ### Mar 2020–Feb 2024
 
-- Assistenzarzt (Präventivmedizin), Korea University Medicine
-- Arzt im Praktikum (Intern), Korea University Medicine
-
-<details>
-<summary>Klinische, Forschungs- und Lehrtätigkeiten</summary>
+<details class="mk-entry">
+<summary>Assistenzarzt (Präventivmedizin), Korea University Medicine</summary>
 
 **1. Praxis in Public Health und Präventivmedizin**
 
@@ -86,6 +94,10 @@ Als wissenschaftlicher Assistent (Teaching Assistant) am Korea University Colleg
 
 </details>
 
+::: {.mk-entry .mk-static}
+Arzt im Praktikum (Intern), Korea University Medicine
+:::
+
 ## Approbation und Zertifizierungen
 
 - Ärztliche Approbation, Korea Ministry of Health and Welfare
@@ -96,12 +108,8 @@ Als wissenschaftlicher Assistent (Teaching Assistant) am Korea University Colleg
 
 ## Fachgesellschaften
 
-### Korean Society for Preventive Medicine
-
-**Vorstandsmitglied; Vorsitzender, Future Generations Committee**
-
-<details>
-<summary>Ausschussmitgliedschaften</summary>
+<details class="mk-entry">
+<summary><span class="mk-e-name">Korean Society for Preventive Medicine</span> <span class="mk-e-role">Vorstandsmitglied; Vorsitzender, Future Generations Committee</span></summary>
 
 - Mitglied und Schriftführer, Social Mental Health Committee
 - Mitglied, Clinical Preventive Medicine Committee
@@ -110,22 +118,20 @@ Als wissenschaftlicher Assistent (Teaching Assistant) am Korea University Colleg
 
 </details>
 
-### Korean Society of Occupational and Environmental Medicine
-
-<details>
-<summary>Gremien und Forschungsgruppen</summary>
+<details class="mk-entry">
+<summary><span class="mk-e-name">Korean Society of Occupational and Environmental Medicine</span></summary>
 
 - Mitglied, Corporate Occupational Physicians Council
 - Forschungsmitglied, Work, Sleep, Health Cohort Research Group
 
 </details>
 
+::: {.mk-entry .mk-static}
+[Korean Society of Occupational Stress]{.mk-e-name}
+:::
 
-### Korean Society of Occupational Stress
-### Korean Society for Equity in Health
-
-<details>
-<summary>Forschungsgruppen und Ausschüsse</summary>
+<details class="mk-entry">
+<summary><span class="mk-e-name">Korean Society for Equity in Health</span></summary>
 
 - Schriftführer, Labour and Mental Health Research Group
 - Mitglied, Health Equity Policy Research Group
@@ -134,19 +140,15 @@ Als wissenschaftlicher Assistent (Teaching Assistant) am Korea University Colleg
 
 </details>
 
-### Korean Society of Epidemiology
-
-<details>
-<summary>Forschungsgruppe</summary>
+<details class="mk-entry">
+<summary><span class="mk-e-name">Korean Society of Epidemiology</span></summary>
 
 - Mitglied, Psychiatric Epidemiology Research Group
 
 </details>
 
-### Weitere Fachgesellschaften
-
-<details>
-<summary>Mitgliedschaften</summary>
+<details class="mk-entry">
+<summary><span class="mk-e-name">Weitere Fachgesellschaften</span></summary>
 
 - Mitglied, Korean Society of Health Administration
 - Mitglied, Korean Association of Health Economics and Policy
@@ -159,28 +161,20 @@ Als wissenschaftlicher Assistent (Teaching Assistant) am Korea University Colleg
 
 ## Berufsverbände
 
-### Korean Association of Preventive Medicine Physicians
-
-**Vizepräsident; Gründungsmitglied** Mar 2025–heute
-
-<details>
-<summary>Rolle und Tätigkeiten</summary>
+<details class="mk-entry">
+<summary><span class="mk-e-name">Korean Association of Preventive Medicine Physicians</span> <span class="mk-e-role">Vizepräsident; Gründungsmitglied</span> <span class="mk-e-when">Mar 2025–heute</span></summary>
 
 - Verantwortlich für Außenbeziehungen, Organisationsmanagement und gesundheitspolitische Angelegenheiten des Verbands.
 - Präsentation von „Vorbereitende Erhebung für die Korean Association of Preventive Medicine Physicians: Wo stehen Fachärzte für Präventivmedizin heute?" auf der 77th Fall Academic Conference of the Korean Society for Preventive Medicine, Oct 2025.
 
 </details>
 
-### Korean Intern Resident Union
+::: {.mk-entry .mk-static}
+[Korean Intern Resident Union]{.mk-e-name} [Politikberater]{.mk-e-role} [Sep 2025–heute]{.mk-e-when}
+:::
 
-**Politikberater** Sep 2025–heute
-
-### Korean Intern Resident Association
-
-**Präsident** Sep 2022–Aug 2023
-
-<details>
-<summary>Weitere Funktionen</summary>
+<details class="mk-entry">
+<summary><span class="mk-e-name">Korean Intern Resident Association</span> <span class="mk-e-role">Präsident</span> <span class="mk-e-when">Sep 2022–Aug 2023</span></summary>
 
 - Studienleiter (Principal Investigator), Studie zur Reform des Systems der durchgehenden 36-Stunden-Dienste für Assistenzärzte
 - Studienleiter (Principal Investigator), Landesweite Erhebung unter Assistenzärzten 2022
@@ -190,12 +184,8 @@ Als wissenschaftlicher Assistent (Teaching Assistant) am Korea University Colleg
 
 </details>
 
-### Korean Medical Association
-
-**Direktor für Politik** Sep 2022–Aug 2023
-
-<details>
-<summary>Delegiertenämter, Ausschussberufungen und Fortbildungen</summary>
+<details class="mk-entry">
+<summary><span class="mk-e-name">Korean Medical Association</span> <span class="mk-e-role">Direktor für Politik</span> <span class="mk-e-when">Sep 2022–Aug 2023</span></summary>
 
 - Delegierter, KMA National Assembly (Sep 2021–Aug 2022)
 - Delegierter, Seoul Medical Association (Nov 2022–Oct 2023)
@@ -322,7 +312,7 @@ Die vollständige Liste der Forschungsprojekte und Publikationen finden Sie auf 
 <details>
 <summary>Berufsverbände und Wissenschaft</summary>
 
-**Korea Hospital Association**
+**Korean Hospital Association**
 
 - Politikstudie zur Stärkung des öffentlichen Charakters der Facharztweiterbildung (2023)
 
@@ -333,25 +323,32 @@ Die vollständige Liste der Forschungsprojekte und Publikationen finden Sie auf 
 </details>
 
 ## Gemeinschafts-, zivilgesellschaftliche und Studierendenaktivitäten
+
 ### Menschenrechte und psychische Gesundheit
 
-- Mitglied des Politikausschusses, Korea Family Association for the Mentally Disabled (2022–2023)
-- Freiwilliger / Teilnehmer, Mad Pride Seoul, Veranstaltung für die Rechte psychisch Erkrankter (2019)
-- Aktives Mitglied, Amnesty International Korea (Oct 2012–heute)
+::: {.mk-entry .mk-static}
+Mitglied des Politikausschusses, Korea Family Association for the Mentally Disabled (2022–2023)
+:::
+
+::: {.mk-entry .mk-static}
+Freiwilliger / Teilnehmer, Mad Pride Seoul, Veranstaltung für die Rechte psychisch Erkrankter (2019)
+:::
+
+::: {.mk-entry .mk-static}
+Aktives Mitglied, Amnesty International Korea (Oct 2012–heute)
+:::
 
 ### Kultur, Kunst und lokale Räume
 
-- **Politikvorschlag zur Reform der Tanzregulierung für Live-Musikclubs** · Ko-Vorsitzender, Rockjangnol, Publikumsbündnis der Live-Musikclubs (2026–heute)
-- **Gründer und Leiter**, Woosadan Studio, soziokultureller Raum (Feb 2018–Feb 2020)
-
-<details>
-<summary>Details</summary>
-
-**Rockjangnol, Publikumsbündnis der Live-Musikclubs**
+<details class="mk-entry">
+<summary><strong>Politikvorschlag zur Reform der Tanzregulierung für Live-Musikclubs</strong> · Ko-Vorsitzender, Rockjangnol, Publikumsbündnis der Live-Musikclubs (2026–heute)</summary>
 
 - Ko-Vorsitzender; Initiator des Vorschlags, Erstellung des Politikpapiers und der Pressemitteilung
 
-**Woosadan Studio**
+</details>
+
+<details class="mk-entry">
+<summary><strong>Gründer und Leiter</strong>, Woosadan Studio, soziokultureller Raum (Feb 2018–Feb 2020)</summary>
 
 - Projekt zur gemeinsamen Raumnutzung für Jugendliche (2018–2020) und Eröffnungsfeier des Usadan Studios (2018) — Projektleitung und Raumbetrieb
 - Straßenkonzertreihe: Geisteswissenschaften und Kunst, Ministry of Culture, Sports and Tourism (2018) — Mitwirkung und Raumbetrieb
@@ -361,29 +358,30 @@ Die vollständige Liste der Forschungsprojekte und Publikationen finden Sie auf 
 
 ### Jugend und studentische Selbstverwaltung
 
-- Mitglied, Youth Policy Council, Seongbuk-gu, Seoul (Oct 2015–Apr 2016)
-- **Vizepräsident**, Korea University Undergraduate Student Union (Dec 2014–Nov 2015)
-- Mitglied, Tuition Review Committee, Korea University (Jan 2013–Feb 2013)
-- Präsident, Pre-med Student Union, Korea University College of Medicine (Dec 2012–Nov 2013)
+::: {.mk-entry .mk-static}
+Mitglied, Youth Policy Council, Seongbuk-gu, Seoul (Oct 2015–Apr 2016)
+:::
 
-<details>
-<summary>Details</summary>
-
-**Während der Vizepräsidentschaft der Studierendenvertretung**
+<details class="mk-entry">
+<summary><strong>Vizepräsident</strong>, Korea University Undergraduate Student Union (Dec 2014–Nov 2015)</summary>
 
 - Aktion für studentisches Wohnen: Wohnheimprojekt — Projektleitung; benannter Diskutant beim Forum der Nationalversammlung zum Wohnen junger Erwachsener (2015)
 - Leitung der Festivalplanung, Korea University (2015)
 
 </details>
 
+::: {.mk-entry .mk-static}
+Mitglied, Tuition Review Committee, Korea University (Jan 2013–Feb 2013)
+:::
+
+::: {.mk-entry .mk-static}
+Präsident, Pre-med Student Union, Korea University College of Medicine (Dec 2012–Nov 2013)
+:::
+
 ## Internationale Aktivitäten
 
-### World Medical Association – Junior Doctors Network (WMA-JDN)
-
-**Mitglied der koreanischen Delegation** Apr 2022–Feb 2024
-
-<details>
-<summary>Teilgenommene Treffen</summary>
+<details class="mk-entry">
+<summary><span class="mk-e-name">World Medical Association – Junior Doctors Network (WMA-JDN)</span> <span class="mk-e-role">Mitglied der koreanischen Delegation</span> <span class="mk-e-when">Apr 2022–Feb 2024</span></summary>
 
 - Paris, Frankreich / Berlin, Deutschland 2022
 - Nairobi, Kenia / Kigali, Ruanda 2023
@@ -392,10 +390,13 @@ Die vollständige Liste der Forschungsprojekte und Publikationen finden Sie auf 
 
 </details>
 
-### Korean Medical Students' Association (KMSA)
+<details class="mk-entry">
+<summary><span class="mk-e-name">Korean Medical Students' Association (KMSA)</span></summary>
 
 - Koreanischer Delegierter, IFMSA Asia-Pacific Regional Meeting (APRM), Dhaka, Bangladesch (Sep 2014)
 - Mitglied (Mar 2012–Feb 2013)
+
+</details>
 
 ## Ehrenamtliches Engagement
 

@@ -28,15 +28,38 @@ toc-depth: 3
 
 ### Mar 2024–Apr 2027
 
-- Врач по гигиене труда (по совместительству), Armed Forces Capital Hospital, MND (Oct 2026–Apr 2027)
-- Центральный эпидемиолог (по совместительству), Министерство национальной обороны (MND) (May 2024–Apr 2027)
-- Офицер по управлению здравоохранением, Armed Forces Medical Command, MND (May 2025–Apr 2027)
-- Офицер по профилактической медицине, Armed Forces Medical Research Institute, MND (May 2024–Apr 2025)
+::: {.mk-entry .mk-static}
+Врач по гигиене труда (по совместительству), Gyeonggido Office of Education (Oct 2026–)
+:::
 
-<details>
-<summary>Научная и управленческая деятельность</summary>
+::: {.mk-entry .mk-static}
+Врач по гигиене труда (по совместительству), Armed Forces Capital Hospital, MND (Oct 2026–Apr 2027)
+:::
 
-**Научная работа в области общественного здравоохранения и медицины**
+::: {.mk-entry .mk-static}
+Центральный эпидемиолог (по совместительству), Министерство национальной обороны (MND) (May 2024–Apr 2027)
+:::
+
+<details class="mk-entry">
+<summary>Офицер по управлению здравоохранением, Armed Forces Medical Command, MND (May 2025–Apr 2027)</summary>
+
+- Издание ежегодного отчёта по военной медицинской статистике (Military Health Statistics Annual Report), Armed Forces Medical Command, MND
+- Ежеквартальный анализ использования военных госпиталей и показателей качества, а также разработка предложений по политике
+
+</details>
+
+<details class="mk-entry">
+<summary>Офицер по профилактической медицине, Armed Forces Medical Research Institute, MND (May 2024–Apr 2025)</summary>
+
+- Эпидемиологический надзор за инфекционными заболеваниями и инспекция биобезопасности в вооружённых силах
+- Издание ежемесячного отчёта по инфекционным заболеваниям (Monthly Infectious Disease Report), Armed Forces Medical Research Institute, MND
+- Член институционального комитета по биобезопасности и инспектор по биобезопасности, Armed Forces Medical Research Institute, MND
+- Член комитета по инспекции биобезопасности, Arms Control and Verification Team, MND
+
+</details>
+
+<details class="mk-entry">
+<summary>Научная работа в области общественного здравоохранения и медицины (2024–2027)</summary>
 
 - Исследование детерминант психического здоровья военнослужащих, Armed Forces Medical Command, MND (2026–2027)
 - Изменения в использовании медицинских услуг в военных госпиталях после кризиса здравоохранения 2024 года, Armed Forces Medical Command, MND (2026)
@@ -46,27 +69,12 @@ toc-depth: 3
 - Подверженность лихорадочным инфекционным заболеваниям среди военнослужащих Республики Корея, развёрнутых в Южном Судане, Armed Forces Medical Command, MND (2025)
 - Комплексный обзор для принятия решений по политике вакцинации в вооружённых силах, Armed Forces Medical Command, MND (2024)
 
-**Офицер по управлению здравоохранением**
-
-- Издание ежегодного отчёта по военной медицинской статистике (Military Health Statistics Annual Report), Armed Forces Medical Command, MND
-- Ежеквартальный анализ использования военных госпиталей и показателей качества, а также разработка предложений по политике
-
-**Офицер по профилактической медицине**
-
-- Эпидемиологический надзор за инфекционными заболеваниями и инспекция биобезопасности в вооружённых силах
-- Издание ежемесячного отчёта по инфекционным заболеваниям (Monthly Infectious Disease Report), Armed Forces Medical Research Institute, MND
-- Член институционального комитета по биобезопасности и инспектор по биобезопасности, Armed Forces Medical Research Institute, MND
-- Член комитета по инспекции биобезопасности, Arms Control and Verification Team, MND
-
 </details>
 
 ### Mar 2020–Feb 2024
 
-- Врач-ординатор (профилактическая медицина), Korea University Medicine
-- Врач-интерн, Korea University Medicine
-
-<details>
-<summary>Клиническая, научная и преподавательская деятельность</summary>
+<details class="mk-entry">
+<summary>Врач-ординатор (профилактическая медицина), Korea University Medicine</summary>
 
 **1. Практика в области общественного здравоохранения и профилактической медицины**
 
@@ -86,6 +94,10 @@ toc-depth: 3
 
 </details>
 
+::: {.mk-entry .mk-static}
+Врач-интерн, Korea University Medicine
+:::
+
 ## Лицензии и сертификаты
 
 - Медицинская лицензия, Korea Ministry of Health and Welfare
@@ -96,12 +108,8 @@ toc-depth: 3
 
 ## Научные общества
 
-### Korean Society for Preventive Medicine
-
-**Член правления; председатель Future Generations Committee**
-
-<details>
-<summary>Членство в комитетах</summary>
+<details class="mk-entry">
+<summary><span class="mk-e-name">Korean Society for Preventive Medicine</span> <span class="mk-e-role">Член правления; председатель Future Generations Committee</span></summary>
 
 - Член и секретарь, Social Mental Health Committee
 - Член, Clinical Preventive Medicine Committee
@@ -110,22 +118,20 @@ toc-depth: 3
 
 </details>
 
-### Korean Society of Occupational and Environmental Medicine
-
-<details>
-<summary>Советы и исследовательские группы</summary>
+<details class="mk-entry">
+<summary><span class="mk-e-name">Korean Society of Occupational and Environmental Medicine</span></summary>
 
 - Член, Corporate Occupational Physicians Council
 - Исследователь, Work, Sleep, Health Cohort Research Group
 
 </details>
 
+::: {.mk-entry .mk-static}
+[Korean Society of Occupational Stress]{.mk-e-name}
+:::
 
-### Korean Society of Occupational Stress
-### Korean Society for Equity in Health
-
-<details>
-<summary>Исследовательские группы и комитеты</summary>
+<details class="mk-entry">
+<summary><span class="mk-e-name">Korean Society for Equity in Health</span></summary>
 
 - Секретарь, Labour and Mental Health Research Group
 - Член, Health Equity Policy Research Group
@@ -134,19 +140,15 @@ toc-depth: 3
 
 </details>
 
-### Korean Society of Epidemiology
-
-<details>
-<summary>Исследовательская группа</summary>
+<details class="mk-entry">
+<summary><span class="mk-e-name">Korean Society of Epidemiology</span></summary>
 
 - Член, Psychiatric Epidemiology Research Group
 
 </details>
 
-### Другие научные общества
-
-<details>
-<summary>Членство</summary>
+<details class="mk-entry">
+<summary><span class="mk-e-name">Другие научные общества</span></summary>
 
 - Член, Korean Society of Health Administration
 - Член, Korean Association of Health Economics and Policy
@@ -159,28 +161,20 @@ toc-depth: 3
 
 ## Профессиональные организации
 
-### Korean Association of Preventive Medicine Physicians
-
-**Вице-президент; член-учредитель** Mar 2025–настоящее время
-
-<details>
-<summary>Роль и деятельность</summary>
+<details class="mk-entry">
+<summary><span class="mk-e-name">Korean Association of Preventive Medicine Physicians</span> <span class="mk-e-role">Вице-президент; член-учредитель</span> <span class="mk-e-when">Mar 2025–настоящее время</span></summary>
 
 - Курирует внешние связи, организационное управление и вопросы политики здравоохранения ассоциации.
 - Представил доклад «Preparatory Survey for the Korean Association of Preventive Medicine Physicians: Where Do Preventive Medicine Physicians Stand Today?» на 77th Fall Academic Conference of the Korean Society for Preventive Medicine, Oct 2025.
 
 </details>
 
-### Korean Intern Resident Union
+::: {.mk-entry .mk-static}
+[Korean Intern Resident Union]{.mk-e-name} [Советник по политике]{.mk-e-role} [Sep 2025–настоящее время]{.mk-e-when}
+:::
 
-**Советник по политике** Sep 2025–настоящее время
-
-### Korean Intern Resident Association
-
-**Президент** Sep 2022–Aug 2023
-
-<details>
-<summary>Другие должности</summary>
+<details class="mk-entry">
+<summary><span class="mk-e-name">Korean Intern Resident Association</span> <span class="mk-e-role">Президент</span> <span class="mk-e-when">Sep 2022–Aug 2023</span></summary>
 
 - Главный исследователь, «Исследование реформы 36-часового режима непрерывного дежурства для ординаторов»
 - Главный исследователь, 2022 National Resident Survey
@@ -190,12 +184,8 @@ toc-depth: 3
 
 </details>
 
-### Korean Medical Association
-
-**Директор по политике** Sep 2022–Aug 2023
-
-<details>
-<summary>Должности делегата, назначения в комитеты и обучение</summary>
+<details class="mk-entry">
+<summary><span class="mk-e-name">Korean Medical Association</span> <span class="mk-e-role">Директор по политике</span> <span class="mk-e-when">Sep 2022–Aug 2023</span></summary>
 
 - Делегат, KMA National Assembly (Sep 2021–Aug 2022)
 - Делегат, Seoul Medical Association (Nov 2022–Oct 2023)
@@ -322,7 +312,7 @@ toc-depth: 3
 <details>
 <summary>Профессиональные организации и академические учреждения</summary>
 
-**Korea Hospital Association**
+**Korean Hospital Association**
 
 - «Политическое исследование по усилению общественного характера подготовки в ординатуре» (2023)
 
@@ -333,25 +323,32 @@ toc-depth: 3
 </details>
 
 ## Общественная, гражданская и студенческая деятельность
+
 ### Права человека и психическое здоровье
 
-- Член политического комитета, Korea Family Association for the Mentally Disabled (2022–2023)
-- Волонтёр / участник, Mad Pride Seoul — мероприятие в защиту прав в сфере психического здоровья (2019)
-- Действующий член, Amnesty International Korea (Oct 2012 – по настоящее время)
+::: {.mk-entry .mk-static}
+Член политического комитета, Korea Family Association for the Mentally Disabled (2022–2023)
+:::
+
+::: {.mk-entry .mk-static}
+Волонтёр / участник, Mad Pride Seoul — мероприятие в защиту прав в сфере психического здоровья (2019)
+:::
+
+::: {.mk-entry .mk-static}
+Действующий член, Amnesty International Korea (Oct 2012 – по настоящее время)
+:::
 
 ### Культура, искусство и локальные пространства
 
-- **Предложение по реформе регулирования танцев в живых музыкальных клубах** · Сопредседатель, Rockjangnol, Объединение зрителей лайв-клубов (2026–настоящее время)
-- **Основатель и директор**, Woosadan Studio, многофункциональное культурное пространство (Feb 2018–Feb 2020)
-
-<details>
-<summary>Подробнее</summary>
-
-**Rockjangnol, Объединение зрителей лайв-клубов**
+<details class="mk-entry">
+<summary><strong>Предложение по реформе регулирования танцев в живых музыкальных клубах</strong> · Сопредседатель, Rockjangnol, Объединение зрителей лайв-клубов (2026–настоящее время)</summary>
 
 - Сопредседатель; автор первоначального предложения, подготовка политического документа и пресс-релиза
 
-**Woosadan Studio**
+</details>
+
+<details class="mk-entry">
+<summary><strong>Основатель и директор</strong>, Woosadan Studio, многофункциональное культурное пространство (Feb 2018–Feb 2020)</summary>
 
 - Проект по совместному использованию пространства для молодёжи (2018–2020) и праздник в честь открытия Usadan Studio (2018) — руководство проектом и управление пространством
 - Серия уличных концертов: гуманитарные науки и искусство, Ministry of Culture, Sports and Tourism (2018) — участие и управление пространством
@@ -361,29 +358,30 @@ toc-depth: 3
 
 ### Молодёжное и студенческое самоуправление
 
-- Член, Youth Policy Council, Seongbuk-gu, Seoul (Oct 2015–Apr 2016)
-- **Вице-президент**, Korea University Undergraduate Student Union (Dec 2014–Nov 2015)
-- Член, Tuition Review Committee, Korea University (Jan 2013–Feb 2013)
-- Президент, Pre-med Student Union, Korea University College of Medicine (Dec 2012–Nov 2013)
+::: {.mk-entry .mk-static}
+Член, Youth Policy Council, Seongbuk-gu, Seoul (Oct 2015–Apr 2016)
+:::
 
-<details>
-<summary>Подробнее</summary>
-
-**Во время работы вице-президентом студенческого союза**
+<details class="mk-entry">
+<summary><strong>Вице-президент</strong>, Korea University Undergraduate Student Union (Dec 2014–Nov 2015)</summary>
 
 - Студенческая жилищная акция: проект общежития — руководитель проекта; назначенный дискутант на форуме Национального собрания по жилью для молодёжи (2015)
 - Руководитель планирования фестиваля Korea University (2015)
 
 </details>
 
+::: {.mk-entry .mk-static}
+Член, Tuition Review Committee, Korea University (Jan 2013–Feb 2013)
+:::
+
+::: {.mk-entry .mk-static}
+Президент, Pre-med Student Union, Korea University College of Medicine (Dec 2012–Nov 2013)
+:::
+
 ## Международная деятельность
 
-### World Medical Association – Junior Doctors Network (WMA-JDN)
-
-**Член корейской делегации** Apr 2022–Feb 2024
-
-<details>
-<summary>Посещённые заседания</summary>
+<details class="mk-entry">
+<summary><span class="mk-e-name">World Medical Association – Junior Doctors Network (WMA-JDN)</span> <span class="mk-e-role">Член корейской делегации</span> <span class="mk-e-when">Apr 2022–Feb 2024</span></summary>
 
 - Париж, Франция / Берлин, Германия 2022
 - Найроби, Кения / Кигали, Руанда 2023
@@ -392,10 +390,13 @@ toc-depth: 3
 
 </details>
 
-### Korean Medical Students' Association (KMSA)
+<details class="mk-entry">
+<summary><span class="mk-e-name">Korean Medical Students' Association (KMSA)</span></summary>
 
 - Делегат от Кореи, IFMSA Asia-Pacific Regional Meeting (APRM), Дакка, Бангладеш (Sep 2014)
 - Член (Mar 2012–Feb 2013)
+
+</details>
 
 ## Волонтёрская деятельность
 
