@@ -78,7 +78,9 @@ Epidemiólogo central (cargo simultáneo), Ministerio de Defensa Nacional (MND) 
 
 **1. Práctica en salud pública y medicina preventiva**
 
-Contribuí a iniciativas nacionales de promoción de la salud y prevención de enfermedades, centrándome en programas de salud laboral y en la vigilancia epidemiológica. Apoyé los reconocimientos médicos para la Livestock Health Control Association (2022) y propuse reformas del sistema de guardias consecutivas de 36 horas para los médicos residentes (2023). Adquirí experiencia práctica en las políticas y los programas nacionales de servicios de salud mental mediante una comisión de servicio en el National Center for Mental Health (2023); comisión de servicio, Mental Health Services Division, National Center for Mental Health, Jan 2023 – Feb 2023.
+Contribuí a iniciativas nacionales de promoción de la salud y prevención de enfermedades, centrándome en programas de salud laboral y en la vigilancia epidemiológica. Apoyé los reconocimientos médicos para la Livestock Health Control Association (2022) y propuse reformas del sistema de guardias consecutivas de 36 horas para los médicos residentes (2023). Adquirí experiencia práctica en las políticas y los programas nacionales de servicios de salud mental mediante una comisión de servicio en el National Center for Mental Health (2023).
+
+Comisión de servicio: Mental Health Services Division, National Center for Mental Health, Jan 2023–Feb 2023.
 
 **2. Investigación en medicina de salud pública**
 
@@ -86,7 +88,9 @@ Investigo los determinantes sociales de la salud, la salud mental pública y el 
 
 **3. Práctica clínica general**
 
-Adquirí experiencia clínica en atención primaria, medicina de urgencias y cuidados posoperatorios. Ejercí como médico responsable de la atención a pacientes en el Community Treatment Centre de Seúl durante la pandemia de COVID-19 (2022); médico, Seoul COVID-19 Community Treatment Center (a tiempo parcial), Jan 2022 – Jun 2022.
+Adquirí experiencia clínica en atención primaria, medicina de urgencias y cuidados posoperatorios. Ejercí como médico responsable de la atención a pacientes en el Community Treatment Centre de Seúl durante la pandemia de COVID-19 (2022).
+
+Médico, Seoul COVID-19 Community Treatment Center (a tiempo parcial), Jan 2022–Jun 2022.
 
 **4. Docencia y enseñanza**
 
@@ -162,7 +166,7 @@ Médico interno, Korea University Medicine
 ## Organizaciones profesionales
 
 <details class="mk-entry">
-<summary><span class="mk-e-name">Korean Association of Preventive Medicine Physicians</span> <span class="mk-e-role">Vicepresidente; miembro fundador</span> <span class="mk-e-when">Mar 2025–Actualidad</span></summary>
+<summary><span class="mk-e-name">Korean Association of Preventive Medicine Physicians</span> <span class="mk-e-role">Vicepresidente; miembro fundador</span> <span class="mk-e-when">(Mar 2025–Actualidad)</span></summary>
 
 - Responsable de las relaciones externas, la gestión organizativa y los asuntos de política sanitaria de la asociación.
 - Presentó «Encuesta preparatoria para la Korean Association of Preventive Medicine Physicians: ¿en qué situación se encuentran hoy los médicos de medicina preventiva?» en la 77th Fall Academic Conference of the Korean Society for Preventive Medicine, Oct 2025.
@@ -170,11 +174,11 @@ Médico interno, Korea University Medicine
 </details>
 
 ::: {.mk-entry .mk-static}
-[Korean Intern Resident Union]{.mk-e-name} [Asesor de políticas]{.mk-e-role} [Sep 2025–Actualidad]{.mk-e-when}
+[Korean Intern Resident Union]{.mk-e-name} [Asesor de políticas]{.mk-e-role} [(Sep 2025–Actualidad)]{.mk-e-when}
 :::
 
 <details class="mk-entry">
-<summary><span class="mk-e-name">Korean Intern Resident Association</span> <span class="mk-e-role">Presidente</span> <span class="mk-e-when">Sep 2022–Aug 2023</span></summary>
+<summary><span class="mk-e-name">Korean Intern Resident Association</span> <span class="mk-e-role">Presidente</span> <span class="mk-e-when">(Sep 2022–Aug 2023)</span></summary>
 
 - Investigador principal, Estudio sobre la reforma del sistema de guardias consecutivas de 36 horas para residentes
 - Investigador principal, Encuesta Nacional de Residentes de 2022
@@ -185,7 +189,7 @@ Médico interno, Korea University Medicine
 </details>
 
 <details class="mk-entry">
-<summary><span class="mk-e-name">Korean Medical Association</span> <span class="mk-e-role">Director de Políticas</span> <span class="mk-e-when">Sep 2022–Aug 2023</span></summary>
+<summary><span class="mk-e-name">Korean Medical Association</span> <span class="mk-e-role">Director de Políticas</span> <span class="mk-e-when">(Sep 2022–Aug 2023)</span></summary>
 
 - Delegado, KMA National Assembly (Sep 2021–Aug 2022)
 - Delegado, Seoul Medical Association (Nov 2022–Oct 2023)
@@ -204,7 +208,7 @@ Médico interno, Korea University Medicine
 - **Investigador principal**, Determinantes de la salud mental en el personal militar
 - **Investigador principal**, Estudio sobre la reforma del sistema de guardias consecutivas de 36 horas para residentes
 
-Para la lista completa de proyectos de investigación y publicaciones, consulte las páginas [Research](research.html) y [Publications](publications.html).
+Para la lista completa de proyectos de investigación y publicaciones, consulte las páginas [Investigación](research.html) y [Publicaciones](publications.html).
 
 <details>
 <summary>Actividades de revisión por pares</summary>
@@ -228,8 +232,8 @@ Para la lista completa de proyectos de investigación y publicaciones, consulte 
 - **Sep 2026**. Determinantes de la salud mental en el personal militar (Oral). 57th Conference of Military Medicine & 2026 International Conference on Military Trauma Surgery
 - **Aug 2026**. Las horas de trabajo, el trabajo por turnos según la ocupación y la salud mental: un estudio epidemiológico (compilación de tres estudios). Seminar on Expanding the National Bio Big Data — Environmental Exposure and Occupational Health Research (Department of Preventive Medicine, Yonsei University College of Medicine)
 - **Jun 2026**. Institucionalización de personal específico de Physician Assistant (PA) y reestructuración del sistema sanitario: con especial atención a la mejora del entorno de formación de los residentes y a la garantía de la seguridad del paciente. (Comentarista). Academic Conference, Korean Society for Quality in Health Care
-- **May 2026**, Asociación entre las horas de trabajo y la depresión en el personal militar coreano: un análisis transversal repetido de la Military Health Survey (2023–2025) (Póster). 2026 Spring Conference of the Korean Society for Health Equity.
-- **Apr 2026**, Trabajo extremo, síntomas depresivos e ideación suicida en los médicos residentes coreanos: con especial atención a las horas de trabajo, los turnos consecutivos y la privación de sueño durante las guardias localizadas (Oral). 2026 Spring Conference of the Association for Health Policy for Criticism and Alternatives.
+- **May 2026**. Asociación entre las horas de trabajo y la depresión en el personal militar coreano: un análisis transversal repetido de la Military Health Survey (2023–2025) (Póster). 2026 Spring Conference of the Korean Society for Health Equity.
+- **Apr 2026**. Trabajo extremo, síntomas depresivos e ideación suicida en los médicos residentes coreanos: con especial atención a las horas de trabajo, los turnos consecutivos y la privación de sueño durante las guardias localizadas (Oral). 2026 Spring Conference of the Association for Health Policy for Criticism and Alternatives.
 - **Dec 2025**. Escasez de personal sanitario. (Comentarista). ETHOS (Ethics in a World of Emerging Technologies) 7.0
 - **Nov 2025**. Tras el regreso de los residentes: ¿hacia dónde deben orientarse las políticas para mejorar las condiciones laborales de los residentes? (Ponencia). 42nd Online Comprehensive Academic Conference, Korean Medical Association
 - **Nov 2025**. Equilibrio entre la formación de los residentes y la práctica de enfermería de Physician Assistant (PA) desde la perspectiva de la mejora de la calidad. (Comentarista). Fall Academic Conference, Korean Society for Quality in Health Care
@@ -390,7 +394,7 @@ Presidente, Pre-med Student Union, Korea University College of Medicine (Dec 201
 ## Actividades internacionales
 
 <details class="mk-entry">
-<summary><span class="mk-e-name">World Medical Association – Junior Doctors Network (WMA-JDN)</span> <span class="mk-e-role">Miembro de la delegación coreana</span> <span class="mk-e-when">Apr 2022–Feb 2024</span></summary>
+<summary><span class="mk-e-name">World Medical Association – Junior Doctors Network (WMA-JDN)</span> <span class="mk-e-role">Miembro de la delegación coreana</span> <span class="mk-e-when">(Apr 2022–Feb 2024)</span></summary>
 
 - París, Francia / Berlín, Alemania 2022
 - Nairobi, Kenia / Kigali, Ruanda 2023

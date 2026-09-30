@@ -78,7 +78,9 @@ toc-depth: 3
 
 **1. Практика в области общественного здравоохранения и профилактической медицины**
 
-Участвовал в национальных инициативах по укреплению здоровья и профилактике заболеваний, уделяя особое внимание программам охраны здоровья на рабочем месте и эпидемиологическому надзору. Обеспечивал проведение медицинских осмотров для Livestock Health Control Association (2022) и предложил реформу 36-часового режима непрерывного дежурства для врачей-ординаторов (2023). Во время прикомандирования к National Center for Mental Health (2023) приобрёл практический опыт в сфере национальной политики и программ помощи в области психического здоровья; прикомандирование, Mental Health Services Division, National Center for Mental Health, Jan 2023 – Feb 2023.
+Участвовал в национальных инициативах по укреплению здоровья и профилактике заболеваний, уделяя особое внимание программам охраны здоровья на рабочем месте и эпидемиологическому надзору. Обеспечивал проведение медицинских осмотров для Livestock Health Control Association (2022) и предложил реформу 36-часового режима непрерывного дежурства для врачей-ординаторов (2023). Во время прикомандирования к National Center for Mental Health (2023) приобрёл практический опыт в сфере национальной политики и программ помощи в области психического здоровья.
+
+Прикомандирование: Mental Health Services Division, National Center for Mental Health, Jan 2023–Feb 2023.
 
 **2. Научная работа в области общественного здравоохранения и медицины**
 
@@ -86,7 +88,9 @@ toc-depth: 3
 
 **3. Общая клиническая практика**
 
-Приобрёл клинический опыт в первичной медико-санитарной помощи, неотложной медицине и послеоперационном уходе. Во время пандемии COVID-19 работал лечащим врачом в Community Treatment Center в Сеуле (2022); врач, Seoul COVID-19 Community Treatment Center (по совместительству), Jan 2022 – Jun 2022.
+Приобрёл клинический опыт в первичной медико-санитарной помощи, неотложной медицине и послеоперационном уходе. Во время пандемии COVID-19 работал лечащим врачом в Community Treatment Center в Сеуле (2022).
+
+Врач, Seoul COVID-19 Community Treatment Center (по совместительству), Jan 2022–Jun 2022.
 
 **4. Образование и преподавание**
 
@@ -162,7 +166,7 @@ toc-depth: 3
 ## Профессиональные организации
 
 <details class="mk-entry">
-<summary><span class="mk-e-name">Korean Association of Preventive Medicine Physicians</span> <span class="mk-e-role">Вице-президент; член-учредитель</span> <span class="mk-e-when">Mar 2025–настоящее время</span></summary>
+<summary><span class="mk-e-name">Korean Association of Preventive Medicine Physicians</span> <span class="mk-e-role">Вице-президент; член-учредитель</span> <span class="mk-e-when">(Mar 2025–настоящее время)</span></summary>
 
 - Курирует внешние связи, организационное управление и вопросы политики здравоохранения ассоциации.
 - Представил доклад «Preparatory Survey for the Korean Association of Preventive Medicine Physicians: Where Do Preventive Medicine Physicians Stand Today?» на 77th Fall Academic Conference of the Korean Society for Preventive Medicine, Oct 2025.
@@ -170,11 +174,11 @@ toc-depth: 3
 </details>
 
 ::: {.mk-entry .mk-static}
-[Korean Intern Resident Union]{.mk-e-name} [Советник по политике]{.mk-e-role} [Sep 2025–настоящее время]{.mk-e-when}
+[Korean Intern Resident Union]{.mk-e-name} [Советник по политике]{.mk-e-role} [(Sep 2025–настоящее время)]{.mk-e-when}
 :::
 
 <details class="mk-entry">
-<summary><span class="mk-e-name">Korean Intern Resident Association</span> <span class="mk-e-role">Президент</span> <span class="mk-e-when">Sep 2022–Aug 2023</span></summary>
+<summary><span class="mk-e-name">Korean Intern Resident Association</span> <span class="mk-e-role">Президент</span> <span class="mk-e-when">(Sep 2022–Aug 2023)</span></summary>
 
 - Главный исследователь, «Исследование реформы 36-часового режима непрерывного дежурства для ординаторов»
 - Главный исследователь, 2022 National Resident Survey
@@ -185,7 +189,7 @@ toc-depth: 3
 </details>
 
 <details class="mk-entry">
-<summary><span class="mk-e-name">Korean Medical Association</span> <span class="mk-e-role">Директор по политике</span> <span class="mk-e-when">Sep 2022–Aug 2023</span></summary>
+<summary><span class="mk-e-name">Korean Medical Association</span> <span class="mk-e-role">Директор по политике</span> <span class="mk-e-when">(Sep 2022–Aug 2023)</span></summary>
 
 - Делегат, KMA National Assembly (Sep 2021–Aug 2022)
 - Делегат, Seoul Medical Association (Nov 2022–Oct 2023)
@@ -204,7 +208,7 @@ toc-depth: 3
 - **Главный исследователь**, «Детерминанты психического здоровья военнослужащих»
 - **Главный исследователь**, «Исследование реформы 36-часового режима непрерывного дежурства для ординаторов»
 
-Полный список исследовательских проектов и публикаций см. на страницах [Research](research.html) и [Publications](publications.html).
+Полный список исследовательских проектов и публикаций см. на страницах [Исследования](research.html) и [Публикации](publications.html).
 
 <details>
 <summary>Рецензирование</summary>
@@ -336,7 +340,7 @@ toc-depth: 3
 :::
 
 ::: {.mk-entry .mk-static}
-Действующий член, Amnesty International Korea (Oct 2012 – по настоящее время)
+Действующий член, Amnesty International Korea (Oct 2012–настоящее время)
 :::
 
 </details>
@@ -390,7 +394,7 @@ toc-depth: 3
 ## Международная деятельность
 
 <details class="mk-entry">
-<summary><span class="mk-e-name">World Medical Association – Junior Doctors Network (WMA-JDN)</span> <span class="mk-e-role">Член корейской делегации</span> <span class="mk-e-when">Apr 2022–Feb 2024</span></summary>
+<summary><span class="mk-e-name">World Medical Association – Junior Doctors Network (WMA-JDN)</span> <span class="mk-e-role">Член корейской делегации</span> <span class="mk-e-when">(Apr 2022–Feb 2024)</span></summary>
 
 - Париж, Франция / Берлин, Германия 2022
 - Найроби, Кения / Кигали, Руанда 2023

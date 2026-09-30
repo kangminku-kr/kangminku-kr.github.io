@@ -76,7 +76,9 @@ Central Epidemiologist (concurrent), Ministry of National Defense (MND) (May 202
 
 **1. Public Health & Preventive Medicine Practice**
 
-Contributed to national health promotion and disease prevention initiatives, focusing on workplace health programs and epidemiologic surveillance. Supported health checkups for the Livestock Health Control Association (2022) and proposed reforms to the 36-hour consecutive duty system for medical residents (2023). Gained practical experience in national mental health policy and service programs through secondment to the National Center for Mental Health (2023); Secondment, Mental Health Services Division, National Center for Mental Health Jan 2023 – Feb 2023.
+Contributed to national health promotion and disease prevention initiatives, focusing on workplace health programs and epidemiologic surveillance. Supported health checkups for the Livestock Health Control Association (2022) and proposed reforms to the 36-hour consecutive duty system for medical residents (2023). Gained practical experience in national mental health policy and service programs through secondment to the National Center for Mental Health (2023).
+
+Secondment: Mental Health Services Division, National Center for Mental Health, Jan 2023–Feb 2023.
 
 **2. Research in Public Health Medicine**
 
@@ -84,7 +86,9 @@ Research social determinants of health, public mental health, and workplace well
 
 **3. General Clinical Practice**
 
-Gained clinical experience across primary care, emergency medicine, and post-operative care. Served as a patient care physician at Seoul's Community Treatment Centre during the COVID-19 pandemic (2022); Physician, Seoul COVID-19 Community Treatment Center (part-time) Jan 2022 – Jun 2022.
+Gained clinical experience across primary care, emergency medicine, and post-operative care. Served as a patient care physician at Seoul's Community Treatment Centre during the COVID-19 pandemic (2022).
+
+Physician, Seoul COVID-19 Community Treatment Center (part-time), Jan 2022–Jun 2022.
 
 **4. Education & Teaching**
 
@@ -160,7 +164,7 @@ Medical Intern, Korea University Medicine
 ## Professional Organizations
 
 <details class="mk-entry">
-<summary><span class="mk-e-name">Korean Association of Preventive Medicine Physicians</span> <span class="mk-e-role">Vice President; Founding Member</span> <span class="mk-e-when">Mar 2025–Present</span></summary>
+<summary><span class="mk-e-name">Korean Association of Preventive Medicine Physicians</span> <span class="mk-e-role">Vice President; Founding Member</span> <span class="mk-e-when">(Mar 2025–Present)</span></summary>
 
 - Oversees external relations, organizational management, and health policy affairs for the association.
 - Presented "Preparatory Survey for the Korean Association of Preventive Medicine Physicians: Where Do Preventive Medicine Physicians Stand Today?" at the 77th Fall Academic Conference of the Korean Society for Preventive Medicine, Oct 2025.
@@ -168,11 +172,11 @@ Medical Intern, Korea University Medicine
 </details>
 
 ::: {.mk-entry .mk-static}
-[Korean Intern Resident Union]{.mk-e-name} [Policy Advisor]{.mk-e-role} [Sep 2025–Present]{.mk-e-when}
+[Korean Intern Resident Union]{.mk-e-name} [Policy Advisor]{.mk-e-role} [(Sep 2025–Present)]{.mk-e-when}
 :::
 
 <details class="mk-entry">
-<summary><span class="mk-e-name">Korean Intern Resident Association</span> <span class="mk-e-role">President</span> <span class="mk-e-when">Sep 2022–Aug 2023</span></summary>
+<summary><span class="mk-e-name">Korean Intern Resident Association</span> <span class="mk-e-role">President</span> <span class="mk-e-when">(Sep 2022–Aug 2023)</span></summary>
 
 - Principal Investigator, Study on Reforming the 36-hour Consecutive Duty System for Residents
 - Principal Investigator, 2022 National Resident Survey
@@ -183,7 +187,7 @@ Medical Intern, Korea University Medicine
 </details>
 
 <details class="mk-entry">
-<summary><span class="mk-e-name">Korean Medical Association</span> <span class="mk-e-role">Director of Policy</span> <span class="mk-e-when">Sep 2022–Aug 2023</span></summary>
+<summary><span class="mk-e-name">Korean Medical Association</span> <span class="mk-e-role">Director of Policy</span> <span class="mk-e-when">(Sep 2022–Aug 2023)</span></summary>
 
 - Delegate, KMA National Assembly (Sep 2021–Aug 2022)
 - Delegate, Seoul Medical Association (Nov 2022–Oct 2023)
@@ -226,8 +230,8 @@ For the full list of research projects and publications, see the [Research](rese
 - **Sep 2026**. Determinants of Mental Health among Military Personnel (Oral). 57th Conference of Military Medicine & 2026 International Conference on Military Trauma Surgery
 - **Aug 2026**. Working Hours, Shift Work across Occupations, and Mental Health: An Epidemiological Study (compilation of three studies). Seminar on Expanding the National Bio Big Data — Environmental Exposure and Occupational Health Research (Department of Preventive Medicine, Yonsei University College of Medicine)
 - **Jun 2026**. Institutionalizing Dedicated Physician-Assistant Personnel and Restructuring the Healthcare System: Focusing on Improving the Resident Training Environment and Ensuring Patient Safety. (Discussant). Academic Conference, Korean Society for Quality in Health Care
-- **May 2026**, Association between Working Hours and Depression among Korean Military Personnel: A Repeated Cross-sectional Analysis of the Military Health Survey (2023–2025) (Poster). 2026 Spring Conference of the Korean Society for Health Equity.
-- **Apr 2026**, Extreme Work, Depressive Symptoms, and Suicidal Ideation among Korean Residents: Focusing on Working Hours, Consecutive Shifts, and Sleep Deprivation during On-call Shifts (Oral). 2026 Spring Conference of the Association for Health Policy for Criticism and Alternatives.
+- **May 2026**. Association between Working Hours and Depression among Korean Military Personnel: A Repeated Cross-sectional Analysis of the Military Health Survey (2023–2025) (Poster). 2026 Spring Conference of the Korean Society for Health Equity.
+- **Apr 2026**. Extreme Work, Depressive Symptoms, and Suicidal Ideation among Korean Residents: Focusing on Working Hours, Consecutive Shifts, and Sleep Deprivation during On-call Shifts (Oral). 2026 Spring Conference of the Association for Health Policy for Criticism and Alternatives.
 - **Dec 2025**. Healthcare Workforce Shortage. (Discussant). ETHOS (Ethics in a World of Emerging Technologies) 7.0
 - **Nov 2025**. After Residents' Return: Where Should Policies for Improving Resident Working Conditions Go? (Lecture). 42nd Online Comprehensive Academic Conference, Korean Medical Association
 - **Nov 2025**. Balancing Resident Training and Physician Assistant Nursing Practice from a Quality Improvement Perspective. (Discussant). Fall Academic Conference, Korean Society for Quality in Health Care
@@ -388,7 +392,7 @@ President, Pre-med Student Union, Korea University College of Medicine (Dec 2012
 ## Global Activities
 
 <details class="mk-entry">
-<summary><span class="mk-e-name">World Medical Association – Junior Doctors Network (WMA-JDN)</span> <span class="mk-e-role">Korean Delegation Member</span> <span class="mk-e-when">Apr 2022–Feb 2024</span></summary>
+<summary><span class="mk-e-name">World Medical Association – Junior Doctors Network (WMA-JDN)</span> <span class="mk-e-role">Korean Delegation Member</span> <span class="mk-e-when">(Apr 2022–Feb 2024)</span></summary>
 
 - Paris, France / Berlin, Germany 2022
 - Nairobi, Kenya / Kigali, Rwanda 2023

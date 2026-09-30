@@ -25,7 +25,15 @@
     ru:'<rect width="60" height="40" fill="#fff"/><rect y="13.34" width="60" height="13.33" fill="#0039A6"/><rect y="26.67" width="60" height="13.33" fill="#D52B1E"/>'
   };
   var KO_ONLY  = {'interview.html':1,'life.html':1};   // exist only in Korean
+  var EN_ONLY  = {'teaching-prevmed.html':1};           // exist only in English (linked from teaching.html)
   var SHARED   = {'blog.html':1};                       // one board at site root, shared across languages
+  // 한 언어에만 있는 페이지에서 다른 언어를 고르면 그 언어의 대응 페이지로 보낸다(없는 주소로 보내면 404).
+  function altTarget(lg, file, onShared){
+    if(onShared) return link(lg,'index.html');
+    if(KO_ONLY[file] && lg!=='ko') return link(lg,'index.html');
+    if(EN_ONLY[file] && lg!=='en') return link(lg,'teaching.html');
+    return link(lg,file);
+  }
   function link(lang,file){ return PREFIX[lang] + (file==='index.html'?'':file); }
   function pageOf(){
     var segs=location.pathname.split('/').filter(Boolean);
@@ -40,7 +48,7 @@
   // (2026-07-16 검토 발견: 7개 언어 사이트인데 hreflang 0개 → 중복문서 평가·엉뚱한 언어판 노출 위험)
   // 공유 게시판(blog·posts)과 KO 전용 페이지는 대응 언어판이 존재하지 않으므로 제외한다.
   function hreflang(lang, file, onShared){
-    if(onShared || KO_ONLY[file]) return;
+    if(onShared || KO_ONLY[file] || EN_ONLY[file]) return;
     var head=document.head; if(!head) return;
     Object.keys(PREFIX).forEach(function(lg){
       var l=document.createElement('link');
@@ -89,7 +97,7 @@
     document.querySelectorAll('.navbar .dropdown-item').forEach(function(a){
       var lg=byName[(a.textContent||'').trim()];
       if(!lg) return;
-      var target=((KO_ONLY[file] && lg!=='ko') || onShared) ? link(lg,'index.html') : link(lg,file);
+      var target=altTarget(lg, file, onShared);
       a.setAttribute('href', target);
       if(lg===nav){ a.classList.add('active'); a.setAttribute('aria-current','true'); }
     });
@@ -117,7 +125,7 @@
       list.className='mk-langlist';
       Object.keys(PREFIX).forEach(function(lg){
         var a=document.createElement('a');
-        a.setAttribute('href', ((KO_ONLY[file] && lg!=='ko') || onShared) ? link(lg,'index.html') : link(lg,file));
+        a.setAttribute('href', altTarget(lg, file, onShared));
         a.setAttribute('hreflang', lg);
         a.innerHTML = flagSvg(lg) + '<span class="mk-lname">' + LANGNAME[lg] + '</span>';
         if(lg===lang){ a.className='is-current'; a.setAttribute('aria-current','true'); }

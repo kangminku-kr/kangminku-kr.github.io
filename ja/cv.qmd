@@ -29,11 +29,11 @@ toc-depth: 3
 ### Mar 2024–Apr 2027
 
 ::: {.mk-entry .mk-static}
-産業医（兼任）、Gyeonggido Office of Education (Oct 2026–)
+産業医（兼任）、Gyeonggido Office of Education（Oct 2026–）
 :::
 
 ::: {.mk-entry .mk-static}
-産業医（兼任）、Armed Forces Capital Hospital, MND (Oct 2026–Apr 2027)
+産業医（兼任）、Armed Forces Capital Hospital, MND（Oct 2026–Apr 2027）
 :::
 
 ::: {.mk-entry .mk-static}
@@ -78,7 +78,9 @@ toc-depth: 3
 
 **1. 公衆衛生・予防医学実務**
 
-職域健康プログラムと疫学サーベイランスを中心に、国の健康増進・疾病予防事業に貢献した。Livestock Health Control Association の健康診断（2022）を支援し、専攻医の36時間連続勤務制度の改革を提言した（2023）。National Center for Mental Health への派遣（2023）を通じて、国の精神保健政策およびサービス事業に関する実務経験を積んだ。派遣：Mental Health Services Division, National Center for Mental Health、Jan 2023 – Feb 2023。
+職域健康プログラムと疫学サーベイランスを中心に、国の健康増進・疾病予防事業に貢献した。Livestock Health Control Association の健康診断（2022）を支援し、専攻医の36時間連続勤務制度の改革を提言した（2023）。National Center for Mental Health への派遣（2023）を通じて、国の精神保健政策およびサービス事業に関する実務経験を積んだ。
+
+派遣：Mental Health Services Division, National Center for Mental Health、Jan 2023–Feb 2023。
 
 **2. 公衆衛生医学における研究**
 
@@ -86,7 +88,9 @@ toc-depth: 3
 
 **3. 一般臨床実務**
 
-プライマリケア、救急医療、術後管理にわたる臨床経験を積んだ。COVID-19パンデミック下（2022）には、ソウルの生活治療センター（Community Treatment Centre）で患者診療医として従事した。診療医、Seoul COVID-19 Community Treatment Center（非常勤）、Jan 2022 – Jun 2022。
+プライマリケア、救急医療、術後管理にわたる臨床経験を積んだ。COVID-19パンデミック下（2022）には、ソウルの生活治療センター（Community Treatment Centre）で患者診療医として従事した。
+
+診療医、Seoul COVID-19 Community Treatment Center（非常勤）、Jan 2022–Jun 2022。
 
 **4. 教育・指導**
 
@@ -162,7 +166,7 @@ Korea University College of Medicine のティーチングアシスタントと�
 ## 専門職団体
 
 <details class="mk-entry">
-<summary><span class="mk-e-name">Korean Association of Preventive Medicine Physicians</span> <span class="mk-e-role">副会長・創立会員</span> <span class="mk-e-when">Mar 2025–現在</span></summary>
+<summary><span class="mk-e-name">Korean Association of Preventive Medicine Physicians</span> <span class="mk-e-role">副会長・創立会員</span> <span class="mk-e-when">(Mar 2025–現在)</span></summary>
 
 - 学会の対外関係、組織運営、保健医療政策業務を統括する。
 - Korean Society for Preventive Medicine 第77回秋季学術大会（Oct 2025）で「Korean Association of Preventive Medicine Physicians のための準備調査：予防医学専門医は今どこに立っているのか」を発表した。
@@ -170,11 +174,11 @@ Korea University College of Medicine のティーチングアシスタントと�
 </details>
 
 ::: {.mk-entry .mk-static}
-[Korean Intern Resident Union]{.mk-e-name} [政策諮問委員]{.mk-e-role} [Sep 2025–現在]{.mk-e-when}
+[Korean Intern Resident Union]{.mk-e-name} [政策諮問委員]{.mk-e-role} [(Sep 2025–現在)]{.mk-e-when}
 :::
 
 <details class="mk-entry">
-<summary><span class="mk-e-name">Korean Intern Resident Association</span> <span class="mk-e-role">会長</span> <span class="mk-e-when">Sep 2022–Aug 2023</span></summary>
+<summary><span class="mk-e-name">Korean Intern Resident Association</span> <span class="mk-e-role">会長</span> <span class="mk-e-when">(Sep 2022–Aug 2023)</span></summary>
 
 - 研究責任者（PI）、専攻医の36時間連続勤務制度の改善に関する研究
 - 研究責任者（PI）、2022年 全国専攻医実態調査（2022 National Resident Survey）
@@ -185,7 +189,7 @@ Korea University College of Medicine のティーチングアシスタントと�
 </details>
 
 <details class="mk-entry">
-<summary><span class="mk-e-name">Korean Medical Association</span> <span class="mk-e-role">政策理事</span> <span class="mk-e-when">Sep 2022–Aug 2023</span></summary>
+<summary><span class="mk-e-name">Korean Medical Association</span> <span class="mk-e-role">政策理事</span> <span class="mk-e-when">(Sep 2022–Aug 2023)</span></summary>
 
 - 代議員、KMA National Assembly（Sep 2021–Aug 2022）
 - 代議員、Seoul Medical Association（Nov 2022–Oct 2023）
@@ -204,7 +208,7 @@ Korea University College of Medicine のティーチングアシスタントと�
 - **研究責任者（PI）**、軍人のメンタルヘルスの決定要因に関する研究
 - **研究責任者（PI）**、専攻医の36時間連続勤務制度の改善に関する研究
 
-研究プロジェクトおよび業績の全リストは、[Research](research.html) および [Publications](publications.html) のページをご覧ください。
+研究プロジェクトおよび業績の全リストは、[研究](research.html) および [論文](publications.html) のページをご覧ください。
 
 <details>
 <summary>査読活動</summary>
@@ -228,8 +232,8 @@ Korea University College of Medicine のティーチングアシスタントと�
 - **Sep 2026**. 軍人のメンタルヘルスの決定要因（口演）。57th Conference of Military Medicine & 2026 International Conference on Military Trauma Surgery
 - **Aug 2026**. 労働者の職種別労働時間・交代勤務とメンタルヘルスの疫学研究（論文3編の統合）。Seminar on Expanding the National Bio Big Data — Environmental Exposure and Occupational Health Research (Department of Preventive Medicine, Yonsei University College of Medicine)
 - **Jun 2026**. 診療支援専従人材（Physician Assistant）の制度化と医療体制の再編：専攻医研修環境の改善と患者安全の確保を中心に（討論者）。Academic Conference, Korean Society for Quality in Health Care
-- **May 2026**、韓国軍人における労働時間とうつの関連：Military Health Survey（2023–2025）の反復横断分析（ポスター）。2026 Spring Conference of the Korean Society for Health Equity.
-- **Apr 2026**、韓国の専攻医における極端な労働・抑うつ症状・自殺念慮：労働時間・連続勤務・当直中の睡眠剥奪を中心に（口演）。2026 Spring Conference of the Association for Health Policy for Criticism and Alternatives.
+- **May 2026**. 韓国軍人における労働時間とうつの関連：Military Health Survey（2023–2025）の反復横断分析（ポスター）。2026 Spring Conference of the Korean Society for Health Equity.
+- **Apr 2026**. 韓国の専攻医における極端な労働・抑うつ症状・自殺念慮：労働時間・連続勤務・当直中の睡眠剥奪を中心に（口演）。2026 Spring Conference of the Association for Health Policy for Criticism and Alternatives.
 - **Dec 2025**. Healthcare Workforce Shortage（討論者）。ETHOS (Ethics in a World of Emerging Technologies) 7.0
 - **Nov 2025**. 専攻医の復帰後：専攻医の労働環境改善政策はどこへ向かうべきか（講演）。42nd Online Comprehensive Academic Conference, Korean Medical Association
 - **Nov 2025**. 質向上の観点から見た専攻医研修と Physician Assistant による診療支援看護業務の合理的な調和（討論者）。Fall Academic Conference, Korean Society for Quality in Health Care
@@ -390,7 +394,7 @@ Korea University College of Medicine のティーチングアシスタントと�
 ## 国際活動
 
 <details class="mk-entry">
-<summary><span class="mk-e-name">World Medical Association – Junior Doctors Network (WMA-JDN)</span> <span class="mk-e-role">韓国代表団メンバー</span> <span class="mk-e-when">Apr 2022–Feb 2024</span></summary>
+<summary><span class="mk-e-name">World Medical Association – Junior Doctors Network (WMA-JDN)</span> <span class="mk-e-role">韓国代表団メンバー</span> <span class="mk-e-when">(Apr 2022–Feb 2024)</span></summary>
 
 - フランス・パリ／ドイツ・ベルリン 2022
 - ケニア・ナイロビ／ルワンダ・キガリ 2023
