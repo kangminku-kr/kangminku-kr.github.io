@@ -7,7 +7,7 @@ toc-depth: 2
 ## Overview
 
 - **Principal Investigator** — Determinants of Mental Health among Military Personnel
-- **Principal Investigator** — A Study on Improving the 36-hour Consecutive Duty System for Residents
+- **Principal Investigator** — A Study on Reforming the 36-hour Consecutive Shift System for Medical Intern and Resident
 - Peer reviewer for *International Journal for Equity in Health*, *BMC Public Health*, and other journals
 
 ## Principal Investigator
@@ -18,7 +18,7 @@ toc-depth: 2
 - **Determinants of Mental Health among Military Personnel**
   - Commissioned Research Grant, Armed Forces Medical Command (MND)
   - **2026.03–2027.03** (KRW 6,380,000)
-- **A Study on Improving the 36-hour Consecutive Shift System for Medical Interns and Residents**
+- **A Study on Reforming the 36-hour Consecutive Shift System for Medical Intern and Resident**
   - Commissioned Research Grant, Research Institute for Healthcare Policy (RIHP), Korean Medical Association
   - **2023.05–2024.01** (KRW 10,000,000)
 - **Korean Intern Resident Survey**

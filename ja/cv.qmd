@@ -7,7 +7,7 @@ toc-depth: 3
 ---
 
 
-労働条件（長時間労働、交代勤務、不安定雇用など）がメンタルヘルスに影響を及ぼす経路、職域健康管理に関わる制度・政策、ならびに保健医療政策・体制について研究しています。Korea Universityの学部で医学・社会学・経済学を学び、KDI School of Public Policy and Managementで公共政策修士号（MPP）を取得し、Korea University Graduate Schoolで公衆衛生学博士課程のコースワークを修了しました。
+労働条件（長時間労働、交代勤務、不安定雇用など）とメンタルヘルスとの関連、職域健康管理に関わる制度・政策、ならびに保健医療政策・体制について研究しています。Korea Universityの学部で医学・社会学・経済学を学び、KDI School of Public Policy and Managementで公共政策修士号（MPP）を取得し、Korea University Graduate Schoolで公衆衛生学博士課程のコースワークを修了しました。
 
 ## 関心分野
 
@@ -23,6 +23,7 @@ toc-depth: 3
 - **MPP（公共政策修士）**、公共政策（社会政策）、KDI School of Public Policy and Management、韓国
 - **MD（医学士）**、医学、Korea University、韓国
 - **BA（学士）**、社会学、経済学（副専攻）、Korea University、韓国
+- **高等学校卒業**、漢城科学高等学校、韓国
 
 ## 職歴
 
@@ -74,7 +75,7 @@ toc-depth: 3
 ### Mar 2020–Feb 2024
 
 <details class="mk-entry">
-<summary>専攻医（予防医学）、Korea University Medicine</summary>
+<summary>専攻医（予防医学）、Korea University Medical Center</summary>
 
 **1. 予防医学・公衆衛生実務**
 
@@ -99,7 +100,7 @@ Korea University College of Medicine のティーチングアシスタントと�
 </details>
 
 <details class="mk-entry">
-<summary>インターン（研修医）、Korea University Medicine</summary>
+<summary>インターン（研修医）、Korea University Medical Center</summary>
 
 プライマリケア、救急医療、術後管理にわたる臨床経験を積んだ。
 
@@ -183,9 +184,9 @@ Korea University College of Medicine のティーチングアシスタントと�
 <details class="mk-entry">
 <summary><span class="mk-e-name">Korean Intern Resident Association</span> <span class="mk-e-role">会長</span> <span class="mk-e-when">(Sep 2022–Aug 2023)</span></summary>
 
-- 研究責任者（PI）、専攻医の36時間連続勤務制度の改善に関する研究
+- 研究責任者（PI）、研修医・専攻医の36時間連続勤務制度の改善に関する研究
 - 研究責任者（PI）、2022年 全国専攻医実態調査（2022 National Resident Survey）
-- 政策顧問（Sep 2023–Feb 2024）
+- 政策諮問委員（Sep 2023–Feb 2024）
 - 副会長（Sep 2021–Aug 2022）
 - 第20代大統領選挙に向けた KIRA 政策提案冊子の総括コーディネーター
 
@@ -209,7 +210,7 @@ Korea University College of Medicine のティーチングアシスタントと�
 ## 研究・業績
 
 - **研究責任者（PI）**、軍人のメンタルヘルスの決定要因に関する研究
-- **研究責任者（PI）**、専攻医の36時間連続勤務制度の改善に関する研究
+- **研究責任者（PI）**、研修医・専攻医の36時間連続勤務制度の改善に関する研究
 
 研究プロジェクトおよび業績の全リストは、[研究](research.html) および [論文](publications.html) のページをご覧ください。
 
@@ -425,7 +426,7 @@ Korea University College of Medicine のティーチングアシスタントと�
 
 - 大韓民国 保健福祉部長官表彰（Apr 2023）
 - 大韓民国 国軍医務司令官表彰（Jun 2026）
-- 学術賞、Korean Military Medical Association、第57回 軍陣医学学術大会（Sep 2026）
+- 学術賞、Korean Military Medical Association、57th Conference on Military Medicine（Sep 2026）
 - Kang Sang-ho Award（優秀ポスター賞）、Korean Society for Health Equity（May 2026）
 - 優秀口演賞、Korean Society for Preventive Medicine（Oct 2025）
 - Kim Il-ho Award、Korean Intern Resident Association（Dec 2023）

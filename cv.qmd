@@ -5,7 +5,7 @@ toc-depth: 3
 ---
 
 
-I study the pathways through which working conditions (long working hours, shift work, precarious employment, etc.) affect mental health, institutions and policies for workplace health, and health policy and systems. I studied medicine, sociology, and economics as an undergraduate at Korea University, earned a Master of Public Policy (MPP) at the KDI School of Public Policy and Management, and completed my doctoral coursework in public health at Korea University Graduate School.
+I study the associations between working conditions (long working hours, shift work, precarious employment, etc.) and mental health, institutions and policies for workplace health, and health policy and systems. I studied medicine, sociology, and economics as an undergraduate at Korea University, earned a Master of Public Policy (MPP) at the KDI School of Public Policy and Management, and completed my doctoral coursework in public health at Korea University Graduate School.
 
 ## Areas of Interest
 
@@ -21,6 +21,7 @@ I study the pathways through which working conditions (long working hours, shift
 - **MPP**, Public Policy (Social Policy), KDI School of Public Policy and Management, Korea
 - **MD**, Medicine, Korea University, Korea
 - **BA**, Sociology, Economics (Minor), Korea University, Korea
+- **High School Diploma**, Hansung Science High School, Korea
 
 ## Work Experience
 
@@ -72,7 +73,7 @@ Central Epidemiologist, Ministry of National Defense (MND) (May 2024–Apr 2027)
 ### Mar 2020–Feb 2024
 
 <details class="mk-entry">
-<summary>Medical Resident (Preventive Medicine), Korea University Medicine</summary>
+<summary>Medical Resident (Preventive Medicine), Korea University Medical Center</summary>
 
 **1. Preventive Medicine & Public Health Practice**
 
@@ -97,7 +98,7 @@ As a teaching assistant at Korea University College of Medicine, support courses
 </details>
 
 <details class="mk-entry">
-<summary>Medical Intern, Korea University Medicine</summary>
+<summary>Medical Intern, Korea University Medical Center</summary>
 
 Gained clinical experience across primary care, emergency medicine, and post-operative care.
 
@@ -181,7 +182,7 @@ Gained clinical experience across primary care, emergency medicine, and post-ope
 <details class="mk-entry">
 <summary><span class="mk-e-name">Korean Intern Resident Association</span> <span class="mk-e-role">President</span> <span class="mk-e-when">(Sep 2022–Aug 2023)</span></summary>
 
-- Principal Investigator, Study on Reforming the 36-hour Consecutive Duty System for Residents
+- Principal Investigator, A Study on Reforming the 36-hour Consecutive Shift System for Medical Intern and Resident
 - Principal Investigator, 2022 National Resident Survey
 - Policy Advisor (Sep 2023–Feb 2024)
 - Vice President (Sep 2021–Aug 2022)
@@ -207,7 +208,7 @@ Gained clinical experience across primary care, emergency medicine, and post-ope
 ## Research & Publications
 
 - **Principal Investigator**, Determinants of Mental Health Among Military Personnel
-- **Principal Investigator**, Study on Reforming the 36-hour Consecutive Duty System for Residents
+- **Principal Investigator**, A Study on Reforming the 36-hour Consecutive Shift System for Medical Intern and Resident
 
 For the full list of research projects and publications, see the [Research](research.html) and [Publications](publications.html) pages.
 

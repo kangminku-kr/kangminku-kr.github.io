@@ -7,7 +7,7 @@ toc-depth: 3
 ---
 
 
-J'étudie les voies par lesquelles les conditions de travail (longues heures de travail, travail posté, emploi précaire, etc.) affectent la santé mentale, les institutions et les politiques de santé au travail, ainsi que les politiques et les systèmes de santé. J'ai étudié la médecine, la sociologie et l'économie en premier cycle à Korea University, obtenu un master en politiques publiques (MPP) à la KDI School of Public Policy and Management, puis achevé la phase de cours du doctorat en santé publique à Korea University Graduate School.
+J'étudie les associations entre les conditions de travail (longues heures de travail, travail posté, emploi précaire, etc.) et la santé mentale, les institutions et les politiques de santé au travail, ainsi que les politiques et les systèmes de santé. J'ai étudié la médecine, la sociologie et l'économie en premier cycle à Korea University, obtenu un master en politiques publiques (MPP) à la KDI School of Public Policy and Management, puis achevé la phase de cours du doctorat en santé publique à Korea University Graduate School.
 
 ## Domaines d'intérêt
 
@@ -23,6 +23,7 @@ J'étudie les voies par lesquelles les conditions de travail (longues heures de 
 - **MPP**, Politiques publiques (politiques sociales), KDI School of Public Policy and Management, Corée
 - **MD**, Médecine, Korea University, Corée
 - **BA**, Sociologie, Économie (mineure), Korea University, Corée
+- **Diplôme d'études secondaires**, Lycée scientifique Hansung, Corée
 
 ## Expérience professionnelle
 
@@ -74,7 +75,7 @@ Médecin du travail, Armed Forces Capital Hospital, MND (Oct 2026–Apr 2027)
 ### Mar 2020–Feb 2024
 
 <details class="mk-entry">
-<summary>Médecin résident (médecine préventive), Korea University Medicine</summary>
+<summary>Médecin résident (médecine préventive), Korea University Medical Center</summary>
 
 **1. Pratique en médecine préventive et santé publique**
 
@@ -99,7 +100,7 @@ En tant qu'assistant d'enseignement à la Korea University College of Medicine, 
 </details>
 
 <details class="mk-entry">
-<summary>Interne, Korea University Medicine</summary>
+<summary>Interne, Korea University Medical Center</summary>
 
 Acquisition d'une expérience clinique en soins primaires, en médecine d'urgence et en soins postopératoires.
 
@@ -183,7 +184,7 @@ Acquisition d'une expérience clinique en soins primaires, en médecine d'urgenc
 <details class="mk-entry">
 <summary><span class="mk-e-name">Korean Intern Resident Association</span> <span class="mk-e-role">Président</span> <span class="mk-e-when">(Sep 2022–Aug 2023)</span></summary>
 
-- Chercheur principal, Étude sur la réforme du système de gardes de 36 heures consécutives pour les résidents
+- Chercheur principal, Étude sur la réforme du système de gardes de 36 heures consécutives pour les internes et résidents
 - Chercheur principal, Enquête nationale 2022 auprès des résidents
 - Conseiller politique (Sep 2023–Feb 2024)
 - Vice-président (Sep 2021–Aug 2022)
@@ -209,7 +210,7 @@ Acquisition d'une expérience clinique en soins primaires, en médecine d'urgenc
 ## Recherche et publications
 
 - **Chercheur principal**, Déterminants de la santé mentale du personnel militaire
-- **Chercheur principal**, Étude sur la réforme du système de gardes de 36 heures consécutives pour les résidents
+- **Chercheur principal**, Étude sur la réforme du système de gardes de 36 heures consécutives pour les internes et résidents
 
 Pour la liste complète des projets de recherche et des publications, voir les pages [Recherche](research.html) et [Publications](publications.html).
 
@@ -425,7 +426,7 @@ Président, Pre-med Student Union, Korea University College of Medicine (Dec 201
 
 - Distinction décernée par le ministre de la Santé et du Bien-être, République de Corée (Apr 2023)
 - Distinction décernée par le commandant du Service de santé des armées (Armed Forces Medical Command), République de Corée (Jun 2026)
-- Prix scientifique, Korean Military Medical Association, 57e Conférence de médecine militaire (Sep 2026)
+- Prix scientifique, Korean Military Medical Association, 57th Conference on Military Medicine (Sep 2026)
 - Prix Kang Sang-ho (prix du meilleur poster), Korean Society for Health Equity (May 2026)
 - Prix de la meilleure communication orale, Korean Society for Preventive Medicine (Oct 2025)
 - Prix Kim Il-ho, Korean Intern Resident Association (Dec 2023)
