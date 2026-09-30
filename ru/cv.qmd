@@ -88,7 +88,7 @@ toc-depth: 3
 
 **3. Общая клиническая практика**
 
-Приобрёл клинический опыт в первичной медико-санитарной помощи, неотложной медицине и послеоперационном уходе. Во время пандемии COVID-19 работал лечащим врачом в Community Treatment Center в Сеуле (2022).
+Во время пандемии COVID-19 работал лечащим врачом в Community Treatment Center в Сеуле (2022).
 
 Врач, Seoul COVID-19 Community Treatment Center (по совместительству), Jan 2022–Jun 2022.
 
@@ -98,9 +98,12 @@ toc-depth: 3
 
 </details>
 
-::: {.mk-entry .mk-static}
-Врач-интерн, Korea University Medicine
-:::
+<details class="mk-entry">
+<summary>Врач-интерн, Korea University Medicine</summary>
+
+Приобрёл клинический опыт в первичной медико-санитарной помощи, неотложной медицине и послеоперационном уходе.
+
+</details>
 
 ## Лицензии и сертификаты
 
@@ -131,7 +134,7 @@ toc-depth: 3
 </details>
 
 ::: {.mk-entry .mk-static}
-[Korean Society of Occupational Stress]{.mk-e-name}
+[Korean Society of Occupational Stress]{.mk-e-name} [Член правления]{.mk-e-role}
 :::
 
 <details class="mk-entry">

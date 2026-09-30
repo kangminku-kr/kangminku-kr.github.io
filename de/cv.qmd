@@ -88,7 +88,7 @@ Forschung zu sozialen Determinanten der Gesundheit, öffentlicher psychischer Ge
 
 **3. Allgemeine klinische Tätigkeit**
 
-Erwerb klinischer Erfahrung in der Primärversorgung, der Notfallmedizin und der postoperativen Versorgung. Tätigkeit als behandelnder Arzt im Seoul Community Treatment Centre während der COVID-19-Pandemie (2022).
+Tätigkeit als behandelnder Arzt im Seoul Community Treatment Centre während der COVID-19-Pandemie (2022).
 
 Arzt, Seoul COVID-19 Community Treatment Center (Teilzeit), Jan 2022–Jun 2022.
 
@@ -98,9 +98,12 @@ Als wissenschaftlicher Assistent (Teaching Assistant) am Korea University Colleg
 
 </details>
 
-::: {.mk-entry .mk-static}
-Arzt im Praktikum (Intern), Korea University Medicine
-:::
+<details class="mk-entry">
+<summary>Arzt im Praktikum (Intern), Korea University Medicine</summary>
+
+Erwerb klinischer Erfahrung in der Primärversorgung, der Notfallmedizin und der postoperativen Versorgung.
+
+</details>
 
 ## Approbation und Zertifizierungen
 
@@ -131,7 +134,7 @@ Arzt im Praktikum (Intern), Korea University Medicine
 </details>
 
 ::: {.mk-entry .mk-static}
-[Korean Society of Occupational Stress]{.mk-e-name}
+[Korean Society of Occupational Stress]{.mk-e-name} [Vorstandsmitglied]{.mk-e-role}
 :::
 
 <details class="mk-entry">

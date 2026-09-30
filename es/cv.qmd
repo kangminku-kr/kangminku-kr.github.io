@@ -88,7 +88,7 @@ Investigo los determinantes sociales de la salud, la salud mental pública y el 
 
 **3. Práctica clínica general**
 
-Adquirí experiencia clínica en atención primaria, medicina de urgencias y cuidados posoperatorios. Ejercí como médico responsable de la atención a pacientes en el Community Treatment Centre de Seúl durante la pandemia de COVID-19 (2022).
+Ejercí como médico responsable de la atención a pacientes en el Community Treatment Centre de Seúl durante la pandemia de COVID-19 (2022).
 
 Médico, Seoul COVID-19 Community Treatment Center (a tiempo parcial), Jan 2022–Jun 2022.
 
@@ -98,9 +98,12 @@ Como profesor ayudante en la Korea University College of Medicine, apoyo la doce
 
 </details>
 
-::: {.mk-entry .mk-static}
-Médico interno, Korea University Medicine
-:::
+<details class="mk-entry">
+<summary>Médico interno, Korea University Medicine</summary>
+
+Adquirí experiencia clínica en atención primaria, medicina de urgencias y cuidados posoperatorios.
+
+</details>
 
 ## Licencias y certificaciones
 
@@ -131,7 +134,7 @@ Médico interno, Korea University Medicine
 </details>
 
 ::: {.mk-entry .mk-static}
-[Korean Society of Occupational Stress]{.mk-e-name}
+[Korean Society of Occupational Stress]{.mk-e-name} [Miembro de la junta directiva]{.mk-e-role}
 :::
 
 <details class="mk-entry">

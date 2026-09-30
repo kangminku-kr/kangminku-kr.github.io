@@ -86,7 +86,7 @@ Research social determinants of health, public mental health, and workplace well
 
 **3. General Clinical Practice**
 
-Gained clinical experience across primary care, emergency medicine, and post-operative care. Served as a patient care physician at Seoul's Community Treatment Centre during the COVID-19 pandemic (2022).
+Served as a patient care physician at Seoul's Community Treatment Centre during the COVID-19 pandemic (2022).
 
 Physician, Seoul COVID-19 Community Treatment Center (part-time), Jan 2022–Jun 2022.
 
@@ -96,9 +96,12 @@ As a teaching assistant at Korea University College of Medicine, support courses
 
 </details>
 
-::: {.mk-entry .mk-static}
-Medical Intern, Korea University Medicine
-:::
+<details class="mk-entry">
+<summary>Medical Intern, Korea University Medicine</summary>
+
+Gained clinical experience across primary care, emergency medicine, and post-operative care.
+
+</details>
 
 ## Licenses & Certifications
 
@@ -129,7 +132,7 @@ Medical Intern, Korea University Medicine
 </details>
 
 ::: {.mk-entry .mk-static}
-[Korean Society of Occupational Stress]{.mk-e-name}
+[Korean Society of Occupational Stress]{.mk-e-name} [Board Member]{.mk-e-role}
 :::
 
 <details class="mk-entry">

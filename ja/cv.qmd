@@ -88,7 +88,7 @@ toc-depth: 3
 
 **3. 一般臨床実務**
 
-プライマリケア、救急医療、術後管理にわたる臨床経験を積んだ。COVID-19パンデミック下（2022）には、ソウルの生活治療センター（Community Treatment Centre）で患者診療医として従事した。
+COVID-19パンデミック下（2022）には、ソウルの生活治療センター（Community Treatment Centre）で患者診療医として従事した。
 
 診療医、Seoul COVID-19 Community Treatment Center（非常勤）、Jan 2022–Jun 2022。
 
@@ -98,9 +98,12 @@ Korea University College of Medicine のティーチングアシスタントと�
 
 </details>
 
-::: {.mk-entry .mk-static}
-インターン（研修医）、Korea University Medicine
-:::
+<details class="mk-entry">
+<summary>インターン（研修医）、Korea University Medicine</summary>
+
+プライマリケア、救急医療、術後管理にわたる臨床経験を積んだ。
+
+</details>
 
 ## 免許・資格
 
@@ -131,7 +134,7 @@ Korea University College of Medicine のティーチングアシスタントと�
 </details>
 
 ::: {.mk-entry .mk-static}
-[Korean Society of Occupational Stress]{.mk-e-name}
+[Korean Society of Occupational Stress]{.mk-e-name} [理事]{.mk-e-role}
 :::
 
 <details class="mk-entry">
