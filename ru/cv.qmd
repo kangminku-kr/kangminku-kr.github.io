@@ -34,7 +34,7 @@ toc-depth: 3
 :::
 
 <details class="mk-entry">
-<summary>Отдел управления здравоохранением, Armed Forces Medical Command, MND (May 2025–Apr 2027)</summary>
+<summary>Отдел управления здравоохранением, Armed Forces Medical Command, MND (May 2025–Apr 2027); врач по гигиене труда, Armed Forces Capital Hospital (Oct 2026–Apr 2027)</summary>
 
 - Издание ежегодного отчёта по военной медицинской статистике (Military Health Statistics Annual Report), Armed Forces Medical Command, MND
 - Ежеквартальный анализ использования военных госпиталей и показателей качества, а также разработка предложений по политике
@@ -47,10 +47,6 @@ toc-depth: 3
 - Укрепление потенциала реагирования и управления инфекционными заболеваниями в вооружённых силах, Korea Disease Control and Prevention Agency (2025)
 
 </details>
-
-::: {.mk-entry .mk-static}
-Врач по гигиене труда, Armed Forces Capital Hospital, MND (Oct 2026–Apr 2027)
-:::
 
 ::: {.mk-entry .mk-static}
 Центральный эпидемиолог, Министерство национальной обороны (MND) (May 2024–Apr 2027)

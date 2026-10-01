@@ -34,7 +34,7 @@ Médico del trabajo, Gyeonggido Office of Education (Oct 2026–)
 :::
 
 <details class="mk-entry">
-<summary>División de Gestión Sanitaria, Armed Forces Medical Command, MND (May 2025–Apr 2027)</summary>
+<summary>División de Gestión Sanitaria, Armed Forces Medical Command, MND (May 2025–Apr 2027); médico del trabajo, Armed Forces Capital Hospital (Oct 2026–Apr 2027)</summary>
 
 - Publicación del Informe Anual de Estadísticas de Salud Militar, Armed Forces Medical Command, MND
 - Análisis trimestral de la utilización de los hospitales militares y de los indicadores de calidad, y elaboración de propuestas de política
@@ -47,10 +47,6 @@ Médico del trabajo, Gyeonggido Office of Education (Oct 2026–)
 - Mejora de las capacidades de respuesta y gestión de las enfermedades infecciosas en las fuerzas armadas coreanas, Korea Disease Control and Prevention Agency (2025)
 
 </details>
-
-::: {.mk-entry .mk-static}
-Médico del trabajo, Armed Forces Capital Hospital, MND (Oct 2026–Apr 2027)
-:::
 
 ::: {.mk-entry .mk-static}
 Epidemiólogo central, Ministerio de Defensa Nacional (MND) (May 2024–Apr 2027)
