@@ -26,7 +26,7 @@ toc-depth: 2
 
 ## Lehrveranstaltungen
 
-**Kursleitung (geplant)**
+**Gewünschte Lehrveranstaltungen**
 
 - **Seminar Korean Healthcare Policy 101** — Graduiertenseminar, 16 Wochen.
   *Zielgruppe:* Graduierte und Fachkräfte im Gesundheitswesen.
