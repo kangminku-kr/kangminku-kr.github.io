@@ -5,7 +5,7 @@ toc-depth: 3
 ---
 
 
-I study the associations between working conditions (long working hours, shift work, precarious employment, etc.) and mental health, institutions and policies for workplace health, and health policy and systems. I studied medicine, sociology, and economics as an undergraduate at Korea University, earned a Master of Public Policy (MPP) at the KDI School of Public Policy and Management, and completed my doctoral coursework in public health at Korea University Graduate School.
+I study the associations between working conditions (long working hours, shift work, precarious employment, etc.) and mental health, institutions and policies for workplace mental health, and health policy and systems. I studied medicine, sociology, and economics as an undergraduate at Korea University, earned a Master of Public Policy (MPP) at the KDI School of Public Policy and Management, and completed my doctoral coursework in public health at Korea University Graduate School.
 
 ## Areas of Interest
 
@@ -439,5 +439,6 @@ President, Pre-med Student Union, Korea University College of Medicine (Dec 2012
 - Public Health Scholarship, Korea University College of Medicine (2021–2023)
 - Graduate Mentor Scholarship for International Students, Korea University (2022)
 - University Service Scholarship, Korea University (2012–2015)
+- University Leader Scholarship, Korea University (2013)
 - Merit Scholarship, Korea University (2012–2013)
 - Samsung Junior Frontier Leader (JFL) Scholarship (2009)

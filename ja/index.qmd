@@ -16,7 +16,7 @@ lang: ja
 <div>
 <h1 class="mk-name">Minku Kang<span class="mk-degrees">, MD, MPP, PhD(c)</span></h1>
 <p class="mk-title">予防医学専門医</p>
-<p class="mk-fields">職域健康管理・保健医療政策</p>
+<p class="mk-fields">職域メンタルヘルス・保健医療政策</p>
 <nav class="mk-langbar" aria-label="Language"></nav>
 <img src="../images/profile.jpg" alt="Minku Kang" class="mk-home-photo">
 </div>
@@ -35,7 +35,7 @@ lang: ja
 <h3>経歴</h3>
 <ul>
 <li>Gyeonggido Office of Education 産業医</li>
-<li>Armed Forces Capital Hospital 産業医、Armed Forces Medical Command 保健医療政策担当官</li>
+<li>Armed Forces Medical Command 医療管理課、Armed Forces Capital Hospital 産業医</li>
 <li>国防部 (MND) 中央疫学調査官</li>
 <li>Korea University Medical Center インターン・専攻医（予防医学）</li>
 </ul>

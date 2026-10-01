@@ -7,7 +7,7 @@ toc-depth: 3
 ---
 
 
-Ich erforsche die Zusammenhänge zwischen Arbeitsbedingungen (lange Arbeitszeiten, Schichtarbeit, prekäre Beschäftigung usw.) und psychischer Gesundheit, Institutionen und Politiken der betrieblichen Gesundheit sowie Gesundheitspolitik und Gesundheitssysteme. An der Korea University habe ich ein grundständiges Studium der Medizin, Soziologie und Volkswirtschaftslehre absolviert, an der KDI School of Public Policy and Management den Master of Public Policy (MPP) erworben und an der Korea University Graduate School die Kursphase des Promotionsstudiums in Public Health abgeschlossen.
+Ich erforsche die Zusammenhänge zwischen Arbeitsbedingungen (lange Arbeitszeiten, Schichtarbeit, prekäre Beschäftigung usw.) und psychischer Gesundheit, Institutionen und Politiken der psychischen Gesundheit am Arbeitsplatz sowie Gesundheitspolitik und Gesundheitssysteme. An der Korea University habe ich ein grundständiges Studium der Medizin, Soziologie und Volkswirtschaftslehre absolviert, an der KDI School of Public Policy and Management den Master of Public Policy (MPP) erworben und an der Korea University Graduate School die Kursphase des Promotionsstudiums in Public Health abgeschlossen.
 
 ## Interessengebiete
 
@@ -441,5 +441,6 @@ Präsident, Pre-med Student Union, Korea University College of Medicine (Dec 201
 - Public-Health-Stipendium, Korea University College of Medicine (2021–2023)
 - Graduierten-Mentoren-Stipendium für internationale Studierende, Korea University (2022)
 - Stipendium für universitäres Engagement, Korea University (2012–2015)
+- University-Leader-Stipendium, Korea University (2013)
 - Leistungsstipendium, Korea University (2012–2013)
 - Samsung-Junior-Frontier-Leader-(JFL-)Stipendium (2009)

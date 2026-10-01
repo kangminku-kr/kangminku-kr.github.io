@@ -16,7 +16,7 @@ lang: fr
 <div>
 <h1 class="mk-name">Minku Kang<span class="mk-degrees">, MD, MPP, PhD(c)</span></h1>
 <p class="mk-title">Médecin spécialiste en médecine préventive</p>
-<p class="mk-fields">Santé au travail, politiques de santé</p>
+<p class="mk-fields">Santé mentale au travail, politiques de santé</p>
 <nav class="mk-langbar" aria-label="Language"></nav>
 <img src="../images/profile.jpg" alt="Minku Kang" class="mk-home-photo">
 </div>
@@ -35,7 +35,7 @@ lang: fr
 <h3>Fonctions</h3>
 <ul>
 <li>Médecin du travail, Gyeonggido Office of Education</li>
-<li>Médecin du travail, Armed Forces Capital Hospital ; officier de gestion des soins, Armed Forces Medical Command</li>
+<li>Division de la gestion des soins, Armed Forces Medical Command ; médecin du travail, Armed Forces Capital Hospital</li>
 <li>Épidémiologiste central, ministère de la Défense nationale (MND)</li>
 <li>Interne et résident (médecine préventive), Korea University Medical Center</li>
 </ul>

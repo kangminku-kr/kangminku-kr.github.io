@@ -7,7 +7,7 @@ toc-depth: 3
 ---
 
 
-労働条件（長時間労働、交代勤務、不安定雇用など）とメンタルヘルスとの関連、職域健康管理に関わる制度・政策、ならびに保健医療政策・体制について研究しています。Korea Universityの学部で医学・社会学・経済学を学び、KDI School of Public Policy and Managementで公共政策修士号（MPP）を取得し、Korea University Graduate Schoolで公衆衛生学博士課程のコースワークを修了しました。
+労働条件（長時間労働、交代勤務、不安定雇用など）とメンタルヘルスとの関連、職域メンタルヘルス管理に関わる制度・政策、ならびに保健医療政策・体制について研究しています。Korea Universityの学部で医学・社会学・経済学を学び、KDI School of Public Policy and Managementで公共政策修士号（MPP）を取得し、Korea University Graduate Schoolで公衆衛生学博士課程のコースワークを修了しました。
 
 ## 関心分野
 
@@ -441,5 +441,6 @@ Korea University College of Medicine のティーチングアシスタントと�
 - 保健学奨学金、Korea University College of Medicine（2021–2023）
 - 外国人留学生 大学院メンター奨学金、Korea University（2022）
 - 大学奉仕奨学金、Korea University（2012–2015）
+- 大学リーダー奨学金、Korea University（2013）
 - 成績優秀奨学金、Korea University（2012–2013）
 - Samsung Junior Frontier Leader (JFL) 奨学金（2009）

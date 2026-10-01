@@ -15,7 +15,7 @@ toc: false
 <div>
 <h1 class="mk-name">Minku Kang<span class="mk-degrees">, MD, MPP, PhD(c)</span></h1>
 <p class="mk-title">Preventive Medicine Physician</p>
-<p class="mk-fields">Workplace Health, Health Policy</p>
+<p class="mk-fields">Workplace Mental Health, Health Policy</p>
 <nav class="mk-langbar" aria-label="Language"></nav>
 <img src="images/profile.jpg" alt="Minku Kang" class="mk-home-photo">
 </div>
@@ -34,7 +34,7 @@ toc: false
 <h3>Positions</h3>
 <ul>
 <li>Occupational Health Physician, Gyeonggido Office of Education</li>
-<li>Occupational Health Physician, Armed Forces Capital Hospital; Healthcare Management Officer, Armed Forces Medical Command</li>
+<li>Healthcare Management Division, Armed Forces Medical Command; Occupational Health Physician, Armed Forces Capital Hospital</li>
 <li>Central Epidemiologist, Ministry of National Defense (MND)</li>
 <li>Intern and Resident (Preventive Medicine), Korea University Medical Center</li>
 </ul>

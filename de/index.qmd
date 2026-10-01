@@ -16,7 +16,7 @@ lang: de
 <div>
 <h1 class="mk-name">Minku Kang<span class="mk-degrees">, MD, MPP, PhD(c)</span></h1>
 <p class="mk-title">Facharzt für Präventivmedizin</p>
-<p class="mk-fields">Betriebliche Gesundheit, Gesundheitspolitik</p>
+<p class="mk-fields">Psychische Gesundheit am Arbeitsplatz, Gesundheitspolitik</p>
 <nav class="mk-langbar" aria-label="Language"></nav>
 <img src="../images/profile.jpg" alt="Minku Kang" class="mk-home-photo">
 </div>
@@ -35,7 +35,7 @@ lang: de
 <h3>Positionen</h3>
 <ul>
 <li>Betriebsarzt, Gyeonggido Office of Education</li>
-<li>Betriebsarzt, Armed Forces Capital Hospital; Offizier für Gesundheitsversorgungsmanagement, Armed Forces Medical Command</li>
+<li>Abteilung Gesundheitsversorgungsmanagement, Armed Forces Medical Command; Betriebsarzt, Armed Forces Capital Hospital</li>
 <li>Zentraler Epidemiologe, Verteidigungsministerium (MND)</li>
 <li>Arzt im Praktikum und Assistenzarzt (Präventivmedizin), Korea University Medical Center</li>
 </ul>
