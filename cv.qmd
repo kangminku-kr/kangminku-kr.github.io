@@ -111,8 +111,9 @@ Gained clinical experience across primary care, emergency medicine, and post-ope
 ## Academic Societies
 
 <details class="mk-entry">
-<summary><span class="mk-e-name">Korean Society for Preventive Medicine</span> <span class="mk-e-role">Board Member; Chairperson, Future Generations Committee</span></summary>
+<summary><span class="mk-e-name">Korean Society for Preventive Medicine</span> <span class="mk-e-role">Board Member</span></summary>
 
+- Chairperson, Future Generations Committee
 - Member and Secretary, Society and Mental Health Committee
 - Member, Clinical Preventive Medicine Committee
 - Former Member, Policy Planning Taskforce

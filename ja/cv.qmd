@@ -113,8 +113,9 @@ Korea University College of Medicine のティーチングアシスタントと�
 ## 学会
 
 <details class="mk-entry">
-<summary><span class="mk-e-name">Korean Society for Preventive Medicine</span> <span class="mk-e-role">理事・Future Generations Committee 委員長</span></summary>
+<summary><span class="mk-e-name">Korean Society for Preventive Medicine</span> <span class="mk-e-role">理事</span></summary>
 
+- Future Generations Committee 委員長
 - Society and Mental Health Committee 委員（幹事）
 - Clinical Preventive Medicine Committee 委員
 - 元 Policy Planning Taskforce 委員

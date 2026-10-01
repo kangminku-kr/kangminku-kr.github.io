@@ -112,8 +112,9 @@ toc-depth: 2
 ## 학회
 
 <details class="mk-entry">
-<summary><span class="mk-e-name">대한예방의학회</span> <span class="mk-e-role">이사 · 미래세대위원장</span></summary>
+<summary><span class="mk-e-name">대한예방의학회</span> <span class="mk-e-role">이사</span></summary>
 
+- 미래세대위원회 위원장
 - 사회정신건강위원회 위원(간사)
 - 임상예방의료위원회 위원
 - 전 정책기획TF 위원

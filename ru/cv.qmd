@@ -113,8 +113,9 @@ toc-depth: 3
 ## Научные общества
 
 <details class="mk-entry">
-<summary><span class="mk-e-name">Korean Society for Preventive Medicine</span> <span class="mk-e-role">Член правления; председатель Future Generations Committee</span></summary>
+<summary><span class="mk-e-name">Korean Society for Preventive Medicine</span> <span class="mk-e-role">Член правления</span></summary>
 
+- Председатель, Future Generations Committee
 - Член и секретарь, Society and Mental Health Committee
 - Член, Clinical Preventive Medicine Committee
 - Бывший член, Policy Planning Taskforce

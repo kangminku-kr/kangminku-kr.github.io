@@ -113,8 +113,9 @@ Acquisition d'une expérience clinique en soins primaires, en médecine d'urgenc
 ## Sociétés savantes
 
 <details class="mk-entry">
-<summary><span class="mk-e-name">Korean Society for Preventive Medicine</span> <span class="mk-e-role">Membre du conseil d'administration ; président du Future Generations Committee</span></summary>
+<summary><span class="mk-e-name">Korean Society for Preventive Medicine</span> <span class="mk-e-role">Membre du conseil d'administration</span></summary>
 
+- Président, Future Generations Committee
 - Membre et secrétaire, Society and Mental Health Committee
 - Membre, Clinical Preventive Medicine Committee
 - Ancien membre, Policy Planning Taskforce

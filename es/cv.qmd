@@ -113,8 +113,9 @@ Adquirí experiencia clínica en atención primaria, medicina de urgencias y cui
 ## Sociedades científicas
 
 <details class="mk-entry">
-<summary><span class="mk-e-name">Korean Society for Preventive Medicine</span> <span class="mk-e-role">Miembro de la junta directiva; Presidente, Future Generations Committee</span></summary>
+<summary><span class="mk-e-name">Korean Society for Preventive Medicine</span> <span class="mk-e-role">Miembro de la junta directiva</span></summary>
 
+- Presidente, Future Generations Committee
 - Miembro y secretario, Society and Mental Health Committee
 - Miembro, Clinical Preventive Medicine Committee
 - Exmiembro, Policy Planning Taskforce

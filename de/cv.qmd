@@ -113,8 +113,9 @@ Erwerb klinischer Erfahrung in der Primärversorgung, der Notfallmedizin und der
 ## Fachgesellschaften
 
 <details class="mk-entry">
-<summary><span class="mk-e-name">Korean Society for Preventive Medicine</span> <span class="mk-e-role">Vorstandsmitglied; Vorsitzender, Future Generations Committee</span></summary>
+<summary><span class="mk-e-name">Korean Society for Preventive Medicine</span> <span class="mk-e-role">Vorstandsmitglied</span></summary>
 
+- Vorsitzender, Future Generations Committee
 - Mitglied und Schriftführer, Society and Mental Health Committee
 - Mitglied, Clinical Preventive Medicine Committee
 - Ehemaliges Mitglied, Policy Planning Taskforce
