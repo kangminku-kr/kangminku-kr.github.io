@@ -33,16 +33,8 @@ J'étudie les associations entre les conditions de travail (longues heures de tr
 Médecin du travail, Gyeonggido Office of Education (Oct 2026–)
 :::
 
-::: {.mk-entry .mk-static}
-Médecin du travail, Armed Forces Capital Hospital, MND (Oct 2026–Apr 2027)
-:::
-
-::: {.mk-entry .mk-static}
-Épidémiologiste central, ministère de la Défense nationale (MND) (May 2024–Apr 2027)
-:::
-
 <details class="mk-entry">
-<summary>Officier de gestion des soins, Armed Forces Medical Command, MND (May 2025–Apr 2027)</summary>
+<summary>Division de la gestion des soins, Armed Forces Medical Command, MND (May 2025–Apr 2027)</summary>
 
 - Publication du rapport annuel de statistiques de santé des armées (Military Health Statistics Annual Report), Armed Forces Medical Command, MND
 - Analyse trimestrielle de l'utilisation des hôpitaux militaires et des indicateurs de qualité, et élaboration de propositions de politiques
@@ -55,6 +47,14 @@ Médecin du travail, Armed Forces Capital Hospital, MND (Oct 2026–Apr 2027)
 - Amélioration des capacités de réponse et de gestion des maladies infectieuses dans l'armée coréenne, Korea Disease Control and Prevention Agency (2025)
 
 </details>
+
+::: {.mk-entry .mk-static}
+Médecin du travail, Armed Forces Capital Hospital, MND (Oct 2026–Apr 2027)
+:::
+
+::: {.mk-entry .mk-static}
+Épidémiologiste central, ministère de la Défense nationale (MND) (May 2024–Apr 2027)
+:::
 
 <details class="mk-entry">
 <summary>Officier de médecine préventive, Armed Forces Medical Research Institute, MND (May 2024–Apr 2025)</summary>

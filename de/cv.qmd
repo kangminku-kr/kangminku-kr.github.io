@@ -33,16 +33,8 @@ Ich erforsche die Zusammenhänge zwischen Arbeitsbedingungen (lange Arbeitszeite
 Betriebsarzt, Gyeonggido Office of Education (Oct 2026–)
 :::
 
-::: {.mk-entry .mk-static}
-Betriebsarzt, Armed Forces Capital Hospital, MND (Oct 2026–Apr 2027)
-:::
-
-::: {.mk-entry .mk-static}
-Zentraler Epidemiologe, Verteidigungsministerium (MND) (May 2024–Apr 2027)
-:::
-
 <details class="mk-entry">
-<summary>Offizier für Gesundheitsversorgungsmanagement, Armed Forces Medical Command, MND (May 2025–Apr 2027)</summary>
+<summary>Abteilung Gesundheitsversorgungsmanagement, Armed Forces Medical Command, MND (May 2025–Apr 2027)</summary>
 
 - Herausgabe des Military Health Statistics Annual Report (Jahresbericht zur Gesundheitsstatistik der Streitkräfte), Armed Forces Medical Command, MND
 - Vierteljährliche Analyse der Inanspruchnahme von Militärkrankenhäusern und von Qualitätsindikatoren sowie Entwicklung von Politikvorschlägen
@@ -55,6 +47,14 @@ Zentraler Epidemiologe, Verteidigungsministerium (MND) (May 2024–Apr 2027)
 - Verbesserung der Reaktions- und Managementkapazitäten für Infektionskrankheiten in den koreanischen Streitkräften, Korea Disease Control and Prevention Agency (2025)
 
 </details>
+
+::: {.mk-entry .mk-static}
+Betriebsarzt, Armed Forces Capital Hospital, MND (Oct 2026–Apr 2027)
+:::
+
+::: {.mk-entry .mk-static}
+Zentraler Epidemiologe, Verteidigungsministerium (MND) (May 2024–Apr 2027)
+:::
 
 <details class="mk-entry">
 <summary>Offizier für Präventivmedizin, Armed Forces Medical Research Institute, MND (May 2024–Apr 2025)</summary>

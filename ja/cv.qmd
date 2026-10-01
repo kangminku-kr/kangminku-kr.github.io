@@ -7,7 +7,7 @@ toc-depth: 3
 ---
 
 
-労働条件（長時間労働、交代勤務、不安定雇用など）とメンタルヘルスとの関連、職域メンタルヘルス管理に関わる制度・政策、ならびに保健医療政策・体制について研究しています。Korea Universityの学部で医学・社会学・経済学を学び、KDI School of Public Policy and Managementで公共政策修士号（MPP）を取得し、Korea University Graduate Schoolで公衆衛生学博士課程のコースワークを修了しました。
+労働条件（長時間労働、交代勤務、不安定雇用など）とメンタルヘルスとの関連、職域メンタルヘルスに関わる制度・政策、ならびに保健医療政策・体制について研究しています。Korea Universityの学部で医学・社会学・経済学を学び、KDI School of Public Policy and Managementで公共政策修士号（MPP）を取得し、Korea University Graduate Schoolで公衆衛生学博士課程のコースワークを修了しました。
 
 ## 関心分野
 
@@ -33,16 +33,8 @@ toc-depth: 3
 産業医、Gyeonggido Office of Education（Oct 2026–）
 :::
 
-::: {.mk-entry .mk-static}
-産業医、Armed Forces Capital Hospital, MND（Oct 2026–Apr 2027）
-:::
-
-::: {.mk-entry .mk-static}
-中央疫学調査官、国防部 (MND)（May 2024–Apr 2027）
-:::
-
 <details class="mk-entry">
-<summary>保健医療政策担当官、Armed Forces Medical Command, MND（May 2025–Apr 2027）</summary>
+<summary>医療管理課、Armed Forces Medical Command, MND（May 2025–Apr 2027）</summary>
 
 - Military Health Statistics Annual Report（軍保健統計年報）の刊行、Armed Forces Medical Command, MND
 - 軍病院の利用状況および質指標の四半期分析と政策提言の策定
@@ -55,6 +47,14 @@ toc-depth: 3
 - 軍における感染症の対応・管理能力の強化、Korea Disease Control and Prevention Agency（2025）
 
 </details>
+
+::: {.mk-entry .mk-static}
+産業医、Armed Forces Capital Hospital, MND（Oct 2026–Apr 2027）
+:::
+
+::: {.mk-entry .mk-static}
+中央疫学調査官、国防部 (MND)（May 2024–Apr 2027）
+:::
 
 <details class="mk-entry">
 <summary>予防医学将校、Armed Forces Medical Research Institute, MND（May 2024–Apr 2025）</summary>

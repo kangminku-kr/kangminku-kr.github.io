@@ -7,7 +7,7 @@ toc-depth: 3
 ---
 
 
-Я исследую связь условий труда (продолжительный рабочий день, сменная работа, нестабильная занятость и др.) с психическим здоровьем, институты и политику в области охраны психического здоровья на рабочем месте, а также политику и системы здравоохранения. В студенческие годы в Korea University я изучал медицину, социологию и экономику, в KDI School of Public Policy and Management получил степень магистра государственной политики (MPP), а в Korea University Graduate School завершил учебную часть программы PhD по общественному здравоохранению.
+Я исследую связь условий труда (продолжительный рабочий день, сменная работа, нестабильная занятость и др.) с психическим здоровьем, институты и политику в области психического здоровья на рабочем месте, а также политику и системы здравоохранения. В студенческие годы в Korea University я изучал медицину, социологию и экономику, в KDI School of Public Policy and Management получил степень магистра государственной политики (MPP), а в Korea University Graduate School завершил учебную часть программы PhD по общественному здравоохранению.
 
 ## Области научных интересов
 
@@ -33,16 +33,8 @@ toc-depth: 3
 Врач по гигиене труда, Gyeonggido Office of Education (Oct 2026–)
 :::
 
-::: {.mk-entry .mk-static}
-Врач по гигиене труда, Armed Forces Capital Hospital, MND (Oct 2026–Apr 2027)
-:::
-
-::: {.mk-entry .mk-static}
-Центральный эпидемиолог, Министерство национальной обороны (MND) (May 2024–Apr 2027)
-:::
-
 <details class="mk-entry">
-<summary>Офицер по управлению здравоохранением, Armed Forces Medical Command, MND (May 2025–Apr 2027)</summary>
+<summary>Отдел управления здравоохранением, Armed Forces Medical Command, MND (May 2025–Apr 2027)</summary>
 
 - Издание ежегодного отчёта по военной медицинской статистике (Military Health Statistics Annual Report), Armed Forces Medical Command, MND
 - Ежеквартальный анализ использования военных госпиталей и показателей качества, а также разработка предложений по политике
@@ -55,6 +47,14 @@ toc-depth: 3
 - Укрепление потенциала реагирования и управления инфекционными заболеваниями в вооружённых силах, Korea Disease Control and Prevention Agency (2025)
 
 </details>
+
+::: {.mk-entry .mk-static}
+Врач по гигиене труда, Armed Forces Capital Hospital, MND (Oct 2026–Apr 2027)
+:::
+
+::: {.mk-entry .mk-static}
+Центральный эпидемиолог, Министерство национальной обороны (MND) (May 2024–Apr 2027)
+:::
 
 <details class="mk-entry">
 <summary>Офицер по профилактической медицине, Armed Forces Medical Research Institute, MND (May 2024–Apr 2025)</summary>
