@@ -443,4 +443,4 @@ toc-depth: 3
 - Стипендия за университетскую службу, Korea University (2012–2015)
 - Стипендия University Leader, Korea University (2013)
 - Стипендия за академические успехи (Merit Scholarship), Korea University (2012–2013)
-- Стипендия Samsung Junior Frontier Leader (JFL) (2009)
+- Стипендия Samsung SDS Junior Frontier Leader (JFL) (2009–2010)
