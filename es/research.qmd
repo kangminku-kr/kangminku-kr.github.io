@@ -28,13 +28,13 @@ toc-depth: 2
 
 ## Coinvestigador
 
-- **Reforma de la evaluación del entorno de formación de residentes para mejorar la calidad de la formación**
+- **Estudio sobre la reestructuración del sistema de evaluación del entorno de formación de residentes hacia una evaluación basada en programas y resultados en Corea**
   - Korean Hospital Association (KHA) — **2026**
 - **Cambios en la utilización de servicios médicos en los hospitales militares tras la crisis sanitaria de 2024**
   - Armed Forces Medical Command (MND) — **2026**
 - **Análisis de la utilización de servicios sanitarios del personal militar en hospitales militares y civiles**
   - Armed Forces Medical Command (MND) — **2025–2026**
-- **Fortalecimiento de la capacidad de respuesta y gestión de las enfermedades infecciosas en el ámbito militar**
+- **Mejora de las capacidades de respuesta y gestión de las enfermedades infecciosas en las fuerzas armadas coreanas**
   - Korea Disease Control and Prevention Agency (KDCA) — **2025**
 - **Elaboración de una hoja de ruta para la prevención y gestión de los riesgos para la salud**
   - Korea Disease Control and Prevention Agency (KDCA) — **2025**
@@ -64,10 +64,10 @@ toc-depth: 2
   - (Administración de la investigación, encuesta seroepidemiológica de campo)
 - **Análisis espacio-temporal de las enfermedades y los factores relacionados con la salud**
   - Korea University Medicine — **2021.09–2022.02**
-- **Proyecto de formación y refuerzo en prevención, diagnóstico y análisis de enfermedades infecciosas (KOICA–Tashkent Medical University)**
+- **Proyecto de formación y refuerzo en prevención, diagnóstico y análisis de enfermedades infecciosas (KOICA–Tashkent Medical Academy)**
   - Korea International Cooperation Agency (KOICA) — **2021.11–2021.12**
   - (Especialista en salud: formación en epidemiología basada en R, procesamiento y análisis de datos de encuestas)
 - **Estudios de política sobre el sistema de certificación privada de dispositivos médicos en Corea del Sur**
   - **2021.04–2021.12**
-- **Efecto de los factores socioeconómicos en la salud del grupo de edad avanzada: enfermedades crónicas complejas**
+- **Efecto de los factores socioeconómicos en la salud del grupo de edad avanzada: con especial atención a las enfermedades crónicas complejas**
   - Korea University Medicine — **2016.10–2017.01**

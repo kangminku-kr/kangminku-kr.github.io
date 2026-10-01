@@ -34,7 +34,7 @@ toc-depth: 2
   - Armed Forces Medical Command (MND) — **2026**
 - **Analyse du recours aux soins du personnel militaire dans les hôpitaux militaires et civils**
   - Armed Forces Medical Command (MND) — **2025–2026**
-- **Renforcement des capacités de réponse et de gestion des maladies infectieuses dans l'armée**
+- **Amélioration des capacités de réponse et de gestion des maladies infectieuses dans l'armée coréenne**
   - Korea Disease Control and Prevention Agency (KDCA) — **2025**
 - **Élaboration d'une feuille de route pour la prévention et la gestion des risques sanitaires**
   - Korea Disease Control and Prevention Agency (KDCA) — **2025**
@@ -63,11 +63,11 @@ toc-depth: 2
   - Korea Disease Control and Prevention Agency (KDCA) — **2021.11–2022.03**
   - (Administration de la recherche, enquête séroépidémiologique de terrain)
 - **Analyse spatio-temporelle des maladies et des facteurs liés à la santé**
-  - Korea University Medicine — **2021.09–2022.02**
-- **Projet de formation et de renforcement en matière de prévention, de diagnostic et d'analyse des maladies infectieuses (KOICA–Tashkent Medical University)**
+  - Korea University College of Medicine — **2021.09–2022.02**
+- **Projet de formation et de renforcement en matière de prévention, de diagnostic et d'analyse des maladies infectieuses (KOICA–Tashkent Medical Academy)**
   - Korea International Cooperation Agency (KOICA) — **2021.11–2021.12**
   - (Spécialiste en santé : formation en épidémiologie basée sur R, traitement et analyse des données d'enquête)
 - **Études de politique sur le système de certification privée des dispositifs médicaux en Corée du Sud**
   - **2021.04–2021.12**
-- **Effet des facteurs socioéconomiques sur la santé chez les personnes âgées : maladies chroniques complexes**
-  - Korea University Medicine — **2016.10–2017.01**
+- **Effet des facteurs socioéconomiques sur la santé chez les personnes âgées : focus sur les maladies chroniques complexes**
+  - Korea University College of Medicine — **2016.10–2017.01**

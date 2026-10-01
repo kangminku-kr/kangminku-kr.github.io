@@ -22,7 +22,7 @@ toc-depth: 2
 - **Studie zur Reform des 36-Stunden-Dauerdienstsystems für Interns und Assistenzärztinnen und -ärzte**
   - Auftragsforschung (Drittmittel), Research Institute for Healthcare Policy (RIHP), Korean Medical Association
   - **2023.05–2024.01** (KRW 10,000,000)
-- **Koreanische Befragung von Interns und Assistenzärztinnen und -ärzten**
+- **Korean Intern Resident Survey**
   - Korean Intern Resident Association
   - **2022.09–2023.02** (KRW 20,000,000)
 
@@ -34,7 +34,7 @@ toc-depth: 2
   - Armed Forces Medical Command (MND) — **2026**
 - **Analyse der Inanspruchnahme von Gesundheitsleistungen durch Militärangehörige in Militär- und Zivilkrankenhäusern**
   - Armed Forces Medical Command (MND) — **2025–2026**
-- **Stärkung der Reaktions- und Managementkapazitäten für Infektionskrankheiten beim Militär**
+- **Verbesserung der Reaktions- und Managementkapazitäten für Infektionskrankheiten in den koreanischen Streitkräften**
   - Korea Disease Control and Prevention Agency (KDCA) — **2025**
 - **Entwicklung einer Roadmap zur Prävention und zum Management von Gesundheitsgefährdungen**
   - Korea Disease Control and Prevention Agency (KDCA) — **2025**
@@ -64,10 +64,10 @@ toc-depth: 2
   - (Forschungsadministration, seroepidemiologische Felduntersuchung)
 - **Raum-zeitliche Analyse von Krankheiten und gesundheitsbezogenen Faktoren**
   - Korea University Medicine — **2021.09–2022.02**
-- **Projekt zur Aus- und Weiterbildung in Prävention, Diagnose und Analyse von Infektionskrankheiten (KOICA–Tashkent Medical University)**
+- **Projekt zur Aus- und Weiterbildung in Prävention, Diagnose und Analyse von Infektionskrankheiten (KOICA–Tashkent Medical Academy)**
   - Korea International Cooperation Agency (KOICA) — **2021.11–2021.12**
   - (Gesundheitsexperte: R-basierte Epidemiologie-Schulung, Aufbereitung und Analyse von Erhebungsdaten)
 - **Politikstudien zum privaten Zertifizierungssystem für Medizinprodukte in Südkorea**
   - **2021.04–2021.12**
-- **Einfluss sozioökonomischer Faktoren auf die Gesundheit älterer Menschen: komplexe chronische Erkrankungen**
+- **Einfluss sozioökonomischer Faktoren auf die Gesundheit älterer Menschen: mit Schwerpunkt auf komplexen chronischen Erkrankungen**
   - Korea University Medicine — **2016.10–2017.01**

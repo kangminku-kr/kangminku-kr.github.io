@@ -49,7 +49,7 @@ toc-depth: 3
 
 **Научная работа в области профилактической медицины и общественного здравоохранения**
 
-- Исследование детерминант психического здоровья военнослужащих, Armed Forces Medical Command, MND (2026–2027)
+- Детерминанты психического здоровья военнослужащих, Armed Forces Medical Command, MND (2026–2027)
 - Изменения в использовании медицинских услуг в военных госпиталях после кризиса здравоохранения 2024 года, Armed Forces Medical Command, MND (2026)
 - Анализ использования медицинских услуг военнослужащими в военных и гражданских госпиталях, Armed Forces Medical Command, MND (2025–2026)
 - Укрепление потенциала реагирования и управления инфекционными заболеваниями в вооружённых силах, Korea Disease Control and Prevention Agency (2025)
@@ -81,7 +81,7 @@ toc-depth: 3
 
 Участвовал в национальных инициативах по укреплению здоровья и профилактике заболеваний, уделяя особое внимание программам охраны здоровья на рабочем месте и эпидемиологическому надзору. Обеспечивал проведение медицинских осмотров для Livestock Health Control Association (2022) и предложил реформу 36-часового режима непрерывного дежурства для врачей-ординаторов (2023). Во время прикомандирования к National Center for Mental Health (2023) приобрёл практический опыт в сфере национальной политики и программ помощи в области психического здоровья.
 
-Прикомандирование: Mental Health Services Division, National Center for Mental Health, Jan 2023–Feb 2023.
+Прикомандирование: Center for Mental Health Services, National Center for Mental Health (NCMH), Jan 2023–Feb 2023.
 
 **2. Научная работа в области профилактической медицины и общественного здравоохранения**
 
@@ -91,7 +91,7 @@ toc-depth: 3
 
 Во время пандемии COVID-19 работал лечащим врачом в Community Treatment Center в Сеуле (2022).
 
-Врач, Seoul COVID-19 Community Treatment Center (по совместительству), Jan 2022–Jun 2022.
+Врач (неполный рабочий день), COVID-19 Community Treatment Center, Seoul Metropolitan Government, Jan 2022–Jun 2022.
 
 **4. Образование и преподавание**
 
@@ -108,9 +108,9 @@ toc-depth: 3
 
 ## Лицензии и сертификаты
 
-- Медицинская лицензия, Korea Ministry of Health and Welfare
-- Сертификат специалиста по профилактической медицине, Korea Ministry of Health and Welfare
-- Сертифицированный специалист по гериатрии, The Korea Geriatrics Society
+- Медицинская лицензия, Ministry of Health and Welfare, Republic of Korea
+- Сертификат специалиста по профилактической медицине, Ministry of Health and Welfare, Republic of Korea
+- Сертифицированный специалист по гериатрии, Korean Geriatrics Society
 - Сертифицированный специалист по медицине ожирения, Korean Society for the Study of Obesity
 - Сертифицированный врач по общему медицинскому скринингу, The Korean Association of Health Screening
 
@@ -119,7 +119,7 @@ toc-depth: 3
 <details class="mk-entry">
 <summary><span class="mk-e-name">Korean Society for Preventive Medicine</span> <span class="mk-e-role">Член правления; председатель Future Generations Committee</span></summary>
 
-- Член и секретарь, Social Mental Health Committee
+- Член и секретарь, Society and Mental Health Committee
 - Член, Clinical Preventive Medicine Committee
 - Бывший член, Policy Planning Taskforce
 - Бывший член, Residency Training Development Taskforce
@@ -130,7 +130,7 @@ toc-depth: 3
 <summary><span class="mk-e-name">Korean Society of Occupational and Environmental Medicine</span></summary>
 
 - Член, Corporate Occupational Physicians Council
-- Исследователь, Work, Sleep, Health Cohort Research Group
+- Исследователь, Work, Sleep, and Health Cohort Research Group
 
 </details>
 
@@ -158,7 +158,7 @@ toc-depth: 3
 <details class="mk-entry">
 <summary><span class="mk-e-name">Другие научные общества</span></summary>
 
-- Член, Korean Society of Health Administration
+- Член, Korean Academy of Health Policy and Management
 - Член, Korean Association of Health Economics and Policy
 - Член; сертифицированный специалист по медицине ожирения, Korean Society for the Study of Obesity
 - Член; сертифицированный специалист по гериатрии, Korean Geriatrics Society
@@ -173,7 +173,7 @@ toc-depth: 3
 <summary><span class="mk-e-name">Korean Association of Preventive Medicine Physicians</span> <span class="mk-e-role">Вице-президент; член-учредитель</span> <span class="mk-e-when">(Mar 2025–настоящее время)</span></summary>
 
 - Курирует внешние связи, организационное управление и вопросы политики здравоохранения ассоциации.
-- Представил доклад «Preparatory Survey for the Korean Association of Preventive Medicine Physicians: Where Do Preventive Medicine Physicians Stand Today?» на 77th Fall Academic Conference of the Korean Society for Preventive Medicine, Oct 2025.
+- Представил доклад «Preparatory Survey for the Founding of the Korean Association of Preventive Medicine Physicians: Where Do Preventive Medicine Specialists Stand Today?» на 77th Fall Academic Conference of the Korean Society for Preventive Medicine, Oct 2025.
 
 </details>
 
@@ -185,7 +185,7 @@ toc-depth: 3
 <summary><span class="mk-e-name">Korean Intern Resident Association</span> <span class="mk-e-role">Президент</span> <span class="mk-e-when">(Sep 2022–Aug 2023)</span></summary>
 
 - Главный исследователь, «Исследование по реформированию системы 36-часовых непрерывных дежурств для врачей-интернов и ординаторов»
-- Главный исследователь, 2022 National Resident Survey
+- Главный исследователь, 2022 Korean Intern Resident Survey
 - Советник по политике (Sep 2023–Feb 2024)
 - Вице-президент (Sep 2021–Aug 2022)
 - Ведущий координатор буклета политических предложений KIRA к 20-м президентским выборам
@@ -197,11 +197,11 @@ toc-depth: 3
 
 - Делегат, KMA National Assembly (Sep 2021–Aug 2022)
 - Делегат, Seoul Medical Association (Nov 2022–Oct 2023)
-- Член, Community Care Special Committee (Sep 2023–Feb 2024)
-- Член, Operations Committee, Research Institute for Healthcare Policy (RIHP) (Sep 2021–Aug 2023)
+- Член, Special Committee on Community Care (Sep 2023–Feb 2024)
+- Член, Steering Committee, Research Institute for Healthcare Policy (RIHP) (Sep 2021–Aug 2023)
 - Заместитель председателя, Special Committee on Eradicating Unlicensed Medical Practice (Sep 2022–Aug 2023)
 - Член, Member Rights Committee (Sep 2022–Aug 2023)
-- Член, KMA Policy "Healthcare and Medical Policy" Division (Sep 2021–Aug 2023)
+- Член, Healthcare and Medical Policy Division, KMA Policy Committee (Sep 2021–Aug 2023)
 - Завершение продвинутого курса по политике здравоохранения, Korean Medical Association (May 2023–Oct 2023)
 - Завершение Health Policy Academy for Junior Doctors (Jan 2024–Feb 2024)
 
@@ -236,22 +236,22 @@ toc-depth: 3
 - **Sep 2026**. Детерминанты психического здоровья военнослужащих (устный доклад). 57th Conference on Military Medicine
 - **Aug 2026**. Рабочее время, сменная работа в разных профессиях и психическое здоровье: эпидемиологическое исследование (обобщение трёх исследований). Seminar on Expanding the National Bio Big Data — Environmental Exposure and Occupational Health Research (Department of Preventive Medicine, Yonsei University College of Medicine)
 - **Jun 2026**. Институционализация выделенного персонала Physician Assistant и перестройка системы здравоохранения: улучшение условий подготовки ординаторов и обеспечение безопасности пациентов. (дискуссант). Academic Conference, Korean Society for Quality in Health Care
-- **May 2026**. Связь между рабочим временем и депрессией среди корейских военнослужащих: повторный поперечный анализ Military Health Survey (2023–2025) (постер). 2026 Spring Conference of the Korean Society for Health Equity.
-- **Apr 2026**. Экстремальный труд, депрессивные симптомы и суицидальные мысли среди корейских ординаторов: рабочее время, последовательные смены и депривация сна во время дежурств по вызову (устный доклад). 2026 Spring Conference of the Association for Health Policy for Criticism and Alternatives.
+- **May 2026**. Связь между рабочим временем и депрессией среди корейских военнослужащих: повторный поперечный анализ Military Health Survey (2023–2025) (постер). 2026 Spring Conference of the Korean Society for Equity in Health.
+- **Apr 2026**. Экстремальный труд, депрессивные симптомы и суицидальные мысли среди корейских ординаторов: рабочее время, последовательные смены и депривация сна во время дежурств по вызову (устный доклад). 2026 Spring Conference of the Academy of Critical Health Policy.
 - **Dec 2025**. Нехватка кадров в здравоохранении. (дискуссант). ETHOS (Ethics in a World of Emerging Technologies) 7.0
 - **Nov 2025**. После возвращения ординаторов: куда должна двигаться политика улучшения условий труда ординаторов? (лекция). 42nd Online Comprehensive Academic Conference, Korean Medical Association
 - **Nov 2025**. Баланс между подготовкой ординаторов и сестринской практикой Physician Assistant с точки зрения повышения качества. (дискуссант). Fall Academic Conference, Korean Society for Quality in Health Care
 - **Oct 2025**. Подготовительный опрос к созданию Korean Association of Preventive Medicine Physicians: где сегодня находятся специалисты по профилактической медицине? (устный доклад). 77th Fall Academic Conference, Korean Society for Preventive Medicine
 - **Oct 2025**. Сложные связи между употреблением алкоголя и суицидальными мыслями в Южной Корее: поперечный и продольный анализ национальной панели, 2011–2022. (устный доклад). 77th Fall Academic Conference, Korean Society for Preventive Medicine
-- **Nov 2023**. Неравное воздействие пандемии COVID-19: летальность среди проживающих в учреждениях длительного ухода и жителей местных сообществ, Корея. (постер). 2023 APHA Annual Meeting
+- **Nov 2023**. Неравное воздействие пандемии COVID-19: летальность среди проживающих в учреждениях длительного ухода и жителей местных сообществ, Корея. (постер). APHA 2023 Annual Meeting and Expo
 - **Nov 2023**. Сессия по Physician Assistant (дискуссант) / Сессия «После COVID-19» (дискуссант). Fall Academic Conference, Korean Academy of Health Policy and Management
 - **Oct 2023**. Гендерное неравенство в психическом здоровье во время пандемии COVID-19: различия между городскими и негородскими районами. (устный доклад). 3rd Joint Academic Conference of Five Academic Societies on Identifying and Reducing Regional Health Inequalities
 - **Jul 2023**. COVID-19 и неравенство в здоровье. (устный доклад). Preventive Medicine Grand Rounds, Department of Preventive Medicine, Korea University College of Medicine
 - **Jun 2023**. Проблемы политики поддержки основной медицинской помощи и поиск корейских альтернатив. (дискуссант) / Настоящее и будущее ординатуры: 36-часовое непрерывное дежурство (председатель). Academic Conference, Korean Academy of Medical Sciences
 - **May 2023**. Куда должна двигаться политика Кореи в отношении врачебных кадров? (дискуссант). Spring Academic Conference, Korean Academy of Health Policy and Management
-- **Oct 2022**. Неравенство в заболеваемости и смертности от сердечно-сосудистых заболеваний: 10-летнее национальное репрезентативное когортное наблюдение. (постер). 73rd Fall Academic Conference, Korean Society for Preventive Medicine
+- **Oct 2022**. Неравенство в заболеваемости и смертности от сердечно-сосудистых заболеваний: 10-летнее национальное репрезентативное когортное наблюдение. (постер). 74th Fall Academic Conference, Korean Society for Preventive Medicine
 - **Dec 2021**. Государство всеобщего благосостояния, социальная политика и здоровье. (устный доклад). Preventive Medicine Grand Rounds, Department of Preventive Medicine, Korea University College of Medicine
-- **Oct 2021**. COVID-19 и психическое здоровье: неравенство по возрасту, полу и региону на основе общенациональных данных за 2015–2020. (устный доклад). 71st Fall Academic Conference, Korean Society for Preventive Medicine
+- **Oct 2021**. COVID-19 и психическое здоровье: неравенство по возрасту, полу и региону на основе общенациональных данных за 2015–2020. (устный доклад). 73rd Fall Academic Conference, Korean Society for Preventive Medicine
 
 </details>
 
@@ -282,7 +282,7 @@ toc-depth: 3
 <summary>\(3\) Приглашённые лекции</summary>
 
 - **Apr 2026**. Проблемы и направления реформирования действующей системы интернатуры. Korean Healthcare Policy School
-- **Feb 2025**. Обзор вакцинации против оспы. Armed Forces Nursing Academy
+- **Feb 2025**. Обзор вакцинации против оспы. Korea Armed Forces Nursing Academy
 - **Oct 2024**. Обзор вакцинации против оспы. Armed Forces Medical Research Institute
 - **Feb 2023**. Выбор карьеры для начинающих врачей. Korean Medical Association
 
@@ -296,11 +296,11 @@ toc-depth: 3
 **Ministry of Health and Welfare, Republic of Korea**
 
 - Член-эксперт, Subcommittee on Physician Workforce, Healthcare Policy Deliberation Committee (Sep 2023–Feb 2024)
-- Член, Taskforce for Improving the Physician Assistant System (Jun 2023–Feb 2024)
+- Член, Consultative Body for Improving the Physician Assistant System (Jun 2023–Feb 2024)
 - Член, Medical Residency Training Environment Evaluation Committee (Sep 2022–Feb 2024)
 - Член, Policy Committee (Mar 2023–Feb 2024)
 - Член, Investigation Committee (Sep 2021–Aug 2022)
-- Член, Taskforce for Residency Training System Reform (Jul 2023–Oct 2023)
+- Член, Taskforce on Residency Training System Reform (Jul 2023–Oct 2023)
 - «Национальное обследование условий труда ординаторов» (совместно с Health Insurance Review & Assessment Service, 2023)
 
 **National Medical Center**
@@ -362,7 +362,7 @@ toc-depth: 3
 <details class="mk-entry">
 <summary><strong>Основатель и директор</strong>, Woosadan Studio, многофункциональное культурное пространство (Feb 2018–Feb 2020)</summary>
 
-- Проект по совместному использованию пространства для молодёжи (2018–2020) и праздник в честь открытия Usadan Studio (2018) — руководство проектом и управление пространством
+- Проект по совместному использованию пространства для молодёжи (2018–2020) и праздник в честь открытия Woosadan Studio (2018) — руководство проектом и управление пространством
 - Серия уличных концертов: гуманитарные науки и искусство, Ministry of Culture, Sports and Tourism (2018) — участие и управление пространством
 - Организация уличных концертов в Usadan Village, Itaewon; управление арендой культурного пространства и культурными программами на базе местного сообщества
 
@@ -427,19 +427,19 @@ toc-depth: 3
 - Удостоен благодарности Minister of Health and Welfare, Republic of Korea (Apr 2023)
 - Удостоен благодарности командующего Armed Forces Medical Command, Republic of Korea (Jun 2026)
 - Научная премия, Korean Military Medical Association, 57th Conference on Military Medicine (Sep 2026)
-- Премия имени Kang Sang-ho (премия за лучший постер), Korean Society for Health Equity (May 2026)
+- Премия имени Kang Sang-ho (премия за лучший постер), Korean Society for Equity in Health (May 2026)
 - Премия за лучший устный доклад, Korean Society for Preventive Medicine (Oct 2025)
 - Премия имени Kim Il-ho, Korean Intern Resident Association (Dec 2023)
-- Премия за выдающуюся статью, COVID-19 Student Paper Contest, SNU Institute of Health and Environment (Dec 2022)
+- Премия за выдающуюся статью, COVID-19 Student Paper Contest, Institute of Health and Environment, Seoul National University (Dec 2022)
 
 ## Стипендии и гранты
 
-- Стипендия National Service Fellowship, KDI School (2024–2026)
+- Стипендия National Service Fellowship, KDI School of Public Policy and Management (2024–2026)
 - Грант на поездку для участия в международной конференции, Korean Academy of Medical Sciences (Oct 2023)
 - Грант на краткосрочное обучение по приоритетным специальностям, Ministry of Health and Welfare (Oct 2023)
 - Стипендия для врачей-учёных (Physician-Scientist Scholarship), Korea University College of Medicine (2021–2023)
 - Стипендия по общественному здравоохранению, Korea University College of Medicine (2021–2023)
-- Стипендия наставника для иностранных студентов, Korea University (2022)
+- Стипендия наставника для иностранных аспирантов, Korea University (2022)
 - Стипендия за университетскую службу, Korea University (2012–2015)
 - Стипендия за академические успехи (Merit Scholarship), Korea University (2012–2013)
 - Стипендия Samsung Junior Frontier Leader (JFL) (2009)

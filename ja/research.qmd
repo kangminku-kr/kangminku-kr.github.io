@@ -37,7 +37,7 @@ toc-depth: 2
   - Armed Forces Medical Command (MND) — **2025–2026**
 - **軍における感染症の対応・管理能力の強化**
   - Korea Disease Control and Prevention Agency (KDCA) — **2025**
-- **健康被害の予防・管理に関するロードマップの策定**
+- **健康危害の予防・管理に関するロードマップの策定**
   - Korea Disease Control and Prevention Agency (KDCA) — **2025**
 - **海外派遣された韓国軍におけるマラリア・スクリーニング支援と気候に基づく予測モデリング**
   - Armed Forces Medical Research Institute (MND) — **2025**
@@ -64,11 +64,11 @@ toc-depth: 2
   - Korea Disease Control and Prevention Agency (KDCA) — **2021.11–2022.03**
   - （研究運営、現地血清疫学調査）
 - **疾病および健康関連要因の時空間分析**
-  - Korea University Medicine — **2021.09–2022.02**
-- **感染症の予防・診断・分析の教育強化プロジェクト（KOICA–Tashkent Medical University）**
+  - Korea University College of Medicine — **2021.09–2022.02**
+- **感染症の予防・診断・分析の教育強化プロジェクト（KOICA–Tashkent Medical Academy）**
   - Korea International Cooperation Agency (KOICA) — **2021.11–2021.12**
   - （保健専門家：Rを用いた疫学研修、調査データの処理・分析）
 - **韓国における医療機器の民間認証制度に関する政策研究**
   - **2021.04–2021.12**
-- **高齢者層における社会経済的要因が健康に与える影響：複合慢性疾患**
-  - Korea University Medicine — **2016.10–2017.01**
+- **高齢者層における社会経済的要因が健康に与える影響：複合慢性疾患を中心に**
+  - Korea University College of Medicine — **2016.10–2017.01**

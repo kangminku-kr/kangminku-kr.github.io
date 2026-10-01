@@ -7,7 +7,7 @@ toc-depth: 3
 ## President, Korean Intern Resident Association — Health policy (2022–2023)
 
 - [Hankook Ilbo (2023). "Doctors are human too — please care about the young doctors working 100-hour weeks"](https://www.hankookilbo.com/News/Read/A2023050602490003613)
-- [Asia Economy (2023). Even a 52-hour week is long, yet '80 hours' is rife among residents: "measures are needed"](https://view.asiae.co.kr/article/2023041716303743930)
+- [Asia Business Daily (2023). Even a 52-hour week is long, yet '80 hours' is rife among residents: "measures are needed"](https://view.asiae.co.kr/article/2023041716303743930)
 - [Medigate News (2023). The 52-hour week should apply to physicians too: "remove the special-exception status under the Labor Standards Act"](https://medigatenews.com/news/2466512363)
 - [KBS (2023). MOHW and the Resident Association hold the first meeting of the training-policy working group](https://news.kbs.co.kr/news/pc/view/view.do?ncd=7629283)
 - [MBC (2022). Three in four general hospitals: "we will scale back pediatric care next year"](https://imnews.imbc.com/replay/2022/nwdesk/article/6436990_35744.html)
@@ -19,5 +19,5 @@ toc-depth: 3
 - [News1 (2016). Seongbuk-gu and Korea University in a tug-of-war over the Gaeunsan dormitory](https://n.news.naver.com/mnews/article/421/0001419405?sid=102)
 - [Seoul Shinmun (2015). Student unions move to help the campus "snails" (housing-poor students)](https://n.news.naver.com/mnews/article/081/0002589151?sid=102)
 - [Media Today (2015). When they ask "why don't you just live in the dorm" about a four-hour commute](https://n.news.naver.com/mnews/article/006/0000075089?sid=102)
-- [Korea Higher Education News (2015). Expensive or nonexistent: university dorms are "pie in the sky"](https://news.unn.net/news/articleView.html?idxno=147160)
-- [Korea Higher Education News (2015). Students who met Deputy PM Hwang: "students should take part in decision-making"](https://news.unn.net/news/articleView.html?idxno=149347)
+- [University News Network (2015). Expensive or nonexistent: university dorms are "pie in the sky"](https://news.unn.net/news/articleView.html?idxno=147160)
+- [University News Network (2015). Students who met Deputy PM Hwang: "students should take part in decision-making"](https://news.unn.net/news/articleView.html?idxno=149347)
