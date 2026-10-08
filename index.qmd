@@ -52,6 +52,7 @@ toc: false
 <ul>
 <li>Commendation from the Minister of Health and Welfare, Republic of Korea (Apr 2023)</li>
 <li>Commendation from the Surgeon General, Armed Forces Medical Command, Republic of Korea (Jun 2026)</li>
+<li>Young Researcher Award, Korean Society for Preventive Medicine (Oct 2026)</li>
 <li>Academic Award, Korean Military Medical Association, 57th Conference on Military Medicine (Sep 2026)</li>
 <li>Kang Sang-ho Award (Best Poster Award), Korean Society for Equity in Health (May 2026)</li>
 <li>Excellent Oral Presentation Award, Korean Society for Preventive Medicine (Oct 2025)</li>

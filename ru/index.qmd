@@ -53,6 +53,7 @@ lang: ru
 <ul>
 <li>Удостоен благодарности Minister of Health and Welfare, Republic of Korea (Apr 2023)</li>
 <li>Удостоен благодарности командующего Armed Forces Medical Command, Republic of Korea (Jun 2026)</li>
+<li>Премия молодого исследователя, Korean Society for Preventive Medicine (Oct 2026)</li>
 <li>Научная премия, Korean Military Medical Association, 57th Conference on Military Medicine (Sep 2026)</li>
 <li>Премия имени Kang Sang-ho (премия за лучший постер), Korean Society for Equity in Health (May 2026)</li>
 <li>Премия за лучший устный доклад, Korean Society for Preventive Medicine (Oct 2025)</li>

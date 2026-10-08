@@ -53,6 +53,7 @@ lang: fr
 <ul>
 <li>Distinction décernée par le ministre de la Santé et du Bien-être, République de Corée (Apr 2023)</li>
 <li>Distinction décernée par le commandant de l'Armed Forces Medical Command, République de Corée (Jun 2026)</li>
+<li>Prix du jeune chercheur, Korean Society for Preventive Medicine (Oct 2026)</li>
 <li>Prix scientifique, Korean Military Medical Association, 57th Conference on Military Medicine (Sep 2026)</li>
 <li>Prix Kang Sang-ho (prix du meilleur poster), Korean Society for Equity in Health (May 2026)</li>
 <li>Prix de la meilleure communication orale, Korean Society for Preventive Medicine (Oct 2025)</li>
