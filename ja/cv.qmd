@@ -34,7 +34,7 @@ toc-depth: 3
 :::
 
 <details class="mk-entry">
-<summary>医療管理課、Armed Forces Medical Command, MND（May 2025–Apr 2027）／産業医、Armed Forces Capital Hospital（Oct 2026–Apr 2027）</summary>
+<summary>医療管理課 将校、Armed Forces Medical Command, MND（May 2025–Apr 2027）／産業医、Armed Forces Capital Hospital（Oct 2026–Apr 2027）</summary>
 
 - Military Health Statistics Annual Report（軍保健統計年報）の刊行、Armed Forces Medical Command, MND
 - 軍病院の利用状況および質指標の四半期分析と政策提言の策定

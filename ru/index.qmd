@@ -35,7 +35,7 @@ lang: ru
 <h3>Карьера</h3>
 <ul>
 <li>Врач по гигиене труда, Gyeonggido Office of Education</li>
-<li>Отдел управления здравоохранением, Armed Forces Medical Command; врач по гигиене труда, Armed Forces Capital Hospital</li>
+<li>Офицер отдела управления здравоохранением, Armed Forces Medical Command; врач по гигиене труда, Armed Forces Capital Hospital</li>
 <li>Центральный эпидемиолог, Министерство национальной обороны (MND)</li>
 <li>Интерн и ординатор (профилактическая медицина), Korea University Medical Center</li>
 </ul>

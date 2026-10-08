@@ -35,7 +35,7 @@ lang: es
 <h3>Trayectoria</h3>
 <ul>
 <li>Médico del trabajo, Gyeonggido Office of Education</li>
-<li>División de Gestión Sanitaria, Armed Forces Medical Command; médico del trabajo, Armed Forces Capital Hospital</li>
+<li>Oficial, División de Gestión Sanitaria, Armed Forces Medical Command; médico del trabajo, Armed Forces Capital Hospital</li>
 <li>Epidemiólogo central, Ministerio de Defensa Nacional (MND)</li>
 <li>Interno y residente (medicina preventiva), Korea University Medical Center</li>
 </ul>

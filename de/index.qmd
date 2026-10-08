@@ -35,7 +35,7 @@ lang: de
 <h3>Positionen</h3>
 <ul>
 <li>Betriebsarzt, Gyeonggido Office of Education</li>
-<li>Abteilung Gesundheitsversorgungsmanagement, Armed Forces Medical Command; Betriebsarzt, Armed Forces Capital Hospital</li>
+<li>Offizier, Abteilung Gesundheitsversorgungsmanagement, Armed Forces Medical Command; Betriebsarzt, Armed Forces Capital Hospital</li>
 <li>Zentraler Epidemiologe, Verteidigungsministerium (MND)</li>
 <li>Arzt im Praktikum und Assistenzarzt (Präventivmedizin), Korea University Medical Center</li>
 </ul>

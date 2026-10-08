@@ -34,7 +34,7 @@ toc: false
 <h3>Positions</h3>
 <ul>
 <li>Occupational Health Physician, Gyeonggido Office of Education</li>
-<li>Healthcare Management Division, Armed Forces Medical Command; Occupational Health Physician, Armed Forces Capital Hospital</li>
+<li>Officer, Healthcare Management Division, Armed Forces Medical Command; Occupational Health Physician, Armed Forces Capital Hospital</li>
 <li>Central Epidemiologist, Ministry of National Defense (MND)</li>
 <li>Intern and Resident (Preventive Medicine), Korea University Medical Center</li>
 </ul>

@@ -35,7 +35,7 @@ lang: fr
 <h3>Fonctions</h3>
 <ul>
 <li>Médecin du travail, Gyeonggido Office of Education</li>
-<li>Division de la gestion des soins, Armed Forces Medical Command ; médecin du travail, Armed Forces Capital Hospital</li>
+<li>Officier, division de la gestion des soins, Armed Forces Medical Command ; médecin du travail, Armed Forces Capital Hospital</li>
 <li>Épidémiologiste central, ministère de la Défense nationale (MND)</li>
 <li>Interne et résident (médecine préventive), Korea University Medical Center</li>
 </ul>
