@@ -76,7 +76,7 @@ lang: ru
 <div class="mk-list">
 <a href="research.qmd"><span class="y">2027</span><span class="t">Рабочее время, продлённые последовательные дежурства и неустойчивая занятость: социальные детерминанты психического здоровья на работе</span><span class="m">Докторская диссертация</span></a>
 <a href="research.qmd"><span class="y">2026</span><span class="t">Детерминанты психического здоровья военнослужащих</span><span class="m">Руководитель проекта</span></a>
-<a href="research.qmd"><span class="y">2023</span><span class="t">Исследование по реформированию системы 36-часовых непрерывных дежурств для врачей-интернов и ординаторов</span><span class="m">Руководитель проекта</span></a>
+<a href="research.qmd"><span class="y">2024</span><span class="t">Исследование по реформированию системы 36-часовых непрерывных дежурств для врачей-интернов и ординаторов</span><span class="m">Руководитель проекта</span></a>
 <a href="publications.qmd"><span class="y">2023</span><span class="t">Гендерное неравенство в психическом здоровье во время пандемии COVID-19</span><span class="m">J. Prev. Med. Public Health</span></a>
 </div>
 </section>

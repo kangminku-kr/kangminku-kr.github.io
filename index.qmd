@@ -75,7 +75,7 @@ toc: false
 <div class="mk-list">
 <a href="research.qmd"><span class="y">2027</span><span class="t">Working Hours, Extended Consecutive Shifts, and Precarious Employment: Social Determinants of Workplace Mental Health</span><span class="m">Doctoral dissertation</span></a>
 <a href="research.qmd"><span class="y">2026</span><span class="t">Determinants of Mental Health among Military Personnel</span><span class="m">Principal investigator</span></a>
-<a href="research.qmd"><span class="y">2023</span><span class="t">A Study on Reforming the 36-hour Consecutive Shift System for Medical Intern and Resident</span><span class="m">Principal investigator</span></a>
+<a href="research.qmd"><span class="y">2024</span><span class="t">A Study on Reforming the 36-hour Consecutive Shift System for Medical Intern and Resident</span><span class="m">Principal investigator</span></a>
 <a href="publications.qmd"><span class="y">2023</span><span class="t">Gender inequalities in mental health during the COVID-19 pandemic</span><span class="m">J. Prev. Med. Public Health</span></a>
 </div>
 </section>

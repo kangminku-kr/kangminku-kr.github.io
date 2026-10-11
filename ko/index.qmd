@@ -76,7 +76,7 @@ lang: ko
 <div class="mk-list">
 <a href="research.qmd"><span class="y">2027</span><span class="t">노동시간, 연장된 교대근무, 고용취약성: 직장 정신건강의 사회적 결정요인</span><span class="m">박사학위논문</span></a>
 <a href="research.qmd"><span class="y">2026</span><span class="t">군 장병 정신건강의 결정요인 연구</span><span class="m">연구책임자</span></a>
-<a href="research.qmd"><span class="y">2023</span><span class="t">전공의 36시간 연속근무제도 개선 연구</span><span class="m">연구책임자</span></a>
+<a href="research.qmd"><span class="y">2024</span><span class="t">전공의 36시간 연속근무제도 개선 연구</span><span class="m">연구책임자</span></a>
 <a href="publications.qmd"><span class="y">2023</span><span class="t">코로나19 시기 정신건강의 젠더 불평등</span><span class="m">J Prev Med Public Health</span></a>
 </div>
 </section>

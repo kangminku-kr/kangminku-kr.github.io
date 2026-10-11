@@ -76,7 +76,7 @@ lang: ja
 <div class="mk-list">
 <a href="research.qmd"><span class="y">2027</span><span class="t">労働時間・延長された連続勤務・不安定雇用：職場のメンタルヘルスの社会的決定要因</span><span class="m">博士学位論文</span></a>
 <a href="research.qmd"><span class="y">2026</span><span class="t">軍人のメンタルヘルスの決定要因</span><span class="m">研究責任者</span></a>
-<a href="research.qmd"><span class="y">2023</span><span class="t">研修医・専攻医の36時間連続勤務制度の改善に関する研究</span><span class="m">研究責任者</span></a>
+<a href="research.qmd"><span class="y">2024</span><span class="t">研修医・専攻医の36時間連続勤務制度の改善に関する研究</span><span class="m">研究責任者</span></a>
 <a href="publications.qmd"><span class="y">2023</span><span class="t">COVID-19パンデミック下のメンタルヘルスにおけるジェンダー格差</span><span class="m">J. Prev. Med. Public Health</span></a>
 </div>
 </section>

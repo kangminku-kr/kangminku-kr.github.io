@@ -76,7 +76,7 @@ lang: es
 <div class="mk-list">
 <a href="research.qmd"><span class="y">2027</span><span class="t">Horas de trabajo, guardias consecutivas prolongadas y empleo precario: determinantes sociales de la salud mental en el trabajo</span><span class="m">Tesis doctoral</span></a>
 <a href="research.qmd"><span class="y">2026</span><span class="t">Determinantes de la salud mental en el personal militar</span><span class="m">Investigador principal</span></a>
-<a href="research.qmd"><span class="y">2023</span><span class="t">Estudio sobre la reforma del sistema de guardias consecutivas de 36 horas para internos y residentes médicos</span><span class="m">Investigador principal</span></a>
+<a href="research.qmd"><span class="y">2024</span><span class="t">Estudio sobre la reforma del sistema de guardias consecutivas de 36 horas para internos y residentes médicos</span><span class="m">Investigador principal</span></a>
 <a href="publications.qmd"><span class="y">2023</span><span class="t">Desigualdades de género en la salud mental durante la pandemia de COVID-19</span><span class="m">J. Prev. Med. Public Health</span></a>
 </div>
 </section>
