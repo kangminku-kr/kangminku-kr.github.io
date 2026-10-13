@@ -53,12 +53,11 @@ lang: ja
 <ul>
 <li>大韓民国 保健福祉部長官表彰</li>
 <li>大韓民国 国軍医務司令官表彰</li>
-<li>若手研究者賞、Korean Society for Preventive Medicine</li>
-<li>学術賞、Korean Military Medical Association</li>
+<li>若手研究者賞・優秀口演賞、Korean Society for Preventive Medicine</li>
 <li>Kang Sang-ho Award（優秀ポスター賞）、Korean Society for Equity in Health</li>
-<li>優秀口演賞、Korean Society for Preventive Medicine</li>
+<li>学術賞、Korean Military Medical Association</li>
+<li>優秀論文賞、COVID-19 Student Paper Contest、Institute of Health and Environment, Seoul National University</li>
 <li>Kim Il-ho Award、Korean Intern Resident Association</li>
-<li>優秀論文賞、Institute of Health and Environment, Seoul National University</li>
 </ul>
 </div>
 <details class="mk-bio">

@@ -53,12 +53,11 @@ lang: fr
 <ul>
 <li>Distinction décernée par le ministre de la Santé et du Bien-être, République de Corée</li>
 <li>Distinction décernée par le commandant de l'Armed Forces Medical Command, République de Corée</li>
-<li>Prix du jeune chercheur, Korean Society for Preventive Medicine</li>
-<li>Prix scientifique, Korean Military Medical Association</li>
+<li>Prix du jeune chercheur et prix de la meilleure communication orale, Korean Society for Preventive Medicine</li>
 <li>Prix Kang Sang-ho (prix du meilleur poster), Korean Society for Equity in Health</li>
-<li>Prix de la meilleure communication orale, Korean Society for Preventive Medicine</li>
+<li>Prix scientifique, Korean Military Medical Association</li>
+<li>Prix du meilleur article, concours d'articles étudiants sur la COVID-19, Institute of Health and Environment, Seoul National University</li>
 <li>Prix Kim Il-ho, Korean Intern Resident Association</li>
-<li>Prix du meilleur article, Institute of Health and Environment, Seoul National University</li>
 </ul>
 </div>
 <details class="mk-bio">
