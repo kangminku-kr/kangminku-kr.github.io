@@ -51,14 +51,14 @@ lang: ru
 </ul>
 <h3>Награды</h3>
 <ul>
-<li>Удостоен благодарности Minister of Health and Welfare, Republic of Korea (Apr 2023)</li>
-<li>Удостоен благодарности командующего Armed Forces Medical Command, Republic of Korea (Jun 2026)</li>
-<li>Премия молодого исследователя, Korean Society for Preventive Medicine (Oct 2026)</li>
-<li>Научная премия, Korean Military Medical Association, 57th Conference on Military Medicine (Sep 2026)</li>
-<li>Премия имени Kang Sang-ho (премия за лучший постер), Korean Society for Equity in Health (May 2026)</li>
-<li>Премия за лучший устный доклад, Korean Society for Preventive Medicine (Oct 2025)</li>
-<li>Премия имени Kim Il-ho, Korean Intern Resident Association (Dec 2023)</li>
-<li>Премия за выдающуюся статью, COVID-19 Student Paper Contest, Institute of Health and Environment, Seoul National University (Dec 2022)</li>
+<li>Удостоен благодарности Minister of Health and Welfare, Republic of Korea</li>
+<li>Удостоен благодарности командующего Armed Forces Medical Command, Republic of Korea</li>
+<li>Премия молодого исследователя, Korean Society for Preventive Medicine</li>
+<li>Научная премия, Korean Military Medical Association</li>
+<li>Премия имени Kang Sang-ho (премия за лучший постер), Korean Society for Equity in Health</li>
+<li>Премия за лучший устный доклад, Korean Society for Preventive Medicine</li>
+<li>Премия имени Kim Il-ho, Korean Intern Resident Association</li>
+<li>Премия за выдающуюся статью, Institute of Health and Environment, Seoul National University</li>
 </ul>
 </div>
 <details class="mk-bio">
