@@ -27,17 +27,17 @@ lang: fr
 <div class="mk-profile">
 <h3>Formation</h3>
 <ul>
-<li>Doctorant en santé publique (politiques de santé, thèse en cours), Korea University Graduate School</li>
-<li>Master en politiques publiques (politiques sociales), KDI School of Public Policy and Management</li>
-<li>Doctorat en médecine et licence en sociologie (mineure en économie), Korea University</li>
 <li>Lycée scientifique Hansung</li>
+<li>Doctorat en médecine et licence en sociologie (mineure en économie), Korea University</li>
+<li>Master en politiques publiques (politiques sociales), KDI School of Public Policy and Management</li>
+<li>Doctorant en santé publique (politiques de santé, thèse en cours), Korea University Graduate School</li>
 </ul>
 <h3>Fonctions</h3>
 <ul>
-<li>Médecin du travail, Gyeonggido Office of Education</li>
-<li>Officier, division de la gestion des soins, Armed Forces Medical Command ; médecin du travail, Armed Forces Capital Hospital</li>
-<li>Épidémiologiste central, ministère de la Défense nationale (MND)</li>
 <li>Interne et résident (médecine préventive), Korea University Medical Center</li>
+<li>Épidémiologiste central, ministère de la Défense nationale (MND)</li>
+<li>Officier, division de la gestion des soins, Armed Forces Medical Command ; médecin du travail, Armed Forces Capital Hospital</li>
+<li>Médecin du travail, Gyeonggido Office of Education</li>
 </ul>
 <h3>Engagements professionnels</h3>
 <ul>

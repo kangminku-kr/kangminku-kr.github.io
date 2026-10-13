@@ -27,17 +27,17 @@ lang: de
 <div class="mk-profile">
 <h3>Ausbildung</h3>
 <ul>
-<li>Doktorand (Public Health, Schwerpunkt Gesundheitspolitik), Korea University Graduate School</li>
-<li>Master of Public Policy (Schwerpunkt Sozialpolitik), KDI School of Public Policy and Management</li>
-<li>Medizinstudium und Bachelor in Soziologie (Nebenfach Volkswirtschaftslehre), Korea University</li>
 <li>Hansung Science High School</li>
+<li>Medizinstudium und Bachelor in Soziologie (Nebenfach Volkswirtschaftslehre), Korea University</li>
+<li>Master of Public Policy (Schwerpunkt Sozialpolitik), KDI School of Public Policy and Management</li>
+<li>Doktorand (Public Health, Schwerpunkt Gesundheitspolitik), Korea University Graduate School</li>
 </ul>
 <h3>Positionen</h3>
 <ul>
-<li>Betriebsarzt, Gyeonggido Office of Education</li>
-<li>Offizier, Abteilung Gesundheitsversorgungsmanagement, Armed Forces Medical Command; Betriebsarzt, Armed Forces Capital Hospital</li>
-<li>Zentraler Epidemiologe, Verteidigungsministerium (MND)</li>
 <li>Arzt im Praktikum und Assistenzarzt (Präventivmedizin), Korea University Medical Center</li>
+<li>Zentraler Epidemiologe, Verteidigungsministerium (MND)</li>
+<li>Offizier, Abteilung Gesundheitsversorgungsmanagement, Armed Forces Medical Command; Betriebsarzt, Armed Forces Capital Hospital</li>
+<li>Betriebsarzt, Gyeonggido Office of Education</li>
 </ul>
 <h3>Berufspolitisches Engagement</h3>
 <ul>
