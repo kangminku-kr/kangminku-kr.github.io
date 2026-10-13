@@ -42,7 +42,8 @@ lang: es
 <h3>Actividades institucionales</h3>
 <ul>
 <li>Asesor de políticas, Korean Intern Resident Union (KIRU)</li>
-<li>Miembro de la junta directiva y presidente del Future Generations Committee, Korean Society for Preventive Medicine; vicepresidente, Korean Association of Preventive Medicine Physicians</li>
+<li>Presidente del Future Generations Committee, Korean Society for Preventive Medicine; vicepresidente, Korean Association of Preventive Medicine Physicians</li>
+<li>Miembro de la junta directiva, Korean Society of Occupational Stress</li>
 <li>Exmiembro, Medical Residency Training Environment Evaluation Committee; miembro experto, Subcommittee on Physician Workforce, Healthcare Policy Deliberation Committee, Ministry of Health and Welfare</li>
 <li>Expresidente y asesor de políticas, Korean Intern Resident Association</li>
 <li>Exdirector de Políticas, Korean Medical Association</li>

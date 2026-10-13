@@ -42,7 +42,8 @@ lang: de
 <h3>Berufspolitisches Engagement</h3>
 <ul>
 <li>Politikberater, Korean Intern Resident Union (KIRU)</li>
-<li>Vorstandsmitglied und Vorsitzender des Future Generations Committee, Korean Society for Preventive Medicine; Vizepräsident, Korean Association of Preventive Medicine Physicians</li>
+<li>Vorsitzender des Future Generations Committee, Korean Society for Preventive Medicine; Vizepräsident, Korean Association of Preventive Medicine Physicians</li>
+<li>Vorstandsmitglied, Korean Society of Occupational Stress</li>
 <li>Ehem. Mitglied, Medical Residency Training Environment Evaluation Committee; Sachverständiges Mitglied, Subcommittee on Physician Workforce, Healthcare Policy Deliberation Committee, Ministry of Health and Welfare</li>
 <li>Ehem. Präsident und Politikberater, Korean Intern Resident Association</li>
 <li>Ehem. Direktor für Politik, Korean Medical Association</li>

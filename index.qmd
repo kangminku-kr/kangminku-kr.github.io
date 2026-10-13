@@ -41,7 +41,8 @@ toc: false
 <h3>Professional Service</h3>
 <ul>
 <li>Policy Advisor, Korean Intern Resident Union (KIRU)</li>
-<li>Board Member and Chairperson of the Future Generations Committee, Korean Society for Preventive Medicine; Vice President, Korean Association of Preventive Medicine Physicians</li>
+<li>Chairperson of the Future Generations Committee, Korean Society for Preventive Medicine; Vice President, Korean Association of Preventive Medicine Physicians</li>
+<li>Board Member, Korean Society of Occupational Stress</li>
 <li>Former Member, Medical Residency Training Environment Evaluation Committee; Expert Member, Subcommittee on Physician Workforce, Healthcare Policy Deliberation Committee, Ministry of Health and Welfare</li>
 <li>Former President and Policy Advisor, Korean Intern Resident Association</li>
 <li>Former Director of Policy, Korean Medical Association</li>
