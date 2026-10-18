@@ -18,7 +18,7 @@ lang: ja
 <p class="mk-title">予防医学専門医</p>
 <p class="mk-fields">職域メンタルヘルス・保健医療政策</p>
 <nav class="mk-langbar" aria-label="Language"></nav>
-<img src="../images/profile.jpg" alt="Minku Kang" class="mk-home-photo">
+<img src="../images/profile_home.jpg" alt="Minku Kang" class="mk-home-photo">
 </div>
 </div>
 </section>
@@ -28,7 +28,7 @@ lang: ja
 <h3>学歴</h3>
 <ul>
 <li>漢城科学高等学校 卒業</li>
-<li>高麗大学校 医学科・社会学科（経済学副専攻）卒業</li>
+<li>高麗大学校 医学、社会学、経済学（副専攻）卒業</li>
 <li>KDI 国際政策大学院 公共政策修士（社会政策）</li>
 <li>高麗大学校大学院 公衆衛生学博士課程 コースワーク修了（博士候補・保健医療政策）</li>
 </ul>

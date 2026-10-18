@@ -18,7 +18,7 @@ lang: de
 <p class="mk-title">Facharzt für Präventivmedizin</p>
 <p class="mk-fields">Psychische Gesundheit am Arbeitsplatz, Gesundheitspolitik</p>
 <nav class="mk-langbar" aria-label="Language"></nav>
-<img src="../images/profile.jpg" alt="Minku Kang" class="mk-home-photo">
+<img src="../images/profile_home.jpg" alt="Minku Kang" class="mk-home-photo">
 </div>
 </div>
 </section>
@@ -28,7 +28,7 @@ lang: de
 <h3>Ausbildung</h3>
 <ul>
 <li>Hansung Science High School</li>
-<li>Medizinstudium und Bachelor in Soziologie (Nebenfach Volkswirtschaftslehre), Korea University</li>
+<li>Medizinstudium und Bachelor: Medizin, Soziologie, Volkswirtschaftslehre (Nebenfach), Korea University</li>
 <li>Master of Public Policy (Schwerpunkt Sozialpolitik), KDI School of Public Policy and Management</li>
 <li>Doktorand (Public Health, Schwerpunkt Gesundheitspolitik), Korea University Graduate School</li>
 </ul>
