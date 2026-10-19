@@ -84,7 +84,7 @@ lang: fr
 <section class="mk-sec">
 <div class="mk-lbl">Axes de recherche</div>
 <div class="mk-themes">
-<div class="mk-theme"><h3>Médecine préventive et santé au travail</h3><p><a href="../teaching-prevmed.qmd">Qu'est-ce que la médecine préventive ? (en anglais)</a> Médecine des populations, médecine du travail, médecine préventive clinique, aptitude au travail, évaluation des risques pour la santé, dépistage et suivi de santé, médecine du mode de vie.</p></div>
+<div class="mk-theme"><h3>Médecine préventive et santé au travail</h3><p><a href="../teaching-prevmed.qmd">Présentation de la médecine préventive (en anglais)</a> Médecine des populations, médecine du travail, médecine préventive clinique, aptitude au travail, évaluation des risques pour la santé, dépistage et suivi de santé, médecine du mode de vie.</p></div>
 <div class="mk-theme"><h3>Déterminants sociaux de la santé</h3><p>Santé mentale au travail, marchés du travail, épidémiologie sociale, prévention du suicide, inégalités de santé et environnement du quartier.</p></div>
 <div class="mk-theme"><h3>Politique et gestion de la santé</h3><p>Personnel de santé, systèmes de santé et réforme des soins de santé.</p></div>
 </div>
