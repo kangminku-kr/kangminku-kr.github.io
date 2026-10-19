@@ -83,9 +83,9 @@ toc: false
 <section class="mk-sec">
 <div class="mk-lbl">Focus</div>
 <div class="mk-themes">
-<div class="mk-theme"><h3>Preventive Medicine &amp; Occupational Health</h3><p><a href="teaching-prevmed.qmd">What is preventive medicine?</a> Population medicine, occupational medicine, clinical preventive medicine, fitness-for-work assessment, health risk assessment, health screening and management, lifestyle medicine.</p></div>
-<div class="mk-theme"><h3>Social Determinants of Health</h3><p>Workplace mental health, labour markets, social epidemiology, suicide prevention, health inequalities, and the neighbourhood environment.</p></div>
-<div class="mk-theme"><h3>Health Policy &amp; Management</h3><p>Healthcare workers, health systems, and healthcare reform.</p></div>
+<div class="mk-theme"><h3>Preventive Medicine &amp; Occupational Health</h3><p><a href="teaching-prevmed.qmd">What is preventive medicine?</a> Population medicine, occupational medicine, clinical preventive medicine, fitness-for-work assessment, health risk assessment, health screening and management, lifestyle medicine</p></div>
+<div class="mk-theme"><h3>Social Determinants of Health</h3><p>Workplace mental health, labour markets, social epidemiology, suicide prevention, health inequalities, and the neighbourhood environment</p></div>
+<div class="mk-theme"><h3>Health Policy &amp; Management</h3><p>Healthcare workers, health systems, and healthcare reform</p></div>
 </div>
 </section>
 

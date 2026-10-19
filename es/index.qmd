@@ -84,9 +84,9 @@ lang: es
 <section class="mk-sec">
 <div class="mk-lbl">Líneas de investigación</div>
 <div class="mk-themes">
-<div class="mk-theme"><h3>Medicina preventiva y salud laboral</h3><p><a href="../teaching-prevmed.qmd">¿Qué es la medicina preventiva?</a> Medicina poblacional, medicina del trabajo, medicina preventiva clínica, evaluación de la aptitud laboral, evaluación de riesgos para la salud, cribado y gestión de la salud, medicina del estilo de vida.</p></div>
-<div class="mk-theme"><h3>Determinantes sociales de la salud</h3><p>Salud mental en el trabajo, mercados laborales, epidemiología social, prevención del suicidio, desigualdades en salud y el entorno del barrio.</p></div>
-<div class="mk-theme"><h3>Política y gestión de la salud</h3><p>Personal sanitario, sistemas de salud y reforma sanitaria.</p></div>
+<div class="mk-theme"><h3>Medicina preventiva y salud laboral</h3><p><a href="../teaching-prevmed.qmd">¿Qué es la medicina preventiva?</a> Medicina poblacional, medicina del trabajo, medicina preventiva clínica, evaluación de la aptitud laboral, evaluación de riesgos para la salud, cribado y gestión de la salud, medicina del estilo de vida</p></div>
+<div class="mk-theme"><h3>Determinantes sociales de la salud</h3><p>Salud mental en el trabajo, mercados laborales, epidemiología social, prevención del suicidio, desigualdades en salud y el entorno del barrio</p></div>
+<div class="mk-theme"><h3>Política y gestión de la salud</h3><p>Personal sanitario, sistemas de salud y reforma sanitaria</p></div>
 </div>
 </section>
 

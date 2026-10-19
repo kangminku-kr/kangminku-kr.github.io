@@ -84,9 +84,9 @@ lang: de
 <section class="mk-sec">
 <div class="mk-lbl">Schwerpunkte</div>
 <div class="mk-themes">
-<div class="mk-theme"><h3>Präventivmedizin und betrieblicher Gesundheitsschutz</h3><p><a href="../teaching-prevmed.qmd">Was ist Präventivmedizin?</a> Bevölkerungsmedizin, Arbeitsmedizin, klinische Präventivmedizin, Eignungsbeurteilung, Gesundheitsrisikobewertung, Vorsorgeuntersuchung und Gesundheitsmanagement, Lebensstilmedizin.</p></div>
-<div class="mk-theme"><h3>Soziale Determinanten der Gesundheit</h3><p>Psychische Gesundheit am Arbeitsplatz, Arbeitsmärkte, Sozialepidemiologie, Suizidprävention, gesundheitliche Ungleichheiten und das Wohnumfeld.</p></div>
-<div class="mk-theme"><h3>Gesundheitspolitik und Gesundheitsmanagement</h3><p>Beschäftigte im Gesundheitswesen, Gesundheitssysteme und Gesundheitsreform.</p></div>
+<div class="mk-theme"><h3>Präventivmedizin und betrieblicher Gesundheitsschutz</h3><p><a href="../teaching-prevmed.qmd">Was ist Präventivmedizin?</a> Bevölkerungsmedizin, Arbeitsmedizin, klinische Präventivmedizin, Eignungsbeurteilung, Gesundheitsrisikobewertung, Vorsorgeuntersuchung und Gesundheitsmanagement, Lebensstilmedizin</p></div>
+<div class="mk-theme"><h3>Soziale Determinanten der Gesundheit</h3><p>Psychische Gesundheit am Arbeitsplatz, Arbeitsmärkte, Sozialepidemiologie, Suizidprävention, gesundheitliche Ungleichheiten und das Wohnumfeld</p></div>
+<div class="mk-theme"><h3>Gesundheitspolitik und Gesundheitsmanagement</h3><p>Beschäftigte im Gesundheitswesen, Gesundheitssysteme und Gesundheitsreform</p></div>
 </div>
 </section>
 
