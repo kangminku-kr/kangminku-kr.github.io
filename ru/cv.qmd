@@ -110,7 +110,6 @@ toc-depth: 3
 - Сертификат специалиста по профилактической медицине, Ministry of Health and Welfare, Republic of Korea
 - Сертифицированный специалист по гериатрии, Korean Geriatrics Society
 - Сертифицированный специалист по медицине ожирения, Korean Society for the Study of Obesity
-- Сертифицированный врач по общему медицинскому скринингу, The Korean Association of Health Screening
 
 ## Научные общества
 
