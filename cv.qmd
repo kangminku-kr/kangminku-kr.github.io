@@ -5,6 +5,8 @@ toc-depth: 3
 ---
 
 
+[Download CV (PDF)](assets/CV_Minku_Kang_2026.pdf){target="_blank"}
+
 I study the associations between working conditions (long working hours, shift work, precarious employment, etc.) and mental health, institutions and policies for workplace mental health, and health policy and systems. I studied medicine, sociology, and economics as an undergraduate at Korea University, earned a Master of Public Policy (MPP) at the KDI School of Public Policy and Management, and completed my doctoral coursework in public health at Korea University Graduate School.
 
 ## Areas of Interest
@@ -422,11 +424,11 @@ President, Pre-med Student Union, Korea University College of Medicine (Dec 2012
 - Commendation from the Minister of Health and Welfare, Republic of Korea (Apr 2023)
 - Commendation from the Surgeon General, Armed Forces Medical Command, Republic of Korea (Jun 2026)
 - Young Researcher Award, Korean Society for Preventive Medicine (Oct 2026)
-- Academic Award, Korean Military Medical Association, 57th Conference on Military Medicine (Sep 2026)
-- Kang Sang-ho Award (Best Poster Award), Korean Society for Equity in Health (May 2026)
 - Excellent Oral Presentation Award, Korean Society for Preventive Medicine (Oct 2025)
-- Kim Il-ho Award, Korean Intern Resident Association (Dec 2023)
+- Kang Sang-ho Award (Best Poster Award), Korean Society for Equity in Health (May 2026)
+- Academic Award, Korean Military Medical Association, 57th Conference on Military Medicine (Sep 2026)
 - Outstanding Paper Award, COVID-19 Student Paper Contest, Institute of Health and Environment, Seoul National University (Dec 2022)
+- Kim Il-ho Award, Korean Intern Resident Association (Dec 2023)
 
 ## Scholarships and Fellowships
 

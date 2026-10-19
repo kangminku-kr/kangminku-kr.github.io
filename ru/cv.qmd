@@ -7,6 +7,8 @@ toc-depth: 3
 ---
 
 
+[Скачать резюме (PDF, на английском)](../assets/CV_Minku_Kang_2026.pdf){target="_blank"}
+
 Я исследую связь условий труда (продолжительный рабочий день, сменная работа, нестабильная занятость и др.) с психическим здоровьем, институты и политику в области психического здоровья на рабочем месте, а также политику и системы здравоохранения. В студенческие годы в Korea University я изучал медицину, социологию и экономику, в KDI School of Public Policy and Management получил степень магистра государственной политики (MPP), а в Korea University Graduate School завершил учебную часть программы PhD по общественному здравоохранению.
 
 ## Области научных интересов
@@ -424,11 +426,11 @@ toc-depth: 3
 - Удостоен благодарности Minister of Health and Welfare, Republic of Korea (Apr 2023)
 - Удостоен благодарности командующего Armed Forces Medical Command, Republic of Korea (Jun 2026)
 - Премия молодого исследователя, Korean Society for Preventive Medicine (Oct 2026)
-- Научная премия, Korean Military Medical Association, 57th Conference on Military Medicine (Sep 2026)
-- Премия имени Kang Sang-ho (премия за лучший постер), Korean Society for Equity in Health (May 2026)
 - Премия за лучший устный доклад, Korean Society for Preventive Medicine (Oct 2025)
-- Премия имени Kim Il-ho, Korean Intern Resident Association (Dec 2023)
+- Премия имени Kang Sang-ho (премия за лучший постер), Korean Society for Equity in Health (May 2026)
+- Научная премия, Korean Military Medical Association, 57th Conference on Military Medicine (Sep 2026)
 - Премия за выдающуюся статью, COVID-19 Student Paper Contest, Institute of Health and Environment, Seoul National University (Dec 2022)
+- Премия имени Kim Il-ho, Korean Intern Resident Association (Dec 2023)
 
 ## Стипендии и гранты
 
