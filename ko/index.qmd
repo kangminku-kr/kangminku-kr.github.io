@@ -84,8 +84,8 @@ lang: ko
 <section class="mk-sec">
 <div class="mk-lbl">관심분야</div>
 <div class="mk-themes">
-<div class="mk-theme"><h3>예방의학 및 산업보건</h3><p>임상예방의학, 건강위험평가, 건강검진·건강관리, 인구집단의학, 직업환경의학, 생활습관의학.</p></div>
-<div class="mk-theme"><h3>건강의 사회적 결정요인</h3><p>사업장 정신건강, 자살예방, 사회역학, 노동시장, 건강불평등, 지역·근린환경.</p></div>
+<div class="mk-theme"><h3>예방의학 및 산업보건</h3><p><a href="../teaching-prevmed.qmd">예방의학이란?(영문)</a> 인구집단의학, 직업환경의학, 임상예방의학, 업무적합성 평가, 건강위험평가, 건강검진 및 건강관리, 생활습관의학.</p></div>
+<div class="mk-theme"><h3>건강의 사회적 결정요인</h3><p>사업장 정신건강, 노동시장, 사회역학, 자살예방, 건강불평등, 근린환경.</p></div>
 <div class="mk-theme"><h3>보건정책·관리</h3><p>보건의료인력, 보건의료체계, 의료개혁.</p></div>
 </div>
 </section>
