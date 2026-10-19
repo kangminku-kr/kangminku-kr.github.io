@@ -7,7 +7,7 @@ toc-depth: 3
 ---
 
 
-[Скачать резюме (PDF, на английском)](../assets/CV_Minku_Kang_2026.pdf){target="_blank"}
+[Скачать резюме (PDF)](../assets/CV_Minku_Kang_2026.pdf){target="_blank"}
 
 Я исследую связь условий труда (продолжительный рабочий день, сменная работа, нестабильная занятость и др.) с психическим здоровьем, институты и политику в области психического здоровья на рабочем месте, а также политику и системы здравоохранения. В студенческие годы в Korea University я изучал медицину, социологию и экономику, в KDI School of Public Policy and Management получил степень магистра государственной политики (MPP), а в Korea University Graduate School завершил учебную часть программы PhD по общественному здравоохранению.
 
@@ -210,7 +210,7 @@ toc-depth: 3
 - **Главный исследователь**, «Детерминанты психического здоровья военнослужащих»
 - **Главный исследователь**, «Исследование по реформированию системы 36-часовых непрерывных дежурств для врачей-интернов и ординаторов»
 
-Полный список исследовательских проектов и публикаций см. на страницах [Исследования](research.html) и [Публикации](publications.html).
+[Полный список исследований](research.html) | [Полный список публикаций](publications.html)
 
 <details>
 <summary>Рецензирование</summary>
@@ -424,13 +424,13 @@ toc-depth: 3
 ## Награды и почётные звания
 
 - Удостоен благодарности Minister of Health and Welfare, Republic of Korea (Apr 2023)
-- Удостоен благодарности командующего Armed Forces Medical Command, Republic of Korea (Jun 2026)
 - Премия молодого исследователя, Korean Society for Preventive Medicine (Oct 2026)
 - Премия за лучший устный доклад, Korean Society for Preventive Medicine (Oct 2025)
 - Премия имени Kang Sang-ho (премия за лучший постер), Korean Society for Equity in Health (May 2026)
+- Удостоен благодарности командующего Armed Forces Medical Command, Republic of Korea (Jun 2026)
 - Научная премия, Korean Military Medical Association, 57th Conference on Military Medicine (Sep 2026)
-- Премия за выдающуюся статью, COVID-19 Student Paper Contest, Institute of Health and Environment, Seoul National University (Dec 2022)
 - Премия имени Kim Il-ho, Korean Intern Resident Association (Dec 2023)
+- Премия за выдающуюся статью, COVID-19 Student Paper Contest, Institute of Health and Environment, Seoul National University (Dec 2022)
 
 ## Стипендии и гранты
 

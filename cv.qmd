@@ -208,7 +208,7 @@ Gained clinical experience across primary care, emergency medicine, and post-ope
 - **Principal Investigator**, Determinants of Mental Health among Military Personnel
 - **Principal Investigator**, A Study on Reforming the 36-hour Consecutive Shift System for Medical Intern and Resident
 
-For the full list of research projects and publications, see the [Research](research.html) and [Publications](publications.html) pages.
+[Full list of research](research.html) | [Full list of publications](publications.html)
 
 <details>
 <summary>Peer Review Activities</summary>
@@ -422,13 +422,13 @@ President, Pre-med Student Union, Korea University College of Medicine (Dec 2012
 ## Honours and Awards
 
 - Commendation from the Minister of Health and Welfare, Republic of Korea (Apr 2023)
-- Commendation from the Surgeon General, Armed Forces Medical Command, Republic of Korea (Jun 2026)
 - Young Researcher Award, Korean Society for Preventive Medicine (Oct 2026)
 - Excellent Oral Presentation Award, Korean Society for Preventive Medicine (Oct 2025)
 - Kang Sang-ho Award (Best Poster Award), Korean Society for Equity in Health (May 2026)
+- Commendation from the Surgeon General, Armed Forces Medical Command, Republic of Korea (Jun 2026)
 - Academic Award, Korean Military Medical Association, 57th Conference on Military Medicine (Sep 2026)
-- Outstanding Paper Award, COVID-19 Student Paper Contest, Institute of Health and Environment, Seoul National University (Dec 2022)
 - Kim Il-ho Award, Korean Intern Resident Association (Dec 2023)
+- Outstanding Paper Award, COVID-19 Student Paper Contest, Institute of Health and Environment, Seoul National University (Dec 2022)
 
 ## Scholarships and Fellowships
 
