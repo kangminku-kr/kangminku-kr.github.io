@@ -224,10 +224,11 @@ For the full list of research projects and publications, see the [Research](rese
 <details>
 <summary>\(1\) Academic Conferences and Seminars</summary>
 
-- **Nov 2026** (planned). Working Hours, Shift Work across Occupations, and Mental Health: An Epidemiological Study. Fall Academic Conference, Korean Society of Occupational and Environmental Medicine
-- **Oct 2026** (planned). Working Hours, Consecutive Duty, and On-call Sleep Deprivation in Relation to Depressive Symptoms and Suicidal Ideation among Korean Medical Residents (2022 Korean Intern Resident Survey). 78th Fall Academic Conference, Korean Society for Preventive Medicine
-- **Oct 2026** (planned). Working Hours and Suicidal Ideation, with Precarious Employment as an Effect Modifier (Korean Work, Sleep, and Health Study). 78th Fall Academic Conference, Korean Society for Preventive Medicine
-- **Oct 2026** (planned). Working Hours and Mental Health among Military Personnel (Military Health Survey). 78th Fall Academic Conference, Korean Society for Preventive Medicine
+- **Nov 2026** (submitted). Extreme Work Schedules and Mental Health among Junior Doctors in South Korea: A Nationwide Cross-sectional Study of Weekly Hours, ≥24-hour Consecutive Duties, and On-call Sleep. 76th Fall Academic Conference, Korean Society of Occupational and Environmental Medicine
+- **Nov 2026** (submitted). Working Hours, Shift Work, and Depression among Republic of Korea Armed Forces Personnel: A Repeated Cross-sectional Analysis of the Military Health Survey, 2023–2025. 76th Fall Academic Conference, Korean Society of Occupational and Environmental Medicine
+- **Oct 2026** (planned). Extreme Work Schedules and Mental Health among Junior Doctors in South Korea: A Nationwide Cross-sectional Study of Weekly Hours, ≥24-hour Consecutive Duties, and On-call Sleep. 78th Fall Academic Conference, Korean Society for Preventive Medicine
+- **Oct 2026** (planned). Whose Long Hours? Precarious Employment as a Modifier of the Working Hours–Depression Association in a Korean Worker Cohort. 78th Fall Academic Conference, Korean Society for Preventive Medicine
+- **Oct 2026** (planned). Working Hours, Shift Work, and Depression among Republic of Korea Armed Forces Personnel: A Repeated Cross-sectional Analysis of the Military Health Survey, 2023–2025. 78th Fall Academic Conference, Korean Society for Preventive Medicine
 - **Sep 2026**. Introduction to Research on Strengthening Military Infectious-Disease Response and Management Capacity (Oral). 57th Conference on Military Medicine
 - **Sep 2026**. Determinants of Mental Health among Military Personnel (Oral). 57th Conference on Military Medicine
 - **Aug 2026**. Working Hours, Shift Work across Occupations, and Mental Health: An Epidemiological Study (compilation of three studies). Seminar on Expanding the National Bio Big Data — Environmental Exposure and Occupational Health Research (Department of Preventive Medicine, Yonsei University College of Medicine)

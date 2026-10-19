@@ -226,10 +226,11 @@ toc-depth: 3
 <details>
 <summary>\(1\) Научные конференции и семинары</summary>
 
-- **Nov 2026** (планируется). Рабочее время, сменная работа в разных профессиях и психическое здоровье: эпидемиологическое исследование. Fall Academic Conference, Korean Society of Occupational and Environmental Medicine
-- **Oct 2026** (планируется). Рабочее время, последовательные смены и депривация сна во время дежурств по вызову в связи с депрессивными симптомами и суицидальными мыслями среди корейских ординаторов (2022 Korean Intern Resident Survey). 78th Fall Academic Conference, Korean Society for Preventive Medicine
-- **Oct 2026** (планируется). Рабочее время и суицидальные мысли: неустойчивая занятость как модификатор эффекта (Korean Work, Sleep, and Health Study). 78th Fall Academic Conference, Korean Society for Preventive Medicine
-- **Oct 2026** (планируется). Рабочее время и психическое здоровье среди военнослужащих (Military Health Survey). 78th Fall Academic Conference, Korean Society for Preventive Medicine
+- **Nov 2026** (тезисы поданы). Экстремальные режимы работы и психическое здоровье молодых врачей в Южной Корее: общенациональное поперечное исследование недельной продолжительности работы, дежурств продолжительностью 24 часа и более и сна во время дежурств. 76th Fall Academic Conference, Korean Society of Occupational and Environmental Medicine
+- **Nov 2026** (тезисы поданы). Рабочее время, сменная работа и депрессия среди военнослужащих Вооружённых сил Республики Корея: повторный поперечный анализ Military Health Survey, 2023–2025. 76th Fall Academic Conference, Korean Society of Occupational and Environmental Medicine
+- **Oct 2026** (планируется). Экстремальные режимы работы и психическое здоровье молодых врачей в Южной Корее: общенациональное поперечное исследование недельной продолжительности работы, дежурств продолжительностью 24 часа и более и сна во время дежурств. 78th Fall Academic Conference, Korean Society for Preventive Medicine
+- **Oct 2026** (планируется). Чьи долгие часы? Неустойчивая занятость как модификатор связи между продолжительностью рабочего времени и депрессией в когорте корейских работников. 78th Fall Academic Conference, Korean Society for Preventive Medicine
+- **Oct 2026** (планируется). Рабочее время, сменная работа и депрессия среди военнослужащих Вооружённых сил Республики Корея: повторный поперечный анализ Military Health Survey, 2023–2025. 78th Fall Academic Conference, Korean Society for Preventive Medicine
 - **Sep 2026**. Введение в исследования по усилению потенциала реагирования на инфекционные заболевания и управления ими в вооружённых силах (устный доклад). 57th Conference on Military Medicine
 - **Sep 2026**. Детерминанты психического здоровья военнослужащих (устный доклад). 57th Conference on Military Medicine
 - **Aug 2026**. Рабочее время, сменная работа в разных профессиях и психическое здоровье: эпидемиологическое исследование (обобщение трёх исследований). Seminar on Expanding the National Bio Big Data — Environmental Exposure and Occupational Health Research (Department of Preventive Medicine, Yonsei University College of Medicine)
