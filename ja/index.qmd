@@ -84,7 +84,7 @@ lang: ja
 <section class="mk-sec">
 <div class="mk-lbl">重点分野</div>
 <div class="mk-themes">
-<div class="mk-theme"><h3>予防医学・産業保健</h3><p><a href="../teaching-prevmed.qmd">予防医学とは？（英語）</a> 集団医学、産業医学、臨床予防医学、就業適性評価、健康リスク評価、健康診断と健康管理、生活習慣医学。</p></div>
+<div class="mk-theme"><h3>予防医学・産業保健</h3><p><a href="../teaching-prevmed.qmd">予防医学とは？（英語）</a> 集団医学、産業医学、臨床予防医学、就業適性評価（FFW）、健康リスク評価、健康診断と健康管理、生活習慣医学。</p></div>
 <div class="mk-theme"><h3>健康の社会的決定要因</h3><p>職場のメンタルヘルス、労働市場、社会疫学、自殺予防、健康格差、近隣環境。</p></div>
 <div class="mk-theme"><h3>保健医療政策・管理</h3><p>医療従事者、保健医療制度、医療改革。</p></div>
 </div>
