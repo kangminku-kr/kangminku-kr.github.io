@@ -30,14 +30,17 @@ toc-depth: 2
 
 - **Santé mentale publique, déterminants sociaux, politiques de santé** — cours de cycle supérieur
 - **Stress professionnel et santé mentale au travail** — cours de cycle supérieur
-- **Systèmes de santé comparés** — cours de cycle supérieur
+- **Systèmes de santé comparés et introduction à la politique de la santé** — cours de cycle supérieur
 - **Séminaire Korean Healthcare Policy 101** — séminaire de cycle supérieur, 16 semaines.
   *Public visé :* étudiants de cycle supérieur et professionnels du secteur de la santé.
   *Points forts :* origines du système de santé coréen, assurance maladie nationale et soins de longue durée, soins primaires et gestion des maladies chroniques, services médicaux essentiels, santé publique et inégalités de santé, santé mentale publique, réponse aux catastrophes, politique de la main-d'œuvre en santé, et le processus d'élaboration des politiques législatives.
 - **Médecine préventive et santé publique** — cours de spécialité de premier cycle (Médecine)
 - **Déterminants sociaux de la santé** — cours d'enseignement général de premier cycle
 
-## Plan de cours — Korean Healthcare Policy 101 (16 semaines)
+## Exemple de plan de cours — Korean Healthcare Policy 101 (16 semaines)
+
+<details>
+<summary>Plan de cours (semaines 1 à 16)</summary>
 
 - **Semaine 1** — Origines et contradictions du système de santé coréen : le régime national d'assurance maladie, dont on prévoit qu'il connaîtra des déficits plus vite que le régime national de retraite, est-il viable ?
 - **Semaine 2** — Introduction aux systèmes de santé comparés : comparaison internationale des principaux systèmes et indicateurs de santé.
@@ -53,3 +56,5 @@ toc-depth: 2
 - **Semaine 14** — Industrie de la santé, réglementation et politique législative.
 - **Semaine 15** — Le processus d'élaboration des politiques pour les praticiens : Assemblée nationale, gouvernement et société civile.
 - **Semaine 16** — Conclusion et évaluation : défis et orientations à venir / examen final (cycle supérieur).
+
+</details>

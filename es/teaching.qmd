@@ -30,14 +30,17 @@ toc-depth: 2
 
 - **Salud mental pública, determinantes sociales, política sanitaria** — curso de posgrado
 - **Estrés ocupacional y salud mental en el trabajo** — curso de posgrado
-- **Sistemas de salud comparados** — curso de posgrado
+- **Sistemas de salud comparados e introducción a la política de la salud** — curso de posgrado
 - **Seminario Korean Healthcare Policy 101** — seminario de posgrado, 16 semanas.
   *Público objetivo:* estudiantes de posgrado y profesionales del ámbito sanitario.
   *Puntos destacados:* orígenes del sistema de salud coreano, seguro nacional de salud y cuidados de larga duración, atención primaria y gestión de enfermedades crónicas, servicios médicos esenciales, salud pública y desigualdades en salud, salud mental pública, respuesta ante desastres, política de recursos humanos en salud y el proceso de elaboración de políticas legislativas.
 - **Medicina preventiva y salud pública** — asignatura de especialidad de grado (Medicina)
 - **Determinantes sociales de la salud** — asignatura de formación general de grado
 
-## Programa — Korean Healthcare Policy 101 (16 semanas)
+## Ejemplo de programa — Korean Healthcare Policy 101 (16 semanas)
+
+<details>
+<summary>Programa (semanas 1–16)</summary>
 
 - **Semana 1** — Orígenes y contradicciones del sistema de salud coreano: ¿es sostenible el Seguro Nacional de Salud, que se prevé que entrará en déficit antes que el sistema nacional de pensiones?
 - **Semana 2** — Introducción a los sistemas sanitarios comparados: comparación internacional de los principales sistemas e indicadores de salud.
@@ -53,3 +56,5 @@ toc-depth: 2
 - **Semana 14** — Industria sanitaria, regulación y política legislativa.
 - **Semana 15** — El proceso de elaboración de políticas para los profesionales: Asamblea Nacional, gobierno y sociedad civil.
 - **Semana 16** — Conclusión y evaluación: retos y orientaciones futuras / examen final (posgrado).
+
+</details>
