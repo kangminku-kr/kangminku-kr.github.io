@@ -142,7 +142,7 @@ toc-depth: 3
 <details class="mk-entry">
 <summary><span class="mk-e-name">Korean Society of Occupational and Environmental Medicine</span></summary>
 
-**Основные должности**
+**Основная деятельность**
 
 - Член, Corporate Occupational Physicians Council
 - Исследователь, Work, Sleep, and Health Cohort Research Group
@@ -156,7 +156,7 @@ toc-depth: 3
 <details class="mk-entry">
 <summary><span class="mk-e-name">Korean Society for Equity in Health</span></summary>
 
-**Основные должности**
+**Исследовательские группы**
 
 - Секретарь, Labour and Mental Health Research Group
 - Член, Health Equity Policy Research Group
@@ -168,7 +168,7 @@ toc-depth: 3
 <details class="mk-entry">
 <summary><span class="mk-e-name">Korean Society of Epidemiology</span></summary>
 
-**Основные должности**
+**Исследовательская группа**
 
 - Член, Psychiatric Epidemiology Research Group
 
@@ -177,7 +177,7 @@ toc-depth: 3
 <details class="mk-entry">
 <summary><span class="mk-e-name">Другие научные общества</span></summary>
 
-**Основные должности**
+**Членство**
 
 - Член, Korean Academy of Health Policy and Management
 - Член, Korean Association of Health Economics and Policy
@@ -207,7 +207,7 @@ toc-depth: 3
 <details class="mk-entry">
 <summary><span class="mk-e-name">Korean Intern Resident Association</span> <span class="mk-e-role">Президент</span> <span class="mk-e-when">(Sep 2022–Aug 2023)</span></summary>
 
-**Основные обязанности**
+**Основные обязанности и должности**
 
 - Главный исследователь, «Исследование по реформированию системы 36-часовых непрерывных дежурств для врачей-интернов и ординаторов»
 - Главный исследователь, 2022 Korean Intern Resident Survey
@@ -220,7 +220,7 @@ toc-depth: 3
 <details class="mk-entry">
 <summary><span class="mk-e-name">Korean Medical Association</span> <span class="mk-e-role">Директор по политике</span> <span class="mk-e-when">(Sep 2022–Aug 2023)</span></summary>
 
-**Основные обязанности**
+**Основные должности и обучение**
 
 - Делегат, KMA National Assembly (Sep 2021–Aug 2022)
 - Делегат, Seoul Medical Association (Nov 2022–Oct 2023)
@@ -388,7 +388,7 @@ toc-depth: 3
 <details class="mk-entry">
 <summary><strong>Предложение по реформе регулирования танцев в живых музыкальных клубах</strong> · Сопредседатель, Rockjangnol, Объединение зрителей лайв-клубов (2026–настоящее время)</summary>
 
-**Основная деятельность**
+**Роль**
 
 - Сопредседатель; автор первоначального предложения, подготовка политического документа и пресс-релиза
 
@@ -397,7 +397,7 @@ toc-depth: 3
 <details class="mk-entry">
 <summary><strong>Основатель и директор</strong>, Woosadan Studio, многофункциональное культурное пространство (Feb 2018–Feb 2020)</summary>
 
-**Основная деятельность**
+**Основные проекты**
 
 - Проект по совместному использованию пространства для молодёжи (2018–2020) и праздник в честь открытия Woosadan Studio (2018) — руководство проектом и управление пространством
 - Серия уличных концертов: гуманитарные науки и искусство, Ministry of Culture, Sports and Tourism (2018) — участие и управление пространством
@@ -440,7 +440,7 @@ toc-depth: 3
 <details class="mk-entry">
 <summary><span class="mk-e-name">World Medical Association – Junior Doctors Network (WMA-JDN)</span> <span class="mk-e-role">Член корейской делегации</span> <span class="mk-e-when">(Apr 2022–Feb 2024)</span></summary>
 
-**Основная деятельность**
+**Участие во встречах**
 
 - Париж, Франция / Берлин, Германия 2022
 - Найроби, Кения / Кигали, Руанда 2023

@@ -142,7 +142,7 @@ Como profesor ayudante en la Korea University College of Medicine, apoyo la doce
 <details class="mk-entry">
 <summary><span class="mk-e-name">Korean Society of Occupational and Environmental Medicine</span></summary>
 
-**Cargos principales**
+**Actividades principales**
 
 - Miembro, Corporate Occupational Physicians Council
 - Miembro investigador, Work, Sleep, and Health Cohort Research Group
@@ -156,7 +156,7 @@ Como profesor ayudante en la Korea University College of Medicine, apoyo la doce
 <details class="mk-entry">
 <summary><span class="mk-e-name">Korean Society for Equity in Health</span></summary>
 
-**Cargos principales**
+**Grupos de investigación**
 
 - Secretario, Labour and Mental Health Research Group
 - Miembro, Health Equity Policy Research Group
@@ -168,7 +168,7 @@ Como profesor ayudante en la Korea University College of Medicine, apoyo la doce
 <details class="mk-entry">
 <summary><span class="mk-e-name">Korean Society of Epidemiology</span></summary>
 
-**Cargos principales**
+**Grupo de investigación**
 
 - Miembro, Psychiatric Epidemiology Research Group
 
@@ -177,7 +177,7 @@ Como profesor ayudante en la Korea University College of Medicine, apoyo la doce
 <details class="mk-entry">
 <summary><span class="mk-e-name">Otras sociedades científicas</span></summary>
 
-**Cargos principales**
+**Membresías**
 
 - Miembro, Korean Academy of Health Policy and Management
 - Miembro, Korean Association of Health Economics and Policy
@@ -207,7 +207,7 @@ Como profesor ayudante en la Korea University College of Medicine, apoyo la doce
 <details class="mk-entry">
 <summary><span class="mk-e-name">Korean Intern Resident Association</span> <span class="mk-e-role">Presidente</span> <span class="mk-e-when">(Sep 2022–Aug 2023)</span></summary>
 
-**Responsabilidades principales**
+**Responsabilidades y cargos principales**
 
 - Investigador principal, Estudio sobre la reforma del sistema de guardias consecutivas de 36 horas para internos y residentes médicos
 - Investigador principal, Encuesta coreana de internos y residentes de 2022
@@ -220,7 +220,7 @@ Como profesor ayudante en la Korea University College of Medicine, apoyo la doce
 <details class="mk-entry">
 <summary><span class="mk-e-name">Korean Medical Association</span> <span class="mk-e-role">Director de Políticas</span> <span class="mk-e-when">(Sep 2022–Aug 2023)</span></summary>
 
-**Responsabilidades principales**
+**Cargos principales y formación**
 
 - Delegado, KMA National Assembly (Sep 2021–Aug 2022)
 - Delegado, Seoul Medical Association (Nov 2022–Oct 2023)
@@ -388,7 +388,7 @@ Miembro activo, Amnesty International Korea (Oct 2012–Actualidad)
 <details class="mk-entry">
 <summary><strong>Propuesta de reforma legal de la regulación del baile en los clubes de música en vivo</strong> · Copresidente, Rockjangnol, Solidaridad del público de los clubes de música en vivo (2026–Actualidad)</summary>
 
-**Actividades principales**
+**Función**
 
 - Copresidente; autor de la propuesta inicial, redacción del documento de política y de la nota de prensa
 
@@ -397,7 +397,7 @@ Miembro activo, Amnesty International Korea (Oct 2012–Actualidad)
 <details class="mk-entry">
 <summary><strong>Fundador y director</strong>, Woosadan Studio, espacio cultural polivalente (Feb 2018–Feb 2020)</summary>
 
-**Actividades principales**
+**Proyectos principales**
 
 - Proyecto de espacios compartidos para jóvenes (2018–2020) y fiesta de inauguración del Woosadan Studio (2018) — dirección del proyecto y gestión del espacio
 - Ciclo de conciertos callejeros: humanidades y artes, Ministry of Culture, Sports and Tourism (2018) — participación y gestión del espacio
@@ -440,7 +440,7 @@ Presidente, Pre-med Student Union, Korea University College of Medicine (Dec 201
 <details class="mk-entry">
 <summary><span class="mk-e-name">World Medical Association – Junior Doctors Network (WMA-JDN)</span> <span class="mk-e-role">Miembro de la delegación coreana</span> <span class="mk-e-when">(Apr 2022–Feb 2024)</span></summary>
 
-**Actividades principales**
+**Reuniones**
 
 - París, Francia / Berlín, Alemania 2022
 - Nairobi, Kenia / Kigali, Ruanda 2023

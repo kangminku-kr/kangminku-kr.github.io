@@ -143,7 +143,7 @@ toc-depth: 2
 <details class="mk-entry">
 <summary><span class="mk-e-name">대한직업환경의학회</span></summary>
 
-**주요 보직**
+**주요 활동**
 
 - 기업체산업보건의협의회 회원
 - 직업수면건강코호트연구팀 연구위원
@@ -157,7 +157,7 @@ toc-depth: 2
 <details class="mk-entry">
 <summary><span class="mk-e-name">한국건강형평성학회</span></summary>
 
-**주요 보직**
+**연구모임 활동**
 
 - 노동정신건강연구모임 간사
 - 건강형평성정책연구모임 회원
@@ -169,7 +169,7 @@ toc-depth: 2
 <details class="mk-entry">
 <summary><span class="mk-e-name">한국역학회</span></summary>
 
-**주요 보직**
+**연구회 활동**
 
 - 정신역학연구회 회원
 
@@ -178,7 +178,7 @@ toc-depth: 2
 <details class="mk-entry">
 <summary><span class="mk-e-name">기타 학회</span></summary>
 
-**주요 보직**
+**정회원 학회**
 
 - 한국보건행정학회 정회원
 - 한국보건경제정책학회 정회원
@@ -208,7 +208,7 @@ toc-depth: 2
 <details class="mk-entry">
 <summary><span class="mk-e-name">대한전공의협의회</span> <span class="mk-e-role">회장</span> <span class="mk-e-when">(2022.09–2023.08)</span></summary>
 
-**주요 업무**
+**주요 업무와 보직**
 
 - 「전공의 36시간 연속근무제도 개선 연구」 연구책임자
 - 「2022 전공의 실태조사」 연구책임자
@@ -221,7 +221,7 @@ toc-depth: 2
 <details class="mk-entry">
 <summary><span class="mk-e-name">대한의사협회</span> <span class="mk-e-role">정책이사</span> <span class="mk-e-when">(2022.09–2023.08)</span></summary>
 
-**주요 업무**
+**주요 보직과 연수**
 
 - 대의원회 대의원 (2021.09–2022.08)
 - 서울시의사회 대의원 (2022.11–2023.10)
@@ -389,7 +389,7 @@ toc-depth: 2
 <details class="mk-entry">
 <summary><strong>라이브클럽 춤 규제 법개정 정책제안</strong> · 락장놀, 라이브클럽 관객연대 (2026–현재)</summary>
 
-**주요 활동**
+**역할**
 
 - 공동대표; 최초 제안자, 정책제안서·보도자료 작성
 
@@ -398,7 +398,7 @@ toc-depth: 2
 <details class="mk-entry">
 <summary><strong>복합문화공간 우사단작업실 대표(창업)</strong> (2018.02–2020.02)</summary>
 
-**주요 활동**
+**주요 프로젝트**
 
 - 청년 공간 공유 프로젝트 (2018–2020), 우사단작업실 오프닝 파티 (2018) — 프로젝트 총괄 및 공간운영
 - 인문예술콘서트 실험적인(人) 시리즈, 문화체육관광부 (2018) — 프로젝트 참여 및 공간운영
@@ -441,7 +441,7 @@ toc-depth: 2
 <details class="mk-entry">
 <summary><span class="mk-e-name">세계의사회 젊은의사네트워크(WMA-JDN)</span> <span class="mk-e-role">한국대표단</span> <span class="mk-e-when">(2022.04–2024.02)</span></summary>
 
-**주요 활동**
+**참가 회의**
 
 - 파리(프랑스) · 베를린(독일) 2022
 - 나이로비(케냐) · 키갈리(르완다) 2023
