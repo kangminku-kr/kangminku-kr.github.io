@@ -31,6 +31,8 @@ toc-depth: 2
 <details class="mk-entry mk-bullet">
 <summary><strong>2024.05–2025.04</strong> | 국군의학연구소 예방의학장교</summary>
 
+**주요 업무**
+
 - 군 감염병 감시 및 생물안전 조사
 - 국군의학연구소 군 월간감염병보고 발간
 - 국군의학연구소 기관생물안전위원회 위원·BL3 연구시설 의료관리자
@@ -50,6 +52,8 @@ toc-depth: 2
 
 <details class="mk-entry mk-bullet">
 <summary><strong>2025.05–2027.04</strong> | 국군의무사령부 의료관리과 장교</summary>
+
+**주요 업무**
 
 - 국군의무사령부 군 보건통계연보 발간
 - 군병원 분기별 진료현황 분석·질 지표 관리, 정책제안 발굴
@@ -126,6 +130,8 @@ toc-depth: 2
 <details class="mk-entry">
 <summary><span class="mk-e-name">대한예방의학회</span> <span class="mk-e-role">이사</span></summary>
 
+**주요 보직**
+
 - 미래세대위원회 위원장
 - 사회정신건강위원회 위원(간사)
 - 임상예방의료위원회 위원
@@ -136,6 +142,8 @@ toc-depth: 2
 
 <details class="mk-entry">
 <summary><span class="mk-e-name">대한직업환경의학회</span></summary>
+
+**주요 보직**
 
 - 기업체산업보건의협의회 회원
 - 직업수면건강코호트연구팀 연구위원
@@ -149,6 +157,8 @@ toc-depth: 2
 <details class="mk-entry">
 <summary><span class="mk-e-name">한국건강형평성학회</span></summary>
 
+**주요 보직**
+
 - 노동정신건강연구모임 간사
 - 건강형평성정책연구모임 회원
 - 지역건강불평등연구회 회원
@@ -159,12 +169,16 @@ toc-depth: 2
 <details class="mk-entry">
 <summary><span class="mk-e-name">한국역학회</span></summary>
 
+**주요 보직**
+
 - 정신역학연구회 회원
 
 </details>
 
 <details class="mk-entry">
 <summary><span class="mk-e-name">기타 학회</span></summary>
+
+**주요 보직**
 
 - 한국보건행정학회 정회원
 - 한국보건경제정책학회 정회원
@@ -180,6 +194,8 @@ toc-depth: 2
 <details class="mk-entry">
 <summary><span class="mk-e-name">대한예방의학과의사회</span> <span class="mk-e-role">부회장 · 창립위원</span> <span class="mk-e-when">(2025.03–현재)</span></summary>
 
+**주요 업무**
+
 - 협회 대외협력·조직운영·보건의료정책 업무 총괄
 - 제77차 대한예방의학회 가을학술대회에서 「대한예방의학과의사회 창립준비 설문: 예방의학과 전문의, 지금 어디에 서 있는가?」 발표 (2025.10)
 
@@ -192,6 +208,8 @@ toc-depth: 2
 <details class="mk-entry">
 <summary><span class="mk-e-name">대한전공의협의회</span> <span class="mk-e-role">회장</span> <span class="mk-e-when">(2022.09–2023.08)</span></summary>
 
+**주요 업무**
+
 - 「전공의 36시간 연속근무제도 개선 연구」 연구책임자
 - 「2022 전공의 실태조사」 연구책임자
 - 정책자문위원 (2023.09–2024.02)
@@ -202,6 +220,8 @@ toc-depth: 2
 
 <details class="mk-entry">
 <summary><span class="mk-e-name">대한의사협회</span> <span class="mk-e-role">정책이사</span> <span class="mk-e-when">(2022.09–2023.08)</span></summary>
+
+**주요 업무**
 
 - 대의원회 대의원 (2021.09–2022.08)
 - 서울시의사회 대의원 (2022.11–2023.10)
@@ -369,12 +389,16 @@ toc-depth: 2
 <details class="mk-entry">
 <summary><strong>라이브클럽 춤 규제 법개정 정책제안</strong> · 락장놀, 라이브클럽 관객연대 (2026–현재)</summary>
 
+**주요 활동**
+
 - 공동대표; 최초 제안자, 정책제안서·보도자료 작성
 
 </details>
 
 <details class="mk-entry">
 <summary><strong>복합문화공간 우사단작업실 대표(창업)</strong> (2018.02–2020.02)</summary>
+
+**주요 활동**
 
 - 청년 공간 공유 프로젝트 (2018–2020), 우사단작업실 오프닝 파티 (2018) — 프로젝트 총괄 및 공간운영
 - 인문예술콘서트 실험적인(人) 시리즈, 문화체육관광부 (2018) — 프로젝트 참여 및 공간운영
@@ -393,6 +417,8 @@ toc-depth: 2
 
 <details class="mk-entry">
 <summary><strong>고려대학교 총학생회 부총학생회장</strong> (2014.12–2015.11)</summary>
+
+**주요 활동**
 
 - 국회 \<20대 주거문제 개선을 위한 토론회\> 지정토론 발제 (2015)
 - 학생 주거권 행동 프로젝트(도토리 프로젝트) 책임 (2015)
@@ -415,6 +441,8 @@ toc-depth: 2
 <details class="mk-entry">
 <summary><span class="mk-e-name">세계의사회 젊은의사네트워크(WMA-JDN)</span> <span class="mk-e-role">한국대표단</span> <span class="mk-e-when">(2022.04–2024.02)</span></summary>
 
+**주요 활동**
+
 - 파리(프랑스) · 베를린(독일) 2022
 - 나이로비(케냐) · 키갈리(르완다) 2023
 - 서울(대한민국, 개최국; 개인 참가) 2024
@@ -424,6 +452,8 @@ toc-depth: 2
 
 <details class="mk-entry">
 <summary><span class="mk-e-name">대한의과대학·의학전문대학원학생협회(KMSA)</span></summary>
+
+**주요 활동**
 
 - 한국 대표, IFMSA Asia-Pacific Regional Meeting (APRM), 방글라데시 다카 (2014.09)
 - 회원 (2012.03–2013.02)

@@ -30,6 +30,8 @@ toc-depth: 3
 <details class="mk-entry mk-bullet">
 <summary>Офицер по профилактической медицине, Armed Forces Medical Research Institute, MND (May 2024–Apr 2025)</summary>
 
+**Основные обязанности**
+
 - Эпидемиологический надзор за инфекционными заболеваниями и инспекция биобезопасности в вооружённых силах
 - Издание ежемесячного отчёта по инфекционным заболеваниям (Monthly Infectious Disease Report), Armed Forces Medical Research Institute, MND
 - Член институционального комитета по биобезопасности и инспектор по биобезопасности, Armed Forces Medical Research Institute, MND
@@ -49,6 +51,8 @@ toc-depth: 3
 
 <details class="mk-entry mk-bullet">
 <summary>Офицер отдела управления здравоохранением, Armed Forces Medical Command, MND (May 2025–Apr 2027)</summary>
+
+**Основные обязанности**
 
 - Издание ежегодного отчёта по военной медицинской статистике (Military Health Statistics Annual Report), Armed Forces Medical Command, MND
 - Ежеквартальный анализ использования военных госпиталей и показателей качества, а также разработка предложений по политике
@@ -125,6 +129,8 @@ toc-depth: 3
 <details class="mk-entry">
 <summary><span class="mk-e-name">Korean Society for Preventive Medicine</span> <span class="mk-e-role">Член правления</span></summary>
 
+**Основные должности**
+
 - Председатель, Future Generations Committee
 - Член и секретарь, Society and Mental Health Committee
 - Член, Clinical Preventive Medicine Committee
@@ -135,6 +141,8 @@ toc-depth: 3
 
 <details class="mk-entry">
 <summary><span class="mk-e-name">Korean Society of Occupational and Environmental Medicine</span></summary>
+
+**Основные должности**
 
 - Член, Corporate Occupational Physicians Council
 - Исследователь, Work, Sleep, and Health Cohort Research Group
@@ -148,6 +156,8 @@ toc-depth: 3
 <details class="mk-entry">
 <summary><span class="mk-e-name">Korean Society for Equity in Health</span></summary>
 
+**Основные должности**
+
 - Секретарь, Labour and Mental Health Research Group
 - Член, Health Equity Policy Research Group
 - Член, Regional Health Inequalities Research Group
@@ -158,12 +168,16 @@ toc-depth: 3
 <details class="mk-entry">
 <summary><span class="mk-e-name">Korean Society of Epidemiology</span></summary>
 
+**Основные должности**
+
 - Член, Psychiatric Epidemiology Research Group
 
 </details>
 
 <details class="mk-entry">
 <summary><span class="mk-e-name">Другие научные общества</span></summary>
+
+**Основные должности**
 
 - Член, Korean Academy of Health Policy and Management
 - Член, Korean Association of Health Economics and Policy
@@ -179,6 +193,8 @@ toc-depth: 3
 <details class="mk-entry">
 <summary><span class="mk-e-name">Korean Association of Preventive Medicine Physicians</span> <span class="mk-e-role">Вице-президент; член-учредитель</span> <span class="mk-e-when">(Mar 2025–настоящее время)</span></summary>
 
+**Основные обязанности**
+
 - Курирует внешние связи, организационное управление и вопросы политики здравоохранения ассоциации.
 - Представил доклад «Preparatory Survey for the Founding of the Korean Association of Preventive Medicine Physicians: Where Do Preventive Medicine Specialists Stand Today?» на 77th Fall Academic Conference of the Korean Society for Preventive Medicine, Oct 2025.
 
@@ -191,6 +207,8 @@ toc-depth: 3
 <details class="mk-entry">
 <summary><span class="mk-e-name">Korean Intern Resident Association</span> <span class="mk-e-role">Президент</span> <span class="mk-e-when">(Sep 2022–Aug 2023)</span></summary>
 
+**Основные обязанности**
+
 - Главный исследователь, «Исследование по реформированию системы 36-часовых непрерывных дежурств для врачей-интернов и ординаторов»
 - Главный исследователь, 2022 Korean Intern Resident Survey
 - Советник по политике (Sep 2023–Feb 2024)
@@ -201,6 +219,8 @@ toc-depth: 3
 
 <details class="mk-entry">
 <summary><span class="mk-e-name">Korean Medical Association</span> <span class="mk-e-role">Директор по политике</span> <span class="mk-e-when">(Sep 2022–Aug 2023)</span></summary>
+
+**Основные обязанности**
 
 - Делегат, KMA National Assembly (Sep 2021–Aug 2022)
 - Делегат, Seoul Medical Association (Nov 2022–Oct 2023)
@@ -368,12 +388,16 @@ toc-depth: 3
 <details class="mk-entry">
 <summary><strong>Предложение по реформе регулирования танцев в живых музыкальных клубах</strong> · Сопредседатель, Rockjangnol, Объединение зрителей лайв-клубов (2026–настоящее время)</summary>
 
+**Основная деятельность**
+
 - Сопредседатель; автор первоначального предложения, подготовка политического документа и пресс-релиза
 
 </details>
 
 <details class="mk-entry">
 <summary><strong>Основатель и директор</strong>, Woosadan Studio, многофункциональное культурное пространство (Feb 2018–Feb 2020)</summary>
+
+**Основная деятельность**
 
 - Проект по совместному использованию пространства для молодёжи (2018–2020) и праздник в честь открытия Woosadan Studio (2018) — руководство проектом и управление пространством
 - Серия уличных концертов: гуманитарные науки и искусство, Ministry of Culture, Sports and Tourism (2018) — участие и управление пространством
@@ -392,6 +416,8 @@ toc-depth: 3
 
 <details class="mk-entry">
 <summary><strong>Вице-президент</strong>, Korea University Undergraduate Student Union (Dec 2014–Nov 2015)</summary>
+
+**Основная деятельность**
 
 - Назначенный дискутант на форуме Национального собрания по жилью для молодёжи (2015)
 - Студенческая жилищная акция: проект общежития — руководитель проекта (2015)
@@ -414,6 +440,8 @@ toc-depth: 3
 <details class="mk-entry">
 <summary><span class="mk-e-name">World Medical Association – Junior Doctors Network (WMA-JDN)</span> <span class="mk-e-role">Член корейской делегации</span> <span class="mk-e-when">(Apr 2022–Feb 2024)</span></summary>
 
+**Основная деятельность**
+
 - Париж, Франция / Берлин, Германия 2022
 - Найроби, Кения / Кигали, Руанда 2023
 - Сеул, Корея (принимающая страна; личное участие) 2024
@@ -423,6 +451,8 @@ toc-depth: 3
 
 <details class="mk-entry">
 <summary><span class="mk-e-name">Korean Medical Students' Association (KMSA)</span></summary>
+
+**Основная деятельность**
 
 - Делегат от Кореи, IFMSA Asia-Pacific Regional Meeting (APRM), Дакка, Бангладеш (Sep 2014)
 - Член (Mar 2012–Feb 2013)

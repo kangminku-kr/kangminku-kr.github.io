@@ -30,6 +30,8 @@ toc-depth: 3
 <details class="mk-entry mk-bullet">
 <summary>予防医学将校、Armed Forces Medical Research Institute, MND（May 2024–Apr 2025）</summary>
 
+**主な業務**
+
 - 軍における感染症サーベイランスおよびバイオセーフティ点検
 - Monthly Infectious Disease Report（月間感染症報告）の刊行、Armed Forces Medical Research Institute, MND
 - Institutional Biosafety Committee 委員およびバイオセーフティ点検官、Armed Forces Medical Research Institute, MND
@@ -49,6 +51,8 @@ toc-depth: 3
 
 <details class="mk-entry mk-bullet">
 <summary>医療管理課 将校、Armed Forces Medical Command, MND（May 2025–Apr 2027）</summary>
+
+**主な業務**
 
 - Military Health Statistics Annual Report（軍保健統計年報）の刊行、Armed Forces Medical Command, MND
 - 軍病院の利用状況および質指標の四半期分析と政策提言の策定
@@ -125,6 +129,8 @@ Korea University College of Medicine のティーチングアシスタントと�
 <details class="mk-entry">
 <summary><span class="mk-e-name">Korean Society for Preventive Medicine</span> <span class="mk-e-role">理事</span></summary>
 
+**主な役職**
+
 - Future Generations Committee 委員長
 - Society and Mental Health Committee 委員（幹事）
 - Clinical Preventive Medicine Committee 委員
@@ -135,6 +141,8 @@ Korea University College of Medicine のティーチングアシスタントと�
 
 <details class="mk-entry">
 <summary><span class="mk-e-name">Korean Society of Occupational and Environmental Medicine</span></summary>
+
+**主な役職**
 
 - Corporate Occupational Physicians Council 会員
 - Work, Sleep, and Health Cohort Research Group 研究会員
@@ -148,6 +156,8 @@ Korea University College of Medicine のティーチングアシスタントと�
 <details class="mk-entry">
 <summary><span class="mk-e-name">Korean Society for Equity in Health</span></summary>
 
+**主な役職**
+
 - Labour and Mental Health Research Group 幹事
 - Health Equity Policy Research Group 会員
 - Regional Health Inequalities Research Group 会員
@@ -158,12 +168,16 @@ Korea University College of Medicine のティーチングアシスタントと�
 <details class="mk-entry">
 <summary><span class="mk-e-name">Korean Society of Epidemiology</span></summary>
 
+**主な役職**
+
 - Psychiatric Epidemiology Research Group 会員
 
 </details>
 
 <details class="mk-entry">
 <summary><span class="mk-e-name">その他の学会</span></summary>
+
+**主な役職**
 
 - Korean Academy of Health Policy and Management 会員
 - Korean Association of Health Economics and Policy 会員
@@ -179,6 +193,8 @@ Korea University College of Medicine のティーチングアシスタントと�
 <details class="mk-entry">
 <summary><span class="mk-e-name">Korean Association of Preventive Medicine Physicians</span> <span class="mk-e-role">副会長・創立会員</span> <span class="mk-e-when">(Mar 2025–現在)</span></summary>
 
+**主な業務**
+
 - 学会の対外関係、組織運営、保健医療政策業務を統括する。
 - Korean Society for Preventive Medicine 第77回秋季学術大会（Oct 2025）で「Korean Association of Preventive Medicine Physicians 設立のための準備調査：予防医学専門医は今どこに立っているのか」を発表した。
 
@@ -191,6 +207,8 @@ Korea University College of Medicine のティーチングアシスタントと�
 <details class="mk-entry">
 <summary><span class="mk-e-name">Korean Intern Resident Association</span> <span class="mk-e-role">会長</span> <span class="mk-e-when">(Sep 2022–Aug 2023)</span></summary>
 
+**主な業務**
+
 - 研究責任者（PI）、研修医・専攻医の36時間連続勤務制度の改善に関する研究
 - 研究責任者（PI）、2022年 全国専攻医実態調査（2022 Korean Intern Resident Survey）
 - 政策諮問委員（Sep 2023–Feb 2024）
@@ -201,6 +219,8 @@ Korea University College of Medicine のティーチングアシスタントと�
 
 <details class="mk-entry">
 <summary><span class="mk-e-name">Korean Medical Association</span> <span class="mk-e-role">政策理事</span> <span class="mk-e-when">(Sep 2022–Aug 2023)</span></summary>
+
+**主な業務**
 
 - 代議員、KMA National Assembly（Sep 2021–Aug 2022）
 - 代議員、Seoul Medical Association（Nov 2022–Oct 2023）
@@ -368,12 +388,16 @@ Korea University College of Medicine のティーチングアシスタントと�
 <details class="mk-entry">
 <summary><strong>ライブクラブにおけるダンス規制の法改正政策提言</strong> · 락장놀 Rockjangnol、ライブクラブ観客連帯 共同代表（2026–現在）</summary>
 
+**主な活動**
+
 - 共同代表。最初の提案者として政策提言書・報道資料を作成
 
 </details>
 
 <details class="mk-entry">
 <summary><strong>創設者・代表</strong>、Woosadan Studio（複合文化空間、Feb 2018–Feb 2020）</summary>
+
+**主な活動**
 
 - 青少年のための空間シェアリング・プロジェクト（2018–2020）、Woosadan Studio オープニングパーティー（2018）— プロジェクト統括・空間運営
 - ストリートコンサートシリーズ：人文学と芸術、Ministry of Culture, Sports and Tourism（2018）— 参加・空間運営
@@ -392,6 +416,8 @@ Korea University College of Medicine のティーチングアシスタントと�
 
 <details class="mk-entry">
 <summary><strong>副会長</strong>、Korea University Undergraduate Student Union（Dec 2014–Nov 2015）</summary>
+
+**主な活動**
 
 - 国会「20代の住居問題改善のための討論会」指定討論者（2015）
 - 学生住居アクション：寄宿舎プロジェクト責任者（2015）
@@ -414,6 +440,8 @@ Korea University College of Medicine のティーチングアシスタントと�
 <details class="mk-entry">
 <summary><span class="mk-e-name">World Medical Association – Junior Doctors Network (WMA-JDN)</span> <span class="mk-e-role">韓国代表団メンバー</span> <span class="mk-e-when">(Apr 2022–Feb 2024)</span></summary>
 
+**主な活動**
+
 - フランス・パリ／ドイツ・ベルリン 2022
 - ケニア・ナイロビ／ルワンダ・キガリ 2023
 - 韓国・ソウル（開催国、個人参加）2024
@@ -423,6 +451,8 @@ Korea University College of Medicine のティーチングアシスタントと�
 
 <details class="mk-entry">
 <summary><span class="mk-e-name">Korean Medical Students' Association (KMSA)</span></summary>
+
+**主な活動**
 
 - 韓国代表、IFMSA Asia-Pacific Regional Meeting (APRM)、バングラデシュ・ダッカ（Sep 2014）
 - 会員（Mar 2012–Feb 2013）
