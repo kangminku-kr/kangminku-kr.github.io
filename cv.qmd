@@ -7,7 +7,7 @@ toc-depth: 3
 
 [Download CV (PDF)](assets/CV_Minku_Kang_2026.pdf){target="_blank"}
 
-I studied medicine, sociology, and economics at Korea University and public policy and public health in graduate school. My research examines workplace mental health, labour, social policy, and health policy, with particular attention to the institutions and systems that shape them.
+I studied medicine, sociology, and economics at Korea University and social policy and health policy in graduate school. My research examines workplace mental health, labour, social policy, and health policy, with particular attention to the institutions and systems that shape them.
 
 ## Areas of Interest
 
@@ -15,40 +15,17 @@ Workplace Mental Health, Social Determinants of Health, Community Medicine, Heal
 
 ## Education
 
-- **High School Diploma**, Hansung Science High School, Korea
+- Hansung Science High School, Korea
 - **BA**, Sociology, Economics (Minor), Korea University, Korea
 - **MD**, Medicine, Korea University, Korea
 - **MPP**, Public Policy (Social Policy), KDI School of Public Policy and Management, Korea
-- **PhD candidate**, Public Health (Health Policy), Korea University Graduate School, Korea
+- **PhD**, Public Health (Health Policy), Korea University Graduate School, Korea
 
 ## Work Experience
 
 ### Mar 2024–Apr 2027
 
-::: {.mk-entry .mk-static}
-Occupational Health Physician, Gyeonggido Office of Education (Oct 2026–)
-:::
-
-<details class="mk-entry">
-<summary>Officer, Healthcare Management Division, Armed Forces Medical Command, MND (May 2025–Apr 2027); Occupational Health Physician, Armed Forces Capital Hospital (Oct 2026–Apr 2027)</summary>
-
-- Publication of the Military Health Statistics Annual Report, Armed Forces Medical Command, MND
-- Quarterly analysis of military hospital utilization and quality indicators, and development of policy proposals
-
-**Preventive Medicine & Public Health Research**
-
-- Determinants of Mental Health among Military Personnel, Armed Forces Medical Command, MND (2026–2027)
-- Changes in Medical Utilization at Military Hospitals Following the 2024 Healthcare Crisis, Armed Forces Medical Command, MND (2026)
-- Analysis of Healthcare Utilization of Military Personnel in Military and Civilian Hospitals, Armed Forces Medical Command, MND (2025–2026)
-- Improving Infectious Disease Response and Management Capabilities in the Korean Military, Korea Disease Control and Prevention Agency (2025)
-
-</details>
-
-::: {.mk-entry .mk-static}
-Central Epidemiologist, Ministry of National Defense (MND) (May 2024–Apr 2027)
-:::
-
-<details class="mk-entry">
+<details class="mk-entry mk-bullet">
 <summary>Preventive Medicine Officer, Armed Forces Medical Research Institute, MND (May 2024–Apr 2025)</summary>
 
 - Infectious disease surveillance and biosafety inspection in military settings
@@ -64,10 +41,44 @@ Central Epidemiologist, Ministry of National Defense (MND) (May 2024–Apr 2027)
 
 </details>
 
+::: {.mk-entry .mk-static .mk-bullet}
+Epidemiologist, Ministry of National Defense (MND) (May 2024–Apr 2027)
+:::
+
+<details class="mk-entry mk-bullet">
+<summary>Officer, Healthcare Management Division, Armed Forces Medical Command, MND (May 2025–Apr 2027)</summary>
+
+- Publication of the Military Health Statistics Annual Report, Armed Forces Medical Command, MND
+- Quarterly analysis of military hospital utilization and quality indicators, and development of policy proposals
+
+**Preventive Medicine & Public Health Research**
+
+- Determinants of Mental Health among Military Personnel, Armed Forces Medical Command, MND (2026–2027)
+- Changes in Medical Utilization at Military Hospitals Following the 2024 Healthcare Crisis, Armed Forces Medical Command, MND (2026)
+- Analysis of Healthcare Utilization of Military Personnel in Military and Civilian Hospitals, Armed Forces Medical Command, MND (2025–2026)
+- Improving Infectious Disease Response and Management Capabilities in the Korean Military, Korea Disease Control and Prevention Agency (2025)
+
+</details>
+
+::: {.mk-entry .mk-static .mk-bullet}
+Occupational Health Physician, Armed Forces Capital Hospital (Oct 2026–Apr 2027)
+:::
+
+::: {.mk-entry .mk-static .mk-bullet}
+Occupational Health Physician, Gyeonggido Office of Education (Oct 2026–)
+:::
+
 ### Mar 2020–Feb 2024
 
-<details class="mk-entry">
-<summary>Medical Resident (Preventive Medicine), Korea University Medical Center</summary>
+<details class="mk-entry mk-bullet">
+<summary>Medical Intern, Korea University Medical Center (Mar 2020–Feb 2021)</summary>
+
+Gained clinical experience across primary care, emergency medicine, and post-operative care.
+
+</details>
+
+<details class="mk-entry mk-bullet">
+<summary>Medical Resident (Preventive Medicine), Korea University Medical Center (Mar 2021–Feb 2024)</summary>
 
 **1. Preventive Medicine & Public Health Practice**
 
@@ -91,26 +102,12 @@ As a teaching assistant at Korea University College of Medicine, support courses
 
 </details>
 
-<details class="mk-entry">
-<summary>Medical Intern, Korea University Medical Center</summary>
-
-Gained clinical experience across primary care, emergency medicine, and post-operative care.
-
-</details>
-
-## Licenses & Certifications
-
-- Medical License, Ministry of Health and Welfare, Republic of Korea
-- Board Certification in Preventive Medicine, Ministry of Health and Welfare, Republic of Korea
-- Certified Specialist in Geriatrics, Korean Geriatrics Society
-- Certified Specialist in Obesity Medicine, Korean Society for the Study of Obesity
-
 ## Research & Publications
 
 - **Principal Investigator**, Determinants of Mental Health among Military Personnel
 - **Principal Investigator**, A Study on Reforming the 36-hour Consecutive Shift System for Medical Intern and Resident
 
-[Full list of research](research.html) | [Full list of publications](publications.html)
+[Full list of projects](research.html) | [Full list of publications](publications.html)
 
 <details>
 <summary>Peer Review Activities</summary>
@@ -214,6 +211,13 @@ Gained clinical experience across primary care, emergency medicine, and post-ope
 - Completion of Health Policy Academy for Junior Doctors (Jan 2024–Feb 2024)
 
 </details>
+
+## Licenses & Certifications
+
+- Medical License, Ministry of Health and Welfare, Republic of Korea
+- Board Certification in Preventive Medicine, Ministry of Health and Welfare, Republic of Korea
+- Certified Specialist in Geriatrics, Korean Geriatrics Society
+- Certified Specialist in Obesity Medicine, Korean Society for the Study of Obesity
 
 ## Conferences & Presentations
 
@@ -323,6 +327,30 @@ Gained clinical experience across primary care, emergency medicine, and post-ope
 
 </details>
 
+## Honours and Awards
+
+- Commendation from the Minister of Health and Welfare, Republic of Korea (Apr 2023)
+- Young Researcher Award, Korean Society for Preventive Medicine (Oct 2026)
+- Excellent Oral Presentation Award, Korean Society for Preventive Medicine (Oct 2025)
+- Kang Sang-ho Award (Best Poster Award), Korean Society for Equity in Health (May 2026)
+- Commendation from the Surgeon General, Armed Forces Medical Command, Republic of Korea (Jun 2026)
+- Academic Award, Korean Military Medical Association, 57th Conference on Military Medicine (Sep 2026)
+- Kim Il-ho Award, Korean Intern Resident Association (Dec 2023)
+- Outstanding Paper Award, COVID-19 Student Paper Contest, Institute of Health and Environment, Seoul National University (Dec 2022)
+
+## Scholarships and Fellowships
+
+- National Service Fellowship, KDI School of Public Policy and Management (2024–2026)
+- Travel Grant for International Conference Participation, Korean Academy of Medical Sciences (Oct 2023)
+- Short-term Training Grant for Fostered Specialties, Ministry of Health and Welfare (Oct 2023)
+- Physician-Scientist Scholarship, Korea University College of Medicine (2021–2026)
+- Public Health Scholarship, Korea University College of Medicine (2021–2026)
+- Graduate Mentor Scholarship for International Students, Korea University (2022)
+- University Service Scholarship, Korea University (2012–2015)
+- University Leader Scholarship, Korea University (2013)
+- Merit Scholarship, Korea University (2012–2013)
+- Samsung SDS Junior Frontier Leader (JFL) Scholarship (2009)
+
 ## Community, Civil Society, and Student Activities
 
 <details>
@@ -414,27 +442,3 @@ President, Pre-med Student Union, Korea University College of Medicine (Dec 2012
 - Medical volunteer support at civic rallies around the National Assembly and Yeouido (2024)
 - Support and participation at the memorial altar for victims of the 29 October Itaewon crowd crush (2022)
 - Physician Assistant, Seoul Foreign Resident Center (2019)
-
-## Honours and Awards
-
-- Commendation from the Minister of Health and Welfare, Republic of Korea (Apr 2023)
-- Young Researcher Award, Korean Society for Preventive Medicine (Oct 2026)
-- Excellent Oral Presentation Award, Korean Society for Preventive Medicine (Oct 2025)
-- Kang Sang-ho Award (Best Poster Award), Korean Society for Equity in Health (May 2026)
-- Commendation from the Surgeon General, Armed Forces Medical Command, Republic of Korea (Jun 2026)
-- Academic Award, Korean Military Medical Association, 57th Conference on Military Medicine (Sep 2026)
-- Kim Il-ho Award, Korean Intern Resident Association (Dec 2023)
-- Outstanding Paper Award, COVID-19 Student Paper Contest, Institute of Health and Environment, Seoul National University (Dec 2022)
-
-## Scholarships and Fellowships
-
-- National Service Fellowship, KDI School of Public Policy and Management (2024–2026)
-- Travel Grant for International Conference Participation, Korean Academy of Medical Sciences (Oct 2023)
-- Short-term Training Grant for Fostered Specialties, Ministry of Health and Welfare (Oct 2023)
-- Physician-Scientist Scholarship, Korea University College of Medicine (2021–2026)
-- Public Health Scholarship, Korea University College of Medicine (2021–2026)
-- Graduate Mentor Scholarship for International Students, Korea University (2022)
-- University Service Scholarship, Korea University (2012–2015)
-- University Leader Scholarship, Korea University (2013)
-- Merit Scholarship, Korea University (2012–2013)
-- Samsung SDS Junior Frontier Leader (JFL) Scholarship (2009)

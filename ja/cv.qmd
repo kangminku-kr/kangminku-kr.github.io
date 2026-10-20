@@ -9,7 +9,7 @@ toc-depth: 3
 
 [略歴をダウンロード（PDF）](../assets/CV_Minku_Kang_2026.pdf){target="_blank"}
 
-高麗大学校で医学、社会学、経済学を学び、大学院で政策学と公衆衛生学を学びました。職場のメンタルヘルス、労働、社会政策、保健医療政策と、それらを取り巻く制度と体系に関心をもって研究しています。
+高麗大学校で医学、社会学、経済学を学び、大学院で社会政策と保健医療政策を学びました。職場のメンタルヘルス、労働、社会政策、保健医療政策と、それらを取り巻く制度と体系に関心をもって研究しています。
 
 ## 関心分野
 
@@ -17,40 +17,17 @@ toc-depth: 3
 
 ## 学歴
 
-- **高等学校卒業**、漢城科学高等学校、韓国
+- 漢城科学高等学校、韓国
 - **BA（学士）**、社会学、経済学（副専攻）、Korea University、韓国
 - **MD（医学士）**、医学、Korea University、韓国
 - **MPP（公共政策修士）**、公共政策（社会政策）、KDI School of Public Policy and Management、韓国
-- **博士候補（Ph.D. candidate）**、公衆衛生学（保健医療政策）、Korea University Graduate School、韓国
+- **PhD（博士）**、公衆衛生学（保健医療政策）、Korea University Graduate School、韓国
 
 ## 職歴
 
 ### Mar 2024–Apr 2027
 
-::: {.mk-entry .mk-static}
-産業医、Gyeonggido Office of Education（Oct 2026–）
-:::
-
-<details class="mk-entry">
-<summary>医療管理課 将校、Armed Forces Medical Command, MND（May 2025–Apr 2027）／産業医、Armed Forces Capital Hospital（Oct 2026–Apr 2027）</summary>
-
-- Military Health Statistics Annual Report（軍保健統計年報）の刊行、Armed Forces Medical Command, MND
-- 軍病院の利用状況および質指標の四半期分析と政策提言の策定
-
-**予防医学・公衆衛生研究**
-
-- 軍人のメンタルヘルスの決定要因、Armed Forces Medical Command, MND（2026–2027）
-- 2024年の医療危機以降の軍病院における医療利用の変化、Armed Forces Medical Command, MND（2026）
-- 軍病院および民間病院における軍人の医療利用の分析、Armed Forces Medical Command, MND（2025–2026）
-- 軍における感染症の対応・管理能力の強化、Korea Disease Control and Prevention Agency（2025）
-
-</details>
-
-::: {.mk-entry .mk-static}
-中央疫学調査官、国防部 (MND)（May 2024–Apr 2027）
-:::
-
-<details class="mk-entry">
+<details class="mk-entry mk-bullet">
 <summary>予防医学将校、Armed Forces Medical Research Institute, MND（May 2024–Apr 2025）</summary>
 
 - 軍における感染症サーベイランスおよびバイオセーフティ点検
@@ -66,10 +43,44 @@ toc-depth: 3
 
 </details>
 
+::: {.mk-entry .mk-static .mk-bullet}
+疫学調査官、国防部 (MND)（May 2024–Apr 2027）
+:::
+
+<details class="mk-entry mk-bullet">
+<summary>医療管理課 将校、Armed Forces Medical Command, MND（May 2025–Apr 2027）</summary>
+
+- Military Health Statistics Annual Report（軍保健統計年報）の刊行、Armed Forces Medical Command, MND
+- 軍病院の利用状況および質指標の四半期分析と政策提言の策定
+
+**予防医学・公衆衛生研究**
+
+- 軍人のメンタルヘルスの決定要因、Armed Forces Medical Command, MND（2026–2027）
+- 2024年の医療危機以降の軍病院における医療利用の変化、Armed Forces Medical Command, MND（2026）
+- 軍病院および民間病院における軍人の医療利用の分析、Armed Forces Medical Command, MND（2025–2026）
+- 軍における感染症の対応・管理能力の強化、Korea Disease Control and Prevention Agency（2025）
+
+</details>
+
+::: {.mk-entry .mk-static .mk-bullet}
+産業医、Armed Forces Capital Hospital（Oct 2026–Apr 2027）
+:::
+
+::: {.mk-entry .mk-static .mk-bullet}
+産業医、Gyeonggido Office of Education（Oct 2026–）
+:::
+
 ### Mar 2020–Feb 2024
 
-<details class="mk-entry">
-<summary>専攻医（予防医学）、Korea University Medical Center</summary>
+<details class="mk-entry mk-bullet">
+<summary>インターン（研修医）、Korea University Medical Center（Mar 2020–Feb 2021）</summary>
+
+プライマリケア、救急医療、術後管理にわたる臨床経験を積んだ。
+
+</details>
+
+<details class="mk-entry mk-bullet">
+<summary>専攻医（予防医学）、Korea University Medical Center（Mar 2021–Feb 2024）</summary>
 
 **1. 予防医学・公衆衛生実務**
 
@@ -93,26 +104,12 @@ Korea University College of Medicine のティーチングアシスタントと�
 
 </details>
 
-<details class="mk-entry">
-<summary>インターン（研修医）、Korea University Medical Center</summary>
-
-プライマリケア、救急医療、術後管理にわたる臨床経験を積んだ。
-
-</details>
-
-## 免許・資格
-
-- 医師免許、Ministry of Health and Welfare
-- 予防医学専門医、Ministry of Health and Welfare
-- 老年医学認定専門医、Korean Geriatrics Society
-- 肥満医学認定専門医、Korean Society for the Study of Obesity
-
 ## 研究・業績
 
 - **研究責任者（PI）**、軍人のメンタルヘルスの決定要因
 - **研究責任者（PI）**、研修医・専攻医の36時間連続勤務制度の改善に関する研究
 
-[研究の全リスト](research.html) | [論文の全リスト](publications.html)
+[プロジェクトの全リスト](research.html) | [論文の全リスト](publications.html)
 
 <details>
 <summary>査読活動</summary>
@@ -216,6 +213,13 @@ Korea University College of Medicine のティーチングアシスタントと�
 - Health Policy Academy for Junior Doctors 修了（Jan 2024–Feb 2024）
 
 </details>
+
+## 免許・資格
+
+- 医師免許、Ministry of Health and Welfare
+- 予防医学専門医、Ministry of Health and Welfare
+- 老年医学認定専門医、Korean Geriatrics Society
+- 肥満医学認定専門医、Korean Society for the Study of Obesity
 
 ## 学会発表・講演
 
@@ -325,6 +329,30 @@ Korea University College of Medicine のティーチングアシスタントと�
 
 </details>
 
+## 受賞歴
+
+- 大韓民国 保健福祉部長官表彰（Apr 2023）
+- 若手研究者賞、Korean Society for Preventive Medicine（Oct 2026）
+- 優秀口演賞、Korean Society for Preventive Medicine（Oct 2025）
+- Kang Sang-ho Award（優秀ポスター賞）、Korean Society for Equity in Health（May 2026）
+- 大韓民国 国軍医務司令官表彰（Jun 2026）
+- 学術賞、Korean Military Medical Association、57th Conference on Military Medicine（Sep 2026）
+- Kim Il-ho Award、Korean Intern Resident Association（Dec 2023）
+- 優秀論文賞、COVID-19 Student Paper Contest、Institute of Health and Environment, Seoul National University（Dec 2022）
+
+## 奨学金・フェローシップ
+
+- National Service Fellowship、KDI School（2024–2026）
+- 国際学会参加旅費補助、Korean Academy of Medical Sciences（Oct 2023）
+- 育成支援科目 短期研修支援金、Ministry of Health and Welfare（Oct 2023）
+- 医師科学者奨学金、Korea University College of Medicine（2021–2026）
+- 保健学奨学金、Korea University College of Medicine（2021–2026）
+- 外国人留学生 大学院メンター奨学金、Korea University（2022）
+- 大学奉仕奨学金、Korea University（2012–2015）
+- 大学リーダー奨学金、Korea University（2013）
+- 成績優秀奨学金、Korea University（2012–2013）
+- Samsung SDS Junior Frontier Leader (JFL) 奨学金（2009）
+
 ## 地域社会・市民社会・学生活動
 
 <details>
@@ -416,27 +444,3 @@ Korea University College of Medicine のティーチングアシスタントと�
 - National Assembly・汝矣島（Yeouido）周辺の市民集会における医療ボランティア支援（2024）
 - 10月29日 梨泰院雑踏事故の犠牲者を追悼する焼香所での支援・参加（2022）
 - 医師補助人材、Seoul Foreign Resident Center（2019）
-
-## 受賞歴
-
-- 大韓民国 保健福祉部長官表彰（Apr 2023）
-- 若手研究者賞、Korean Society for Preventive Medicine（Oct 2026）
-- 優秀口演賞、Korean Society for Preventive Medicine（Oct 2025）
-- Kang Sang-ho Award（優秀ポスター賞）、Korean Society for Equity in Health（May 2026）
-- 大韓民国 国軍医務司令官表彰（Jun 2026）
-- 学術賞、Korean Military Medical Association、57th Conference on Military Medicine（Sep 2026）
-- Kim Il-ho Award、Korean Intern Resident Association（Dec 2023）
-- 優秀論文賞、COVID-19 Student Paper Contest、Institute of Health and Environment, Seoul National University（Dec 2022）
-
-## 奨学金・フェローシップ
-
-- National Service Fellowship、KDI School（2024–2026）
-- 国際学会参加旅費補助、Korean Academy of Medical Sciences（Oct 2023）
-- 育成支援科目 短期研修支援金、Ministry of Health and Welfare（Oct 2023）
-- 医師科学者奨学金、Korea University College of Medicine（2021–2026）
-- 保健学奨学金、Korea University College of Medicine（2021–2026）
-- 外国人留学生 大学院メンター奨学金、Korea University（2022）
-- 大学奉仕奨学金、Korea University（2012–2015）
-- 大学リーダー奨学金、Korea University（2013）
-- 成績優秀奨学金、Korea University（2012–2013）
-- Samsung SDS Junior Frontier Leader (JFL) 奨学金（2009）

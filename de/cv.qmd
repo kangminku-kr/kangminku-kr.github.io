@@ -9,7 +9,7 @@ toc-depth: 3
 
 [Lebenslauf herunterladen (PDF)](../assets/CV_Minku_Kang_2026.pdf){target="_blank"}
 
-An der Korea University habe ich Medizin, Soziologie und Volkswirtschaftslehre studiert, im Graduiertenstudium Public Policy und Public Health. Ich forsche zu psychischer Gesundheit am Arbeitsplatz, Arbeit, Sozialpolitik und Gesundheitspolitik, mit besonderem Blick auf die Institutionen und Systeme, die sie prägen.
+An der Korea University habe ich Medizin, Soziologie und Volkswirtschaftslehre studiert, im Graduiertenstudium Sozialpolitik und Gesundheitspolitik. Ich forsche zu psychischer Gesundheit am Arbeitsplatz, Arbeit, Sozialpolitik und Gesundheitspolitik, mit besonderem Blick auf die Institutionen und Systeme, die sie prägen.
 
 ## Interessengebiete
 
@@ -17,40 +17,17 @@ Psychische Gesundheit am Arbeitsplatz, Soziale Determinanten der Gesundheit, Gem
 
 ## Ausbildung
 
-- **Schulabschluss**, Hansung Science High School, Korea
+- Hansung Science High School, Korea
 - **BA**, Soziologie, Volkswirtschaftslehre (Nebenfach), Korea University, Korea
 - **MD**, Medizin, Korea University, Korea
 - **MPP**, Public Policy (Sozialpolitik), KDI School of Public Policy and Management, Korea
-- **Doktorand**, Public Health (Gesundheitspolitik), Korea University Graduate School, Korea
+- **PhD**, Public Health (Gesundheitspolitik), Korea University Graduate School, Korea
 
 ## Berufserfahrung
 
 ### Mar 2024–Apr 2027
 
-::: {.mk-entry .mk-static}
-Betriebsarzt, Gyeonggido Office of Education (Oct 2026–)
-:::
-
-<details class="mk-entry">
-<summary>Offizier, Abteilung Gesundheitsversorgungsmanagement, Armed Forces Medical Command, MND (May 2025–Apr 2027); Betriebsarzt, Armed Forces Capital Hospital (Oct 2026–Apr 2027)</summary>
-
-- Herausgabe des Military Health Statistics Annual Report (Jahresbericht zur Gesundheitsstatistik der Streitkräfte), Armed Forces Medical Command, MND
-- Vierteljährliche Analyse der Inanspruchnahme von Militärkrankenhäusern und von Qualitätsindikatoren sowie Entwicklung von Politikvorschlägen
-
-**Forschung in Präventivmedizin und Public Health**
-
-- Forschung zu Determinanten der psychischen Gesundheit von Militärangehörigen, Armed Forces Medical Command, MND (2026–2027)
-- Veränderungen der Inanspruchnahme medizinischer Leistungen in Militärkrankenhäusern nach der Gesundheitskrise von 2024, Armed Forces Medical Command, MND (2026)
-- Analyse der Inanspruchnahme von Gesundheitsleistungen durch Militärangehörige in Militär- und Zivilkrankenhäusern, Armed Forces Medical Command, MND (2025–2026)
-- Verbesserung der Reaktions- und Managementkapazitäten für Infektionskrankheiten in den koreanischen Streitkräften, Korea Disease Control and Prevention Agency (2025)
-
-</details>
-
-::: {.mk-entry .mk-static}
-Zentraler Epidemiologe, Verteidigungsministerium (MND) (May 2024–Apr 2027)
-:::
-
-<details class="mk-entry">
+<details class="mk-entry mk-bullet">
 <summary>Offizier für Präventivmedizin, Armed Forces Medical Research Institute, MND (May 2024–Apr 2025)</summary>
 
 - Überwachung von Infektionskrankheiten und Biosicherheitsinspektionen im militärischen Umfeld
@@ -66,10 +43,44 @@ Zentraler Epidemiologe, Verteidigungsministerium (MND) (May 2024–Apr 2027)
 
 </details>
 
+::: {.mk-entry .mk-static .mk-bullet}
+Epidemiologe, Verteidigungsministerium (MND) (May 2024–Apr 2027)
+:::
+
+<details class="mk-entry mk-bullet">
+<summary>Offizier, Abteilung Gesundheitsversorgungsmanagement, Armed Forces Medical Command, MND (May 2025–Apr 2027)</summary>
+
+- Herausgabe des Military Health Statistics Annual Report (Jahresbericht zur Gesundheitsstatistik der Streitkräfte), Armed Forces Medical Command, MND
+- Vierteljährliche Analyse der Inanspruchnahme von Militärkrankenhäusern und von Qualitätsindikatoren sowie Entwicklung von Politikvorschlägen
+
+**Forschung in Präventivmedizin und Public Health**
+
+- Forschung zu Determinanten der psychischen Gesundheit von Militärangehörigen, Armed Forces Medical Command, MND (2026–2027)
+- Veränderungen der Inanspruchnahme medizinischer Leistungen in Militärkrankenhäusern nach der Gesundheitskrise von 2024, Armed Forces Medical Command, MND (2026)
+- Analyse der Inanspruchnahme von Gesundheitsleistungen durch Militärangehörige in Militär- und Zivilkrankenhäusern, Armed Forces Medical Command, MND (2025–2026)
+- Verbesserung der Reaktions- und Managementkapazitäten für Infektionskrankheiten in den koreanischen Streitkräften, Korea Disease Control and Prevention Agency (2025)
+
+</details>
+
+::: {.mk-entry .mk-static .mk-bullet}
+Betriebsarzt, Armed Forces Capital Hospital (Oct 2026–Apr 2027)
+:::
+
+::: {.mk-entry .mk-static .mk-bullet}
+Betriebsarzt, Gyeonggido Office of Education (Oct 2026–)
+:::
+
 ### Mar 2020–Feb 2024
 
-<details class="mk-entry">
-<summary>Assistenzarzt (Präventivmedizin), Korea University Medical Center</summary>
+<details class="mk-entry mk-bullet">
+<summary>Arzt im Praktikum (Intern), Korea University Medical Center (Mar 2020–Feb 2021)</summary>
+
+Erwerb klinischer Erfahrung in der Primärversorgung, der Notfallmedizin und der postoperativen Versorgung.
+
+</details>
+
+<details class="mk-entry mk-bullet">
+<summary>Assistenzarzt (Präventivmedizin), Korea University Medical Center (Mar 2021–Feb 2024)</summary>
 
 **1. Praxis in Präventivmedizin und Public Health**
 
@@ -93,26 +104,12 @@ Als wissenschaftlicher Assistent (Teaching Assistant) am Korea University Colleg
 
 </details>
 
-<details class="mk-entry">
-<summary>Arzt im Praktikum (Intern), Korea University Medical Center</summary>
-
-Erwerb klinischer Erfahrung in der Primärversorgung, der Notfallmedizin und der postoperativen Versorgung.
-
-</details>
-
-## Approbation und Zertifizierungen
-
-- Ärztliche Approbation, Ministry of Health and Welfare, Republik Korea
-- Facharztanerkennung für Präventivmedizin, Ministry of Health and Welfare, Republik Korea
-- Zertifizierter Spezialist für Geriatrie, Korean Geriatrics Society
-- Zertifizierter Spezialist für Adipositasmedizin, Korean Society for the Study of Obesity
-
 ## Forschung und Publikationen
 
 - **Studienleiter (Principal Investigator)**, Determinanten der psychischen Gesundheit von Militärangehörigen
 - **Studienleiter (Principal Investigator)**, Studie zur Reform des 36-Stunden-Dauerdienstsystems für Interns und Assistenzärztinnen und -ärzte
 
-[Vollständige Forschungsliste](research.html) | [Vollständige Publikationsliste](publications.html)
+[Vollständige Projektliste](research.html) | [Vollständige Publikationsliste](publications.html)
 
 <details>
 <summary>Gutachtertätigkeit (Peer Review)</summary>
@@ -216,6 +213,13 @@ Erwerb klinischer Erfahrung in der Primärversorgung, der Notfallmedizin und der
 - Abschluss der Health Policy Academy for Junior Doctors (Jan 2024–Feb 2024)
 
 </details>
+
+## Approbation und Zertifizierungen
+
+- Ärztliche Approbation, Ministry of Health and Welfare, Republik Korea
+- Facharztanerkennung für Präventivmedizin, Ministry of Health and Welfare, Republik Korea
+- Zertifizierter Spezialist für Geriatrie, Korean Geriatrics Society
+- Zertifizierter Spezialist für Adipositasmedizin, Korean Society for the Study of Obesity
 
 ## Tagungen und Präsentationen
 
@@ -325,6 +329,30 @@ Erwerb klinischer Erfahrung in der Primärversorgung, der Notfallmedizin und der
 
 </details>
 
+## Auszeichnungen und Preise
+
+- Auszeichnung durch den Minister für Gesundheit und Wohlfahrt der Republik Korea (Apr 2023)
+- Nachwuchsforscherpreis, Korean Society for Preventive Medicine (Oct 2026)
+- Preis für den besten Vortrag, Korean Society for Preventive Medicine (Oct 2025)
+- Kang Sang-ho-Preis (Preis für das beste Poster), Korean Society for Equity in Health (May 2026)
+- Auszeichnung durch den Kommandeur des Armed Forces Medical Command der Republik Korea (Jun 2026)
+- Wissenschaftspreis, Korean Military Medical Association, 57th Conference on Military Medicine (Sep 2026)
+- Kim Il-ho-Preis, Korean Intern Resident Association (Dec 2023)
+- Auszeichnung für herausragende Arbeit, COVID-19 Student Paper Contest, Institute of Health and Environment, Seoul National University (Dec 2022)
+
+## Stipendien und Fellowships
+
+- National Service Fellowship, KDI School of Public Policy and Management (2024–2026)
+- Reisestipendium für die Teilnahme an einer internationalen Tagung, Korean Academy of Medical Sciences (Oct 2023)
+- Kurzzeit-Fortbildungsstipendium für geförderte Fachgebiete, Ministry of Health and Welfare (Oct 2023)
+- Physician-Scientist-Stipendium (Stipendium für forschende Ärzte), Korea University College of Medicine (2021–2026)
+- Public-Health-Stipendium, Korea University College of Medicine (2021–2026)
+- Graduierten-Mentoren-Stipendium für internationale Studierende, Korea University (2022)
+- Stipendium für universitäres Engagement, Korea University (2012–2015)
+- University-Leader-Stipendium, Korea University (2013)
+- Leistungsstipendium, Korea University (2012–2013)
+- Samsung-SDS-Junior-Frontier-Leader-(JFL-)Stipendium (2009)
+
 ## Gemeinschafts-, zivilgesellschaftliche und Studierendenaktivitäten
 
 <details>
@@ -416,27 +444,3 @@ Präsident, Pre-med Student Union, Korea University College of Medicine (Dec 201
 - Ehrenamtliche medizinische Unterstützung bei Bürgerkundgebungen rund um die Nationalversammlung und in Yeouido (2024)
 - Unterstützung und Teilnahme an der Gedenkstätte für die Opfer der Massenpanik in Itaewon am 29 October (2022)
 - Physician Assistant, Seoul Foreign Resident Center (2019)
-
-## Auszeichnungen und Preise
-
-- Auszeichnung durch den Minister für Gesundheit und Wohlfahrt der Republik Korea (Apr 2023)
-- Nachwuchsforscherpreis, Korean Society for Preventive Medicine (Oct 2026)
-- Preis für den besten Vortrag, Korean Society for Preventive Medicine (Oct 2025)
-- Kang Sang-ho-Preis (Preis für das beste Poster), Korean Society for Equity in Health (May 2026)
-- Auszeichnung durch den Kommandeur des Armed Forces Medical Command der Republik Korea (Jun 2026)
-- Wissenschaftspreis, Korean Military Medical Association, 57th Conference on Military Medicine (Sep 2026)
-- Kim Il-ho-Preis, Korean Intern Resident Association (Dec 2023)
-- Auszeichnung für herausragende Arbeit, COVID-19 Student Paper Contest, Institute of Health and Environment, Seoul National University (Dec 2022)
-
-## Stipendien und Fellowships
-
-- National Service Fellowship, KDI School of Public Policy and Management (2024–2026)
-- Reisestipendium für die Teilnahme an einer internationalen Tagung, Korean Academy of Medical Sciences (Oct 2023)
-- Kurzzeit-Fortbildungsstipendium für geförderte Fachgebiete, Ministry of Health and Welfare (Oct 2023)
-- Physician-Scientist-Stipendium (Stipendium für forschende Ärzte), Korea University College of Medicine (2021–2026)
-- Public-Health-Stipendium, Korea University College of Medicine (2021–2026)
-- Graduierten-Mentoren-Stipendium für internationale Studierende, Korea University (2022)
-- Stipendium für universitäres Engagement, Korea University (2012–2015)
-- University-Leader-Stipendium, Korea University (2013)
-- Leistungsstipendium, Korea University (2012–2013)
-- Samsung-SDS-Junior-Frontier-Leader-(JFL-)Stipendium (2009)

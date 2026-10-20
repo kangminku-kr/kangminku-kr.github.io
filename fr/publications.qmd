@@ -9,41 +9,40 @@ toc-depth: 2
 
 ## Articles évalués par les pairs
 
-- Park J, **Kang M**, et al. Childhood obesity during COVID-19 in South Korea. *Journal of Obesity & Metabolic Syndrome*. 2026 (accepté).
+- Park JW, **Kang M**, Kang E, Nam HK, Lee KH, Rhie YJ. Impact of COVID-19 on childhood obesity in South Korea: variations by age and sex. *Journal of Obesity & Metabolic Syndrome*. 2026. [doi:10.7570/jomes25054](https://doi.org/10.7570/jomes25054)
 - Lee H, **Kang M**, Lee S, Kim D, Moon J, Yoon C, et al. Improving infectious disease response and management capabilities in the Korean military. *Public Health Weekly Report*. 2026;19(28):1168–1183. (co-first author) [doi:10.56786/PHWR.2026.19.28.3](https://doi.org/10.56786/PHWR.2026.19.28.3)
-- Cha J, **Kang M**. Impact of South Korea's national gastrointestinal cancer screening programme. *BMJ Open*. 2026.
-- Moon D, Kim C, **Kang M**. COVID-19 outcomes in Busan: impact of area-deprivation on infection risk. *Journal of the Korean Data Analysis Society*. 2025.
-- **Kang M**, Choe YJ, Min HS, Kim S, Choe SA. Timely access to secondary pediatric services in Korea. *Epidemiology and Health*. 2024.
-- Kang T, Lee Y, **Kang M**. Impact of COVID-19 on healthcare utilization among chronic disease patients in South Korea. *Preventive Medicine Reports*. 2024.
-- Ki M, Lapierre S, Gim B, Hwang M, **Kang M**, Dargis L, et al. A systematic review of psychosocial protective factors against suicide and suicidality among older adults. *International Psychogeriatrics*. 2024.
-- Cho S, Lee H, **Kang M**, Lee WJ, Ko S. Current status of occupational radiation exposure and protection among medical interns and residents. *Journal of the Korean Medical Association*. 2024.
-- **Kang M**, Yu S, Choe SA, Moon D, Ki M, Chun BC. Gender inequalities in mental health during the COVID-19 pandemic: a population-based study in Korea. *Journal of Preventive Medicine and Public Health*. 2023.
-- Kim YS, **Kang M**, Choe YJ, Sung J, Lee JY, Choe SA. Child mortality of twins and singletons among late preterm and term birth. *European Journal of Pediatrics*. 2022.
+- Cha J, **Kang M**. Impact of South Korea's national gastrointestinal cancer screening programme on incidence and mortality: a population-based difference-in-differences study. *BMJ Open*. 2026;16(4):e112558. [doi:10.1136/bmjopen-2025-112558](https://doi.org/10.1136/bmjopen-2025-112558)
+- Moon D, Kim C, **Kang M**. COVID-19 outcomes in Busan: impact of area-deprivation on infection risk by gender and age. *Journal of the Korean Data Analysis Society*. 2025;27(6):1949–1961. [doi:10.37727/jkdas.2025.27.6.1949](https://doi.org/10.37727/jkdas.2025.27.6.1949)
+- **Kang M**, Choe YJ, Min HS, Kim S, Choe SA. Timely access to secondary pediatric services in Korea: a key to reducing child and adolescent mortality. *Epidemiology and Health*. 2024;46:e2024059. [doi:10.4178/epih.e2024059](https://doi.org/10.4178/epih.e2024059)
+- Kang T, Lee Y, **Kang M**. Impact of COVID-19 on healthcare utilization among chronic disease patients in South Korea. *Preventive Medicine Reports*. 2024;41:102680. [doi:10.1016/j.pmedr.2024.102680](https://doi.org/10.1016/j.pmedr.2024.102680)
+- Ki M, Lapierre S, Gim B, Hwang M, **Kang M**, Dargis L, et al. A systematic review of psychosocial protective factors against suicide and suicidality among older adults. *International Psychogeriatrics*. 2024;36(5):346–370. [doi:10.1017/S104161022300443X](https://doi.org/10.1017/S104161022300443X)
+- Cho S, Lee H, **Kang M**, Lee WJ, Ko S. Current status of occupational radiation exposure and protection among medical interns and residents. *Journal of the Korean Medical Association*. 2024;67(2):134–146. [doi:10.5124/jkma.2024.67.2.134](https://doi.org/10.5124/jkma.2024.67.2.134)
+- **Kang M**, Yu S, Choe SA, Moon D, Ki M, Chun BC. Gender inequalities in mental health during the COVID-19 pandemic: a population-based study in Korea. *Journal of Preventive Medicine and Public Health*. 2023;56(5):413–421. [doi:10.3961/jpmph.23.170](https://doi.org/10.3961/jpmph.23.170)
+- Kim YS, **Kang M**, Choe YJ, Sung J, Lee JY, Choe SA. Child mortality of twins and singletons among late preterm and term birth: a study of national linked birth and under-five mortality data of Korea. *European Journal of Pediatrics*. 2022;181(5):2109–2116. [doi:10.1007/s00431-022-04410-1](https://doi.org/10.1007/s00431-022-04410-1)
 
 ## Manuscrits soumis
 
-- Lee C, Lee JH, Kim YJ, Go S, Kim D, **Kang M**, Noh KT. Malaria infection or exposure among Republic of Korea UN peacekeeping personnel deployed to South Sudan in 2022. *Travel Medicine and Infectious Disease*. (en cours d'évaluation)
-- **Kang M**, et al. The unequal impact of the COVID-19 pandemic in Korea: case fatality in residents of long-term care facilities and community dwellers. *BMC Public Health*. (en cours d'évaluation)
+- Lee C, Lee JH, Kim Y, Go S, Kim D, **Kang M**, et al. Malaria infection or exposure among Republic of Korea UN peacekeeping personnel deployed to South Sudan in 2022. *Travel Medicine and Infectious Disease*. (en cours d'évaluation)
+- **Kang M**, Moon D, Jeon J, Park J, Choi MH, Kim MH, et al. The unequal impact of the COVID-19 pandemic in Korea: case fatality in residents of long-term care facilities and community dwellers. *BMC Public Health*. (en cours d'évaluation)
 - Lim J, **Kang M**, Yoon Y, Seo Y, Kim H, Ki M. Alcohol drinking and suicidal ideation among the general population: cross-sectional and longitudinal analyses of a national panel, 2011–2022. *American Journal of Preventive Medicine*. (soumission prévue) (co-first author)
 
 ## Rapports de politique et commentaires
 
-- **Kang M**, Lee H, Ko H, Kim S. 전공의 36시간 연속근무제도 개선 연구 [A study on reforming the 36-hour consecutive shift system for medical intern and resident; research report]. 의료정책연구원 (Research Institute for Healthcare Policy (RIHP)); 2024.
-- Song Y, …, **Kang M**, et al. Navigating the complex labyrinth: multifactorial challenges experienced by Asian junior doctors in the workplace. *World Medical Journal*. 2024;(4):60–69.
-- Afzal S, …, **Kang M**, et al. Global efforts to combat antimicrobial resistance. *World Medical Journal*. 2023;(4):58–80.
-- **Kang M**. 인센티브 중심 정책 설계의 필요성: 기피 전문분야 및 의료취약지 의사 확보 방안 논의 [The need for incentive-based policy design: discussion on strategies to secure physicians in less-preferred specialties and underserved areas]. *의료정책포럼 (Forum for Healthcare Policy)*. 2023;23(4).
-- **Kang M**. 전문의 중심의 상급종합병원 체계 전환: 전공의 사회 내 주요 논의 소개 [Transition toward a specialist-centered tertiary hospital system: introduction to discussions within the resident physician community]. *대한병원협회지 (Journal of the Korean Hospital Association)*. 2023;23(가을 / Fall).
-- Tun W, …, **Kang M**, et al. WHA75 World Medical Association intervention writing: human resource for health. *JDN Newsletter*. 2022;(25):18–21.
-- **Kang M**, Cho S. Brief review of the context of the Act for the Improvement of Training Conditions and Status of Medical Residents in Korea: focusing on working hours and on-duty allowance. *JDN Newsletter*. 2022;(25):14–17.
-- **Kang M**. 해외 전공의 근로조건 개선 과정에서 배워야 할 교훈 [Lessons to be learned from international efforts to improve resident working conditions]. *메디컬타임즈 (Medical Times)*. 2022.
-- **Kang M**. 전공의법 7년… '노동권' 고려해 법 바꿀 때 [Seven years after the Resident Act: time to revise the law with labour rights in mind]. *메디컬타임즈 (Medical Times)*. 2022.
+- **Kang M**, Lee H, Ko H, Kim S. 전공의 36시간 연속근무제도 개선 연구 [A study on reforming the 36-hour consecutive shift system for medical intern and resident; research report 2024-02]. 의료정책연구원 (Research Institute for Healthcare Policy (RIHP)); 2024.
+- Song Y, …, **Kang M**, et al. Navigating the complex labyrinth: multifactorial challenges experienced by Asian junior doctors in the workplace. *World Medical Journal*. 2024;70(4):60–69.
+- Afzal S, …, **Kang M**, et al. WMA members contribute insight on global efforts to combat antimicrobial resistance. *World Medical Journal*. 2023;69(4):58–80.
+- **Kang M**. 인센티브 중심 정책 설계의 필요성: 기피 전문분야 및 의료취약지 의사 확보 방안 논의 [The need for incentive-based policy design: discussion on strategies to secure physicians in less-preferred specialties and underserved areas]. *의료정책포럼 (Forum for Healthcare Policy)*. 2023;21(2):26–31.
+- **Kang M**. 전문의 중심의 상급종합병원 체계 전환: 전공의 사회 내 주요 논의 소개 [Transition toward a specialist-centered tertiary hospital system: introduction to discussions within the resident physician community]. *병원 (Hospital)*. 대한병원협회 (Korean Hospital Association); 2023 가을호 (Autumn).
+- **Kang M**, Cho S. Brief review of the context of the Act for the Improvement of Training Conditions and Status of Medical Residents in Korea: focusing on working hours and on-duty allowance. *Junior Doctors Network Newsletter*. 2022 Nov;(25):14–17.
+- Tun W, **Kang M**, Pereira I, Adeleye I, Estrella Porter P, Rathod L, et al. WHA75 WMA intervention writing: human resource for health. *Junior Doctors Network Newsletter*. 2022 Nov;(25):18–21.
+- **Kang M**. 해외 전공의 근로조건 개선 과정에서 배워야 할 교훈 [Lessons to be learned from international efforts to improve resident working conditions]. *메디칼타임즈 (Medical Times)*. 2022 Jul 22.
+- **Kang M**. 전공의법 7년… '노동권' 고려해 법 바꿀 때 [Seven years after the Resident Act: time to revise the law with labour rights in mind]. *메디칼타임즈 (Medical Times)*. 2022 Feb 14.
 
 ## Ouvrages et traductions
 
 - Joint Trauma System Clinical Practice Guideline — *美 합동외상체계 군 외상진료프로토콜* (traduction ; 2026)
   - Infection Prevention in Combat-Related Injuries
   - Documentation in Prolonged Field Care
-  - I-STAT Portable Blood Analyzer in Austere Locations
 
 ## Activités d'évaluation par les pairs
 

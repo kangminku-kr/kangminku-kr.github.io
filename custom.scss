@@ -213,6 +213,11 @@ details.mk-entry > summary:hover::after{ color:$accent; border-color:$accent; }
 details.mk-entry[open] > summary{ margin-bottom:.5rem; color:$ink; }
 details.mk-entry[open]{ padding-bottom:.4rem; }
 details.mk-entry > :not(summary){ margin-left:1em; }
+/* 경력 항목 글머리표 (2026-10-20, 본부장 지시: 연월 아래 항목마다 bullet).
+   본문 목록(학력 등)과 같은 들여쓰기와 글머리표 색을 쓴다. 펼친 세부 내용은 항목 글자선에서 1em 더 들인다. */
+.mk-entry.mk-bullet{ padding-left:1.15rem; }   /* details.mk-entry의 padding:0보다 앞서도록 클래스 둘 */
+.mk-bullet > summary::before,
+.mk-bullet.mk-static > p::before{ content:"•"; position:absolute; left:-.8rem; top:0; color:$faint; }
 .mk-e-name{ font-weight:600; }
 .mk-e-role{ color:$muted; margin-left:.3em; }
 .mk-e-when{ color:$faint; margin-left:.3em; white-space:nowrap; }

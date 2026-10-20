@@ -9,7 +9,7 @@ toc-depth: 3
 
 [Télécharger le CV (PDF)](../assets/CV_Minku_Kang_2026.pdf){target="_blank"}
 
-J'ai étudié la médecine, la sociologie et l'économie à Korea University, puis les politiques publiques et la santé publique en cycle supérieur. Mes recherches portent sur la santé mentale au travail, le travail, les politiques sociales et les politiques de santé, en particulier sur les institutions et les systèmes qui les façonnent.
+J'ai étudié la médecine, la sociologie et l'économie à Korea University, puis les politiques sociales et les politiques de santé en cycle supérieur. Mes recherches portent sur la santé mentale au travail, le travail, les politiques sociales et les politiques de santé, en particulier sur les institutions et les systèmes qui les façonnent.
 
 ## Domaines d'intérêt
 
@@ -17,40 +17,17 @@ Santé mentale au travail, Déterminants sociaux de la santé, Médecine communa
 
 ## Formation
 
-- **Diplôme d'études secondaires**, Lycée scientifique Hansung, Corée
+- Lycée scientifique Hansung, Corée
 - **BA**, Sociologie, Économie (mineure), Korea University, Corée
 - **MD**, Médecine, Korea University, Corée
 - **MPP**, Politiques publiques (politiques sociales), KDI School of Public Policy and Management, Corée
-- **Doctorant**, Santé publique (politiques de santé), Korea University Graduate School, Corée
+- **PhD**, Santé publique (politiques de santé), Korea University Graduate School, Corée
 
 ## Expérience professionnelle
 
 ### Mar 2024–Apr 2027
 
-::: {.mk-entry .mk-static}
-Médecin du travail, Gyeonggido Office of Education (Oct 2026–)
-:::
-
-<details class="mk-entry">
-<summary>Officier, division de la gestion des soins, Armed Forces Medical Command, MND (May 2025–Apr 2027) ; médecin du travail, Armed Forces Capital Hospital (Oct 2026–Apr 2027)</summary>
-
-- Publication du rapport annuel de statistiques de santé des armées (Military Health Statistics Annual Report), Armed Forces Medical Command, MND
-- Analyse trimestrielle de l'utilisation des hôpitaux militaires et des indicateurs de qualité, et élaboration de propositions de politiques
-
-**Recherche en médecine préventive et santé publique**
-
-- Déterminants de la santé mentale chez le personnel militaire, Armed Forces Medical Command, MND (2026–2027)
-- Évolution du recours aux soins dans les hôpitaux militaires à la suite de la crise sanitaire de 2024, Armed Forces Medical Command, MND (2026)
-- Analyse du recours aux soins du personnel militaire dans les hôpitaux militaires et civils, Armed Forces Medical Command, MND (2025–2026)
-- Amélioration des capacités de réponse et de gestion des maladies infectieuses dans l'armée coréenne, Korea Disease Control and Prevention Agency (2025)
-
-</details>
-
-::: {.mk-entry .mk-static}
-Épidémiologiste central, ministère de la Défense nationale (MND) (May 2024–Apr 2027)
-:::
-
-<details class="mk-entry">
+<details class="mk-entry mk-bullet">
 <summary>Officier de médecine préventive, Armed Forces Medical Research Institute, MND (May 2024–Apr 2025)</summary>
 
 - Surveillance des maladies infectieuses et inspection de biosécurité en milieu militaire
@@ -66,10 +43,44 @@ Médecin du travail, Gyeonggido Office of Education (Oct 2026–)
 
 </details>
 
+::: {.mk-entry .mk-static .mk-bullet}
+Épidémiologiste, ministère de la Défense nationale (MND) (May 2024–Apr 2027)
+:::
+
+<details class="mk-entry mk-bullet">
+<summary>Officier, division de la gestion des soins, Armed Forces Medical Command, MND (May 2025–Apr 2027)</summary>
+
+- Publication du rapport annuel de statistiques de santé des armées (Military Health Statistics Annual Report), Armed Forces Medical Command, MND
+- Analyse trimestrielle de l'utilisation des hôpitaux militaires et des indicateurs de qualité, et élaboration de propositions de politiques
+
+**Recherche en médecine préventive et santé publique**
+
+- Déterminants de la santé mentale chez le personnel militaire, Armed Forces Medical Command, MND (2026–2027)
+- Évolution du recours aux soins dans les hôpitaux militaires à la suite de la crise sanitaire de 2024, Armed Forces Medical Command, MND (2026)
+- Analyse du recours aux soins du personnel militaire dans les hôpitaux militaires et civils, Armed Forces Medical Command, MND (2025–2026)
+- Amélioration des capacités de réponse et de gestion des maladies infectieuses dans l'armée coréenne, Korea Disease Control and Prevention Agency (2025)
+
+</details>
+
+::: {.mk-entry .mk-static .mk-bullet}
+Médecin du travail, Armed Forces Capital Hospital (Oct 2026–Apr 2027)
+:::
+
+::: {.mk-entry .mk-static .mk-bullet}
+Médecin du travail, Gyeonggido Office of Education (Oct 2026–)
+:::
+
 ### Mar 2020–Feb 2024
 
-<details class="mk-entry">
-<summary>Médecin résident (médecine préventive), Korea University Medical Center</summary>
+<details class="mk-entry mk-bullet">
+<summary>Interne, Korea University Medical Center (Mar 2020–Feb 2021)</summary>
+
+Acquisition d'une expérience clinique en soins primaires, en médecine d'urgence et en soins postopératoires.
+
+</details>
+
+<details class="mk-entry mk-bullet">
+<summary>Médecin résident (médecine préventive), Korea University Medical Center (Mar 2021–Feb 2024)</summary>
 
 **1. Pratique en médecine préventive et santé publique**
 
@@ -93,26 +104,12 @@ En tant qu'assistant d'enseignement à la Korea University College of Medicine, 
 
 </details>
 
-<details class="mk-entry">
-<summary>Interne, Korea University Medical Center</summary>
-
-Acquisition d'une expérience clinique en soins primaires, en médecine d'urgence et en soins postopératoires.
-
-</details>
-
-## Licences et certifications
-
-- Licence médicale, Ministry of Health and Welfare
-- Certification de spécialiste en médecine préventive, Ministry of Health and Welfare
-- Spécialiste certifié en gériatrie, Korean Geriatrics Society
-- Spécialiste certifié en médecine de l'obésité, Korean Society for the Study of Obesity
-
 ## Recherche et publications
 
 - **Chercheur principal**, Déterminants de la santé mentale chez le personnel militaire
 - **Chercheur principal**, Étude sur la réforme du système de gardes de 36 heures consécutives pour les internes et résidents
 
-[Liste complète des recherches](research.html) | [Liste complète des publications](publications.html)
+[Liste complète des projets](research.html) | [Liste complète des publications](publications.html)
 
 <details>
 <summary>Activités de relecture (peer review)</summary>
@@ -216,6 +213,13 @@ Acquisition d'une expérience clinique en soins primaires, en médecine d'urgenc
 - Achèvement de la Health Policy Academy for Junior Doctors (Jan 2024–Feb 2024)
 
 </details>
+
+## Licences et certifications
+
+- Licence médicale, Ministry of Health and Welfare
+- Certification de spécialiste en médecine préventive, Ministry of Health and Welfare
+- Spécialiste certifié en gériatrie, Korean Geriatrics Society
+- Spécialiste certifié en médecine de l'obésité, Korean Society for the Study of Obesity
 
 ## Conférences et présentations
 
@@ -325,6 +329,30 @@ Acquisition d'une expérience clinique en soins primaires, en médecine d'urgenc
 
 </details>
 
+## Distinctions et prix
+
+- Distinction décernée par le ministre de la Santé et du Bien-être, République de Corée (Apr 2023)
+- Prix du jeune chercheur, Korean Society for Preventive Medicine (Oct 2026)
+- Prix de la meilleure communication orale, Korean Society for Preventive Medicine (Oct 2025)
+- Prix Kang Sang-ho (prix du meilleur poster), Korean Society for Equity in Health (May 2026)
+- Distinction décernée par le commandant de l'Armed Forces Medical Command, République de Corée (Jun 2026)
+- Prix scientifique, Korean Military Medical Association, 57th Conference on Military Medicine (Sep 2026)
+- Prix Kim Il-ho, Korean Intern Resident Association (Dec 2023)
+- Prix du meilleur article, concours d'articles étudiants sur la COVID-19, Institute of Health and Environment, Seoul National University (Dec 2022)
+
+## Bourses et allocations
+
+- National Service Fellowship, KDI School of Public Policy and Management (2024–2026)
+- Bourse de voyage pour la participation à une conférence internationale, Korean Academy of Medical Sciences (Oct 2023)
+- Bourse de formation de courte durée pour les spécialités prioritaires, Ministry of Health and Welfare (Oct 2023)
+- Bourse médecin-chercheur, Korea University College of Medicine (2021–2026)
+- Bourse de santé publique, Korea University College of Medicine (2021–2026)
+- Bourse de mentorat pour étudiants internationaux (études supérieures), Korea University (2022)
+- Bourse de service universitaire, Korea University (2012–2015)
+- Bourse « University Leader », Korea University (2013)
+- Bourse au mérite, Korea University (2012–2013)
+- Bourse Samsung SDS Junior Frontier Leader (JFL) (2009)
+
 ## Activités communautaires, citoyennes et étudiantes
 
 <details>
@@ -416,27 +444,3 @@ Président, Pre-med Student Union, Korea University College of Medicine (Dec 201
 - Soutien médical bénévole lors de rassemblements citoyens autour de l'Assemblée nationale et à Yeouido (2024)
 - Soutien et participation à l'autel commémoratif pour les victimes de la bousculade d'Itaewon du 29 octobre (2022)
 - Médecin assistant, Seoul Foreign Resident Center (2019)
-
-## Distinctions et prix
-
-- Distinction décernée par le ministre de la Santé et du Bien-être, République de Corée (Apr 2023)
-- Prix du jeune chercheur, Korean Society for Preventive Medicine (Oct 2026)
-- Prix de la meilleure communication orale, Korean Society for Preventive Medicine (Oct 2025)
-- Prix Kang Sang-ho (prix du meilleur poster), Korean Society for Equity in Health (May 2026)
-- Distinction décernée par le commandant de l'Armed Forces Medical Command, République de Corée (Jun 2026)
-- Prix scientifique, Korean Military Medical Association, 57th Conference on Military Medicine (Sep 2026)
-- Prix Kim Il-ho, Korean Intern Resident Association (Dec 2023)
-- Prix du meilleur article, concours d'articles étudiants sur la COVID-19, Institute of Health and Environment, Seoul National University (Dec 2022)
-
-## Bourses et allocations
-
-- National Service Fellowship, KDI School of Public Policy and Management (2024–2026)
-- Bourse de voyage pour la participation à une conférence internationale, Korean Academy of Medical Sciences (Oct 2023)
-- Bourse de formation de courte durée pour les spécialités prioritaires, Ministry of Health and Welfare (Oct 2023)
-- Bourse médecin-chercheur, Korea University College of Medicine (2021–2026)
-- Bourse de santé publique, Korea University College of Medicine (2021–2026)
-- Bourse de mentorat pour étudiants internationaux (études supérieures), Korea University (2022)
-- Bourse de service universitaire, Korea University (2012–2015)
-- Bourse « University Leader », Korea University (2013)
-- Bourse au mérite, Korea University (2012–2013)
-- Bourse Samsung SDS Junior Frontier Leader (JFL) (2009)

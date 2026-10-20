@@ -9,7 +9,7 @@ toc-depth: 3
 
 [Скачать резюме (PDF)](../assets/CV_Minku_Kang_2026.pdf){target="_blank"}
 
-Я изучал медицину, социологию и экономику в Korea University, а в магистратуре и аспирантуре изучал государственную политику и общественное здравоохранение. Я исследую психическое здоровье на рабочем месте, труд, социальную политику и политику здравоохранения, уделяя особое внимание институтам и системам, которые их формируют.
+Я изучал медицину, социологию и экономику в Korea University, а в магистратуре и аспирантуре изучал социальную политику и политику здравоохранения. Я исследую психическое здоровье на рабочем месте, труд, социальную политику и политику здравоохранения, уделяя особое внимание институтам и системам, которые их формируют.
 
 ## Области научных интересов
 
@@ -17,40 +17,17 @@ toc-depth: 3
 
 ## Образование
 
-- **Среднее образование**, Научная средняя школа Хансон, Корея
+- Научная средняя школа Хансон, Корея
 - **BA (бакалавр)**, социология, экономика (дополнительная специальность), Korea University, Корея
 - **MD (доктор медицины)**, медицина, Korea University, Корея
 - **MPP (магистр государственной политики)**, государственная политика (социальная политика), KDI School of Public Policy and Management, Корея
-- **Соискатель степени PhD**, общественное здравоохранение (политика здравоохранения), Korea University Graduate School, Корея
+- **PhD (доктор философии)**, общественное здравоохранение (политика здравоохранения), Korea University Graduate School, Корея
 
 ## Опыт работы
 
 ### Mar 2024–Apr 2027
 
-::: {.mk-entry .mk-static}
-Врач по гигиене труда, Gyeonggido Office of Education (Oct 2026–)
-:::
-
-<details class="mk-entry">
-<summary>Офицер отдела управления здравоохранением, Armed Forces Medical Command, MND (May 2025–Apr 2027); врач по гигиене труда, Armed Forces Capital Hospital (Oct 2026–Apr 2027)</summary>
-
-- Издание ежегодного отчёта по военной медицинской статистике (Military Health Statistics Annual Report), Armed Forces Medical Command, MND
-- Ежеквартальный анализ использования военных госпиталей и показателей качества, а также разработка предложений по политике
-
-**Научная работа в области профилактической медицины и общественного здравоохранения**
-
-- Детерминанты психического здоровья военнослужащих, Armed Forces Medical Command, MND (2026–2027)
-- Изменения в использовании медицинских услуг в военных госпиталях после кризиса здравоохранения 2024 года, Armed Forces Medical Command, MND (2026)
-- Анализ использования медицинских услуг военнослужащими в военных и гражданских госпиталях, Armed Forces Medical Command, MND (2025–2026)
-- Укрепление потенциала реагирования и управления инфекционными заболеваниями в вооружённых силах, Korea Disease Control and Prevention Agency (2025)
-
-</details>
-
-::: {.mk-entry .mk-static}
-Центральный эпидемиолог, Министерство национальной обороны (MND) (May 2024–Apr 2027)
-:::
-
-<details class="mk-entry">
+<details class="mk-entry mk-bullet">
 <summary>Офицер по профилактической медицине, Armed Forces Medical Research Institute, MND (May 2024–Apr 2025)</summary>
 
 - Эпидемиологический надзор за инфекционными заболеваниями и инспекция биобезопасности в вооружённых силах
@@ -66,10 +43,44 @@ toc-depth: 3
 
 </details>
 
+::: {.mk-entry .mk-static .mk-bullet}
+Эпидемиолог, Министерство национальной обороны (MND) (May 2024–Apr 2027)
+:::
+
+<details class="mk-entry mk-bullet">
+<summary>Офицер отдела управления здравоохранением, Armed Forces Medical Command, MND (May 2025–Apr 2027)</summary>
+
+- Издание ежегодного отчёта по военной медицинской статистике (Military Health Statistics Annual Report), Armed Forces Medical Command, MND
+- Ежеквартальный анализ использования военных госпиталей и показателей качества, а также разработка предложений по политике
+
+**Научная работа в области профилактической медицины и общественного здравоохранения**
+
+- Детерминанты психического здоровья военнослужащих, Armed Forces Medical Command, MND (2026–2027)
+- Изменения в использовании медицинских услуг в военных госпиталях после кризиса здравоохранения 2024 года, Armed Forces Medical Command, MND (2026)
+- Анализ использования медицинских услуг военнослужащими в военных и гражданских госпиталях, Armed Forces Medical Command, MND (2025–2026)
+- Укрепление потенциала реагирования и управления инфекционными заболеваниями в вооружённых силах, Korea Disease Control and Prevention Agency (2025)
+
+</details>
+
+::: {.mk-entry .mk-static .mk-bullet}
+Врач по гигиене труда, Armed Forces Capital Hospital (Oct 2026–Apr 2027)
+:::
+
+::: {.mk-entry .mk-static .mk-bullet}
+Врач по гигиене труда, Gyeonggido Office of Education (Oct 2026–)
+:::
+
 ### Mar 2020–Feb 2024
 
-<details class="mk-entry">
-<summary>Врач-ординатор (профилактическая медицина), Korea University Medical Center</summary>
+<details class="mk-entry mk-bullet">
+<summary>Врач-интерн, Korea University Medical Center (Mar 2020–Feb 2021)</summary>
+
+Приобрёл клинический опыт в первичной медико-санитарной помощи, неотложной медицине и послеоперационном уходе.
+
+</details>
+
+<details class="mk-entry mk-bullet">
+<summary>Врач-ординатор (профилактическая медицина), Korea University Medical Center (Mar 2021–Feb 2024)</summary>
 
 **1. Практика в области профилактической медицины и общественного здравоохранения**
 
@@ -93,26 +104,12 @@ toc-depth: 3
 
 </details>
 
-<details class="mk-entry">
-<summary>Врач-интерн, Korea University Medical Center</summary>
-
-Приобрёл клинический опыт в первичной медико-санитарной помощи, неотложной медицине и послеоперационном уходе.
-
-</details>
-
-## Лицензии и сертификаты
-
-- Медицинская лицензия, Ministry of Health and Welfare, Republic of Korea
-- Сертификат специалиста по профилактической медицине, Ministry of Health and Welfare, Republic of Korea
-- Сертифицированный специалист по гериатрии, Korean Geriatrics Society
-- Сертифицированный специалист по медицине ожирения, Korean Society for the Study of Obesity
-
 ## Исследования и публикации
 
 - **Главный исследователь**, «Детерминанты психического здоровья военнослужащих»
 - **Главный исследователь**, «Исследование по реформированию системы 36-часовых непрерывных дежурств для врачей-интернов и ординаторов»
 
-[Полный список исследований](research.html) | [Полный список публикаций](publications.html)
+[Полный список проектов](research.html) | [Полный список публикаций](publications.html)
 
 <details>
 <summary>Рецензирование</summary>
@@ -216,6 +213,13 @@ toc-depth: 3
 - Завершение Health Policy Academy for Junior Doctors (Jan 2024–Feb 2024)
 
 </details>
+
+## Лицензии и сертификаты
+
+- Медицинская лицензия, Ministry of Health and Welfare, Republic of Korea
+- Сертификат специалиста по профилактической медицине, Ministry of Health and Welfare, Republic of Korea
+- Сертифицированный специалист по гериатрии, Korean Geriatrics Society
+- Сертифицированный специалист по медицине ожирения, Korean Society for the Study of Obesity
 
 ## Конференции и доклады
 
@@ -325,6 +329,30 @@ toc-depth: 3
 
 </details>
 
+## Награды и почётные звания
+
+- Удостоен благодарности Minister of Health and Welfare, Republic of Korea (Apr 2023)
+- Премия молодого исследователя, Korean Society for Preventive Medicine (Oct 2026)
+- Премия за лучший устный доклад, Korean Society for Preventive Medicine (Oct 2025)
+- Премия имени Kang Sang-ho (премия за лучший постер), Korean Society for Equity in Health (May 2026)
+- Удостоен благодарности командующего Armed Forces Medical Command, Republic of Korea (Jun 2026)
+- Научная премия, Korean Military Medical Association, 57th Conference on Military Medicine (Sep 2026)
+- Премия имени Kim Il-ho, Korean Intern Resident Association (Dec 2023)
+- Премия за выдающуюся статью, COVID-19 Student Paper Contest, Institute of Health and Environment, Seoul National University (Dec 2022)
+
+## Стипендии и гранты
+
+- Стипендия National Service Fellowship, KDI School of Public Policy and Management (2024–2026)
+- Грант на поездку для участия в международной конференции, Korean Academy of Medical Sciences (Oct 2023)
+- Грант на краткосрочное обучение по приоритетным специальностям, Ministry of Health and Welfare (Oct 2023)
+- Стипендия для врачей-учёных (Physician-Scientist Scholarship), Korea University College of Medicine (2021–2026)
+- Стипендия по общественному здравоохранению, Korea University College of Medicine (2021–2026)
+- Стипендия наставника для иностранных аспирантов, Korea University (2022)
+- Стипендия за университетскую службу, Korea University (2012–2015)
+- Стипендия University Leader, Korea University (2013)
+- Стипендия за академические успехи (Merit Scholarship), Korea University (2012–2013)
+- Стипендия Samsung SDS Junior Frontier Leader (JFL) (2009)
+
 ## Общественная, гражданская и студенческая деятельность
 
 <details>
@@ -416,27 +444,3 @@ toc-depth: 3
 - Медицинская волонтёрская помощь на гражданских митингах у National Assembly и в Yeouido (2024)
 - Помощь и участие в работе мемориала памяти жертв давки в Itaewon 29 октября (2022)
 - Врач-ассистент, Seoul Foreign Resident Center (2019)
-
-## Награды и почётные звания
-
-- Удостоен благодарности Minister of Health and Welfare, Republic of Korea (Apr 2023)
-- Премия молодого исследователя, Korean Society for Preventive Medicine (Oct 2026)
-- Премия за лучший устный доклад, Korean Society for Preventive Medicine (Oct 2025)
-- Премия имени Kang Sang-ho (премия за лучший постер), Korean Society for Equity in Health (May 2026)
-- Удостоен благодарности командующего Armed Forces Medical Command, Republic of Korea (Jun 2026)
-- Научная премия, Korean Military Medical Association, 57th Conference on Military Medicine (Sep 2026)
-- Премия имени Kim Il-ho, Korean Intern Resident Association (Dec 2023)
-- Премия за выдающуюся статью, COVID-19 Student Paper Contest, Institute of Health and Environment, Seoul National University (Dec 2022)
-
-## Стипендии и гранты
-
-- Стипендия National Service Fellowship, KDI School of Public Policy and Management (2024–2026)
-- Грант на поездку для участия в международной конференции, Korean Academy of Medical Sciences (Oct 2023)
-- Грант на краткосрочное обучение по приоритетным специальностям, Ministry of Health and Welfare (Oct 2023)
-- Стипендия для врачей-учёных (Physician-Scientist Scholarship), Korea University College of Medicine (2021–2026)
-- Стипендия по общественному здравоохранению, Korea University College of Medicine (2021–2026)
-- Стипендия наставника для иностранных аспирантов, Korea University (2022)
-- Стипендия за университетскую службу, Korea University (2012–2015)
-- Стипендия University Leader, Korea University (2013)
-- Стипендия за академические успехи (Merit Scholarship), Korea University (2012–2013)
-- Стипендия Samsung SDS Junior Frontier Leader (JFL) (2009)
