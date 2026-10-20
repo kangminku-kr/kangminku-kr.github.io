@@ -30,6 +30,7 @@ toc-depth: 2
 
 - **Öffentliche psychische Gesundheit, soziale Determinanten, Gesundheitspolitik** — Graduiertenkurs
 - **Berufsbedingter Stress und psychische Gesundheit am Arbeitsplatz** — Graduiertenkurs
+- **Vergleichende Gesundheitssysteme** — Graduiertenkurs
 - **Seminar Korean Healthcare Policy 101** — Graduiertenseminar, 16 Wochen.
   *Zielgruppe:* Graduierte und Fachkräfte im Gesundheitswesen.
   *Schwerpunkte:* Ursprünge des koreanischen Gesundheitssystems, nationale Krankenversicherung und Langzeitpflege, Primärversorgung und Management chronischer Erkrankungen, essenzielle medizinische Leistungen, Public Health und gesundheitliche Ungleichheiten, öffentliche psychische Gesundheit, Katastrophenschutz, Personalpolitik im Gesundheitswesen sowie der gesetzgeberische Politikprozess.
