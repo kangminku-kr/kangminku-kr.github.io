@@ -9,7 +9,7 @@ toc-depth: 2
 
 ## Articles évalués par les pairs
 
-- Park JW, **Kang M**, Kang E, Nam HK, Lee KH, Rhie YJ. Impact of COVID-19 on childhood obesity in South Korea: variations by age and sex. *Journal of Obesity & Metabolic Syndrome*. 2026 (accepté ; publié en ligne le 19 octobre 2026). [doi:10.7570/jomes25054](https://doi.org/10.7570/jomes25054)
+- Park JW, **Kang M**, Kang E, Nam HK, Lee KH, Rhie YJ. Impact of COVID-19 on childhood obesity in South Korea: variations by age and sex. *Journal of Obesity & Metabolic Syndrome*. 2026 Oct 19 [Epub ahead of print, publication en ligne anticipée]. [doi:10.7570/jomes25054](https://doi.org/10.7570/jomes25054)
 - Lee H, **Kang M**, Lee S, Kim D, Moon J, Yoon C, et al. Improving infectious disease response and management capabilities in the Korean military. *Public Health Weekly Report*. 2026;19(28):1168–1183. (co-first author) [doi:10.56786/PHWR.2026.19.28.3](https://doi.org/10.56786/PHWR.2026.19.28.3)
 - Cha J, **Kang M**. Impact of South Korea's national gastrointestinal cancer screening programme on incidence and mortality: a population-based difference-in-differences study. *BMJ Open*. 2026;16(4):e112558. [doi:10.1136/bmjopen-2025-112558](https://doi.org/10.1136/bmjopen-2025-112558)
 - Moon D, Kim C, **Kang M**. COVID-19 outcomes in Busan: impact of area-deprivation on infection risk by gender and age. *Journal of the Korean Data Analysis Society*. 2025;27(6):1949–1961. [doi:10.37727/jkdas.2025.27.6.1949](https://doi.org/10.37727/jkdas.2025.27.6.1949)
