@@ -50,7 +50,7 @@ toc-depth: 3
 :::
 
 <details class="mk-entry mk-bullet">
-<summary>Офицер отдела управления здравоохранением, Armed Forces Medical Command, MND (May 2025–Apr 2027)</summary>
+<summary>Военный офицер отдела управления здравоохранением, Armed Forces Medical Command, MND (May 2025–Apr 2027)</summary>
 
 **Основные обязанности**
 
