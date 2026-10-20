@@ -43,13 +43,17 @@ lang: ru
 <h3>Общественная деятельность</h3>
 <ul>
 <li>Советник по политике, Korean Intern Resident Union (KIRU)</li>
-<li>Председатель Future Generations Committee, Korean Society for Preventive Medicine; вице-президент, Korean Association of Preventive Medicine Physicians</li>
+<li>Председатель Future Generations Committee, Korean Society for Preventive Medicine</li>
+<li>Вице-президент, Korean Association of Preventive Medicine Physicians</li>
 <li>Член правления, Korean Society of Occupational Stress</li>
-<li>Бывший член, Medical Residency Training Environment Evaluation Committee; член-эксперт, Subcommittee on Physician Workforce, Healthcare Policy Deliberation Committee, Ministry of Health and Welfare</li>
-<li>Бывший президент и советник по политике, Korean Intern Resident Association</li>
+<li>Бывший член, Medical Residency Training Environment Evaluation Committee, Ministry of Health and Welfare</li>
+<li>Бывший член-эксперт, Subcommittee on Physician Workforce, Healthcare Policy Deliberation Committee, Ministry of Health and Welfare</li>
+<li>Бывший президент, Korean Intern Resident Association</li>
+<li>Бывший советник по политике, Korean Intern Resident Association</li>
 <li>Бывший директор по политике, Korean Medical Association</li>
 <li>Бывший член корейской делегации, World Medical Association – Junior Doctors Network (WMA-JDN)</li>
-<li>Бывший вице-президент, Korea University Undergraduate Student Union; член, Tuition Review Committee, Korea University</li>
+<li>Бывший вице-президент, Korea University Undergraduate Student Union</li>
+<li>Бывший член, Tuition Review Committee, Korea University</li>
 </ul>
 <h3>Награды</h3>
 <ul>
