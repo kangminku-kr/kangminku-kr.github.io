@@ -66,7 +66,7 @@ toc-depth: 2
   - Korea University Medicine — **2021.09–2022.02**
 - **Projekt zur Aus- und Weiterbildung in Prävention, Diagnose und Analyse von Infektionskrankheiten (KOICA–Tashkent Medical Academy)**
   - Korea International Cooperation Agency (KOICA) — **2021.11–2021.12**
-  - (Gesundheitsexperte: R-basierte Epidemiologie-Schulung, Aufbereitung und Analyse von Erhebungsdaten)
+  - (Experte für öffentliche Gesundheit: R-basierte Epidemiologie-Schulung, Aufbereitung und Analyse von Erhebungsdaten)
 - **Politikstudien zum privaten Zertifizierungssystem für Medizinprodukte in Südkorea**
   - **2021.04–2021.12**
 - **Einfluss sozioökonomischer Faktoren auf die Gesundheit älterer Menschen: mit Schwerpunkt auf komplexen chronischen Erkrankungen**

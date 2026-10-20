@@ -108,6 +108,17 @@ toc-depth: 3
 
 </details>
 
+## Награды и почётные звания
+
+- Премия молодого исследователя, Korean Society for Preventive Medicine (Oct 2026)
+- Научная премия, Korean Military Medical Association, 57th Conference on Military Medicine (Sep 2026)
+- Удостоен благодарности командующего Armed Forces Medical Command, Republic of Korea (Jun 2026)
+- Премия имени Kang Sang-ho (премия за лучший постер), Korean Society for Equity in Health (May 2026)
+- Премия за лучший устный доклад, Korean Society for Preventive Medicine (Oct 2025)
+- Премия имени Kim Il-ho, Korean Intern Resident Association (Dec 2023)
+- Удостоен благодарности Minister of Health and Welfare, Republic of Korea (Apr 2023)
+- Премия за выдающуюся статью, COVID-19 Student Paper Contest, Institute of Health and Environment, Seoul National University (Dec 2022)
+
 ## Исследования и публикации
 
 - **Главный исследователь**, «Детерминанты психического здоровья военнослужащих»
@@ -341,17 +352,6 @@ toc-depth: 3
 - «Базовое исследование по внедрению „зелёных рецептов“: анализ зарубежного опыта и разработка перечня услуг, связанных с парками и зелёными зонами» (магистерская диссертация, 2024)
 
 </details>
-
-## Награды и почётные звания
-
-- Премия молодого исследователя, Korean Society for Preventive Medicine (Oct 2026)
-- Научная премия, Korean Military Medical Association, 57th Conference on Military Medicine (Sep 2026)
-- Удостоен благодарности командующего Armed Forces Medical Command, Republic of Korea (Jun 2026)
-- Премия имени Kang Sang-ho (премия за лучший постер), Korean Society for Equity in Health (May 2026)
-- Премия за лучший устный доклад, Korean Society for Preventive Medicine (Oct 2025)
-- Премия имени Kim Il-ho, Korean Intern Resident Association (Dec 2023)
-- Удостоен благодарности Minister of Health and Welfare, Republic of Korea (Apr 2023)
-- Премия за выдающуюся статью, COVID-19 Student Paper Contest, Institute of Health and Environment, Seoul National University (Dec 2022)
 
 ## Стипендии и гранты
 

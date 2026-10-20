@@ -67,7 +67,7 @@ toc-depth: 2
   - Korea University College of Medicine — **2021.09–2022.02**
 - **感染症の予防・診断・分析の教育強化プロジェクト（KOICA–Tashkent Medical Academy）**
   - Korea International Cooperation Agency (KOICA) — **2021.11–2021.12**
-  - （保健専門家：Rを用いた疫学研修、調査データの処理・分析）
+  - （公衆衛生専門家：Rを用いた疫学研修、調査データの処理・分析）
 - **韓国における医療機器の民間認証制度に関する政策研究**
   - **2021.04–2021.12**
 - **高齢者層における社会経済的要因が健康に与える影響：複合慢性疾患を中心に**

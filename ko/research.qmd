@@ -103,7 +103,7 @@ toc-depth: 3
 - **KOICA–타슈켄트 의과대학 감염성질환 교육 및 연구역량 강화사업**
   - 한국국제협력단 (Korea International Cooperation Agency, KOICA)
   - **2021.11–2021.12**
-  - (보건전문가/Health Specialist: 현지 R 기반 역학교육, 설문 데이터 전처리 및 분석)
+  - (보건전문가/Public Health Expert: 현지 R 기반 역학교육, 설문 데이터 전처리 및 분석)
 
 - **국산 의료기기 민간인증제 정책연구**
   - **2021.04–2021.12**

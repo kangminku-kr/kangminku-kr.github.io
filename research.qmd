@@ -65,7 +65,7 @@ toc-depth: 2
   - Korea University Medicine — **2021.09–2022.02**
 - **Education and Reinforcement Project of Prevention, Diagnosis and Analysis of Infectious Diseases (KOICA–Tashkent Medical Academy)**
   - Korea International Cooperation Agency (KOICA) — **2021.11–2021.12**
-  - (Health Specialist: R-based epidemiology training, survey data processing and analysis)
+  - (Public Health Expert: R-based epidemiology training, survey data processing and analysis)
 - **Policy Studies on the Private Certification System for Medical Devices in South Korea**
   - **2021.04–2021.12**
 - **Effect of Socioeconomic Factors on Health in the Old-aged Group: Focusing on Complex Chronic Diseases**

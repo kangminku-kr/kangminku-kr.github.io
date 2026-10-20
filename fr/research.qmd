@@ -66,7 +66,7 @@ toc-depth: 2
   - Korea University College of Medicine — **2021.09–2022.02**
 - **Projet de formation et de renforcement en matière de prévention, de diagnostic et d'analyse des maladies infectieuses (KOICA–Tashkent Medical Academy)**
   - Korea International Cooperation Agency (KOICA) — **2021.11–2021.12**
-  - (Spécialiste en santé : formation en épidémiologie basée sur R, traitement et analyse des données d'enquête)
+  - (Expert en santé publique : formation en épidémiologie basée sur R, traitement et analyse des données d'enquête)
 - **Études de politique sur le système de certification privée des dispositifs médicaux en Corée du Sud**
   - **2021.04–2021.12**
 - **Effet des facteurs socioéconomiques sur la santé chez les personnes âgées : focus sur les maladies chroniques complexes**
