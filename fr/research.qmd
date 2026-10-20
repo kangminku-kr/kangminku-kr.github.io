@@ -1,5 +1,5 @@
 ---
-title: "Projets de recherche et subventions"
+title: "Projets et subventions"
 lang: fr
 toc: true
 toc-depth: 2

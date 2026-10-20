@@ -1,6 +1,6 @@
 ---
-title: "研究プロジェクト・研究費"
-pagetitle: "研究プロジェクト・研究費 — Minku Kang"
+title: "プロジェクト・研究費"
+pagetitle: "プロジェクト・研究費 — Minku Kang"
 lang: ja
 toc: true
 toc-depth: 2

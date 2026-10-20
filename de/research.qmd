@@ -1,5 +1,5 @@
 ---
-title: "Forschungsprojekte und Drittmittel"
+title: "Projekte und Drittmittel"
 lang: de
 toc: true
 toc-depth: 2

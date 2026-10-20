@@ -1,6 +1,6 @@
 ---
-title: "연구 · 연구비"
-pagetitle: "연구 · 연구비 — 강민구"
+title: "연구과제 · 연구비"
+pagetitle: "연구과제 · 연구비 — 강민구"
 lang: ko
 toc: true
 toc-depth: 3
