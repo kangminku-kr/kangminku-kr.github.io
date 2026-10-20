@@ -29,7 +29,7 @@ toc-depth: 2
 **Enseignements souhaités**
 
 - **Santé mentale publique : déterminants sociaux, politiques et santé mentale** — cours de cycle supérieur
-- **Santé mentale au travail** — cours de cycle supérieur
+- **Stress professionnel et santé mentale au travail** — cours de cycle supérieur
 - **Séminaire Korean Healthcare Policy 101** — séminaire de cycle supérieur, 16 semaines.
   *Public visé :* étudiants de cycle supérieur et professionnels du secteur de la santé.
   *Points forts :* origines du système de santé coréen, assurance maladie nationale et soins de longue durée, soins primaires et gestion des maladies chroniques, services médicaux essentiels, santé publique et inégalités de santé, santé mentale publique, réponse aux catastrophes, politique de la main-d'œuvre en santé, et le processus d'élaboration des politiques législatives.
