@@ -29,13 +29,13 @@ toc-depth: 2
 
 **Courses I would like to teach**
 
-- **Public Mental Health: Social Determinants, Policy and Mental Health** — graduate course
+- **Public Mental Health, Social Determinants, Health Policy** — graduate course
 - **Occupational Stress and Workplace Mental Health** — graduate course
 - **Korean Healthcare Policy 101 Seminar** — graduate seminar, 16-week.
   *Target:* healthcare-related graduate students & professionals.
   *Highlights:* origins of Korea's health system, national health insurance & long-term care, primary care & chronic disease management, essential medical services, public health & health inequalities, public mental health, disaster response, health workforce policy, and the legislative policy process.
 - **Preventive Medicine and Public Health** — undergraduate major course (Medicine)
-- **Social Determinants and Health** — undergraduate liberal-arts course
+- **Social Determinants of Health** — undergraduate liberal-arts course
 
 ## Syllabus — Korean Healthcare Policy 101 (16 weeks)
 
