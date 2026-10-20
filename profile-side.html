@@ -1,0 +1,57 @@
+<!-- 모든 페이지 왼쪽의 프로필 기둥 (2026-10-20, 본부장 요청: kunlee0910.github.io처럼 어느 메뉴를 눌러도 사진, 이름, 연락처 아이콘이 보이게).
+     include-after-body로 본문 끝에 붙고, 아래 스크립트가 #quarto-content 안으로 옮긴다.
+     넓은 화면(1200px 이상)은 왼쪽 기둥, 좁은 화면은 본문 맨 위의 한 줄 카드(대문에서는 생략, 대문 머리글이 같은 정보를 보여 준다).
+     이름과 직함은 <html lang>으로 고른다. 대문 머리글(mk-name, mk-title)과 같은 문구다.
+     공유 페이지(블로그)는 lang이 en이라 lang-toggle과 같은 규칙으로 mk-lang-last를 따른다. -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+<div id="mk-side" class="mk-side" role="complementary" aria-label="Profile">
+  <div class="mk-side-inner">
+    <a class="mk-side-home" href="/index.html"><img class="mk-side-photo" src="/images/profile_home.jpg" alt=""></a>
+    <div class="mk-side-id">
+      <div class="mk-side-name">Minku Kang</div>
+      <div class="mk-side-title">Preventive Medicine Physician</div>
+    </div>
+    <ul class="mk-side-links">
+      <li><a href="mailto:kangminku.kr@gmail.com" title="Email"><i class="bi bi-envelope-fill" aria-hidden="true"></i><span class="mk-side-email">Email</span></a></li>
+      <li><a href="https://scholar.google.com/citations?user=BUn--4YAAAAJ" target="_blank" rel="noopener" title="Google Scholar"><i class="ai ai-google-scholar" aria-hidden="true"></i><span>Google Scholar</span></a></li>
+      <li><a href="https://orcid.org/0000-0002-7226-8159" target="_blank" rel="noopener" title="ORCID"><i class="ai ai-orcid" aria-hidden="true"></i><span>ORCID</span></a></li>
+      <li><a href="https://www.linkedin.com/in/kangminku/" target="_blank" rel="noopener" title="LinkedIn"><i class="bi bi-linkedin" aria-hidden="true"></i><span>LinkedIn</span></a></li>
+      <li><a href="https://instagram.com/kangminku.kr/" target="_blank" rel="noopener" title="Instagram"><i class="bi bi-instagram" aria-hidden="true"></i><span>Instagram</span></a></li>
+      <li><a href="https://facebook.com/kaangminku" target="_blank" rel="noopener" title="Facebook"><i class="bi bi-facebook" aria-hidden="true"></i><span>Facebook</span></a></li>
+    </ul>
+  </div>
+</div>
+<script>
+(function () {
+  var side = document.getElementById('mk-side');
+  var host = document.getElementById('quarto-content');
+  if (!side || !host) return;
+  var T = {
+    en: ['Minku Kang', 'Preventive Medicine Physician', 'Email'],
+    ko: ['강민구', '예방의학과 전문의', '이메일'],
+    fr: ['Minku Kang', 'Médecin spécialiste en médecine préventive', 'E-mail'],
+    ja: ['Minku Kang', '予防医学専門医', 'メール'],
+    de: ['Minku Kang', 'Facharzt für Präventivmedizin', 'E-Mail'],
+    es: ['Minku Kang', 'Médico de medicina preventiva', 'Correo'],
+    ru: ['Minku Kang', 'Врач профилактической медицины', 'Эл. почта']
+  };
+  var L = (document.documentElement.getAttribute('lang') || 'en').slice(0, 2).toLowerCase();
+  if (L === 'en' && /^\/(blog|posts)/.test(location.pathname)) {
+    try { var last = localStorage.getItem('mk-lang-last'); if (last && T[last]) L = last; } catch (e) {}
+  }
+  if (!T[L]) L = 'en';
+  var t = T[L];
+  side.querySelector('.mk-side-name').textContent = t[0];
+  side.querySelector('.mk-side-title').textContent = t[1];
+  side.querySelector('.mk-side-email').textContent = t[2];
+  side.querySelector('.mk-side-home').setAttribute('href', L === 'en' ? '/index.html' : '/' + L + '/index.html');
+  host.insertBefore(side, host.firstChild);
+  document.body.classList.add('mk-has-side');
+  var main = host.querySelector('main');
+  if (main && !document.querySelector('.mk-hero')) {
+    var c = side.querySelector('.mk-side-inner').cloneNode(true);
+    c.className = 'mk-side-compact';
+    main.insertBefore(c, main.firstChild);
+  }
+})();
+</script>

@@ -431,3 +431,45 @@ main.content li > strong:first-child,
   font-family:$font-name; font-size:17px; font-weight:400;
   letter-spacing:.02em; color:$muted; margin:.28rem 0 0;
 }
+
+/* ---------- 왼쪽 프로필 기둥 (2026-10-20) ----------
+   본부장 요청: kunlee0910.github.io처럼 어느 메뉴에서도 사진, 이름, 직함, 연락처 아이콘이 보이게.
+   마크업과 스크립트는 profile-side.html. 1200px 이상은 #quarto-content 왼쪽 여백에 붙박이 기둥,
+   그보다 좁으면 본문 맨 위 한 줄 카드(대문 제외). 대문 사진은 기둥이 있을 때 숨긴다. */
+.mk-side, .mk-side-compact{ display:none; }
+@media (min-width:1200px){
+  body.mk-has-side #quarto-content{ position:relative; padding-left:236px; }
+  body.mk-has-side #mk-side{ display:block; position:absolute; left:32px; top:0; bottom:0; width:184px; grid-column:auto; grid-row:auto; } /* Quarto가 .page-columns의 모든 자식을 본문 칸에 넣으므로 auto로 풀어 여백 기준으로 둔다 */
+  body.mk-has-side .mk-home-photo{ display:none; }
+}
+.mk-side-inner{ position:sticky; top:92px; padding-top:30px; }
+.mk-side-photo{
+  display:block; width:132px; height:132px; border-radius:50%;
+  object-fit:cover; object-position:50% 45%; border:1px solid $hair; background:$paper;
+}
+.mk-side-id{ margin:14px 0 16px; }
+.mk-side-name{ font-family:$font-name; font-weight:600; font-size:15px; line-height:1.3; color:$ink; }
+.mk-side-title{ font-family:$font-name; font-size:13px; line-height:1.4; color:$muted; margin-top:3px; }
+.mk-side-links{ list-style:none; margin:0; padding:0; }
+.mk-side-links li{ margin:0 0 8px; }
+.mk-side-links a{ display:flex; align-items:center; gap:9px; font-family:$font-name; font-size:13px; color:$ink; text-decoration:none; }
+.mk-side-links a:hover{ text-decoration:underline; text-underline-offset:3px; }
+.mk-side-links i{ width:16px; text-align:center; font-size:14px; color:$muted; }
+@media (max-width:1199.98px){
+  .mk-side-compact{
+    display:flex; flex-wrap:wrap; align-items:center; gap:10px 14px;
+    padding:2px 0 14px; margin:0 0 20px; border-bottom:1px solid $hair;
+  }
+  .mk-side-compact .mk-side-photo{ width:52px; height:52px; }
+  .mk-side-compact .mk-side-id{ margin:0; flex:1 1 0; min-width:0; }
+  .mk-side-compact .mk-side-links{ display:flex; flex-wrap:wrap; gap:6px 16px; width:100%; }
+  .mk-side-compact .mk-side-links li{ margin:0; }
+  .mk-side-compact .mk-side-links span{ display:none; }
+  .mk-side-compact .mk-side-links i{ width:auto; font-size:17px; }
+}
+
+/* 본문 링크 밑줄(main.content a)이 카드의 사진과 아이콘에 붙지 않게, 아이콘 크기와 기준선을 맞춘다. */
+main.content .mk-side-compact a, main.content .mk-side-compact a:hover{ border-bottom:none; text-decoration:none; }
+.mk-side-links i{ display:inline-flex; align-items:center; justify-content:center; line-height:1; }
+.mk-side-links i.ai{ font-size:15px; }
+@media (max-width:1199.98px){ .mk-side-compact .mk-side-links i.ai{ font-size:18px; } }

@@ -63,6 +63,7 @@ format:
     anchor-sections: false
     include-after-body:
       - lang-toggle.html
+      - profile-side.html
     include-in-header:
       - lang-redirect.html
       - text: |
