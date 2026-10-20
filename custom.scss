@@ -177,27 +177,42 @@ details > summary{
 details > summary:hover{ color:$accent; }
 details[open] > summary{ margin-bottom:.7rem; color:$ink; }
 
-/* CV 항목 접기 (2026-09-30) — 항목 이름을 누르면 그 항목의 세부 내용이 열린다.
+/* CV 항목 접기 (2026-09-30, 2026-10-20 개정) — 항목 이름을 누르면 그 항목의 세부 내용이 열린다.
    위의 전역 details 규칙은 '묶음 접기'(학술 발표·정책 자문 등)용이라 여기서 되돌린다.
-   왼쪽 + / – 가 '열리는 항목' 표시다. 세부가 없는 항목(.mk-static)은 같은 폭을 비워 줄을 맞춘다. */
+   본부장 지시(10-20): 앞에 붙던 + 표식이 줄 정렬을 흐트러뜨려, 표식을 항목 뒤의 작은 「+ 더보기」 꼬리표로 옮겼다.
+   이제 접히는 항목과 접히지 않는 항목(.mk-static)이 같은 왼쪽 선에서 시작한다. 꼬리표 문구는 페이지 언어를 따른다. */
 .mk-entry{ margin:0 0 .5rem; }
 details.mk-entry{ border-top:0; padding:0; }
 details.mk-entry > summary,
 .mk-static > p{
-  position:relative; display:block; margin:0; padding:0 0 0 1.35em;
+  position:relative; display:block; margin:0; padding:0;
   color:$ink; font-weight:400; line-height:1.6;
 }
 details.mk-entry > summary::-webkit-details-marker{ display:none; }
-details.mk-entry > summary::before{
-  content:"+"; position:absolute; left:0; top:0; width:1em; text-align:center;
-  color:$faint; font-weight:400;
+details.mk-entry > summary::marker{ content:""; }
+details.mk-entry > summary::after{
+  content:"+ more"; display:inline-block; margin-left:.55em; padding:0 .4em;
+  font-size:11.5px; font-weight:400; line-height:1.55; letter-spacing:.01em; white-space:nowrap; vertical-align:1px;
+  color:$muted; border:1px solid $hair; border-radius:2px;
 }
-details.mk-entry[open] > summary::before{ content:"–"; color:$accent; }
+details.mk-entry[open] > summary::after{ content:"– close"; color:$accent; border-color:$accent; }
+:lang(ko) details.mk-entry > summary::after{ content:"+ 더보기"; }
+:lang(ko) details.mk-entry[open] > summary::after{ content:"– 접기"; }
+:lang(fr) details.mk-entry > summary::after{ content:"+ plus"; }
+:lang(fr) details.mk-entry[open] > summary::after{ content:"– réduire"; }
+:lang(ja) details.mk-entry > summary::after{ content:"+ もっと見る"; }
+:lang(ja) details.mk-entry[open] > summary::after{ content:"– 閉じる"; }
+:lang(de) details.mk-entry > summary::after{ content:"+ mehr"; }
+:lang(de) details.mk-entry[open] > summary::after{ content:"– weniger"; }
+:lang(es) details.mk-entry > summary::after{ content:"+ más"; }
+:lang(es) details.mk-entry[open] > summary::after{ content:"– cerrar"; }
+:lang(ru) details.mk-entry > summary::after{ content:"+ подробнее"; }
+:lang(ru) details.mk-entry[open] > summary::after{ content:"– свернуть"; }
 details.mk-entry > summary:hover,
-details.mk-entry > summary:hover::before{ color:$accent; }
+details.mk-entry > summary:hover::after{ color:$accent; border-color:$accent; }
 details.mk-entry[open] > summary{ margin-bottom:.5rem; color:$ink; }
 details.mk-entry[open]{ padding-bottom:.4rem; }
-details.mk-entry > :not(summary){ margin-left:1.35em; }
+details.mk-entry > :not(summary){ margin-left:1em; }
 .mk-e-name{ font-weight:600; }
 .mk-e-role{ color:$muted; margin-left:.3em; }
 .mk-e-when{ color:$faint; margin-left:.3em; white-space:nowrap; }
@@ -438,9 +453,24 @@ main.content li > strong:first-child,
    그보다 좁으면 본문 맨 위 한 줄 카드(대문 제외). 대문 사진은 기둥이 있을 때 숨긴다. */
 .mk-side, .mk-side-compact{ display:none; }
 @media (min-width:1200px){
-  body.mk-has-side #quarto-content{ position:relative; padding-left:236px; }
-  body.mk-has-side #mk-side{ display:block; position:absolute; left:32px; top:0; bottom:0; width:184px; grid-column:auto; grid-row:auto; } /* Quarto가 .page-columns의 모든 자식을 본문 칸에 넣으므로 auto로 풀어 여백 기준으로 둔다 */
+  /* 한 틀(최대 1280px) 안에 내비, 프로필 기둥, 본문, 목차, 꼬리말을 맞춘다(2026-10-20 본부장: 브랜드와 사진의 왼쪽 정렬).
+     틀 왼쪽 = 내비 브랜드 = 프로필 사진, 틀 오른쪽 = 마지막 메뉴 = 목차 끝.
+     Quarto 기본 격자는 좌우 5fr 여백으로 본문을 가운데 두므로, 기둥이 있을 때는 열 이름을 유지한 채 격자를 다시 정의한다. */
+  body.mk-has-side .navbar{ padding-left:0; padding-right:0; } /* 부트스트랩 navbar의 좌우 16px 패딩이 틀을 밀어 1200px 부근에서 브랜드가 사진보다 17px 오른쪽에 섰다 */
+  body.mk-has-side .navbar > .container-fluid{ max-width:1280px; width:calc(100% - 48px); padding-left:0; padding-right:0; }
+  body.mk-has-side .navbar .navbar-brand-container,
+  body.mk-has-side .navbar .navbar-brand{ margin-left:0!important; padding-left:0!important; }
+  body.mk-has-side .navbar .navbar-nav .nav-item:last-child .nav-link{ padding-right:0; }
+  body.mk-has-side #quarto-content.page-columns{
+    position:relative; box-sizing:border-box;
+    width:calc(100% - 48px); max-width:1280px; margin-left:auto; margin-right:auto;
+    padding-left:240px; padding-right:0;
+    grid-template-columns:[screen-start screen-start-inset page-start page-start-inset body-start-outset body-start body-content-start] minmax(0,1fr) [body-content-end body-end] 40px [body-end-outset] 200px [page-end-inset page-end screen-end-inset screen-end];
+  }
+  body.mk-has-side #mk-side{ display:block; position:absolute; left:0; top:0; bottom:0; width:184px; grid-column:auto; grid-row:auto; } /* Quarto가 .page-columns의 모든 자식을 본문 칸에 넣으므로 auto로 풀어 틀 기준으로 둔다 */
   body.mk-has-side .mk-home-photo{ display:none; }
+  body.mk-has-side .mk-wrap{ max-width:none; padding-left:0; padding-right:0; }
+  body.mk-has-side .nav-footer{ max-width:1280px; width:calc(100% - 48px); margin-left:auto; margin-right:auto; padding-left:0; padding-right:0; }
 }
 .mk-side-inner{ position:sticky; top:92px; padding-top:30px; }
 .mk-side-photo{

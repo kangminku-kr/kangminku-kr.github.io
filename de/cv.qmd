@@ -9,23 +9,19 @@ toc-depth: 3
 
 [Lebenslauf herunterladen (PDF)](../assets/CV_Minku_Kang_2026.pdf){target="_blank"}
 
-An der Korea University habe ich Medizin, Soziologie und Volkswirtschaftslehre studiert, im Graduiertenstudium Public Policy und Public Health. Ich forsche zu psychischer Gesundheit am Arbeitsplatz, Arbeit, Sozialpolitik und Gesundheitspolitik sowie zu den Institutionen und Systemen, die sie umgeben.
+An der Korea University habe ich Medizin, Soziologie und Volkswirtschaftslehre studiert, im Graduiertenstudium Public Policy und Public Health. Ich forsche zu psychischer Gesundheit am Arbeitsplatz, Arbeit, Sozialpolitik und Gesundheitspolitik, mit besonderem Blick auf die Institutionen und Systeme, die sie prägen.
 
 ## Interessengebiete
 
-- Psychische Gesundheit am Arbeitsplatz
-- Soziale Determinanten der Gesundheit
-- Gemeindemedizin
-- Gesundheitspersonal
-- Gesundheitssysteme
+Psychische Gesundheit am Arbeitsplatz, Soziale Determinanten der Gesundheit, Gemeindemedizin, Gesundheitspersonal, Gesundheitssysteme
 
 ## Ausbildung
 
-- **Doktorand**, Public Health (Gesundheitspolitik), Korea University Graduate School, Korea
-- **MPP**, Public Policy (Sozialpolitik), KDI School of Public Policy and Management, Korea
-- **MD**, Medizin, Korea University, Korea
-- **BA**, Soziologie, Volkswirtschaftslehre (Nebenfach), Korea University, Korea
 - **Schulabschluss**, Hansung Science High School, Korea
+- **BA**, Soziologie, Volkswirtschaftslehre (Nebenfach), Korea University, Korea
+- **MD**, Medizin, Korea University, Korea
+- **MPP**, Public Policy (Sozialpolitik), KDI School of Public Policy and Management, Korea
+- **Doktorand**, Public Health (Gesundheitspolitik), Korea University Graduate School, Korea
 
 ## Berufserfahrung
 
@@ -110,6 +106,22 @@ Erwerb klinischer Erfahrung in der Primärversorgung, der Notfallmedizin und der
 - Facharztanerkennung für Präventivmedizin, Ministry of Health and Welfare, Republik Korea
 - Zertifizierter Spezialist für Geriatrie, Korean Geriatrics Society
 - Zertifizierter Spezialist für Adipositasmedizin, Korean Society for the Study of Obesity
+
+## Forschung und Publikationen
+
+- **Studienleiter (Principal Investigator)**, Determinanten der psychischen Gesundheit von Militärangehörigen
+- **Studienleiter (Principal Investigator)**, Studie zur Reform des 36-Stunden-Dauerdienstsystems für Interns und Assistenzärztinnen und -ärzte
+
+[Vollständige Forschungsliste](research.html) | [Vollständige Publikationsliste](publications.html)
+
+<details>
+<summary>Gutachtertätigkeit (Peer Review)</summary>
+
+- Gutachter, International Journal for Equity in Health
+- Gutachter, BMC Public Health
+- Gutachter, Safety and Health at Work
+
+</details>
 
 ## Fachgesellschaften
 
@@ -202,22 +214,6 @@ Erwerb klinischer Erfahrung in der Primärversorgung, der Notfallmedizin und der
 - Mitglied, Healthcare and Medical Policy Division, KMA Policy Committee (Sep 2021–Aug 2023)
 - Abschluss des Advanced Course on Health Policy (Aufbaukurs Gesundheitspolitik), Korean Medical Association (May 2023–Oct 2023)
 - Abschluss der Health Policy Academy for Junior Doctors (Jan 2024–Feb 2024)
-
-</details>
-
-## Forschung und Publikationen
-
-- **Studienleiter (Principal Investigator)**, Determinanten der psychischen Gesundheit von Militärangehörigen
-- **Studienleiter (Principal Investigator)**, Studie zur Reform des 36-Stunden-Dauerdienstsystems für Interns und Assistenzärztinnen und -ärzte
-
-[Vollständige Forschungsliste](research.html) | [Vollständige Publikationsliste](publications.html)
-
-<details>
-<summary>Gutachtertätigkeit (Peer Review)</summary>
-
-- Gutachter, International Journal for Equity in Health
-- Gutachter, BMC Public Health
-- Gutachter, Safety and Health at Work
 
 </details>
 

@@ -1,7 +1,7 @@
 ---
 title: "Minku Kang"
-pagetitle: "Minku Kang — врач профилактической медицины и исследователь политики здравоохранения"
-description: "Minku Kang (강민구) — врач профилактической медицины, социальный эпидемиолог и исследователь политики здравоохранения в Сеуле."
+pagetitle: "Minku Kang — врач профилактической медицины и исследователь в области общественного здравоохранения"
+description: "Minku Kang (강민구) — врач профилактической медицины, социальный эпидемиолог и исследователь в области общественного здравоохранения в Сеуле."
 page-layout: full
 toc: false
 lang: ru
@@ -93,14 +93,6 @@ lang: ru
 <section class="mk-contact">
 <div class="mk-lbl">Контакты</div>
 <a class="mk-mail" href="mailto:kangminku.kr@gmail.com">kangminku.kr@gmail.com</a>
-<div class="mk-links">
-<a href="https://scholar.google.com/citations?user=BUn--4YAAAAJ" target="_blank">Google Scholar</a>
-<a href="https://orcid.org/0000-0002-7226-8159" target="_blank">ORCID</a>
-<a href="https://www.researchgate.net/profile/Minku-Kang-2" target="_blank">ResearchGate</a>
-<br>
-<a href="../assets/CV_Minku_Kang_2026.pdf" target="_blank">CV (PDF)</a>
-<a href="https://www.linkedin.com/in/kangminku/" target="_blank">LinkedIn</a>
-</div>
 </section>
 
 </div>

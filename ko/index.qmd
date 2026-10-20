@@ -1,7 +1,7 @@
 ---
 title: "강민구"
-pagetitle: "강민구 — 예방의학과 전문의 · 보건정책 연구자"
-description: "강민구 (Minku Kang) — 예방의학과 전문의, 사회역학·보건의료정책 연구자."
+pagetitle: "강민구 — 예방의학과 전문의 · 공중보건학 연구자"
+description: "강민구 (Minku Kang) — 예방의학과 전문의, 사회역학자, 공중보건학 연구자"
 page-layout: full
 toc: false
 lang: ko
@@ -93,15 +93,7 @@ lang: ko
 <section class="mk-contact">
 <div class="mk-lbl">연락처</div>
 <a class="mk-mail" href="mailto:kangminku.kr@gmail.com">kangminku.kr@gmail.com</a>
-<div class="mk-links">
-<a href="https://scholar.google.com/citations?user=BUn--4YAAAAJ" target="_blank">구글 학술검색</a>
-<a href="https://orcid.org/0000-0002-7226-8159" target="_blank">ORCID</a>
-<a href="https://www.researchgate.net/profile/Minku-Kang-2" target="_blank">ResearchGate</a>
-<br>
-<a href="../assets/CV_Minku_Kang_2026.pdf" target="_blank">이력서 (PDF)</a>
-<a href="https://www.linkedin.com/in/kangminku/" target="_blank">LinkedIn</a>
-</div>
-<p class="mk-more">더 보기 · <a href="interview.qmd">인터뷰</a> · <a href="life.qmd">취미생활</a></p>
+<p class="mk-more">더보기: <a href="interview.qmd">인터뷰</a>, <a href="life.qmd">취미생활</a></p>
 </section>
 
 </div>

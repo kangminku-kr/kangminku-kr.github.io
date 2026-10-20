@@ -9,23 +9,19 @@ toc-depth: 3
 
 [Descargar el CV (PDF)](../assets/CV_Minku_Kang_2026.pdf){target="_blank"}
 
-Estudié Medicina, Sociología y Economía en Korea University, y Políticas Públicas y Salud Pública en el posgrado. Investigo la salud mental en el trabajo, el trabajo, la política social y la política sanitaria, así como las instituciones y los sistemas que los rodean.
+Estudié Medicina, Sociología y Economía en Korea University, y Políticas Públicas y Salud Pública en el posgrado. Investigo la salud mental en el trabajo, el trabajo, la política social y la política sanitaria, con especial atención a las instituciones y los sistemas que los configuran.
 
 ## Áreas de interés
 
-- Salud mental en el trabajo
-- Determinantes sociales de la salud
-- Medicina comunitaria
-- Recursos humanos en salud
-- Sistemas de salud
+Salud mental en el trabajo, Determinantes sociales de la salud, Medicina comunitaria, Recursos humanos en salud, Sistemas de salud
 
 ## Formación académica
 
-- **Doctorando**, Salud Pública (política sanitaria), Korea University Graduate School, Corea
-- **MPP**, Políticas Públicas (política social), KDI School of Public Policy and Management, Corea
-- **MD**, Medicina, Korea University, Corea
-- **BA**, Sociología, Economía (mención secundaria), Korea University, Corea
 - **Bachillerato**, Escuela Secundaria de Ciencias Hansung, Corea
+- **BA**, Sociología, Economía (mención secundaria), Korea University, Corea
+- **MD**, Medicina, Korea University, Corea
+- **MPP**, Políticas Públicas (política social), KDI School of Public Policy and Management, Corea
+- **Doctorando**, Salud Pública (política sanitaria), Korea University Graduate School, Corea
 
 ## Experiencia profesional
 
@@ -110,6 +106,22 @@ Adquirí experiencia clínica en atención primaria, medicina de urgencias y cui
 - Especialidad certificada en Medicina Preventiva, Ministry of Health and Welfare, Republic of Korea
 - Especialista certificado en Geriatría, Korean Geriatrics Society
 - Especialista certificado en Medicina de la Obesidad, Korean Society for the Study of Obesity
+
+## Investigación y publicaciones
+
+- **Investigador principal**, Determinantes de la salud mental en el personal militar
+- **Investigador principal**, Estudio sobre la reforma del sistema de guardias consecutivas de 36 horas para internos y residentes médicos
+
+[Lista completa de investigaciones](research.html) | [Lista completa de publicaciones](publications.html)
+
+<details>
+<summary>Actividades de revisión por pares</summary>
+
+- Revisor, International Journal for Equity in Health
+- Revisor, BMC Public Health
+- Revisor, Safety and Health at Work
+
+</details>
 
 ## Sociedades científicas
 
@@ -202,22 +214,6 @@ Adquirí experiencia clínica en atención primaria, medicina de urgencias y cui
 - Miembro, Healthcare and Medical Policy Division, KMA Policy Committee (Sep 2021–Aug 2023)
 - Finalización del Advanced Course on Health Policy, Korean Medical Association (May 2023–Oct 2023)
 - Finalización de la Health Policy Academy for Junior Doctors (Jan 2024–Feb 2024)
-
-</details>
-
-## Investigación y publicaciones
-
-- **Investigador principal**, Determinantes de la salud mental en el personal militar
-- **Investigador principal**, Estudio sobre la reforma del sistema de guardias consecutivas de 36 horas para internos y residentes médicos
-
-[Lista completa de investigaciones](research.html) | [Lista completa de publicaciones](publications.html)
-
-<details>
-<summary>Actividades de revisión por pares</summary>
-
-- Revisor, International Journal for Equity in Health
-- Revisor, BMC Public Health
-- Revisor, Safety and Health at Work
 
 </details>
 

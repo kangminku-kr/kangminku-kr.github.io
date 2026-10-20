@@ -1,7 +1,7 @@
 ---
 title: "Minku Kang"
-pagetitle: "Minku Kang — 予防医学専門医・保健医療政策研究者"
-description: "Minku Kang（강민구）— ソウルを拠点とする予防医学専門医、社会疫学者、保健医療政策研究者。"
+pagetitle: "Minku Kang — 予防医学専門医・公衆衛生学研究者"
+description: "Minku Kang（강민구）— ソウルを拠点とする予防医学専門医、社会疫学者、公衆衛生学研究者。"
 page-layout: full
 toc: false
 lang: ja
@@ -93,14 +93,6 @@ lang: ja
 <section class="mk-contact">
 <div class="mk-lbl">連絡先</div>
 <a class="mk-mail" href="mailto:kangminku.kr@gmail.com">kangminku.kr@gmail.com</a>
-<div class="mk-links">
-<a href="https://scholar.google.com/citations?user=BUn--4YAAAAJ" target="_blank">Google Scholar</a>
-<a href="https://orcid.org/0000-0002-7226-8159" target="_blank">ORCID</a>
-<a href="https://www.researchgate.net/profile/Minku-Kang-2" target="_blank">ResearchGate</a>
-<br>
-<a href="../assets/CV_Minku_Kang_2026.pdf" target="_blank">CV（PDF）</a>
-<a href="https://www.linkedin.com/in/kangminku/" target="_blank">LinkedIn</a>
-</div>
 </section>
 
 </div>

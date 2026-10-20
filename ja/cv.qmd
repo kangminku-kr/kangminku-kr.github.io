@@ -13,19 +13,15 @@ toc-depth: 3
 
 ## 関心分野
 
-- 職域メンタルヘルス
-- 健康の社会的決定要因
-- 地域医療
-- 保健医療人材
-- 保健医療制度
+職域メンタルヘルス、健康の社会的決定要因、地域医療、保健医療人材、保健医療制度
 
 ## 学歴
 
-- **博士候補（Ph.D. candidate）**、公衆衛生学（保健医療政策）、Korea University Graduate School、韓国
-- **MPP（公共政策修士）**、公共政策（社会政策）、KDI School of Public Policy and Management、韓国
-- **MD（医学士）**、医学、Korea University、韓国
-- **BA（学士）**、社会学、経済学（副専攻）、Korea University、韓国
 - **高等学校卒業**、漢城科学高等学校、韓国
+- **BA（学士）**、社会学、経済学（副専攻）、Korea University、韓国
+- **MD（医学士）**、医学、Korea University、韓国
+- **MPP（公共政策修士）**、公共政策（社会政策）、KDI School of Public Policy and Management、韓国
+- **博士候補（Ph.D. candidate）**、公衆衛生学（保健医療政策）、Korea University Graduate School、韓国
 
 ## 職歴
 
@@ -110,6 +106,22 @@ Korea University College of Medicine のティーチングアシスタントと�
 - 予防医学専門医、Ministry of Health and Welfare
 - 老年医学認定専門医、Korean Geriatrics Society
 - 肥満医学認定専門医、Korean Society for the Study of Obesity
+
+## 研究・業績
+
+- **研究責任者（PI）**、軍人のメンタルヘルスの決定要因
+- **研究責任者（PI）**、研修医・専攻医の36時間連続勤務制度の改善に関する研究
+
+[研究の全リスト](research.html) | [論文の全リスト](publications.html)
+
+<details>
+<summary>査読活動</summary>
+
+- 査読者、International Journal for Equity in Health
+- 査読者、BMC Public Health
+- 査読者、Safety and Health at Work
+
+</details>
 
 ## 学会
 
@@ -202,22 +214,6 @@ Korea University College of Medicine のティーチングアシスタントと�
 - 委員、Healthcare and Medical Policy Division, KMA Policy Committee（Sep 2021–Aug 2023）
 - Advanced Course on Health Policy 修了、Korean Medical Association（May 2023–Oct 2023）
 - Health Policy Academy for Junior Doctors 修了（Jan 2024–Feb 2024）
-
-</details>
-
-## 研究・業績
-
-- **研究責任者（PI）**、軍人のメンタルヘルスの決定要因
-- **研究責任者（PI）**、研修医・専攻医の36時間連続勤務制度の改善に関する研究
-
-[研究の全リスト](research.html) | [論文の全リスト](publications.html)
-
-<details>
-<summary>査読活動</summary>
-
-- 査読者、International Journal for Equity in Health
-- 査読者、BMC Public Health
-- 査読者、Safety and Health at Work
 
 </details>
 

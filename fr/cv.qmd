@@ -9,23 +9,19 @@ toc-depth: 3
 
 [Télécharger le CV (PDF)](../assets/CV_Minku_Kang_2026.pdf){target="_blank"}
 
-J'ai étudié la médecine, la sociologie et l'économie à Korea University, puis les politiques publiques et la santé publique en cycle supérieur. Mes recherches portent sur la santé mentale au travail, le travail, les politiques sociales et les politiques de santé, ainsi que sur les institutions et les systèmes qui les entourent.
+J'ai étudié la médecine, la sociologie et l'économie à Korea University, puis les politiques publiques et la santé publique en cycle supérieur. Mes recherches portent sur la santé mentale au travail, le travail, les politiques sociales et les politiques de santé, en particulier sur les institutions et les systèmes qui les façonnent.
 
 ## Domaines d'intérêt
 
-- Santé mentale au travail
-- Déterminants sociaux de la santé
-- Médecine communautaire
-- Ressources humaines en santé
-- Systèmes de santé
+Santé mentale au travail, Déterminants sociaux de la santé, Médecine communautaire, Ressources humaines en santé, Systèmes de santé
 
 ## Formation
 
-- **Doctorant**, Santé publique (politiques de santé), Korea University Graduate School, Corée
-- **MPP**, Politiques publiques (politiques sociales), KDI School of Public Policy and Management, Corée
-- **MD**, Médecine, Korea University, Corée
-- **BA**, Sociologie, Économie (mineure), Korea University, Corée
 - **Diplôme d'études secondaires**, Lycée scientifique Hansung, Corée
+- **BA**, Sociologie, Économie (mineure), Korea University, Corée
+- **MD**, Médecine, Korea University, Corée
+- **MPP**, Politiques publiques (politiques sociales), KDI School of Public Policy and Management, Corée
+- **Doctorant**, Santé publique (politiques de santé), Korea University Graduate School, Corée
 
 ## Expérience professionnelle
 
@@ -110,6 +106,22 @@ Acquisition d'une expérience clinique en soins primaires, en médecine d'urgenc
 - Certification de spécialiste en médecine préventive, Ministry of Health and Welfare
 - Spécialiste certifié en gériatrie, Korean Geriatrics Society
 - Spécialiste certifié en médecine de l'obésité, Korean Society for the Study of Obesity
+
+## Recherche et publications
+
+- **Chercheur principal**, Déterminants de la santé mentale chez le personnel militaire
+- **Chercheur principal**, Étude sur la réforme du système de gardes de 36 heures consécutives pour les internes et résidents
+
+[Liste complète des recherches](research.html) | [Liste complète des publications](publications.html)
+
+<details>
+<summary>Activités de relecture (peer review)</summary>
+
+- Relecteur, International Journal for Equity in Health
+- Relecteur, BMC Public Health
+- Relecteur, Safety and Health at Work
+
+</details>
 
 ## Sociétés savantes
 
@@ -202,22 +214,6 @@ Acquisition d'une expérience clinique en soins primaires, en médecine d'urgenc
 - Membre, Healthcare and Medical Policy Division, KMA Policy Committee (Sep 2021–Aug 2023)
 - Achèvement du cursus supérieur en politique de santé (Advanced Course on Health Policy), Korean Medical Association (May 2023–Oct 2023)
 - Achèvement de la Health Policy Academy for Junior Doctors (Jan 2024–Feb 2024)
-
-</details>
-
-## Recherche et publications
-
-- **Chercheur principal**, Déterminants de la santé mentale chez le personnel militaire
-- **Chercheur principal**, Étude sur la réforme du système de gardes de 36 heures consécutives pour les internes et résidents
-
-[Liste complète des recherches](research.html) | [Liste complète des publications](publications.html)
-
-<details>
-<summary>Activités de relecture (peer review)</summary>
-
-- Relecteur, International Journal for Equity in Health
-- Relecteur, BMC Public Health
-- Relecteur, Safety and Health at Work
 
 </details>
 

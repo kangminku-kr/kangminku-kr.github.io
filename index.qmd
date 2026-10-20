@@ -1,7 +1,7 @@
 ---
 title: "Minku Kang"
-pagetitle: "Minku Kang — Preventive medicine physician & health-policy researcher"
-description: "Minku Kang (강민구) — preventive medicine physician, social epidemiologist, and health-policy researcher in Seoul."
+pagetitle: "Minku Kang — Preventive medicine physician & public health researcher"
+description: "Minku Kang (강민구) — preventive medicine physician, social epidemiologist, and public health researcher in Seoul."
 page-layout: full
 toc: false
 ---
@@ -92,14 +92,6 @@ toc: false
 <section class="mk-contact">
 <div class="mk-lbl">Contact</div>
 <a class="mk-mail" href="mailto:kangminku.kr@gmail.com">kangminku.kr@gmail.com</a>
-<div class="mk-links">
-<a href="https://scholar.google.com/citations?user=BUn--4YAAAAJ" target="_blank">Google Scholar</a>
-<a href="https://orcid.org/0000-0002-7226-8159" target="_blank">ORCID</a>
-<a href="https://www.researchgate.net/profile/Minku-Kang-2" target="_blank">ResearchGate</a>
-<br>
-<a href="assets/CV_Minku_Kang_2026.pdf" target="_blank">Curriculum Vitae (PDF)</a>
-<a href="https://www.linkedin.com/in/kangminku/" target="_blank">LinkedIn</a>
-</div>
 </section>
 
 </div>
