@@ -46,14 +46,11 @@ lang: fr
 <li>Président du Future Generations Committee, Korean Society for Preventive Medicine</li>
 <li>Vice-président, Korean Association of Preventive Medicine Physicians</li>
 <li>Membre du conseil d'administration, Korean Society of Occupational Stress</li>
-<li>Ancien membre, Medical Residency Training Environment Evaluation Committee, Ministry of Health and Welfare</li>
-<li>Ancien membre expert, Subcommittee on Physician Workforce, Healthcare Policy Deliberation Committee, Ministry of Health and Welfare</li>
-<li>Ancien président, Korean Intern Resident Association</li>
-<li>Ancien conseiller politique, Korean Intern Resident Association</li>
+<li>Ancien membre, Medical Residency Training Environment Evaluation Committee ; membre expert, Subcommittee on Physician Workforce, Healthcare Policy Deliberation Committee, Ministry of Health and Welfare</li>
+<li>Ancien président et conseiller politique, Korean Intern Resident Association</li>
 <li>Ancien directeur des politiques, Korean Medical Association</li>
 <li>Ancien membre de la délégation coréenne, World Medical Association – Junior Doctors Network (WMA-JDN)</li>
-<li>Ancien vice-président, Korea University Undergraduate Student Union</li>
-<li>Ancien membre, Tuition Review Committee, Korea University</li>
+<li>Ancien vice-président, Korea University Undergraduate Student Union ; membre, Tuition Review Committee, Korea University</li>
 </ul>
 <h3>Distinctions</h3>
 <ul>
