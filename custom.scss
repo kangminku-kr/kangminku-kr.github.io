@@ -456,7 +456,7 @@ main.content li > strong:first-child,
   /* 한 틀(최대 1280px) 안에 내비, 프로필 기둥, 본문, 목차, 꼬리말을 맞춘다(2026-10-20 본부장: 브랜드와 사진의 왼쪽 정렬).
      틀 왼쪽 = 내비 브랜드 = 프로필 사진, 틀 오른쪽 = 마지막 메뉴 = 목차 끝.
      Quarto 기본 격자는 좌우 5fr 여백으로 본문을 가운데 두므로, 기둥이 있을 때는 열 이름을 유지한 채 격자를 다시 정의한다. */
-  body.mk-has-side .navbar{ padding-left:0; padding-right:0; } /* 부트스트랩 navbar의 좌우 16px 패딩이 틀을 밀어 1200px 부근에서 브랜드가 사진보다 17px 오른쪽에 섰다 */
+  body.mk-has-side .navbar, body.mk-has-side #quarto-header .navbar{ padding-left:0!important; padding-right:0!important; } /* 부트스트랩 navbar의 좌우 16px 패딩이 틀을 밀어 1200px 부근에서 브랜드가 사진보다 17px 오른쪽에 섰다 */
   body.mk-has-side .navbar > .container-fluid{ max-width:1280px; width:calc(100% - 48px); padding-left:0; padding-right:0; }
   body.mk-has-side .navbar .navbar-brand-container,
   body.mk-has-side .navbar .navbar-brand{ margin-left:0!important; padding-left:0!important; }
