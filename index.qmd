@@ -47,6 +47,7 @@ toc: false
 <li>Board Member, Korean Society of Occupational Stress</li>
 <li>Former Member, Medical Residency Training Environment Evaluation Committee, Ministry of Health and Welfare</li>
 <li>Former Expert Member, Subcommittee on Physician Workforce, Healthcare Policy Deliberation Committee, Ministry of Health and Welfare</li>
+<li>Former Member, Consultative Body for Improving the Physician Assistant System, Ministry of Health and Welfare</li>
 <li>Former President and Policy Advisor, Korean Intern Resident Association</li>
 <li>Former Director of Policy, Korean Medical Association</li>
 <li>Former Korean Delegation Member, World Medical Association – Junior Doctors Network (WMA-JDN)</li>

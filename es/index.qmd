@@ -48,6 +48,7 @@ lang: es
 <li>Miembro de la junta directiva, Korean Society of Occupational Stress</li>
 <li>Exmiembro, Medical Residency Training Environment Evaluation Committee, Ministry of Health and Welfare</li>
 <li>Exmiembro experto, Subcommittee on Physician Workforce, Healthcare Policy Deliberation Committee, Ministry of Health and Welfare</li>
+<li>Exmiembro, Consultative Body for Improving the Physician Assistant System, Ministry of Health and Welfare</li>
 <li>Expresidente y asesor de políticas, Korean Intern Resident Association</li>
 <li>Exdirector de Políticas, Korean Medical Association</li>
 <li>Exmiembro de la delegación coreana, World Medical Association – Junior Doctors Network (WMA-JDN)</li>

@@ -48,6 +48,7 @@ lang: ru
 <li>Член правления, Korean Society of Occupational Stress</li>
 <li>Бывший член, Medical Residency Training Environment Evaluation Committee, Ministry of Health and Welfare</li>
 <li>Бывший член-эксперт, Subcommittee on Physician Workforce, Healthcare Policy Deliberation Committee, Ministry of Health and Welfare</li>
+<li>Бывший член, Consultative Body for Improving the Physician Assistant System, Ministry of Health and Welfare</li>
 <li>Бывший президент и советник по политике, Korean Intern Resident Association</li>
 <li>Бывший директор по политике, Korean Medical Association</li>
 <li>Бывший член корейской делегации, World Medical Association – Junior Doctors Network (WMA-JDN)</li>
