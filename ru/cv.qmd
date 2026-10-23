@@ -79,12 +79,16 @@ toc-depth: 3
 <details class="mk-entry mk-bullet">
 <summary>Врач-интерн, Korea University Medical Center (Mar 2020–Feb 2021)</summary>
 
+**Основные обязанности**
+
 Приобрёл клинический опыт в первичной медико-санитарной помощи, неотложной медицине и послеоперационном уходе.
 
 </details>
 
 <details class="mk-entry mk-bullet">
 <summary>Врач-ординатор (профилактическая медицина), Korea University Medical Center (Mar 2021–Feb 2024)</summary>
+
+**Основные обязанности**
 
 **1. Практика в области профилактической медицины и общественного здравоохранения**
 
@@ -259,12 +263,12 @@ toc-depth: 3
 
 - **Nov 2026**. Докладчик (тезисы поданы), «Экстремальные режимы работы и психическое здоровье молодых врачей в Южной Корее: общенациональное поперечное исследование недельной продолжительности работы, дежурств продолжительностью 24 часа и более и сна во время дежурств», 76th Fall Academic Conference, Korean Society of Occupational and Environmental Medicine.
 - **Nov 2026**. Докладчик (тезисы поданы), «Рабочее время, сменная работа и депрессия среди военнослужащих Вооружённых сил Республики Корея: повторный поперечный анализ Military Health Survey, 2023–2025», 76th Fall Academic Conference, Korean Society of Occupational and Environmental Medicine.
-- **Oct 2026**. Докладчик (запланировано), «Рабочее время, сменная работа и депрессия среди военнослужащих Вооружённых сил Республики Корея: повторный поперечный анализ Military Health Survey, 2023–2025», 78th Fall Academic Conference, Korean Society for Preventive Medicine.
-- **Oct 2026**. Докладчик (запланировано), «Первые результаты опроса ординаторов и специалистов о восприятии программы подготовки», 78th Fall Academic Conference, Korean Society for Preventive Medicine.
-- **Oct 2026**. Докладчик (запланировано), «Чьи долгие часы? Неустойчивая занятость как модификатор связи между продолжительностью рабочего времени и депрессией в когорте корейских работников», 78th Fall Academic Conference, Korean Society for Preventive Medicine.
-- **Oct 2026**. Дискуссант (запланировано), «Производство знаний и обмен ими в цифровую эпоху», 78th Fall Academic Conference, Korean Society for Preventive Medicine.
-- **Oct 2026**. Докладчик (запланировано), «Экстремальные режимы работы и психическое здоровье молодых врачей в Южной Корее: общенациональное поперечное исследование недельной продолжительности работы, дежурств продолжительностью 24 часа и более и сна во время дежурств», 78th Fall Academic Conference, Korean Society for Preventive Medicine.
-- **Oct 2026**. Дискуссант (запланировано), «Применение препаратов для лечения ожирения в профилактике заболеваний и укреплении здоровья: доказательная база и направления политики по включению терапии GLP-1 в страховое покрытие», 78th Fall Academic Conference, Korean Society for Preventive Medicine.
+- **Oct 2026**. Докладчик, «Рабочее время, сменная работа и депрессия среди военнослужащих Вооружённых сил Республики Корея: повторный поперечный анализ Military Health Survey, 2023–2025», 78th Fall Academic Conference, Korean Society for Preventive Medicine.
+- **Oct 2026**. Докладчик, «Первые результаты опроса ординаторов и специалистов о восприятии программы подготовки», 78th Fall Academic Conference, Korean Society for Preventive Medicine.
+- **Oct 2026**. Докладчик, «Чьи долгие часы? Неустойчивая занятость как модификатор связи между продолжительностью рабочего времени и депрессией в когорте корейских работников», 78th Fall Academic Conference, Korean Society for Preventive Medicine.
+- **Oct 2026**. Дискуссант, «Производство знаний и обмен ими в цифровую эпоху», 78th Fall Academic Conference, Korean Society for Preventive Medicine.
+- **Oct 2026**. Докладчик, «Экстремальные режимы работы и психическое здоровье молодых врачей в Южной Корее: общенациональное поперечное исследование недельной продолжительности работы, дежурств продолжительностью 24 часа и более и сна во время дежурств», 78th Fall Academic Conference, Korean Society for Preventive Medicine.
+- **Oct 2026**. Дискуссант, «Применение препаратов для лечения ожирения в профилактике заболеваний и укреплении здоровья: доказательная база и направления политики по включению терапии GLP-1 в страховое покрытие», 78th Fall Academic Conference, Korean Society for Preventive Medicine.
 - **Sep 2026**. Докладчик (устный доклад), «Введение в исследования по усилению потенциала реагирования на инфекционные заболевания и управления ими в вооружённых силах», 57th Conference on Military Medicine.
 - **Sep 2026**. Докладчик (устный доклад), «Детерминанты психического здоровья военнослужащих», 57th Conference on Military Medicine.
 - **Aug 2026**. Приглашённый докладчик, «Рабочее время, сменная работа в разных профессиях и психическое здоровье: эпидемиологическое исследование (обобщение трёх исследований)», Seminar on Expanding the National Bio Big Data: Environmental Exposure and Occupational Health Research (Department of Preventive Medicine, Yonsei University College of Medicine).

@@ -79,12 +79,16 @@ toc-depth: 3
 <details class="mk-entry mk-bullet">
 <summary>インターン（研修医）、Korea University Medical Center（Mar 2020–Feb 2021）</summary>
 
+**主な業務**
+
 プライマリケア、救急医療、術後管理にわたる臨床経験を積んだ。
 
 </details>
 
 <details class="mk-entry mk-bullet">
 <summary>専攻医（予防医学）、Korea University Medical Center（Mar 2021–Feb 2024）</summary>
+
+**主な業務**
 
 **1. 予防医学・公衆衛生実務**
 
@@ -259,12 +263,12 @@ Korea University College of Medicine のティーチングアシスタントと�
 
 - **Nov 2026**. 発表（抄録提出）、「韓国の若手医師における極端な勤務形態とメンタルヘルス：週労働時間、24時間以上の連続勤務、当直中の睡眠に関する全国横断研究」、76th Fall Academic Conference, Korean Society of Occupational and Environmental Medicine
 - **Nov 2026**. 発表（抄録提出）、「韓国軍人における労働時間、交代勤務と抑うつ：Military Health Survey（2023–2025）の反復横断分析」、76th Fall Academic Conference, Korean Society of Occupational and Environmental Medicine
-- **Oct 2026**. 発表（予定）、「韓国軍人における労働時間、交代勤務と抑うつ：Military Health Survey（2023–2025）の反復横断分析」、78th Fall Academic Conference, Korean Society for Preventive Medicine
-- **Oct 2026**. 発表（予定）、「専攻医および専門医を対象とした研修カリキュラム認識調査の初期分析結果」、78th Fall Academic Conference, Korean Society for Preventive Medicine
-- **Oct 2026**. 発表（予定）、「誰の長時間労働か？韓国の労働者コホートにおける労働時間と抑うつの関連に対する不安定雇用の効果修飾」、78th Fall Academic Conference, Korean Society for Preventive Medicine
-- **Oct 2026**. 討論者（予定）、「デジタル時代の知識の生産と共有」、78th Fall Academic Conference, Korean Society for Preventive Medicine
-- **Oct 2026**. 発表（予定）、「韓国の若手医師における極端な勤務形態とメンタルヘルス：週労働時間、24時間以上の連続勤務、当直中の睡眠に関する全国横断研究」、78th Fall Academic Conference, Korean Society for Preventive Medicine
-- **Oct 2026**. 討論者（予定）、「肥満治療薬の疾病予防と健康増進への活用方策：GLP-1の保険給付化の根拠と政策方向」、78th Fall Academic Conference, Korean Society for Preventive Medicine
+- **Oct 2026**. 発表、「韓国軍人における労働時間、交代勤務と抑うつ：Military Health Survey（2023–2025）の反復横断分析」、78th Fall Academic Conference, Korean Society for Preventive Medicine
+- **Oct 2026**. 発表、「専攻医および専門医を対象とした研修カリキュラム認識調査の初期分析結果」、78th Fall Academic Conference, Korean Society for Preventive Medicine
+- **Oct 2026**. 発表、「誰の長時間労働か？韓国の労働者コホートにおける労働時間と抑うつの関連に対する不安定雇用の効果修飾」、78th Fall Academic Conference, Korean Society for Preventive Medicine
+- **Oct 2026**. 討論者、「デジタル時代の知識の生産と共有」、78th Fall Academic Conference, Korean Society for Preventive Medicine
+- **Oct 2026**. 発表、「韓国の若手医師における極端な勤務形態とメンタルヘルス：週労働時間、24時間以上の連続勤務、当直中の睡眠に関する全国横断研究」、78th Fall Academic Conference, Korean Society for Preventive Medicine
+- **Oct 2026**. 討論者、「肥満治療薬の疾病予防と健康増進への活用方策：GLP-1の保険給付化の根拠と政策方向」、78th Fall Academic Conference, Korean Society for Preventive Medicine
 - **Sep 2026**. 口演発表、「軍感染症の対応・管理能力強化に関する研究の紹介」、57th Conference on Military Medicine
 - **Sep 2026**. 口演発表、「軍人のメンタルヘルスの決定要因」、57th Conference on Military Medicine
 - **Aug 2026**. 招待講演、「労働者の職種別労働時間・交代勤務とメンタルヘルスの疫学研究（論文3編の統合）」、Seminar on Expanding the National Bio Big Data: Environmental Exposure and Occupational Health Research (Department of Preventive Medicine, Yonsei University College of Medicine)

@@ -79,12 +79,16 @@ Médico del trabajo, Gyeonggido Office of Education (Oct 2026–)
 <details class="mk-entry mk-bullet">
 <summary>Médico interno, Korea University Medical Center (Mar 2020–Feb 2021)</summary>
 
+**Responsabilidades principales**
+
 Adquirí experiencia clínica en atención primaria, medicina de urgencias y cuidados posoperatorios.
 
 </details>
 
 <details class="mk-entry mk-bullet">
 <summary>Médico residente (Medicina Preventiva), Korea University Medical Center (Mar 2021–Feb 2024)</summary>
+
+**Responsabilidades principales**
 
 **1. Práctica en medicina preventiva y salud pública**
 
@@ -259,12 +263,12 @@ Como profesor ayudante en la Korea University College of Medicine, apoyo la doce
 
 - **Nov 2026**. Ponente (resumen enviado), «Horarios de trabajo extremos y salud mental en médicos jóvenes de Corea del Sur: estudio transversal nacional de las horas semanales, las guardias consecutivas de 24 horas o más y el sueño durante las guardias», 76th Fall Academic Conference, Korean Society of Occupational and Environmental Medicine.
 - **Nov 2026**. Ponente (resumen enviado), «Horas de trabajo, trabajo por turnos y depresión en el personal de las Fuerzas Armadas de la República de Corea: análisis transversal repetido de la Military Health Survey, 2023–2025», 76th Fall Academic Conference, Korean Society of Occupational and Environmental Medicine.
-- **Oct 2026**. Ponente (previsto), «Horas de trabajo, trabajo por turnos y depresión en el personal de las Fuerzas Armadas de la República de Corea: análisis transversal repetido de la Military Health Survey, 2023–2025», 78th Fall Academic Conference, Korean Society for Preventive Medicine.
-- **Oct 2026**. Ponente (previsto), «Resultados iniciales de una encuesta sobre la percepción del programa de formación entre residentes y especialistas», 78th Fall Academic Conference, Korean Society for Preventive Medicine.
-- **Oct 2026**. Ponente (previsto), «¿Las largas jornadas de quién? El empleo precario como modificador de la asociación entre horas de trabajo y depresión en una cohorte de trabajadores coreanos», 78th Fall Academic Conference, Korean Society for Preventive Medicine.
-- **Oct 2026**. Comentarista (previsto), «Producción y difusión del conocimiento en la era digital», 78th Fall Academic Conference, Korean Society for Preventive Medicine.
-- **Oct 2026**. Ponente (previsto), «Horarios de trabajo extremos y salud mental en médicos jóvenes de Corea del Sur: estudio transversal nacional de las horas semanales, las guardias consecutivas de 24 horas o más y el sueño durante las guardias», 78th Fall Academic Conference, Korean Society for Preventive Medicine.
-- **Oct 2026**. Comentarista (previsto), «Uso de fármacos contra la obesidad para la prevención de enfermedades y la promoción de la salud: evidencia y orientaciones políticas para la financiación de las terapias con GLP-1», 78th Fall Academic Conference, Korean Society for Preventive Medicine.
+- **Oct 2026**. Ponente, «Horas de trabajo, trabajo por turnos y depresión en el personal de las Fuerzas Armadas de la República de Corea: análisis transversal repetido de la Military Health Survey, 2023–2025», 78th Fall Academic Conference, Korean Society for Preventive Medicine.
+- **Oct 2026**. Ponente, «Resultados iniciales de una encuesta sobre la percepción del programa de formación entre residentes y especialistas», 78th Fall Academic Conference, Korean Society for Preventive Medicine.
+- **Oct 2026**. Ponente, «¿Las largas jornadas de quién? El empleo precario como modificador de la asociación entre horas de trabajo y depresión en una cohorte de trabajadores coreanos», 78th Fall Academic Conference, Korean Society for Preventive Medicine.
+- **Oct 2026**. Comentarista, «Producción y difusión del conocimiento en la era digital», 78th Fall Academic Conference, Korean Society for Preventive Medicine.
+- **Oct 2026**. Ponente, «Horarios de trabajo extremos y salud mental en médicos jóvenes de Corea del Sur: estudio transversal nacional de las horas semanales, las guardias consecutivas de 24 horas o más y el sueño durante las guardias», 78th Fall Academic Conference, Korean Society for Preventive Medicine.
+- **Oct 2026**. Comentarista, «Uso de fármacos contra la obesidad para la prevención de enfermedades y la promoción de la salud: evidencia y orientaciones políticas para la financiación de las terapias con GLP-1», 78th Fall Academic Conference, Korean Society for Preventive Medicine.
 - **Sep 2026**. Ponente (comunicación oral), «Introducción a la investigación sobre el fortalecimiento de la capacidad de respuesta y gestión frente a enfermedades infecciosas en el ámbito militar», 57th Conference on Military Medicine.
 - **Sep 2026**. Ponente (comunicación oral), «Determinantes de la salud mental en el personal militar», 57th Conference on Military Medicine.
 - **Aug 2026**. Ponente invitado, «Las horas de trabajo, el trabajo por turnos según la ocupación y la salud mental: un estudio epidemiológico (compilación de tres estudios)», Seminar on Expanding the National Bio Big Data: Environmental Exposure and Occupational Health Research (Department of Preventive Medicine, Yonsei University College of Medicine).
