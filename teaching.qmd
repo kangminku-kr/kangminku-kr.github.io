@@ -32,8 +32,8 @@ toc-depth: 2
 - **Public Mental Health, Social Determinants, Health Policy** — graduate course
 - **Occupational Stress and Workplace Mental Health** — graduate course
 - **Comparative Health Systems and Introduction to Health Politics** — graduate course
-- **Korean Healthcare Policy 101 Seminar** — graduate seminar, 16-week.
-  *Target:* healthcare-related graduate students & professionals.
+- **Korean Healthcare Policy 101 Seminar** — graduate seminar, 16-week.\
+  *Target:* healthcare-related graduate students & professionals.\
   *Highlights:* origins of Korea's health system, national health insurance & long-term care, primary care & chronic disease management, essential medical services, public health & health inequalities, public mental health, disaster response, health workforce policy, and the legislative policy process.
 - **Preventive Medicine and Public Health** — undergraduate major course (Medicine)
 - **Social Determinants of Health** — undergraduate liberal-arts course
