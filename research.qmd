@@ -28,7 +28,7 @@ toc-depth: 2
 ## Co-Investigator
 
 - **A Study on Restructuring the Residency Training Environment Evaluation System toward Program- and Outcome-Based Assessment in Korea**
-  - Korean Hospital Association (KHA) — **2026**
+  - Korean Hospital Association (KHA) — **2026–2027**
 - **Changes in Medical Utilization at Military Hospitals Following the 2024 Healthcare Crisis**
   - Armed Forces Medical Command (MND) — **2026**
 - **Analysis of Healthcare Utilization of Military Personnel in Military and Civilian Hospitals**

@@ -30,7 +30,7 @@ toc-depth: 2
 ## 共同研究者
 
 - **研修の質向上に向けた研修環境評価の改編方策に関する研究**
-  - Korean Hospital Association (KHA) — **2026**
+  - Korean Hospital Association (KHA) — **2026–2027**
 - **2024年の医療危機以降の軍病院における医療利用の変化**
   - Armed Forces Medical Command (MND) — **2026**
 - **軍病院および民間病院における軍人の医療利用の分析**

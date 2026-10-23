@@ -29,7 +29,7 @@ toc-depth: 2
 ## Coinvestigador
 
 - **Estudio sobre la reestructuración del sistema de evaluación del entorno de formación de residentes hacia una evaluación basada en programas y resultados en Corea**
-  - Korean Hospital Association (KHA) — **2026**
+  - Korean Hospital Association (KHA) — **2026–2027**
 - **Cambios en la utilización de servicios médicos en los hospitales militares tras la crisis sanitaria de 2024**
   - Armed Forces Medical Command (MND) — **2026**
 - **Análisis de la utilización de servicios sanitarios del personal militar en hospitales militares y civiles**
