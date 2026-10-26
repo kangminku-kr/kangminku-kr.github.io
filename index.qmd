@@ -29,7 +29,7 @@ toc: false
 <li>Hansung Science High School</li>
 <li>MD and BA, Medicine, Sociology, Economics (Minor), Korea University</li>
 <li>MPP, Public Policy (Social Policy, Industrial Policy), KDI School of Public Policy and Management</li>
-<li>PhD in Public Health (Health Policy), Korea University Graduate School</li>
+<li>PhD in Public Health (Health Policy and Management), Korea University Graduate School</li>
 </ul>
 <h3>Positions</h3>
 <ul>

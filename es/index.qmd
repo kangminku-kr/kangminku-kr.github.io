@@ -30,7 +30,7 @@ lang: es
 <li>Escuela Secundaria de Ciencias Hansung</li>
 <li>Licenciatura y grado: Medicina, Sociología, Economía (mención), Korea University</li>
 <li>Máster en Políticas Públicas (política social, política industrial), KDI School of Public Policy and Management</li>
-<li>Doctorado en Salud Pública (política sanitaria), Korea University Graduate School</li>
+<li>Doctorado en Salud Pública (política y gestión sanitaria), Korea University Graduate School</li>
 </ul>
 <h3>Trayectoria</h3>
 <ul>
