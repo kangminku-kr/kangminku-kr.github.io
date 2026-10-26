@@ -29,7 +29,7 @@ lang: de
 <ul>
 <li>Hansung Science High School</li>
 <li>Medizinstudium und Bachelor: Medizin, Soziologie, Volkswirtschaftslehre (Nebenfach), Korea University</li>
-<li>Master of Public Policy (Schwerpunkt Sozialpolitik), KDI School of Public Policy and Management</li>
+<li>Master of Public Policy (Schwerpunkte Sozialpolitik, Industriepolitik), KDI School of Public Policy and Management</li>
 <li>PhD (Public Health, Schwerpunkt Gesundheitspolitik), Korea University Graduate School</li>
 </ul>
 <h3>Positionen</h3>

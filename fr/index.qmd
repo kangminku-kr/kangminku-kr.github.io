@@ -29,7 +29,7 @@ lang: fr
 <ul>
 <li>Lycée scientifique Hansung</li>
 <li>Doctorat en médecine et licence : médecine, sociologie, économie (mineure), Korea University</li>
-<li>Master en politiques publiques (politiques sociales), KDI School of Public Policy and Management</li>
+<li>Master en politiques publiques (politiques sociales, politiques industrielles), KDI School of Public Policy and Management</li>
 <li>Doctorat en santé publique (politiques de santé), Korea University Graduate School</li>
 </ul>
 <h3>Fonctions</h3>
