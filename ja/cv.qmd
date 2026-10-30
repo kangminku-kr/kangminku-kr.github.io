@@ -261,57 +261,71 @@ Korea University College of Medicine のティーチングアシスタントと�
 <details>
 <summary>全リスト</summary>
 
+### 1. 学会・セミナー発表
+
 - **Nov 2026**. ポスター発表、「韓国の若手医師における極端な勤務形態とメンタルヘルス：週労働時間、24時間以上の連続勤務、当直中の睡眠に関する全国横断研究」、76th Fall Academic Conference, Korean Society of Occupational and Environmental Medicine
 - **Nov 2026**. ポスター発表、「韓国軍人における労働時間、交代勤務と抑うつ：Military Health Survey（2023–2025）の反復横断分析」、76th Fall Academic Conference, Korean Society of Occupational and Environmental Medicine
 - **Oct 2026**. 発表、「韓国軍人における労働時間、交代勤務と抑うつ：Military Health Survey（2023–2025）の反復横断分析」、78th Fall Academic Conference, Korean Society for Preventive Medicine
 - **Oct 2026**. 発表、「専攻医および専門医を対象とした研修カリキュラム認識調査の初期分析結果」、78th Fall Academic Conference, Korean Society for Preventive Medicine
 - **Oct 2026**. 発表、「誰の長時間労働か？韓国の労働者コホートにおける労働時間と抑うつの関連に対する不安定雇用の効果修飾」、78th Fall Academic Conference, Korean Society for Preventive Medicine
-- **Oct 2026**. 討論者、「デジタル時代の知識の生産と共有」、78th Fall Academic Conference, Korean Society for Preventive Medicine
 - **Oct 2026**. 発表、「韓国の若手医師における極端な勤務形態とメンタルヘルス：週労働時間、24時間以上の連続勤務、当直中の睡眠に関する全国横断研究」、78th Fall Academic Conference, Korean Society for Preventive Medicine
-- **Oct 2026**. 討論者、「肥満治療薬の疾病予防と健康増進への活用方策：GLP-1の保険給付化の根拠と政策方向」、78th Fall Academic Conference, Korean Society for Preventive Medicine
 - **Sep 2026**. 口演発表、「軍感染症の対応・管理能力強化に関する研究の紹介」、57th Conference on Military Medicine
 - **Sep 2026**. 口演発表、「軍人のメンタルヘルスの決定要因」、57th Conference on Military Medicine
 - **Aug 2026**. 招待講演、「労働者の職種別労働時間・交代勤務とメンタルヘルスの疫学研究（論文3編の統合）」、Seminar on Expanding the National Bio Big Data: Environmental Exposure and Occupational Health Research (Department of Preventive Medicine, Yonsei University College of Medicine)
-- **Jun 2026**. 討論者、「診療支援専従人材（Physician Assistant）の制度化と医療体制の再編：専攻医研修環境の改善と患者安全の確保を中心に」、Academic Conference, Korean Society for Quality in Health Care
 - **May 2026**. ポスター発表、「韓国軍人における労働時間とうつの関連：Military Health Survey（2023–2025）の反復横断分析」、2026 Spring Conference of the Korean Society for Equity in Health
 - **Apr 2026**. 口演発表、「韓国の専攻医における極端な労働・抑うつ症状・自殺念慮：労働時間・連続勤務・当直中の睡眠剥奪を中心に」、2026 Spring Conference of the Academy of Critical Health Policy
-- **Apr 2026**. 講師、「現行インターン制度の問題点と改革方向」、Korean Healthcare Policy School
-- **Feb 2026**. 討論者、「専攻医の健康権確保および研修環境改善のための国会討論会」、Lee Soo-jin 議員 主催の国会討論会
-- **Dec 2025**. 討論者、「Healthcare Workforce Shortage」、ETHOS (Ethics in a World of Emerging Technologies) 7.0
-- **Nov 2025**. 講師、「専攻医の復帰後：専攻医の労働環境改善政策はどこへ向かうべきか」、42nd Online Comprehensive Academic Conference, Korean Medical Association
-- **Nov 2025**. 討論者、「質向上の観点から見た専攻医研修と Physician Assistant による診療支援看護業務の合理的な調和」、Fall Academic Conference, Korean Society for Quality in Health Care
 - **Oct 2025**. 口演発表、「Korean Association of Preventive Medicine Physicians 設立のための準備調査：予防医学専門医は今どこに立っているのか」、77th Fall Academic Conference, Korean Society for Preventive Medicine
 - **Oct 2025**. 口演発表、「Complex Associations between Alcohol Use and Suicidal Ideation in South Korea: Cross-sectional and Longitudinal Analyses of a National Panel, 2011–2022」、77th Fall Academic Conference, Korean Society for Preventive Medicine
-- **Feb 2025**. 講師、「天然痘（痘瘡）予防接種の概要」、Korea Armed Forces Nursing Academy
-- **Oct 2024**. 講師、「天然痘（痘瘡）予防接種の概要」、Armed Forces Medical Research Institute
-- **Dec 2023**. 討論者、「医学部定員に関する連続フォーラム：医学部入学定員の拡大、理工系人材の流出加速、人材需給の不均衡、そして医師科学者養成の代案」、Shin Hyun-young 議員 主催の国会討論会
 - **Nov 2023**. ポスター発表、「The Unequal Impact of the COVID-19 Pandemic: Case Fatality in Residents of Long-term Care Facilities and Community Dwellers, Korea」、APHA 2023 Annual Meeting and Expo
-- **Nov 2023**. 討論者、Physician Assistant セッション、Fall Academic Conference, Korean Academy of Health Policy and Management
-- **Nov 2023**. 討論者、ポスト COVID-19 セッション、Fall Academic Conference, Korean Academy of Health Policy and Management
-- **Nov 2023**. 発表、「専攻医勤務時間規制の改革方向」、Subcommittee on Physician Workforce, Healthcare Policy Deliberation Committee, Ministry of Health and Welfare
 - **Oct 2023**. 口演発表、「COVID-19パンデミック下のメンタルヘルスにおけるジェンダー不平等：都市部と非都市部の差異」、3rd Joint Academic Conference of Five Academic Societies on Identifying and Reducing Regional Health Inequalities
-- **Sep 2023**. 発表、「専攻医研修制度の改革方向」、Taskforce on Residency Training System Reform, Ministry of Health and Welfare
-- **Aug 2023**. 討論者、「病床資源の適正管理と首都圏大学病院分院設立への対応に関するフォーラム」、Lee Jong-sung 議員 主催の国会討論会
 - **Jul 2023**. 口演発表、「COVID-19と健康格差」、Preventive Medicine Grand Rounds, Department of Preventive Medicine, Korea University College of Medicine
-- **Jul 2023**. 発表、「Physician Assistant（PA）制度に関する主要政策課題」、Consultative Body for Improving the Physician Assistant System, Ministry of Health and Welfare
-- **Jul 2023**. 討論者、「保健医療の懸案に関する連続フォーラム：保健医療専門職の協力を通じた市民の健康向上」、Shin Hyun-young 議員 主催の国会討論会
-- **Jul 2023**. 討論者、「若手医師が診断する韓国医療とその解決策」、Young Doctors Roundtable Special
-- **Jun 2023**. 討論者、「必須医療支援政策の問題点と韓国型代案の模索」、Academic Conference, Korean Academy of Medical Sciences
-- **Jun 2023**. 座長、「専攻医研修の現在と未来：36時間連続勤務を中心に」、Academic Conference, Korean Academy of Medical Sciences
-- **Jun 2023**. 討論者、「保健医療の懸案に関する連続フォーラム：医療脆弱地域における医師供給」、Shin Hyun-young 議員 主催の国会討論会
-- **May 2023**. 討論者、「韓国の医師人材政策はどこへ向かうべきか」、Spring Academic Conference, Korean Academy of Health Policy and Management
-- **Apr 2023**. 発表、「専攻医の労働時間短縮と連続勤務の24時間制限」、Shin Hyun-young 議員 主催の国会討論会
-- **Mar 2023**. 討論者、「少子化克服のための小児必須医療体制強化の必要性」、Baek Jong-heon 議員 主催の国会討論会
-- **Feb 2023**. 講師、「初期キャリア医師の進路選択」、Korean Medical Association
-- **Jan 2023**. 発表、「医療一元化」、KMA Policy Workshop, Korean Medical Association
-- **Dec 2022**. 討論者、「医師科学者養成のための医学部教育課程の改編」、Shin Hyun-young 議員・Cho Myung-hee 議員 主催の国会討論会
-- **Dec 2022**. 討論者、「新年座談会：必須医療の緊急診断と健康保険財政健全化の方策」、Medical Times
 - **Oct 2022**. ポスター発表、「Health Inequalities in Cardiovascular Diseases Morbidity and Mortality: 10-year National Representative Cohort Follow-up Study」、74th Fall Academic Conference, Korean Society for Preventive Medicine
-- **Oct 2022**. 発表、「専攻医の労働時間短縮と連続勤務の24時間制限」、World Medical Association – Junior Doctors Network (WMA-JDN)
-- **Sep 2022**. 討論者、「Yoon Suk Yeol 政権の必須医療強化政策はどこへ向かうべきか」、K-HOSPITAL FAIR
 - **Dec 2021**. 口演発表、「福祉国家、社会政策、そして健康」、Preventive Medicine Grand Rounds, Department of Preventive Medicine, Korea University College of Medicine
 - **Oct 2021**. 口演発表、「COVID-19 and Mental Health: Inequalities by Age, Gender, and Region Using Nationwide Data from 2015–2020」、73rd Fall Academic Conference, Korean Society for Preventive Medicine
-- **May 2015**. 討論者、「20代の若者の住宅問題改善に関するフォーラム」、Euljiro Committee, Democratic Party of Korea
+
+### 2. 招待講演
+
+- **Apr 2026**. 講師、「現行インターン制度の問題点と改革方向」、Korean Healthcare Policy School
+- **Nov 2025**. 講師、「専攻医の復帰後：専攻医の労働環境改善政策はどこへ向かうべきか」、42nd Online Comprehensive Academic Conference, Korean Medical Association
+- **Feb 2025**. 講師、「天然痘（痘瘡）予防接種の概要」、Korea Armed Forces Nursing Academy
+- **Oct 2024**. 講師、「天然痘（痘瘡）予防接種の概要」、Armed Forces Medical Research Institute
+- **Feb 2023**. 講師、「初期キャリア医師の進路選択」、Korean Medical Association
+
+### 3. 政策フォーラム・政府発表
+
+- **Nov 2023**. 発表、「専攻医勤務時間規制の改革方向」、Subcommittee on Physician Workforce, Healthcare Policy Deliberation Committee, Ministry of Health and Welfare
+- **Sep 2023**. 発表、「専攻医研修制度の改革方向」、Taskforce on Residency Training System Reform, Ministry of Health and Welfare
+- **Jul 2023**. 発表、「Physician Assistant（PA）制度に関する主要政策課題」、Consultative Body for Improving the Physician Assistant System, Ministry of Health and Welfare
+- **Apr 2023**. 発表、「専攻医の労働時間短縮と連続勤務の24時間制限」、Shin Hyun-young 議員 主催の国会討論会
+- **Jan 2023**. 発表、「医療一元化」、KMA Policy Workshop, Korean Medical Association
+- **Oct 2022**. 発表、「専攻医の労働時間短縮と連続勤務の24時間制限」、World Medical Association – Junior Doctors Network (WMA-JDN)
+
+### 4. 討論者
+
+- **Oct 2026**. 「デジタル時代の知識の生産と共有」、78th Fall Academic Conference, Korean Society for Preventive Medicine
+- **Oct 2026**. 「肥満治療薬の疾病予防と健康増進への活用方策：GLP-1の保険給付化の根拠と政策方向」、78th Fall Academic Conference, Korean Society for Preventive Medicine
+- **Jun 2026**. 「診療支援専従人材（Physician Assistant）の制度化と医療体制の再編：専攻医研修環境の改善と患者安全の確保を中心に」、Academic Conference, Korean Society for Quality in Health Care
+- **Feb 2026**. 「専攻医の健康権確保および研修環境改善のための国会討論会」、Lee Soo-jin 議員 主催の国会討論会
+- **Dec 2025**. 「Healthcare Workforce Shortage」、ETHOS (Ethics in a World of Emerging Technologies) 7.0
+- **Nov 2025**. 「質向上の観点から見た専攻医研修と Physician Assistant による診療支援看護業務の合理的な調和」、Fall Academic Conference, Korean Society for Quality in Health Care
+- **Dec 2023**. 「医学部定員に関する連続フォーラム：医学部入学定員の拡大、理工系人材の流出加速、人材需給の不均衡、そして医師科学者養成の代案」、Shin Hyun-young 議員 主催の国会討論会
+- **Nov 2023**. Physician Assistant セッション、Fall Academic Conference, Korean Academy of Health Policy and Management
+- **Nov 2023**. ポスト COVID-19 セッション、Fall Academic Conference, Korean Academy of Health Policy and Management
+- **Aug 2023**. 「病床資源の適正管理と首都圏大学病院分院設立への対応に関するフォーラム」、Lee Jong-sung 議員 主催の国会討論会
+- **Jul 2023**. 「保健医療の懸案に関する連続フォーラム：保健医療専門職の協力を通じた市民の健康向上」、Shin Hyun-young 議員 主催の国会討論会
+- **Jul 2023**. 「若手医師が診断する韓国医療とその解決策」、Young Doctors Roundtable Special
+- **Jun 2023**. 「必須医療支援政策の問題点と韓国型代案の模索」、Academic Conference, Korean Academy of Medical Sciences
+- **Jun 2023**. 「保健医療の懸案に関する連続フォーラム：医療脆弱地域における医師供給」、Shin Hyun-young 議員 主催の国会討論会
+- **May 2023**. 「韓国の医師人材政策はどこへ向かうべきか」、Spring Academic Conference, Korean Academy of Health Policy and Management
+- **Mar 2023**. 「少子化克服のための小児必須医療体制強化の必要性」、Baek Jong-heon 議員 主催の国会討論会
+- **Dec 2022**. 「医師科学者養成のための医学部教育課程の改編」、Shin Hyun-young 議員・Cho Myung-hee 議員 主催の国会討論会
+- **Dec 2022**. 「新年座談会：必須医療の緊急診断と健康保険財政健全化の方策」、Medical Times
+- **Sep 2022**. 「Yoon Suk Yeol 政権の必須医療強化政策はどこへ向かうべきか」、K-HOSPITAL FAIR
+- **May 2015**. 「20代の若者の住宅問題改善に関するフォーラム」、Euljiro Committee, Democratic Party of Korea
+
+### 5. 座長
+
+- **Jun 2023**. 「専攻医研修の現在と未来：36時間連続勤務を中心に」、Academic Conference, Korean Academy of Medical Sciences
 
 </details>
 
@@ -471,3 +485,7 @@ Korea University College of Medicine のティーチングアシスタントと�
 - National Assembly・汝矣島（Yeouido）周辺の市民集会における医療ボランティア支援（2024）
 - 10月29日 梨泰院雑踏事故の犠牲者を追悼する焼香所での支援・参加（2022）
 - 医師補助人材、Seoul Foreign Resident Center（2019）
+
+## 言語
+
+韓国語（母語）、英語（流暢）、フランス語（初級）

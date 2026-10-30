@@ -261,57 +261,71 @@ En tant qu'assistant d'enseignement à la Korea University College of Medicine, 
 <details>
 <summary>Liste complète</summary>
 
+### 1. Présentations en congrès et séminaires
+
 - **Nov 2026**. Intervenant (affiche), « Horaires de travail extrêmes et santé mentale chez les jeunes médecins en Corée du Sud : étude transversale nationale des heures hebdomadaires, des gardes consécutives de 24 heures ou plus et du sommeil pendant les gardes », 76th Fall Academic Conference, Korean Society of Occupational and Environmental Medicine.
 - **Nov 2026**. Intervenant (affiche), « Temps de travail, travail posté et dépression chez le personnel des forces armées de la République de Corée : analyse transversale répétée de la Military Health Survey, 2023–2025 », 76th Fall Academic Conference, Korean Society of Occupational and Environmental Medicine.
 - **Oct 2026**. Intervenant, « Temps de travail, travail posté et dépression chez le personnel des forces armées de la République de Corée : analyse transversale répétée de la Military Health Survey, 2023–2025 », 78th Fall Academic Conference, Korean Society for Preventive Medicine.
 - **Oct 2026**. Intervenant, « Premiers résultats d'une enquête sur la perception du programme de formation chez les résidents et les spécialistes », 78th Fall Academic Conference, Korean Society for Preventive Medicine.
 - **Oct 2026**. Intervenant, « À qui les longues heures ? L'emploi précaire comme modificateur de l'association entre temps de travail et dépression dans une cohorte de travailleurs coréens », 78th Fall Academic Conference, Korean Society for Preventive Medicine.
-- **Oct 2026**. Discutant, « Production et partage des connaissances à l'ère numérique », 78th Fall Academic Conference, Korean Society for Preventive Medicine.
 - **Oct 2026**. Intervenant, « Horaires de travail extrêmes et santé mentale chez les jeunes médecins en Corée du Sud : étude transversale nationale des heures hebdomadaires, des gardes consécutives de 24 heures ou plus et du sommeil pendant les gardes », 78th Fall Academic Conference, Korean Society for Preventive Medicine.
-- **Oct 2026**. Discutant, « Utilisation des médicaments anti-obésité pour la prévention des maladies et la promotion de la santé : données probantes et orientations politiques pour le remboursement des traitements par GLP-1 », 78th Fall Academic Conference, Korean Society for Preventive Medicine.
 - **Sep 2026**. Intervenant (communication orale), « Introduction à la recherche sur l'amélioration des capacités de réponse et de gestion des maladies infectieuses dans l'armée coréenne », 57th Conference on Military Medicine.
 - **Sep 2026**. Intervenant (communication orale), « Déterminants de la santé mentale chez le personnel militaire », 57th Conference on Military Medicine.
 - **Aug 2026**. Intervenant invité, « Temps de travail, travail posté selon les professions et santé mentale : une étude épidémiologique (compilation de trois études) », Seminar on Expanding the National Bio Big Data: Environmental Exposure and Occupational Health Research (Department of Preventive Medicine, Yonsei University College of Medicine).
-- **Jun 2026**. Discutant, « Institutionnalisation d'un personnel dédié d'assistants médicaux (Physician Assistant) et refonte du système de santé : améliorer l'environnement de formation des résidents et garantir la sécurité des patients », Academic Conference, Korean Society for Quality in Health Care.
 - **May 2026**. Intervenant (affiche), « Association entre le temps de travail et la dépression chez le personnel militaire coréen : analyse transversale répétée du Military Health Survey (2023–2025) », 2026 Spring Conference of the Korean Society for Equity in Health.
 - **Apr 2026**. Intervenant (communication orale), « Travail extrême, symptômes dépressifs et idées suicidaires chez les résidents coréens : le rôle du temps de travail, des gardes consécutives et de la privation de sommeil pendant les gardes », 2026 Spring Conference of the Academy of Critical Health Policy.
-- **Apr 2026**. Conférencier, « Problèmes et orientations de réforme du système d'internat actuel », Korean Healthcare Policy School.
-- **Feb 2026**. Discutant, « Forum parlementaire sur la garantie du droit à la santé des résidents et l'amélioration de l'environnement de formation », Parliamentary Forum hosted by Rep. Lee Soo-jin.
-- **Dec 2025**. Discutant, « Pénurie de personnel de santé », ETHOS (Ethics in a World of Emerging Technologies) 7.0.
-- **Nov 2025**. Conférencier, « Après le retour des résidents : quelle orientation pour les politiques d'amélioration des conditions de travail des résidents ? », 42nd Online Comprehensive Academic Conference, Korean Medical Association.
-- **Nov 2025**. Discutant, « Concilier la formation des résidents et la pratique infirmière des assistants médicaux (Physician Assistant) dans une perspective d'amélioration de la qualité », Fall Academic Conference, Korean Society for Quality in Health Care.
 - **Oct 2025**. Intervenant (communication orale), « Enquête préparatoire à la fondation de la Korean Association of Preventive Medicine Physicians : où en sont aujourd'hui les spécialistes en médecine préventive ? », 77th Fall Academic Conference, Korean Society for Preventive Medicine.
 - **Oct 2025**. Intervenant (communication orale), « Associations complexes entre la consommation d'alcool et les idées suicidaires en Corée du Sud : analyses transversales et longitudinales d'un panel national, 2011–2022 », 77th Fall Academic Conference, Korean Society for Preventive Medicine.
-- **Feb 2025**. Conférencier, « Aperçu de la vaccination contre la variole », Korea Armed Forces Nursing Academy.
-- **Oct 2024**. Conférencier, « Aperçu de la vaccination contre la variole », Armed Forces Medical Research Institute.
-- **Dec 2023**. Discutant, « Forum permanent sur les quotas d'admission en médecine : augmentation des effectifs étudiants en médecine, fuite accélérée des filières STEM, déséquilibres dans l'offre de talents et alternatives pour la formation des médecins-chercheurs », Parliamentary Forum hosted by Rep. Shin Hyun-young.
 - **Nov 2023**. Intervenant (affiche), « L'impact inégal de la pandémie de COVID-19 : létalité chez les résidents d'établissements de soins de longue durée et les personnes vivant dans la communauté, Corée », APHA 2023 Annual Meeting and Expo.
-- **Nov 2023**. Discutant, Session sur les assistants médicaux (Physician Assistant), Fall Academic Conference, Korean Academy of Health Policy and Management.
-- **Nov 2023**. Discutant, Session post-COVID-19, Fall Academic Conference, Korean Academy of Health Policy and Management.
-- **Nov 2023**. Intervenant, « Orientations pour la réforme de la réglementation des heures de garde des résidents », Subcommittee on Physician Workforce, Healthcare Policy Deliberation Committee, Ministry of Health and Welfare.
 - **Oct 2023**. Intervenant (communication orale), « Inégalités de genre en santé mentale pendant la pandémie de COVID-19 : différences entre zones urbaines et non urbaines », 3rd Joint Academic Conference of Five Academic Societies on Identifying and Reducing Regional Health Inequalities.
-- **Sep 2023**. Intervenant, « Orientations pour la réforme du système de formation des résidents », Taskforce on Residency Training System Reform, Ministry of Health and Welfare.
-- **Aug 2023**. Discutant, « Forum sur la gestion appropriée des ressources en lits et les réponses à l'implantation d'antennes des hôpitaux tertiaires de la région métropolitaine », Parliamentary Forum hosted by Rep. Lee Jong-sung.
 - **Jul 2023**. Intervenant (communication orale), « COVID-19 et inégalités de santé », Preventive Medicine Grand Rounds, Department of Preventive Medicine, Korea University College of Medicine.
-- **Jul 2023**. Intervenant, « Principaux enjeux de politique liés au système des assistants médicaux (Physician Assistant) », Consultative Body for Improving the Physician Assistant System, Ministry of Health and Welfare.
-- **Jul 2023**. Discutant, « Forum permanent sur les enjeux actuels de la santé : améliorer la santé des citoyens par la collaboration entre professionnels de santé », Parliamentary Forum hosted by Rep. Shin Hyun-young.
-- **Jul 2023**. Discutant, « Le système de santé coréen diagnostiqué par les jeunes médecins et ses solutions », Young Doctors Roundtable Special.
-- **Jun 2023**. Discutant, « Problèmes des politiques de soutien aux soins essentiels et recherche d'alternatives coréennes », Academic Conference, Korean Academy of Medical Sciences.
-- **Jun 2023**. Président de séance, « Présent et avenir de la formation des résidents : la garde de 36 heures consécutives », Academic Conference, Korean Academy of Medical Sciences.
-- **Jun 2023**. Discutant, « Forum permanent sur les enjeux actuels de la santé : l'offre de médecins dans les zones médicalement sous-dotées », Parliamentary Forum hosted by Rep. Shin Hyun-young.
-- **May 2023**. Discutant, « Quel avenir pour la politique des effectifs médicaux en Corée ? », Spring Academic Conference, Korean Academy of Health Policy and Management.
-- **Apr 2023**. Intervenant, « Réduction du temps de travail des résidents et limitation de la garde consécutive à 24 heures », Parliamentary Forum hosted by Rep. Shin Hyun-young.
-- **Mar 2023**. Discutant, « La nécessité de renforcer le système de soins pédiatriques essentiels pour faire face à la baisse de la natalité », Parliamentary Forum hosted by Rep. Baek Jong-heon.
-- **Feb 2023**. Conférencier, « Choix de carrière pour les médecins en début de carrière », Korean Medical Association.
-- **Jan 2023**. Intervenant, « Intégration de la profession médicale », KMA Policy Workshop, Korean Medical Association.
-- **Dec 2022**. Discutant, « Réformer les cursus des facultés de médecine pour former des médecins-chercheurs », Parliamentary Forum hosted by Rep. Shin Hyun-young and Rep. Cho Myung-hee.
-- **Dec 2022**. Discutant, « Table ronde du Nouvel An : diagnostic urgent des soins essentiels et mesures pour un financement sain de l'assurance maladie », Medical Times.
 - **Oct 2022**. Intervenant (affiche), « Inégalités de santé dans la morbidité et la mortalité des maladies cardiovasculaires : étude de suivi d'une cohorte nationale représentative sur 10 ans », 74th Fall Academic Conference, Korean Society for Preventive Medicine.
-- **Oct 2022**. Intervenant, « Réduction du temps de travail des résidents et limitation de la garde consécutive à 24 heures », World Medical Association – Junior Doctors Network (WMA-JDN).
-- **Sep 2022**. Discutant, « Quel avenir pour la politique de renforcement des soins essentiels du gouvernement Yoon Suk Yeol ? », K-HOSPITAL FAIR.
 - **Dec 2021**. Intervenant (communication orale), « État-providence, politique sociale et santé », Preventive Medicine Grand Rounds, Department of Preventive Medicine, Korea University College of Medicine.
 - **Oct 2021**. Intervenant (communication orale), « COVID-19 et santé mentale : inégalités selon l'âge, le genre et la région à partir de données nationales de 2015–2020 », 73rd Fall Academic Conference, Korean Society for Preventive Medicine.
-- **May 2015**. Discutant, « Forum sur l'amélioration des conditions de logement des jeunes adultes dans la vingtaine », Euljiro Committee, Democratic Party of Korea.
+
+### 2. Conférences invitées
+
+- **Apr 2026**. Conférencier, « Problèmes et orientations de réforme du système d'internat actuel », Korean Healthcare Policy School.
+- **Nov 2025**. Conférencier, « Après le retour des résidents : quelle orientation pour les politiques d'amélioration des conditions de travail des résidents ? », 42nd Online Comprehensive Academic Conference, Korean Medical Association.
+- **Feb 2025**. Conférencier, « Aperçu de la vaccination contre la variole », Korea Armed Forces Nursing Academy.
+- **Oct 2024**. Conférencier, « Aperçu de la vaccination contre la variole », Armed Forces Medical Research Institute.
+- **Feb 2023**. Conférencier, « Choix de carrière pour les médecins en début de carrière », Korean Medical Association.
+
+### 3. Forums politiques et présentations gouvernementales
+
+- **Nov 2023**. Intervenant, « Orientations pour la réforme de la réglementation des heures de garde des résidents », Subcommittee on Physician Workforce, Healthcare Policy Deliberation Committee, Ministry of Health and Welfare.
+- **Sep 2023**. Intervenant, « Orientations pour la réforme du système de formation des résidents », Taskforce on Residency Training System Reform, Ministry of Health and Welfare.
+- **Jul 2023**. Intervenant, « Principaux enjeux de politique liés au système des assistants médicaux (Physician Assistant) », Consultative Body for Improving the Physician Assistant System, Ministry of Health and Welfare.
+- **Apr 2023**. Intervenant, « Réduction du temps de travail des résidents et limitation de la garde consécutive à 24 heures », Parliamentary Forum hosted by Rep. Shin Hyun-young.
+- **Jan 2023**. Intervenant, « Intégration de la profession médicale », KMA Policy Workshop, Korean Medical Association.
+- **Oct 2022**. Intervenant, « Réduction du temps de travail des résidents et limitation de la garde consécutive à 24 heures », World Medical Association – Junior Doctors Network (WMA-JDN).
+
+### 4. Discutant
+
+- **Oct 2026**. « Production et partage des connaissances à l'ère numérique », 78th Fall Academic Conference, Korean Society for Preventive Medicine.
+- **Oct 2026**. « Utilisation des médicaments anti-obésité pour la prévention des maladies et la promotion de la santé : données probantes et orientations politiques pour le remboursement des traitements par GLP-1 », 78th Fall Academic Conference, Korean Society for Preventive Medicine.
+- **Jun 2026**. « Institutionnalisation d'un personnel dédié d'assistants médicaux (Physician Assistant) et refonte du système de santé : améliorer l'environnement de formation des résidents et garantir la sécurité des patients », Academic Conference, Korean Society for Quality in Health Care.
+- **Feb 2026**. « Forum parlementaire sur la garantie du droit à la santé des résidents et l'amélioration de l'environnement de formation », Parliamentary Forum hosted by Rep. Lee Soo-jin.
+- **Dec 2025**. « Pénurie de personnel de santé », ETHOS (Ethics in a World of Emerging Technologies) 7.0.
+- **Nov 2025**. « Concilier la formation des résidents et la pratique infirmière des assistants médicaux (Physician Assistant) dans une perspective d'amélioration de la qualité », Fall Academic Conference, Korean Society for Quality in Health Care.
+- **Dec 2023**. « Forum permanent sur les quotas d'admission en médecine : augmentation des effectifs étudiants en médecine, fuite accélérée des filières STEM, déséquilibres dans l'offre de talents et alternatives pour la formation des médecins-chercheurs », Parliamentary Forum hosted by Rep. Shin Hyun-young.
+- **Nov 2023**. Session sur les assistants médicaux (Physician Assistant), Fall Academic Conference, Korean Academy of Health Policy and Management.
+- **Nov 2023**. Session post-COVID-19, Fall Academic Conference, Korean Academy of Health Policy and Management.
+- **Aug 2023**. « Forum sur la gestion appropriée des ressources en lits et les réponses à l'implantation d'antennes des hôpitaux tertiaires de la région métropolitaine », Parliamentary Forum hosted by Rep. Lee Jong-sung.
+- **Jul 2023**. « Forum permanent sur les enjeux actuels de la santé : améliorer la santé des citoyens par la collaboration entre professionnels de santé », Parliamentary Forum hosted by Rep. Shin Hyun-young.
+- **Jul 2023**. « Le système de santé coréen diagnostiqué par les jeunes médecins et ses solutions », Young Doctors Roundtable Special.
+- **Jun 2023**. « Problèmes des politiques de soutien aux soins essentiels et recherche d'alternatives coréennes », Academic Conference, Korean Academy of Medical Sciences.
+- **Jun 2023**. « Forum permanent sur les enjeux actuels de la santé : l'offre de médecins dans les zones médicalement sous-dotées », Parliamentary Forum hosted by Rep. Shin Hyun-young.
+- **May 2023**. « Quel avenir pour la politique des effectifs médicaux en Corée ? », Spring Academic Conference, Korean Academy of Health Policy and Management.
+- **Mar 2023**. « La nécessité de renforcer le système de soins pédiatriques essentiels pour faire face à la baisse de la natalité », Parliamentary Forum hosted by Rep. Baek Jong-heon.
+- **Dec 2022**. « Réformer les cursus des facultés de médecine pour former des médecins-chercheurs », Parliamentary Forum hosted by Rep. Shin Hyun-young and Rep. Cho Myung-hee.
+- **Dec 2022**. « Table ronde du Nouvel An : diagnostic urgent des soins essentiels et mesures pour un financement sain de l'assurance maladie », Medical Times.
+- **Sep 2022**. « Quel avenir pour la politique de renforcement des soins essentiels du gouvernement Yoon Suk Yeol ? », K-HOSPITAL FAIR.
+- **May 2015**. « Forum sur l'amélioration des conditions de logement des jeunes adultes dans la vingtaine », Euljiro Committee, Democratic Party of Korea.
+
+### 5. Président de séance
+
+- **Jun 2023**. « Présent et avenir de la formation des résidents : la garde de 36 heures consécutives », Academic Conference, Korean Academy of Medical Sciences.
 
 </details>
 
@@ -471,3 +485,7 @@ Président, Pre-med Student Union, Korea University College of Medicine (Dec 201
 - Soutien médical bénévole lors de rassemblements citoyens autour de l'Assemblée nationale et à Yeouido (2024)
 - Soutien et participation à l'autel commémoratif pour les victimes de la bousculade d'Itaewon du 29 octobre (2022)
 - Médecin assistant, Seoul Foreign Resident Center (2019)
+
+## Langues
+
+Coréen (langue maternelle), anglais (courant), français (notions)

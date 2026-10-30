@@ -261,57 +261,71 @@ toc-depth: 3
 <details>
 <summary>Полный список</summary>
 
+### 1. Доклады на конференциях и семинарах
+
 - **Nov 2026**. Докладчик (постер), «Экстремальные режимы работы и психическое здоровье молодых врачей в Южной Корее: общенациональное поперечное исследование недельной продолжительности работы, дежурств продолжительностью 24 часа и более и сна во время дежурств», 76th Fall Academic Conference, Korean Society of Occupational and Environmental Medicine.
 - **Nov 2026**. Докладчик (постер), «Рабочее время, сменная работа и депрессия среди военнослужащих Вооружённых сил Республики Корея: повторный поперечный анализ Military Health Survey, 2023–2025», 76th Fall Academic Conference, Korean Society of Occupational and Environmental Medicine.
 - **Oct 2026**. Докладчик, «Рабочее время, сменная работа и депрессия среди военнослужащих Вооружённых сил Республики Корея: повторный поперечный анализ Military Health Survey, 2023–2025», 78th Fall Academic Conference, Korean Society for Preventive Medicine.
 - **Oct 2026**. Докладчик, «Первые результаты опроса ординаторов и специалистов о восприятии программы подготовки», 78th Fall Academic Conference, Korean Society for Preventive Medicine.
 - **Oct 2026**. Докладчик, «Чьи долгие часы? Неустойчивая занятость как модификатор связи между продолжительностью рабочего времени и депрессией в когорте корейских работников», 78th Fall Academic Conference, Korean Society for Preventive Medicine.
-- **Oct 2026**. Дискуссант, «Производство знаний и обмен ими в цифровую эпоху», 78th Fall Academic Conference, Korean Society for Preventive Medicine.
 - **Oct 2026**. Докладчик, «Экстремальные режимы работы и психическое здоровье молодых врачей в Южной Корее: общенациональное поперечное исследование недельной продолжительности работы, дежурств продолжительностью 24 часа и более и сна во время дежурств», 78th Fall Academic Conference, Korean Society for Preventive Medicine.
-- **Oct 2026**. Дискуссант, «Применение препаратов для лечения ожирения в профилактике заболеваний и укреплении здоровья: доказательная база и направления политики по включению терапии GLP-1 в страховое покрытие», 78th Fall Academic Conference, Korean Society for Preventive Medicine.
 - **Sep 2026**. Докладчик (устный доклад), «Введение в исследования по усилению потенциала реагирования на инфекционные заболевания и управления ими в вооружённых силах», 57th Conference on Military Medicine.
 - **Sep 2026**. Докладчик (устный доклад), «Детерминанты психического здоровья военнослужащих», 57th Conference on Military Medicine.
 - **Aug 2026**. Приглашённый докладчик, «Рабочее время, сменная работа в разных профессиях и психическое здоровье: эпидемиологическое исследование (обобщение трёх исследований)», Seminar on Expanding the National Bio Big Data: Environmental Exposure and Occupational Health Research (Department of Preventive Medicine, Yonsei University College of Medicine).
-- **Jun 2026**. Дискуссант, «Институционализация выделенного персонала Physician Assistant и перестройка системы здравоохранения: улучшение условий подготовки ординаторов и обеспечение безопасности пациентов», Academic Conference, Korean Society for Quality in Health Care.
 - **May 2026**. Докладчик (постер), «Связь между рабочим временем и депрессией среди корейских военнослужащих: повторный поперечный анализ Military Health Survey (2023–2025)», 2026 Spring Conference of the Korean Society for Equity in Health.
 - **Apr 2026**. Докладчик (устный доклад), «Экстремальный труд, депрессивные симптомы и суицидальные мысли среди корейских ординаторов: рабочее время, последовательные смены и депривация сна во время дежурств по вызову», 2026 Spring Conference of the Academy of Critical Health Policy.
-- **Apr 2026**. Лектор, «Проблемы и направления реформирования действующей системы интернатуры», Korean Healthcare Policy School.
-- **Feb 2026**. Дискуссант, «Парламентский форум по обеспечению прав ординаторов на здоровье и улучшению условий обучения», Парламентский форум, организованный депутатом Lee Soo-jin.
-- **Dec 2025**. Дискуссант, «Нехватка кадров в здравоохранении», ETHOS (Ethics in a World of Emerging Technologies) 7.0.
-- **Nov 2025**. Лектор, «После возвращения ординаторов: куда должна двигаться политика улучшения условий труда ординаторов?», 42nd Online Comprehensive Academic Conference, Korean Medical Association.
-- **Nov 2025**. Дискуссант, «Баланс между подготовкой ординаторов и сестринской практикой Physician Assistant с точки зрения повышения качества», Fall Academic Conference, Korean Society for Quality in Health Care.
 - **Oct 2025**. Докладчик (устный доклад), «Подготовительный опрос к созданию Korean Association of Preventive Medicine Physicians: где сегодня находятся специалисты по профилактической медицине?», 77th Fall Academic Conference, Korean Society for Preventive Medicine.
 - **Oct 2025**. Докладчик (устный доклад), «Сложные связи между употреблением алкоголя и суицидальными мыслями в Южной Корее: поперечный и продольный анализ национальной панели, 2011–2022», 77th Fall Academic Conference, Korean Society for Preventive Medicine.
-- **Feb 2025**. Лектор, «Обзор вакцинации против оспы», Korea Armed Forces Nursing Academy.
-- **Oct 2024**. Лектор, «Обзор вакцинации против оспы», Armed Forces Medical Research Institute.
-- **Dec 2023**. Дискуссант, «Постоянный форум по квотам приёма в медицинские вузы: расширение набора в медицинские вузы, ускоренный отток из STEM-областей, дисбаланс в предложении кадров и альтернативы для подготовки врачей-учёных», Парламентский форум, организованный депутатом Shin Hyun-young.
 - **Nov 2023**. Докладчик (постер), «Неравное воздействие пандемии COVID-19: летальность среди проживающих в учреждениях длительного ухода и жителей местных сообществ, Корея», APHA 2023 Annual Meeting and Expo.
-- **Nov 2023**. Дискуссант, Сессия по Physician Assistant, Fall Academic Conference, Korean Academy of Health Policy and Management.
-- **Nov 2023**. Дискуссант, Сессия «После COVID-19», Fall Academic Conference, Korean Academy of Health Policy and Management.
-- **Nov 2023**. Докладчик, «Направления реформирования норм рабочего времени ординаторов», Subcommittee on Physician Workforce, Healthcare Policy Deliberation Committee, Ministry of Health and Welfare.
 - **Oct 2023**. Докладчик (устный доклад), «Гендерное неравенство в психическом здоровье во время пандемии COVID-19: различия между городскими и негородскими районами», 3rd Joint Academic Conference of Five Academic Societies on Identifying and Reducing Regional Health Inequalities.
-- **Sep 2023**. Докладчик, «Направления реформирования системы ординатуры», Taskforce on Residency Training System Reform, Ministry of Health and Welfare.
-- **Aug 2023**. Дискуссант, «Форум по надлежащему управлению коечным фондом и реагированию на создание филиалов столичных больниц третичного уровня», Парламентский форум, организованный депутатом Lee Jong-sung.
 - **Jul 2023**. Докладчик (устный доклад), «COVID-19 и неравенство в здоровье», Preventive Medicine Grand Rounds, Department of Preventive Medicine, Korea University College of Medicine.
-- **Jul 2023**. Докладчик, «Ключевые вопросы политики, связанные с системой Physician Assistant», Consultative Body for Improving the Physician Assistant System, Ministry of Health and Welfare.
-- **Jul 2023**. Дискуссант, «Постоянный форум по актуальным вопросам здравоохранения: к улучшению здоровья граждан через сотрудничество медицинских работников», Парламентский форум, организованный депутатом Shin Hyun-young.
-- **Jul 2023**. Дискуссант, «Корейское здравоохранение глазами молодых врачей и пути решения его проблем», Young Doctors Roundtable Special.
-- **Jun 2023**. Дискуссант, «Проблемы политики поддержки основной медицинской помощи и поиск корейских альтернатив», Academic Conference, Korean Academy of Medical Sciences.
-- **Jun 2023**. Председатель, «Настоящее и будущее ординатуры: 36-часовое непрерывное дежурство», Academic Conference, Korean Academy of Medical Sciences.
-- **Jun 2023**. Дискуссант, «Постоянный форум по актуальным вопросам здравоохранения: обеспечение врачами в районах с недостаточным медицинским обслуживанием», Парламентский форум, организованный депутатом Shin Hyun-young.
-- **May 2023**. Дискуссант, «Куда должна двигаться политика Кореи в отношении врачебных кадров?», Spring Academic Conference, Korean Academy of Health Policy and Management.
-- **Apr 2023**. Докладчик, «Сокращение рабочего времени ординаторов и ограничение непрерывного дежурства до 24 часов», Парламентский форум, организованный депутатом Shin Hyun-young.
-- **Mar 2023**. Дискуссант, «Необходимость укрепления системы базовой педиатрической помощи для преодоления низкой рождаемости», Парламентский форум, организованный депутатом Baek Jong-heon.
-- **Feb 2023**. Лектор, «Выбор карьеры для начинающих врачей», Korean Medical Association.
-- **Jan 2023**. Докладчик, «Интеграция врачебной профессии», KMA Policy Workshop, Korean Medical Association.
-- **Dec 2022**. Дискуссант, «Реформа учебных программ медицинских вузов для подготовки врачей-учёных», Парламентский форум, организованный депутатами Shin Hyun-young и Cho Myung-hee.
-- **Dec 2022**. Дискуссант, «Новогодний круглый стол: неотложный диагноз основной медицинской помощи и меры для устойчивого финансирования медицинского страхования», Medical Times.
 - **Oct 2022**. Докладчик (постер), «Неравенство в заболеваемости и смертности от сердечно-сосудистых заболеваний: 10-летнее национальное репрезентативное когортное наблюдение», 74th Fall Academic Conference, Korean Society for Preventive Medicine.
-- **Oct 2022**. Докладчик, «Сокращение рабочего времени ординаторов и ограничение непрерывного дежурства до 24 часов», World Medical Association – Junior Doctors Network (WMA-JDN).
-- **Sep 2022**. Дискуссант, «Куда должна двигаться политика укрепления основной медицинской помощи правительства Yoon Suk Yeol?», K-HOSPITAL FAIR.
 - **Dec 2021**. Докладчик (устный доклад), «Государство всеобщего благосостояния, социальная политика и здоровье», Preventive Medicine Grand Rounds, Department of Preventive Medicine, Korea University College of Medicine.
 - **Oct 2021**. Докладчик (устный доклад), «COVID-19 и психическое здоровье: неравенство по возрасту, полу и региону на основе общенациональных данных за 2015–2020», 73rd Fall Academic Conference, Korean Society for Preventive Medicine.
-- **May 2015**. Дискуссант, «Форум по решению жилищных проблем двадцатилетних», Euljiro Committee, Democratic Party of Korea.
+
+### 2. Приглашённые лекции
+
+- **Apr 2026**. Лектор, «Проблемы и направления реформирования действующей системы интернатуры», Korean Healthcare Policy School.
+- **Nov 2025**. Лектор, «После возвращения ординаторов: куда должна двигаться политика улучшения условий труда ординаторов?», 42nd Online Comprehensive Academic Conference, Korean Medical Association.
+- **Feb 2025**. Лектор, «Обзор вакцинации против оспы», Korea Armed Forces Nursing Academy.
+- **Oct 2024**. Лектор, «Обзор вакцинации против оспы», Armed Forces Medical Research Institute.
+- **Feb 2023**. Лектор, «Выбор карьеры для начинающих врачей», Korean Medical Association.
+
+### 3. Политические форумы и выступления перед государственными органами
+
+- **Nov 2023**. Докладчик, «Направления реформирования норм рабочего времени ординаторов», Subcommittee on Physician Workforce, Healthcare Policy Deliberation Committee, Ministry of Health and Welfare.
+- **Sep 2023**. Докладчик, «Направления реформирования системы ординатуры», Taskforce on Residency Training System Reform, Ministry of Health and Welfare.
+- **Jul 2023**. Докладчик, «Ключевые вопросы политики, связанные с системой Physician Assistant», Consultative Body for Improving the Physician Assistant System, Ministry of Health and Welfare.
+- **Apr 2023**. Докладчик, «Сокращение рабочего времени ординаторов и ограничение непрерывного дежурства до 24 часов», Парламентский форум, организованный депутатом Shin Hyun-young.
+- **Jan 2023**. Докладчик, «Интеграция врачебной профессии», KMA Policy Workshop, Korean Medical Association.
+- **Oct 2022**. Докладчик, «Сокращение рабочего времени ординаторов и ограничение непрерывного дежурства до 24 часов», World Medical Association – Junior Doctors Network (WMA-JDN).
+
+### 4. Дискуссант
+
+- **Oct 2026**. «Производство знаний и обмен ими в цифровую эпоху», 78th Fall Academic Conference, Korean Society for Preventive Medicine.
+- **Oct 2026**. «Применение препаратов для лечения ожирения в профилактике заболеваний и укреплении здоровья: доказательная база и направления политики по включению терапии GLP-1 в страховое покрытие», 78th Fall Academic Conference, Korean Society for Preventive Medicine.
+- **Jun 2026**. «Институционализация выделенного персонала Physician Assistant и перестройка системы здравоохранения: улучшение условий подготовки ординаторов и обеспечение безопасности пациентов», Academic Conference, Korean Society for Quality in Health Care.
+- **Feb 2026**. «Парламентский форум по обеспечению прав ординаторов на здоровье и улучшению условий обучения», Парламентский форум, организованный депутатом Lee Soo-jin.
+- **Dec 2025**. «Нехватка кадров в здравоохранении», ETHOS (Ethics in a World of Emerging Technologies) 7.0.
+- **Nov 2025**. «Баланс между подготовкой ординаторов и сестринской практикой Physician Assistant с точки зрения повышения качества», Fall Academic Conference, Korean Society for Quality in Health Care.
+- **Dec 2023**. «Постоянный форум по квотам приёма в медицинские вузы: расширение набора в медицинские вузы, ускоренный отток из STEM-областей, дисбаланс в предложении кадров и альтернативы для подготовки врачей-учёных», Парламентский форум, организованный депутатом Shin Hyun-young.
+- **Nov 2023**. Сессия по Physician Assistant, Fall Academic Conference, Korean Academy of Health Policy and Management.
+- **Nov 2023**. Сессия «После COVID-19», Fall Academic Conference, Korean Academy of Health Policy and Management.
+- **Aug 2023**. «Форум по надлежащему управлению коечным фондом и реагированию на создание филиалов столичных больниц третичного уровня», Парламентский форум, организованный депутатом Lee Jong-sung.
+- **Jul 2023**. «Постоянный форум по актуальным вопросам здравоохранения: к улучшению здоровья граждан через сотрудничество медицинских работников», Парламентский форум, организованный депутатом Shin Hyun-young.
+- **Jul 2023**. «Корейское здравоохранение глазами молодых врачей и пути решения его проблем», Young Doctors Roundtable Special.
+- **Jun 2023**. «Проблемы политики поддержки основной медицинской помощи и поиск корейских альтернатив», Academic Conference, Korean Academy of Medical Sciences.
+- **Jun 2023**. «Постоянный форум по актуальным вопросам здравоохранения: обеспечение врачами в районах с недостаточным медицинским обслуживанием», Парламентский форум, организованный депутатом Shin Hyun-young.
+- **May 2023**. «Куда должна двигаться политика Кореи в отношении врачебных кадров?», Spring Academic Conference, Korean Academy of Health Policy and Management.
+- **Mar 2023**. «Необходимость укрепления системы базовой педиатрической помощи для преодоления низкой рождаемости», Парламентский форум, организованный депутатом Baek Jong-heon.
+- **Dec 2022**. «Реформа учебных программ медицинских вузов для подготовки врачей-учёных», Парламентский форум, организованный депутатами Shin Hyun-young и Cho Myung-hee.
+- **Dec 2022**. «Новогодний круглый стол: неотложный диагноз основной медицинской помощи и меры для устойчивого финансирования медицинского страхования», Medical Times.
+- **Sep 2022**. «Куда должна двигаться политика укрепления основной медицинской помощи правительства Yoon Suk Yeol?», K-HOSPITAL FAIR.
+- **May 2015**. «Форум по решению жилищных проблем двадцатилетних», Euljiro Committee, Democratic Party of Korea.
+
+### 5. Председатель
+
+- **Jun 2023**. «Настоящее и будущее ординатуры: 36-часовое непрерывное дежурство», Academic Conference, Korean Academy of Medical Sciences.
 
 </details>
 
@@ -471,3 +485,7 @@ toc-depth: 3
 - Медицинская волонтёрская помощь на гражданских митингах у National Assembly и в Yeouido (2024)
 - Помощь и участие в работе мемориала памяти жертв давки в Itaewon 29 октября (2022)
 - Врач-ассистент, Seoul Foreign Resident Center (2019)
+
+## Языки
+
+Корейский (родной), английский (свободно), французский (базовый)
