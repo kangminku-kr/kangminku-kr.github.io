@@ -19,6 +19,9 @@ toc-depth: 2
 - **Déterminants de la santé mentale chez le personnel militaire**
   - Subvention de recherche commanditée, Armed Forces Medical Command (MND)
   - **2026.03–2027.03** (KRW 6,380,000)
+- **Enquête sur les perceptions du programme de formation des résidents en médecine préventive auprès des résidents et des spécialistes**
+  - Subvention de recherche, Future Generations Committee, Korean Society for Preventive Medicine
+  - **2026** (KRW 1,500,000)
 - **Étude sur la réforme du système de gardes de 36 heures consécutives pour les internes et résidents**
   - Subvention de recherche commanditée, Research Institute for Healthcare Policy (RIHP), Korean Medical Association
   - **2023.05–2024.01** (KRW 10,000,000)

@@ -18,6 +18,9 @@ toc-depth: 2
 - **Determinants of Mental Health among Military Personnel**
   - Commissioned Research Grant, Armed Forces Medical Command (MND)
   - **2026.03–2027.03** (KRW 6,380,000)
+- **Survey on Perceptions of the Preventive Medicine Residency Training Curriculum among Residents and Specialists**
+  - Research Grant, Future Generations Committee, Korean Society for Preventive Medicine
+  - **2026** (KRW 1,500,000)
 - **A Study on Reforming the 36-hour Consecutive Shift System for Medical Intern and Resident**
   - Commissioned Research Grant, Research Institute for Healthcare Policy (RIHP), Korean Medical Association
   - **2023.05–2024.01** (KRW 10,000,000)
