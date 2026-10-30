@@ -302,6 +302,7 @@ toc-depth: 3
 
 ### 4. Дискуссант
 
+- **Nov 2026**. «Здоровье для всех: соединяя время и пространство», 15th Future Health Strategy Forum, Ministry of Health and Welfare and Korea Health Promotion Institute (запланировано).
 - **Oct 2026**. «Производство знаний и обмен ими в цифровую эпоху», 78th Fall Academic Conference, Korean Society for Preventive Medicine.
 - **Oct 2026**. «Применение препаратов для лечения ожирения в профилактике заболеваний и укреплении здоровья: доказательная база и направления политики по включению терапии GLP-1 в страховое покрытие», 78th Fall Academic Conference, Korean Society for Preventive Medicine.
 - **Jun 2026**. «Институционализация выделенного персонала Physician Assistant и перестройка системы здравоохранения: улучшение условий подготовки ординаторов и обеспечение безопасности пациентов», Academic Conference, Korean Society for Quality in Health Care.
