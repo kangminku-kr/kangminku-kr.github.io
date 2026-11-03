@@ -8,7 +8,7 @@ toc-depth: 2
 
 [Google Scholar](https://scholar.google.com/citations?user=BUn--4YAAAAJ)
 
-## 국제 학술논문
+## 출판된 학술논문
 
 - Park JW, **Kang M**, Kang E, Nam HK, Lee KH, Rhie YJ. Impact of COVID-19 on childhood obesity in South Korea: variations by age and sex. *Journal of Obesity & Metabolic Syndrome*. 2026 Oct 19 [Epub ahead of print, 온라인 선게재]. [doi:10.7570/jomes25054](https://doi.org/10.7570/jomes25054)
 - Lee H, **Kang M**, Lee S, Kim D, Moon J, Yoon C, et al. Improving infectious disease response and management capabilities in the Korean military. *Public Health Weekly Report*. 2026;19(28):1168–1183. (co-first author) [doi:10.56786/PHWR.2026.19.28.3](https://doi.org/10.56786/PHWR.2026.19.28.3)
