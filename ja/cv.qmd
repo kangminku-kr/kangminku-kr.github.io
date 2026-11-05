@@ -271,7 +271,6 @@ Korea University College of Medicine のティーチングアシスタントと�
 - **Oct 2026**. 口演発表、「韓国の若手医師における極端な勤務形態とメンタルヘルス：週労働時間、24時間を超える連続勤務、当直中の睡眠に関する全国横断研究」、78th Fall Academic Conference, Korean Society for Preventive Medicine
 - **Sep 2026**. 口演発表、「軍感染症の対応・管理能力強化に関する研究の紹介」、57th Conference on Military Medicine
 - **Sep 2026**. 口演発表、「軍人のメンタルヘルスの決定要因」、57th Conference on Military Medicine
-- **Aug 2026**. 招待講演、「労働者の職種別労働時間・交代勤務とメンタルヘルスの疫学研究（論文3編の統合）」、Seminar on Expanding the National Bio Big Data: Environmental Exposure and Occupational Health Research (Department of Preventive Medicine, Yonsei University College of Medicine)
 - **May 2026**. ポスター発表、「韓国軍人における労働時間とうつの関連：Military Health Survey（2023–2025）の反復横断分析」、2026 Spring Conference of the Korean Society for Equity in Health
 - **Apr 2026**. 口演発表、「韓国の専攻医における極端な労働・抑うつ症状・自殺念慮：労働時間・連続勤務・当直中の睡眠剥奪を中心に」、2026 Spring Conference of the Academy of Critical Health Policy
 - **Oct 2025**. 口演発表、「Korean Association of Preventive Medicine Physicians 設立のための準備調査：予防医学専門医は今どこに立っているのか」、77th Fall Academic Conference, Korean Society for Preventive Medicine
@@ -285,6 +284,7 @@ Korea University College of Medicine のティーチングアシスタントと�
 
 ### 2. 招待講演
 
+- **Aug 2026**. 招待講演、「労働者の職種別労働時間・交代勤務とメンタルヘルスの疫学研究（論文3編の統合）」、Seminar on Expanding the National Bio Big Data: Environmental Exposure and Occupational Health Research (Department of Preventive Medicine, Yonsei University College of Medicine)
 - **Apr 2026**. 講師、「現行インターン制度の問題点と改革方向」、Korean Healthcare Policy School
 - **Nov 2025**. 講師、「専攻医の復帰後：専攻医の労働環境改善政策はどこへ向かうべきか」、42nd Online Comprehensive Academic Conference, Korean Medical Association
 - **Feb 2025**. 講師、「天然痘（痘瘡）予防接種の概要」、Korea Armed Forces Nursing Academy
