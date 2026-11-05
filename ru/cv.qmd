@@ -206,7 +206,7 @@ toc-depth: 3
 ## Профессиональные организации
 
 <details class="mk-entry">
-<summary><span class="mk-e-name">Korean Association of Preventive Medicine Physicians</span> <span class="mk-e-role">Вице-президент; член-учредитель</span> <span class="mk-e-when">(Mar 2025–настоящее время)</span></summary>
+<summary><span class="mk-e-name">Korean Association of Preventive Medicine Physicians</span> <span class="mk-e-role">Вице-президент; член-учредитель</span> <span class="mk-e-when">(Oct 2025–настоящее время)</span></summary>
 
 **Основные обязанности**
 

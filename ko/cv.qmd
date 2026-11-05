@@ -207,7 +207,7 @@ toc-depth: 2
 ## 전문단체
 
 <details class="mk-entry">
-<summary><span class="mk-e-name">대한예방의학과의사회</span> <span class="mk-e-role">부회장 · 창립위원</span> <span class="mk-e-when">(2025.03–현재)</span></summary>
+<summary><span class="mk-e-name">대한예방의학과의사회</span> <span class="mk-e-role">부회장 · 창립위원</span> <span class="mk-e-when">(2025.10–현재)</span></summary>
 
 **주요 업무**
 
