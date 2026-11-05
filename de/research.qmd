@@ -7,7 +7,6 @@ toc-depth: 2
 
 ## Überblick
 
-- **Leitende(r) Forscher(in)** — Arbeitszeiten, verlängerte Dauerdienste und prekäre Beschäftigung: soziale Determinanten psychischer Gesundheit am Arbeitsplatz
 - **Leitende(r) Forscher(in)** — Befragung zu den Arbeitsbedingungen von Assistenzärztinnen und -ärzten: eine landesweite offene Kohorte
 - **Leitende(r) Forscher(in)** — Determinanten der psychischen Gesundheit von Militärangehörigen
 - **Leitende(r) Forscher(in)** — Befragung von Assistenz- und Fachärzten zum Weiterbildungscurriculum in Präventivmedizin
