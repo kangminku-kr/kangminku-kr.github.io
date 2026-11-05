@@ -125,8 +125,11 @@ En tant qu'assistant d'enseignement à la Korea University College of Medicine, 
 
 ## Recherche et publications
 
+- **Chercheur principal**, Enquête sur les conditions de travail des résidents : cohorte ouverte nationale de résidents
 - **Chercheur principal**, Déterminants de la santé mentale chez le personnel militaire
+- **Chercheur principal**, Enquête sur les perceptions du programme de formation des résidents en médecine préventive auprès des résidents et des spécialistes
 - **Chercheur principal**, Étude sur la réforme du système de gardes de 36 heures consécutives pour les internes et résidents
+- **Chercheur principal**, Enquête coréenne auprès des internes et résidents
 
 [Liste complète des projets](research.html) | [Liste complète des publications](publications.html)
 
