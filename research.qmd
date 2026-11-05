@@ -15,7 +15,7 @@ toc-depth: 2
 - **Working Hours, Extended Consecutive Shifts, and Precarious Employment: Social Determinants of Workplace Mental Health**
   - Doctoral dissertation, Korea University Graduate School (unfunded)
   - **2022.09–2027.02**
-- **Residents' Working Conditions Survey: A Nationwide Open Cohort of Medical Residents**
+- **Junior Doctors' Working Conditions Survey: A Nationwide Open Cohort**
   - Research Grant, Korean Intern Resident Union (KIRU)
   - **2027** (KRW 22,500,000/year)
 - **Determinants of Mental Health among Military Personnel**
