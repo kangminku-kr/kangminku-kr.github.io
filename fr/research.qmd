@@ -16,6 +16,9 @@ toc-depth: 2
 - **Temps de travail, gardes consécutives prolongées et emploi précaire : déterminants sociaux de la santé mentale au travail**
   - Thèse de doctorat, Korea University Graduate School (sans financement)
   - **2022.09–2027.02**
+- **Enquête sur les conditions de travail des résidents : cohorte ouverte nationale de résidents**
+  - Subvention de recherche, Korean Intern Resident Union (KIRU)
+  - **2027** (KRW 22,500,000/year)
 - **Déterminants de la santé mentale chez le personnel militaire**
   - Subvention de recherche commanditée, Armed Forces Medical Command (MND)
   - **2026.03–2027.03** (KRW 6,380,000)
