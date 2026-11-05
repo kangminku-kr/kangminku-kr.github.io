@@ -80,11 +80,8 @@ lang: ko
 <div class="mk-lbl">주요 활동</div>
 <div class="mk-list">
 <a href="research.qmd"><span class="y">2027</span><span class="t">노동시간, 연장된 교대근무, 불안정 고용: 사업장 정신건강의 사회적 결정요인</span><span class="m">박사학위논문</span></a>
-<a href="research.qmd"><span class="y">2027</span><span class="t">전공의 근로환경조사: 전국 전공의 개방형 코호트</span><span class="m">연구책임자</span></a>
 <a href="research.qmd"><span class="y">2026</span><span class="t">군 장병 정신건강의 결정요인 연구</span><span class="m">연구책임자</span></a>
-<a href="research.qmd"><span class="y">2026</span><span class="t">예방의학 전공의 및 전문의 대상 수련교육과정 인식조사</span><span class="m">연구책임자</span></a>
 <a href="research.qmd"><span class="y">2024</span><span class="t">전공의 36시간 연속근무제도 개선 연구</span><span class="m">연구책임자</span></a>
-<a href="research.qmd"><span class="y">2022</span><span class="t">전공의 실태조사</span><span class="m">연구책임자</span></a>
 <a href="publications.qmd"><span class="y">2023</span><span class="t">코로나19 시기 정신건강의 젠더 불평등</span><span class="m">J Prev Med Public Health</span></a>
 </div>
 </section>
