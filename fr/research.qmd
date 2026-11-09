@@ -16,7 +16,7 @@ toc-depth: 2
 
 ## Chercheur principal
 
-- **Temps de travail, gardes consécutives prolongées et emploi précaire : déterminants sociaux de la santé mentale au travail**
+- **Déterminants sociaux de la santé mentale des travailleurs : structures temporelles et d'emploi du travail et différences selon le sexe**
   - Thèse de doctorat, Korea University Graduate School (sans financement)
   - **2022.09–2027.02**
 - **Enquête sur les conditions de travail des résidents : cohorte ouverte nationale de résidents**

@@ -79,7 +79,7 @@ lang: de
 <section class="mk-sec">
 <div class="mk-lbl">Ausgewählte Arbeiten</div>
 <div class="mk-list">
-<a href="research.qmd"><span class="y">2027</span><span class="t">Arbeitszeiten, verlängerte Dauerdienste und prekäre Beschäftigung: soziale Determinanten psychischer Gesundheit am Arbeitsplatz</span><span class="m">Dissertation</span></a>
+<a href="research.qmd"><span class="y">2027</span><span class="t">Soziale Determinanten der psychischen Gesundheit von Erwerbstätigen: zeitliche und beschäftigungsbezogene Strukturen der Arbeit und Geschlechterunterschiede</span><span class="m">Dissertation</span></a>
 <a href="research.qmd"><span class="y">2026</span><span class="t">Determinanten der psychischen Gesundheit von Militärangehörigen</span><span class="m">Leitender Forscher</span></a>
 <a href="research.qmd"><span class="y">2024</span><span class="t">Studie zur Reform des 36-Stunden-Dauerdienstsystems für Interns und Assistenzärztinnen und -ärzte</span><span class="m">Leitender Forscher</span></a>
 </div>

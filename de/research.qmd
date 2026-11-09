@@ -16,7 +16,7 @@ toc-depth: 2
 
 ## Leitende(r) Forscher(in)
 
-- **Arbeitszeiten, verlängerte Dauerdienste und prekäre Beschäftigung: soziale Determinanten psychischer Gesundheit am Arbeitsplatz**
+- **Soziale Determinanten der psychischen Gesundheit von Erwerbstätigen: zeitliche und beschäftigungsbezogene Strukturen der Arbeit und Geschlechterunterschiede**
   - Dissertation, Korea University Graduate School (ohne Drittmittel)
   - **2022.09–2027.02**
 - **Befragung zu den Arbeitsbedingungen von Assistenzärztinnen und -ärzten: eine landesweite offene Kohorte**
