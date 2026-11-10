@@ -41,13 +41,20 @@ Psychische Gesundheit am Arbeitsplatz, Soziale Determinanten der Gesundheit, Gem
 
 - Unterstützung beim Malaria-Screening und klimabasierte prädiktive Modellierung bei entsandten südkoreanischen (ROK-)Streitkräften, Armed Forces Medical Research Institute, MND (2025)
 - Exposition gegenüber fieberhaften Infektionskrankheiten bei im Südsudan entsandten südkoreanischen (ROK-)Streitkräften, Armed Forces Medical Command, MND (2025)
-- Umfassende Überprüfung zur Entscheidungsfindung in der militärischen Impfpolitik, Armed Forces Medical Command, MND (2024)
 
 </details>
 
-::: {.mk-entry .mk-static .mk-bullet}
-Epidemiologe, Verteidigungsministerium (MND) (May 2024–Apr 2027)
-:::
+<details class="mk-entry mk-bullet">
+<summary>Epidemiologe, Verteidigungsministerium (MND) (May 2024–Apr 2027)</summary>
+
+Grund- und Fortbildung für epidemiologische Ermittler abgeschlossen (2024)
+
+**Forschung in Präventivmedizin und Public Health**
+
+- Umfassende Überprüfung zur Entscheidungsfindung in der militärischen Impfpolitik, Armed Forces Medical Command, MND (2024)
+- Verbesserung der Reaktions- und Managementkapazitäten für Infektionskrankheiten in den koreanischen Streitkräften, Korea Disease Control and Prevention Agency (2025)
+
+</details>
 
 <details class="mk-entry mk-bullet">
 <summary>Militäroffizier, Abteilung Gesundheitsversorgungsmanagement, Armed Forces Medical Command, MND (May 2025–Apr 2027)</summary>
@@ -62,7 +69,6 @@ Epidemiologe, Verteidigungsministerium (MND) (May 2024–Apr 2027)
 - Forschung zu Determinanten der psychischen Gesundheit von Militärangehörigen, Armed Forces Medical Command, MND (2026–2027)
 - Veränderungen der Inanspruchnahme medizinischer Leistungen in Militärkrankenhäusern nach der Gesundheitskrise von 2024, Armed Forces Medical Command, MND (2026)
 - Analyse der Inanspruchnahme von Gesundheitsleistungen durch Militärangehörige in Militär- und Zivilkrankenhäusern, Armed Forces Medical Command, MND (2025–2026)
-- Verbesserung der Reaktions- und Managementkapazitäten für Infektionskrankheiten in den koreanischen Streitkräften, Korea Disease Control and Prevention Agency (2025)
 
 </details>
 

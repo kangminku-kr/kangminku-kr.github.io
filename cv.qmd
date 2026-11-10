@@ -39,13 +39,20 @@ Workplace Mental Health, Social Determinants of Health, Community Medicine, Heal
 
 - Malaria Screening Support and Climate-Based Predictive Modeling among Deployed ROK Forces, Armed Forces Medical Research Institute, MND (2025)
 - Exposure to Febrile Infectious Diseases among ROK Forces Deployed in South Sudan, Armed Forces Medical Command, MND (2025)
-- A Comprehensive Review for Military Vaccination Policy Decision, Armed Forces Medical Command, MND (2024)
 
 </details>
 
-::: {.mk-entry .mk-static .mk-bullet}
-Epidemiologist, Ministry of National Defense (MND) (May 2024–Apr 2027)
-:::
+<details class="mk-entry mk-bullet">
+<summary>Epidemiologist, Ministry of National Defense (MND) (May 2024–Apr 2027)</summary>
+
+Completed Basic and Continuing Training for Epidemiological Investigators (2024)
+
+**Preventive Medicine & Public Health Research**
+
+- A Comprehensive Review for Military Vaccination Policy Decision, Armed Forces Medical Command, MND (2024)
+- Improving Infectious Disease Response and Management Capabilities in the Korean Military, Korea Disease Control and Prevention Agency (2025)
+
+</details>
 
 <details class="mk-entry mk-bullet">
 <summary>Military Officer, Department of Healthcare Management, Armed Forces Medical Command, MND (May 2025–Apr 2027)</summary>
@@ -60,7 +67,6 @@ Epidemiologist, Ministry of National Defense (MND) (May 2024–Apr 2027)
 - Determinants of Mental Health among Military Personnel, Armed Forces Medical Command, MND (2026–2027)
 - Changes in Medical Utilization at Military Hospitals Following the 2024 Healthcare Crisis, Armed Forces Medical Command, MND (2026)
 - Analysis of Healthcare Utilization of Military Personnel in Military and Civilian Hospitals, Armed Forces Medical Command, MND (2025–2026)
-- Improving Infectious Disease Response and Management Capabilities in the Korean Military, Korea Disease Control and Prevention Agency (2025)
 
 </details>
 

@@ -41,13 +41,20 @@ Salud mental en el trabajo, Determinantes sociales de la salud, Medicina comunit
 
 - Apoyo al cribado de la malaria y modelización predictiva basada en el clima entre las fuerzas surcoreanas (ROK) desplegadas, Armed Forces Medical Research Institute, MND (2025)
 - Exposición a enfermedades infecciosas febriles entre las fuerzas surcoreanas (ROK) desplegadas en Sudán del Sur, Armed Forces Medical Command, MND (2025)
-- Revisión integral para la toma de decisiones sobre la política de vacunación militar, Armed Forces Medical Command, MND (2024)
 
 </details>
 
-::: {.mk-entry .mk-static .mk-bullet}
-Epidemiólogo, Ministerio de Defensa Nacional (MND) (May 2024–Apr 2027)
-:::
+<details class="mk-entry mk-bullet">
+<summary>Epidemiólogo, Ministerio de Defensa Nacional (MND) (May 2024–Apr 2027)</summary>
+
+Formación básica y continua para investigadores epidemiológicos completada (2024)
+
+**Investigación en medicina preventiva y salud pública**
+
+- Revisión integral para la toma de decisiones sobre la política de vacunación militar, Armed Forces Medical Command, MND (2024)
+- Mejora de las capacidades de respuesta y gestión de las enfermedades infecciosas en las fuerzas armadas coreanas, Korea Disease Control and Prevention Agency (2025)
+
+</details>
 
 <details class="mk-entry mk-bullet">
 <summary>Oficial militar, Departamento de Gestión Sanitaria, Armed Forces Medical Command, MND (May 2025–Apr 2027)</summary>
@@ -62,7 +69,6 @@ Epidemiólogo, Ministerio de Defensa Nacional (MND) (May 2024–Apr 2027)
 - Determinantes de la salud mental en el personal militar, Armed Forces Medical Command, MND (2026–2027)
 - Cambios en la utilización de servicios médicos en los hospitales militares tras la crisis sanitaria de 2024, Armed Forces Medical Command, MND (2026)
 - Análisis de la utilización de servicios sanitarios del personal militar en hospitales militares y civiles, Armed Forces Medical Command, MND (2025–2026)
-- Mejora de las capacidades de respuesta y gestión de las enfermedades infecciosas en las fuerzas armadas coreanas, Korea Disease Control and Prevention Agency (2025)
 
 </details>
 

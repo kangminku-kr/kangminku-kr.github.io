@@ -41,13 +41,20 @@ Santé mentale au travail, Déterminants sociaux de la santé, Médecine communa
 
 - Appui au dépistage du paludisme et modélisation prédictive fondée sur le climat parmi les forces sud-coréennes (ROK) déployées, Armed Forces Medical Research Institute, MND (2025)
 - Exposition aux maladies infectieuses fébriles parmi les forces sud-coréennes (ROK) déployées au Soudan du Sud, Armed Forces Medical Command, MND (2025)
-- Revue exhaustive en vue de la décision de politique vaccinale militaire, Armed Forces Medical Command, MND (2024)
 
 </details>
 
-::: {.mk-entry .mk-static .mk-bullet}
-Épidémiologiste, ministère de la Défense nationale (MND) (May 2024–Apr 2027)
-:::
+<details class="mk-entry mk-bullet">
+<summary>Épidémiologiste, ministère de la Défense nationale (MND) (May 2024–Apr 2027)</summary>
+
+Formation initiale et formation continue des épidémiologistes d'investigation, achevées (2024)
+
+**Recherche en médecine préventive et santé publique**
+
+- Revue exhaustive en vue de la décision de politique vaccinale militaire, Armed Forces Medical Command, MND (2024)
+- Amélioration des capacités de réponse et de gestion des maladies infectieuses dans l'armée coréenne, Korea Disease Control and Prevention Agency (2025)
+
+</details>
 
 <details class="mk-entry mk-bullet">
 <summary>Officier militaire, département de la gestion des soins, Armed Forces Medical Command, MND (May 2025–Apr 2027)</summary>
@@ -62,7 +69,6 @@ Santé mentale au travail, Déterminants sociaux de la santé, Médecine communa
 - Déterminants de la santé mentale chez le personnel militaire, Armed Forces Medical Command, MND (2026–2027)
 - Évolution du recours aux soins dans les hôpitaux militaires à la suite de la crise sanitaire de 2024, Armed Forces Medical Command, MND (2026)
 - Analyse du recours aux soins du personnel militaire dans les hôpitaux militaires et civils, Armed Forces Medical Command, MND (2025–2026)
-- Amélioration des capacités de réponse et de gestion des maladies infectieuses dans l'armée coréenne, Korea Disease Control and Prevention Agency (2025)
 
 </details>
 
