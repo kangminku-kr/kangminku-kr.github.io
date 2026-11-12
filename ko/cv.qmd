@@ -48,7 +48,9 @@ toc-depth: 2
 <details class="mk-entry mk-bullet">
 <summary><strong>2024.05–2027.04</strong> | 국방부 중앙역학조사관</summary>
 
-2024년 역학조사관 기본교육 및 지속교육 수료
+**교육 이수**
+
+- 2024년 역학조사관 기본교육 및 지속교육 수료
 
 **예방의학 및 공중보건 연구**
 

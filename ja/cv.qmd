@@ -47,7 +47,9 @@ toc-depth: 3
 <details class="mk-entry mk-bullet">
 <summary>疫学調査官、国防部 (MND)（May 2024–Apr 2027）</summary>
 
-疫学調査官 基本教育および継続教育 修了（2024）
+**研修**
+
+- 疫学調査官 基本教育および継続教育 修了（2024）
 
 **予防医学・公衆衛生研究**
 
