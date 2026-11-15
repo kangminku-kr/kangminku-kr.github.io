@@ -79,7 +79,7 @@ toc: false
 <div class="mk-lbl">Selected work</div>
 <div class="mk-list">
 <a href="research.qmd"><span class="y">2027</span><span class="t">Social Determinants of Worker Mental Health: Working Hours, Extended-Duration Work Shifts, Precarious Employment and Sex Differences</span><span class="m">Doctoral dissertation</span></a>
-<a href="research.qmd"><span class="y">2026</span><span class="t">Determinants of Mental Health among Military Personnel</span><span class="m">Principal investigator</span></a>
+<a href="research.qmd"><span class="y">2026</span><span class="t">Determinants of Mental Health among Military Personnel: Working Hours, Shift Work, and Social Support</span><span class="m">Principal investigator</span></a>
 <a href="research.qmd"><span class="y">2024</span><span class="t">A Study on Reforming the 36-hour Consecutive Shift System for Medical Intern and Resident</span><span class="m">Principal investigator</span></a>
 </div>
 </section>

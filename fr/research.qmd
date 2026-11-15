@@ -8,7 +8,7 @@ toc-depth: 2
 ## Aperçu
 
 - **Chercheur principal** — Enquête sur les conditions de travail des résidents : cohorte ouverte nationale de résidents
-- **Chercheur principal** — Déterminants de la santé mentale chez le personnel militaire
+- **Chercheur principal** — Déterminants de la santé mentale chez le personnel militaire : temps de travail, travail posté et soutien social
 - **Chercheur principal** — Enquête sur les perceptions du programme de formation des résidents en médecine préventive auprès des résidents et des spécialistes
 - **Chercheur principal** — Étude sur la réforme du système de gardes de 36 heures consécutives pour les internes et résidents
 - **Chercheur principal** — Enquête coréenne auprès des internes et résidents
@@ -22,7 +22,7 @@ toc-depth: 2
 - **Enquête sur les conditions de travail des résidents : cohorte ouverte nationale de résidents**
   - Subvention de recherche, Korean Intern Resident Union (KIRU)
   - **2027** (KRW 22,500,000/year)
-- **Déterminants de la santé mentale chez le personnel militaire**
+- **Déterminants de la santé mentale chez le personnel militaire : temps de travail, travail posté et soutien social**
   - Subvention de recherche commanditée, Armed Forces Medical Command (MND)
   - **2026.03–2027.03** (KRW 6,380,000)
 - **Enquête sur les perceptions du programme de formation des résidents en médecine préventive auprès des résidents et des spécialistes**

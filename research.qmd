@@ -7,7 +7,7 @@ toc-depth: 2
 ## Overview
 
 - **Principal Investigator** — Junior Doctors' Working Conditions Survey: A Nationwide Open Cohort
-- **Principal Investigator** — Determinants of Mental Health among Military Personnel
+- **Principal Investigator** — Determinants of Mental Health among Military Personnel: Working Hours, Shift Work, and Social Support
 - **Principal Investigator** — Survey on Perceptions of the Preventive Medicine Residency Training Curriculum among Residents and Specialists
 - **Principal Investigator** — A Study on Reforming the 36-hour Consecutive Shift System for Medical Intern and Resident
 - **Principal Investigator** — Korean Intern Resident Survey
@@ -21,7 +21,7 @@ toc-depth: 2
 - **Junior Doctors' Working Conditions Survey: A Nationwide Open Cohort**
   - Research Grant, Korean Intern Resident Union (KIRU)
   - **2027** (KRW 22,500,000/year)
-- **Determinants of Mental Health among Military Personnel**
+- **Determinants of Mental Health among Military Personnel: Working Hours, Shift Work, and Social Support**
   - Commissioned Research Grant, Armed Forces Medical Command (MND)
   - **2026.03–2027.03** (KRW 6,380,000)
 - **Survey on Perceptions of the Preventive Medicine Residency Training Curriculum among Residents and Specialists**

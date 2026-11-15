@@ -66,7 +66,7 @@ Workplace Mental Health, Social Determinants of Health, Community Medicine, Heal
 
 **Preventive Medicine & Public Health Research**
 
-- Determinants of Mental Health among Military Personnel, Armed Forces Medical Command, MND (2026–2027)
+- Determinants of Mental Health among Military Personnel: Working Hours, Shift Work, and Social Support, Armed Forces Medical Command, MND (2026–2027)
 - Changes in Medical Utilization at Military Hospitals Following the 2024 Healthcare Crisis, Armed Forces Medical Command, MND (2026)
 - Analysis of Healthcare Utilization of Military Personnel in Military and Civilian Hospitals, Armed Forces Medical Command, MND (2025–2026)
 
@@ -132,7 +132,7 @@ As a teaching assistant at Korea University College of Medicine, support courses
 ## Research & Publications
 
 - **Principal Investigator**, Junior Doctors' Working Conditions Survey: A Nationwide Open Cohort
-- **Principal Investigator**, Determinants of Mental Health among Military Personnel
+- **Principal Investigator**, Determinants of Mental Health among Military Personnel: Working Hours, Shift Work, and Social Support
 - **Principal Investigator**, Survey on Perceptions of the Preventive Medicine Residency Training Curriculum among Residents and Specialists
 - **Principal Investigator**, A Study on Reforming the 36-hour Consecutive Shift System for Medical Intern and Resident
 - **Principal Investigator**, Korean Intern Resident Survey

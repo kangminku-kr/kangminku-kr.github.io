@@ -8,7 +8,7 @@ toc-depth: 2
 ## Überblick
 
 - **Leitende(r) Forscher(in)** — Befragung zu den Arbeitsbedingungen von Assistenzärztinnen und -ärzten: eine landesweite offene Kohorte
-- **Leitende(r) Forscher(in)** — Determinanten der psychischen Gesundheit von Militärangehörigen
+- **Leitende(r) Forscher(in)** — Determinanten der psychischen Gesundheit von Militärangehörigen: Arbeitszeit, Schichtarbeit und soziale Unterstützung
 - **Leitende(r) Forscher(in)** — Befragung von Assistenz- und Fachärzten zum Weiterbildungscurriculum in Präventivmedizin
 - **Leitende(r) Forscher(in)** — Studie zur Reform des 36-Stunden-Dauerdienstsystems für Interns und Assistenzärztinnen und -ärzte
 - **Leitende(r) Forscher(in)** — Korean Intern Resident Survey
@@ -22,7 +22,7 @@ toc-depth: 2
 - **Befragung zu den Arbeitsbedingungen von Assistenzärztinnen und -ärzten: eine landesweite offene Kohorte**
   - Forschungsförderung, Korean Intern Resident Union (KIRU)
   - **2027** (KRW 22,500,000/year)
-- **Determinanten der psychischen Gesundheit von Militärangehörigen**
+- **Determinanten der psychischen Gesundheit von Militärangehörigen: Arbeitszeit, Schichtarbeit und soziale Unterstützung**
   - Auftragsforschung (Drittmittel), Armed Forces Medical Command (MND)
   - **2026.03–2027.03** (KRW 6,380,000)
 - **Befragung von Assistenz- und Fachärzten zum Weiterbildungscurriculum in Präventivmedizin**
