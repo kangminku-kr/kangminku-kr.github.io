@@ -16,7 +16,7 @@ lang: ru
 <div>
 <h1 class="mk-name">Minku Kang<span class="mk-degrees">, MD, MPP, PhD(c)</span></h1>
 <p class="mk-title">Врач профилактической медицины</p>
-<p class="mk-fields">Психическое здоровье на рабочем месте, политика здравоохранения</p>
+<p class="mk-fields"><span>Психическое здоровье работников</span><span>Социальная эпидемиология</span><span>Политика здравоохранения</span></p>
 <nav class="mk-langbar" aria-label="Language"></nav>
 <img src="../images/profile_home.jpg" alt="Minku Kang" class="mk-home-photo">
 </div>

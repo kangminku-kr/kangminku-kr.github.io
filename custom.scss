@@ -451,6 +451,13 @@ main.content li > strong:first-child,
   font-family:$font-name; font-size:17px; font-weight:400;
   letter-spacing:.02em; color:$muted; margin:.28rem 0 0;
 }
+/* 키워드 세 개(본부장 2026-11-15): 넓은 화면은 쉼표로 한 줄, 휴대폰은 하나씩 한 줄. 일본어는 가운뎃점. */
+.mk-fields span:not(:last-child)::after{ content:", "; }
+.mk-fields:lang(ja) span:not(:last-child)::after{ content:"・"; }
+@media(max-width:620px){
+  .mk-fields span{ display:block; }
+  .mk-fields span:not(:last-child)::after{ content:none; }
+}
 
 /* ---------- 왼쪽 프로필 기둥 (2026-10-20) ----------
    본부장 요청: kunlee0910.github.io처럼 어느 메뉴에서도 사진, 이름, 직함, 연락처 아이콘이 보이게.
