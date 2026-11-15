@@ -452,11 +452,10 @@ main.content li > strong:first-child,
   letter-spacing:.02em; color:$muted; margin:.28rem 0 0;
 }
 /* 키워드 세 개(본부장 2026-11-15): 넓은 화면은 쉼표로 한 줄, 휴대폰은 하나씩 한 줄. 일본어는 가운뎃점. */
-.mk-fields span:not(:last-child)::after{ content:", "; }
-.mk-fields:lang(ja) span:not(:last-child)::after{ content:"・"; }
+.mk-fields span:not(.mk-sep){ white-space:nowrap; }
 @media(max-width:620px){
   .mk-fields span{ display:block; }
-  .mk-fields span:not(:last-child)::after{ content:none; }
+  .mk-fields .mk-sep{ display:none; }
 }
 
 /* ---------- 왼쪽 프로필 기둥 (2026-10-20) ----------
