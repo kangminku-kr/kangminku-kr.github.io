@@ -514,3 +514,56 @@ main.content .mk-side-compact a, main.content .mk-side-compact a:hover{ border-b
 .mk-side-links i{ display:inline-flex; align-items:center; justify-content:center; line-height:1; }
 .mk-side-links i.ai{ font-size:15px; }
 @media (max-width:1199.98px){ .mk-side-compact .mk-side-links i.ai{ font-size:18px; } }
+
+/* =============================================================================
+   글자 크기와 위계 보정(2026-11-25 미리보기). 디자인은 그대로 두고 크기, 위계, 여백만 고친다.
+   GPT(Codex)와 Gemini 의견을 합침. 한국어는 같은 자리에서 1px 크게(--mk-step).
+   ============================================================================= */
+:root{ --mk-step:0px; }
+html:lang(ko){ --mk-step:1px; }
+
+body{ font-size:calc(16px + var(--mk-step)); line-height:1.68; }
+.navbar .nav-link{ font-size:calc(14px + var(--mk-step))!important; letter-spacing:0; }
+.navbar .dropdown-menu{ font-size:calc(14px + var(--mk-step)); }
+.nav-footer{ font-size:calc(13px + var(--mk-step)); }
+
+.mk-side-name{ font-size:calc(16px + var(--mk-step)); }
+.mk-side-title{ font-size:calc(13.5px + var(--mk-step)); }
+.mk-side-links a{ font-size:calc(14px + var(--mk-step)); }
+
+/* 대문 첫 화면: 이름이 제목답게, 학위는 한 단계 작게 */
+.mk-hero{ padding:clamp(44px,6vw,72px) 0 clamp(28px,3vw,40px); }
+.mk-name{ font-size:calc(26px + var(--mk-step)); line-height:1.25; letter-spacing:-.012em; }
+.mk-name .mk-degrees{ font-size:calc(16px + var(--mk-step)); font-weight:400; color:$muted; letter-spacing:0; }
+.mk-title{ font-size:calc(17px + var(--mk-step)); font-weight:500; line-height:1.5; margin-top:.55rem; }
+.mk-fields{ font-size:calc(16px + var(--mk-step)); line-height:1.65; letter-spacing:0; }
+.mk-about{ padding-top:clamp(28px,3vw,36px); }
+
+/* 학력, 경력…: main.content h3 규칙(약 17px, 옅은 색)이 덮던 것을 바로잡는다 */
+main.content .mk-profile h3{ font-family:$font-family-sans-serif; font-size:calc(15.5px + var(--mk-step)); font-weight:600;
+  line-height:1.45; color:$ink; letter-spacing:0; text-transform:none; }
+main.content .mk-profile li{ font-size:calc(15px + var(--mk-step)); line-height:1.65; }
+.mk-bio > summary{ font-size:calc(13.5px + var(--mk-step)); letter-spacing:.02em; text-transform:none; }
+.mk-bio p{ font-size:calc(15px + var(--mk-step)); }
+
+/* 구역 라벨: 영문 대문자용 넓은 자간을 걷고 읽히는 크기로 */
+.mk-lbl{ font-size:calc(13.5px + var(--mk-step)); letter-spacing:.03em; text-transform:none; }
+.mk-sec, .mk-contact{ padding-top:clamp(44px,5vw,68px); }
+
+/* 주요 활동과 관심분야 */
+.mk-list .t, main.content .mk-theme h3{ font-size:calc(17px + var(--mk-step)); line-height:1.45; }
+.mk-list .y, .mk-list .m{ font-size:calc(13.5px + var(--mk-step)); }
+.mk-theme p{ font-size:calc(15px + var(--mk-step)); line-height:1.68; }
+@media(min-width:721px){
+  .mk-list a{ grid-template-columns:72px minmax(0,1fr) minmax(96px,150px); gap:20px; }
+  .mk-theme{ grid-template-columns:220px minmax(0,1fr); }
+}
+
+/* 안쪽 페이지 제목 */
+#title-block-header .title{ font-size:calc(29px + var(--mk-step)); line-height:1.25; }
+main.content h2{ font-size:calc(22px + var(--mk-step)); line-height:1.35; }
+
+.mk-contact .mk-mail{ font-size:calc(16px + var(--mk-step)); }
+.mk-more, .mk-links a{ font-size:calc(13.5px + var(--mk-step)); }
+.mk-langpick > summary, .mk-langbar .mk-langlist a{ font-size:calc(13px + var(--mk-step)); }
+details.mk-entry > summary::after{ font-size:calc(12.5px + var(--mk-step)); }
