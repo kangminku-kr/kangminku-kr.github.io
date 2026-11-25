@@ -16,7 +16,7 @@ lang: de
 <div>
 <h1 class="mk-name">Minku Kang<span class="mk-degrees">, MD, MPP, PhD(c)</span></h1>
 <p class="mk-title">Facharzt für Präventivmedizin</p>
-<p class="mk-fields"><span>Psychische Gesundheit von Erwerbstätigen</span><span class="mk-sep">, </span><span>Sozialepidemiologie</span><span class="mk-sep">, </span><span>Gesundheitspolitik</span></p>
+<p class="mk-fields"><span>Psychische Gesundheit von Erwerbstätigen</span><span class="mk-sep">, </span><span>Sozialepidemiologie</span><span class="mk-sep">, </span><span>Klinische Präventivmedizin</span><span class="mk-sep">, </span><span>Gesundheitspolitik</span></p>
 <nav class="mk-langbar" aria-label="Language"></nav>
 <img src="../images/profile_home.jpg" alt="Minku Kang" class="mk-home-photo">
 </div>
