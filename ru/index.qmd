@@ -17,6 +17,7 @@ lang: ru
 <h1 class="mk-name">Minku Kang<span class="mk-degrees">, MD, MPP, PhD(c)</span></h1>
 <p class="mk-title">Врач профилактической медицины</p>
 <p class="mk-fields"><span>Психическое здоровье работников</span><span class="mk-sep">, </span><span>Социальная эпидемиология</span><span class="mk-sep">, </span><span>Клиническая профилактическая медицина</span><span class="mk-sep">, </span><span>Политика здравоохранения</span></p>
+<p class="mk-cta"><a class="mk-btn mk-btn-solid" href="../assets/CV_Minku_Kang_2026.pdf">Скачать CV</a><a class="mk-btn" href="contact.html">Связаться</a></p>
 <nav class="mk-langbar" aria-label="Language"></nav>
 <img src="../images/profile_home.jpg" alt="Minku Kang" class="mk-home-photo">
 </div>

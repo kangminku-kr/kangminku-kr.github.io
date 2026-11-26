@@ -17,6 +17,7 @@ lang: fr
 <h1 class="mk-name">Minku Kang<span class="mk-degrees">, MD, MPP, PhD(c)</span></h1>
 <p class="mk-title">Médecin spécialiste en médecine préventive</p>
 <p class="mk-fields"><span>Santé mentale des travailleurs</span><span class="mk-sep">, </span><span>Épidémiologie sociale</span><span class="mk-sep">, </span><span>Médecine préventive clinique</span><span class="mk-sep">, </span><span>Politiques de santé</span></p>
+<p class="mk-cta"><a class="mk-btn mk-btn-solid" href="../assets/CV_Minku_Kang_2026.pdf">Télécharger le CV</a><a class="mk-btn" href="contact.html">Contact</a></p>
 <nav class="mk-langbar" aria-label="Language"></nav>
 <img src="../images/profile_home.jpg" alt="Minku Kang" class="mk-home-photo">
 </div>

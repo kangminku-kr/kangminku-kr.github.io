@@ -16,6 +16,7 @@ toc: false
 <h1 class="mk-name">Minku Kang<span class="mk-degrees">, MD, MPP, PhD(c)</span></h1>
 <p class="mk-title">Preventive Medicine Physician</p>
 <p class="mk-fields"><span>Worker Mental Health</span><span class="mk-sep">, </span><span>Social Epidemiology</span><span class="mk-sep">, </span><span>Clinical Preventive Medicine</span><span class="mk-sep">, </span><span>Health Policy</span></p>
+<p class="mk-cta"><a class="mk-btn mk-btn-solid" href="assets/CV_Minku_Kang_2026.pdf">Download CV</a><a class="mk-btn" href="contact.html">Contact</a></p>
 <nav class="mk-langbar" aria-label="Language"></nav>
 <img src="images/profile_home.jpg" alt="Minku Kang" class="mk-home-photo">
 </div>

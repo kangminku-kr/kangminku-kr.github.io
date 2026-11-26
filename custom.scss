@@ -599,3 +599,15 @@ main.content .mk-courses details.c-more li{ display:block; padding:9px 2px; bord
 main.content .mk-courses details.c-more li:last-child{ border-bottom:0; }
 .mk-courses details.c-more > p{ font-size:calc(15px + var(--mk-step)); line-height:1.65; color:$muted; margin:.55rem 0 0; max-width:68ch; }
 .mk-courses details.c-more > p em{ font-style:normal; font-weight:600; color:$ink; }
+
+/* 대문 버튼: CV 내려받기, 연락하기 (남색) */
+$navy: #1f3a5f;
+.mk-cta{ display:flex; flex-wrap:wrap; gap:10px; margin:1.4rem 0 0; }
+main.content a.mk-btn, a.mk-btn{
+  display:inline-block; padding:10px 18px; border:1px solid $navy !important; border-radius:4px;
+  color:$navy; background:transparent; font-family:$font-family-sans-serif; font-weight:600;
+  font-size:calc(14px + var(--mk-step)); line-height:1.2; text-decoration:none;
+  transition:background .18s, color .18s;
+}
+main.content a.mk-btn-solid, a.mk-btn-solid{ background:$navy; color:#fff; }
+main.content a.mk-btn:hover, a.mk-btn:hover{ background:#162b47; color:#fff; border-color:#162b47 !important; }
