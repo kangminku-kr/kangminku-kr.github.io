@@ -567,3 +567,35 @@ main.content h2{ font-size:calc(22px + var(--mk-step)); line-height:1.35; }
 .mk-more, .mk-links a{ font-size:calc(13.5px + var(--mk-step)); }
 .mk-langpick > summary, .mk-langbar .mk-langlist a{ font-size:calc(13px + var(--mk-step)); }
 details.mk-entry > summary::after{ font-size:calc(12.5px + var(--mk-step)); }
+
+/* ── 교육: 담당 희망 강의 (대학원/학부 묶음) ────────────────────
+   대문 목록(.mk-list)과 같은 괘선 행. 카드, 칩, 색면 없이 크기와 괘선만으로 위계. */
+.mk-courses-lead{ display:block; color:$muted; font-size:calc(15px + var(--mk-step)); margin:.2rem 0 .4rem; }
+main.content .mk-courses h3{
+  font-family:$font-family-sans-serif; font-size:calc(13.5px + var(--mk-step)); font-weight:600;
+  letter-spacing:.03em; color:$accent; text-transform:none;
+  margin:1.9rem 0 0 !important; padding-bottom:12px; border-bottom:1px solid $rule;
+}
+main.content .mk-courses ul{ list-style:none; padding-left:0 !important; margin:0 0 .4rem; }
+main.content .mk-courses li{ margin:0; }
+.mk-courses li{
+  display:flex; flex-wrap:wrap; align-items:baseline; column-gap:20px; row-gap:6px;
+  padding:16px 2px; border-bottom:1px solid $hair; margin:0;
+}
+.mk-courses .c-t{ flex:1 1 20rem; font-family:$font-display; font-weight:600;
+  font-size:calc(17px + var(--mk-step)); line-height:1.45; letter-spacing:-.008em; color:$ink; }
+.mk-courses .c-m{ margin-left:auto; font-size:calc(13.5px + var(--mk-step)); color:$muted; white-space:nowrap; }
+.mk-courses .c-d{ flex:0 0 100%; max-width:68ch; font-size:calc(15px + var(--mk-step)); line-height:1.65; color:$muted; }
+.mk-courses .c-d em{ font-style:normal; font-weight:600; color:$ink; }
+@media(max-width:720px){ .mk-courses .c-m{ margin-left:0; flex-basis:100%; } }
+/* 세미나 항목 안의 강의계획서 더보기: 목록이 느슨해져 생기는 <p>는 행 배치에 녹인다 */
+main.content .mk-courses li > p{ display:contents; }
+.mk-courses details.c-more{ flex:0 0 100%; border-top:0; padding:.2rem 0 0; margin:0; }
+.mk-courses details.c-more > summary{ font-size:calc(13.5px + var(--mk-step)); font-weight:500; color:$accent; }
+.mk-courses details.c-more > summary:hover{ color:$accent-h; }
+main.content .mk-courses details.c-more ul{ margin:.5rem 0 .2rem; }
+main.content .mk-courses details.c-more li{ display:block; padding:9px 2px; border-bottom:1px solid $hair;
+  font-size:calc(14.5px + var(--mk-step)); line-height:1.6; color:$ink; }
+main.content .mk-courses details.c-more li:last-child{ border-bottom:0; }
+.mk-courses details.c-more > p{ font-size:calc(15px + var(--mk-step)); line-height:1.65; color:$muted; margin:.55rem 0 0; max-width:68ch; }
+.mk-courses details.c-more > p em{ font-style:normal; font-weight:600; color:$ink; }
